@@ -1,0 +1,96 @@
+abstract: Astrocytes have important roles in the central nervous system (CNS) during
+  health and disease. Through genome-wide analyses we detected a transcriptional response
+  to type I interferons (IFN-Is) in astrocytes during experimental CNS autoimmunity
+  and also in CNS lesions from patients with multiple sclerosis (MS). IFN-I signaling
+  in astrocytes reduces inflammation and experimental autoimmune encephalomyelitis
+  (EAE) disease scores via the ligand-activated transcription factor aryl hydrocarbon
+  receptor (AHR) and the suppressor of cytokine signaling 2 (SOCS2). The anti-inflammatory
+  effects of nasally administered interferon (IFN)-{$\beta$} are partly mediated by
+  AHR. Dietary tryptophan is metabolized by the gut microbiota into AHR agonists that
+  have an effect on astrocytes to limit CNS inflammation. EAE scores were increased
+  following ampicillin treatment during the recovery phase, and CNS inflammation was
+  reduced in antibiotic-treated mice by supplementation with the tryptophan metabolites
+  indole, indoxyl-3-sulfate, indole-3-propionic acid and indole-3-aldehyde, or the
+  bacterial enzyme tryptophanase. In individuals with MS, the circulating levels of
+  AHR agonists were decreased. These findings suggest that IFN-Is produced in the
+  CNS function in combination with metabolites derived from dietary tryptophan by
+  the gut flora to activate AHR signaling in astrocytes and suppress CNS inflammation.
+author: Rothhammer, Veit and Mascanfroni, Ivan D. and Bunse, Lukas and Takenaka, Maisa
+  C. and Kenison, Jessica E. and Mayo, Lior and Chao, Chun-Cheih and Patel, Bonny
+  and Yan, Raymond and Blain, Manon and Alvarez, Jorge I. and Kébir, Hania and Anandasabapathy,
+  Niroshana and Izquierdo, Guillermo and Jung, Steffen and Obholzer, Nikolaus and
+  Pochet, Nathalie and Clish, Clary B. and Prinz, Marco and Prat, Alexandre and Antel,
+  Jack and Quintana, Francisco J.
+author_list:
+- family: Rothhammer
+  given: Veit
+- family: Mascanfroni
+  given: Ivan D.
+- family: Bunse
+  given: Lukas
+- family: Takenaka
+  given: Maisa C.
+- family: Kenison
+  given: Jessica E.
+- family: Mayo
+  given: Lior
+- family: Chao
+  given: Chun-Cheih
+- family: Patel
+  given: Bonny
+- family: Yan
+  given: Raymond
+- family: Blain
+  given: Manon
+- family: Alvarez
+  given: Jorge I.
+- family: Kébir
+  given: Hania
+- family: Anandasabapathy
+  given: Niroshana
+- family: Izquierdo
+  given: Guillermo
+- family: Jung
+  given: Steffen
+- family: Obholzer
+  given: Nikolaus
+- family: Pochet
+  given: Nathalie
+- family: Clish
+  given: Clary B.
+- family: Prinz
+  given: Marco
+- family: Prat
+  given: Alexandre
+- family: Antel
+  given: Jack
+- family: Quintana
+  given: Francisco J.
+doi: 10.1038/nm.4106
+file: /mnt/data/wizard/Zotero/storage/BWEITIIF/Rothhammer et al. - 2016 - Type I interferons
+  and microbial metabolites of tr.pdf
+files: []
+issn: 1546-170X
+journal: Nature Medicine
+keywords: Animals,Astrocytes,Case-Control Studies,Cell Proliferation,Central Nervous
+  System,Chemokine CCL2,Chromatin Immunoprecipitation,{Chromatography, High Pressure
+  Liquid},{Encephalomyelitis, Autoimmune, Experimental},Fluorescent Antibody Technique,Gastrointestinal
+  Microbiome,Gene Expression Profiling,Gene Knockdown Techniques,Glial Fibrillary
+  Acidic Protein,Humans,Immunoblotting,Indican,Indoles,Inflammation,Interferon Type
+  I,Interferon-beta,Lactobacillus reuteri,Mice,{Mice, Knockout},Multiple Sclerosis,Myxovirus
+  Resistance Proteins,Nitric Oxide Synthase Type II,Optical Imaging,Polymerase Chain
+  Reaction,{Receptor, Interferon alpha-beta},{Receptors, Aryl Hydrocarbon},Serotonin,STAT1
+  Transcription Factor,Suppressor of Cytokine Signaling Proteins,T-Lymphocytes,Tryptophan,Tryptophanase
+langid: english
+month: June
+number: '6'
+pages: 586--597
+papis_id: 2568991ca24fa1894750c59a153386f6
+pmcid: PMC4899206
+pmid: '27158906'
+ref: TypeIInterferRothha2016
+title: Type I Interferons and Microbial Metabolites of Tryptophan Modulate Astrocyte
+  Activity and Central Nervous System Inflammation via the Aryl Hydrocarbon Receptor
+type: article
+volume: '22'
+year: '2016'

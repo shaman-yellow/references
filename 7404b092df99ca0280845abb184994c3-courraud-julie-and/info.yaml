@@ -1,0 +1,53 @@
+abstract: Main risk factors of autism spectrum disorder (ASD) include both genetic
+  and non-genetic factors, especially prenatal and perinatal events. Newborn screening  dried
+  blood spot (DBS) samples have great potential for the study of early  biochemical
+  markers of disease. To study DBS strengths and limitations in the  context of ASD
+  research, we analyzed the metabolomic profiles of newborns later  diagnosed with
+  ASD. We performed LC-MS/MS-based untargeted metabolomics on DBS  from 37 case-control
+  pairs randomly selected from the iPSYCH sample. After  preprocessing using MZmine
+  2.41, metabolites were putatively annotated using  mzCloud, GNPS feature-based molecular
+  networking, and MolNetEnhancer. A total of  4360 mass spectral features were detected,
+  of which 150 (113 unique) could be  putatively annotated at a high confidence level.
+  Chemical structure information  at a broad level could be retrieved for 1009 metabolites,
+  covering 31 chemical  classes. Although no clear distinction between cases and controls
+  was revealed,  our method covered many metabolites previously associated with ASD,
+  suggesting  that biochemical markers of ASD are present at birth and may be monitored
+  during  newborn screening. Additionally, we observed that gestational age, age at  sampling,
+  and month of birth influence the metabolomic profiles of newborn DBS,  which informs
+  us on the important confounders to address in future studies.
+author: Courraud, Julie and Ernst, Madeleine and Svane Laursen, Susan and Hougaard,
+  David M. and Cohen, Arieh S.
+author_list:
+- family: Courraud
+  given: Julie
+- family: Ernst
+  given: Madeleine
+- family: Svane Laursen
+  given: Susan
+- family: Hougaard
+  given: David M.
+- family: Cohen
+  given: Arieh S.
+doi: 10.1007/s12031-020-01787-2
+file: /mnt/data/wizard/Zotero/storage/H4LVL3L6/Courraud et al. - 2021 - Studying Autism
+  Using Untargeted Metabolomics in N.pdf
+files: []
+issn: 1559-1166 0895-8696
+journal: 'Journal of molecular neuroscience : MN'
+keywords: Adult,Autism spectrum disorder,Autistic Disorder/*metabolism/microbiology,Biomarkers,Birth
+  Weight,Blood Specimen Collection,Brain-Gut Axis,Case-Control Studies,{Chromatography,
+  Liquid},Dried blood spots,Female,Gestational Age,Humans,{Infant, Newborn},Male,Maternal
+  Age,Metabolomics/methods,Neonatal Screening,Newborn screening,Pregnancy,{Quality
+  Assurance, Health Care},Sampling Studies,Tandem Mass Spectrometry,Untargeted metabolomics
+langid: english
+month: July
+number: '7'
+pages: 1378--1393
+papis_id: d850515df0b1bf4f09a5886699380502
+pmcid: PMC8233278
+pmid: '33515432'
+ref: StudyingAutismCourra2021
+title: Studying Autism Using Untargeted Metabolomics in Newborn Screening Samples.
+type: article
+volume: '71'
+year: '2021'

@@ -1,0 +1,41 @@
+abstract: Current tandem mass spectral libraries for lipid annotations in metabolomics
+  are limited in size and diversity. We provide a freely available computer-generated
+  tandem mass spectral library of 212,516 spectra covering 119,200 compounds from
+  26 lipid compound classes, including phospholipids, glycerolipids, bacterial lipoglycans
+  and plant glycolipids. We show platform independence by using tandem mass spectra
+  from 40 different mass spectrometer types including low-resolution and high-resolution
+  instruments.
+author: Kind, Tobias and Liu, Kwang-Hyeon and Lee, Do Yup and DeFelice, Brian and
+  Meissen, John K. and Fiehn, Oliver
+author_list:
+- family: Kind
+  given: Tobias
+- family: Liu
+  given: Kwang-Hyeon
+- family: Lee
+  given: Do Yup
+- family: DeFelice
+  given: Brian
+- family: Meissen
+  given: John K.
+- family: Fiehn
+  given: Oliver
+doi: 10.1038/nmeth.2551
+file: /mnt/data/wizard/Zotero/storage/RG8PGW2U/Kind et al. - 2013 - LipidBlast in
+  silico tandem mass spectrometry data.pdf
+files: []
+issn: 1548-7105
+journal: Nature Methods
+keywords: '{Databases, Factual},Lipids,Metabolomics,Tandem Mass Spectrometry'
+langid: english
+month: August
+number: '8'
+pages: 755--758
+papis_id: a6b6e8462ddeed3e492a01366092b4b7
+pmcid: PMC3731409
+pmid: '23817071'
+ref: LipidblastInSKind2013
+title: LipidBlast in Silico Tandem Mass Spectrometry Database for Lipid Identification
+type: article
+volume: '10'
+year: '2013'

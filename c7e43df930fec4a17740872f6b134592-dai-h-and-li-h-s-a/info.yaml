@@ -1,0 +1,77 @@
+abstract: 'Abstract                            Funding Acknowledgements               Type
+  of funding sources: Foundation. Main funding source(s): The National Science Foundation
+  for Distinguished Young Scholars of China                                         Background               ~Acute
+  heart failure (AHF) is a significant public health problem related to the high mortality
+  and rehospitalization rate of patients. Although drug development is never interrupted,
+  no single drug has been proven to play a decisive role in improving the survival
+  of AHF patients. In China, multi-component traditional Chinese medicine~has been
+  widely~used to treat AHF. As a Chinese herbal injection included in medical insurance,
+  Yiqi Fumai Injection can reduce the level of NT-proBNP in AHF patients, improve
+  heart function, and alleviate symptoms and signs related to heart failure. To further
+  evaluate the therapeutic effect of Yiqi Fumai Injection on AHF, a multi-center,
+  double-blind, randomized controlled trial that intends to recruit 1270 patients
+  is being carried out in China. However, the mechanism of Yiqi Fumai Injection in
+  the treatment of AHF has not been clarified. To further explore~the underlying mechanism,
+  we used~systematic pharmacology methods to explore the potential molecular mechanisms
+  of biologically active compounds.                                         Methods               ~We
+  used the databases of HERB, the Encyclopedia of Traditional Chinese Medicine (ETCM),
+  the Comparative Toxicogenomics Database (CTD), Online Mendelian Inheritance in Man
+  (OMIM), and GeneCards to predict the active ingredients and potential targets of
+  Yiqi Fumai Injection in the treatment of AHF. STRING was used for PPI network construction
+  and analysis. Cytoscape was used to build a network between Chinese medicine, ingredients
+  and targets. The DAVID, GO, and KEGG databases were used to predict the potential
+  pathways of Yiqi Fumai Injection for the treatment of AHF.                                         Results               ~We
+  obtained 31 active compounds of Yiqi Fumai Injection from HERB and ECTM databases.
+  By overlapping targets between YQFMI and AHF, a total of 240 potential targets for
+  Yiqi Fumai Injection to treat AHF were selected.~According to the H-C-T network
+  topology analysis, the core compounds include beta-sitosterol, Uridine, Guanosine,
+  and Stigmasterol. Sixteen protein targets had significantly higher node degrees
+  than the average in the PPI network, including AKT1, JUN, TNF, EDN1, CASP3, ESR1,
+  DLG4, PTGS2, NOS3, IL1B, C3, AR, LEP, CNR1, CHRM2, and DRD2. The PPI results showed
+  that the potential therapeutic targets of YQFMI were densely enriched in pathways
+  related to endothelial function, neuromodulation, and lipid metabolism.The same
+  results were shown in GO and KEGG pathway enrichment.                                         Conclusion               ~Our
+  results indicate that Yiqi Fumai Injection may achieve the goal of improving AHF-related
+  symptoms by regulating the function of vascular endothelium and nerves and the biosynthetic
+  pathway of lipid metabolism. These findings support previous studies and provide
+  a reference for studying the mechanism of Yiqi Fumai Injection in the treatment
+  of AHF. Abstract Figure.'
+author: Dai, H and Li, H S and Zhang, J J and Chen, Y and Zhang, X C and Hu, M Z and
+  Guan, Z Y and Liu, Y and Shang, H C
+author_list:
+- family: Dai
+  given: H
+- family: Li
+  given: H S
+- family: Zhang
+  given: J J
+- family: Chen
+  given: Y
+- family: Zhang
+  given: X C
+- family: Hu
+  given: M Z
+- family: Guan
+  given: Z Y
+- family: Liu
+  given: Y
+- family: Shang
+  given: H C
+doi: 10.1093/eurheartj/ehab849.062
+file: /mnt/data/wizard/Zotero/storage/IL549UWQ/Dai et al. - 2022 - Molecular mechanism
+  and therapeutic potential of Y.pdf
+files: []
+issn: 0195-668X, 1522-9645
+journal: European Heart Journal
+langid: english
+month: February
+number: Supplement\_1
+pages: ehab849.062
+papis_id: c67929a33081b7c0bf9d6ff87edc278a
+ref: MolecularMechaDaiH2022
+title: Molecular Mechanism and Therapeutic Potential of YiQi FuMai Injection in Acute
+  Heart Failure
+type: article
+urldate: '2022-06-04'
+volume: '43'
+year: '2022'

@@ -1,0 +1,15 @@
+author: Wickham, Hadley
+author_list:
+- family: Wickham
+  given: Hadley
+doi: 10.18637/jss.v021.i12
+files: []
+journal: Journal of Statistical Software
+number: '12'
+pages: 1--20
+papis_id: c7e47872474ecdf0289063fd712b12d3
+ref: ReshapingDataWickha2007
+title: Reshaping Data with the reshape Package
+type: article
+volume: '21'
+year: '2007'

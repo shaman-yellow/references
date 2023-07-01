@@ -1,0 +1,45 @@
+abstract: Sepsis is a common condition that is associated with unacceptably high mortality
+  and, for many of those who survive, long-term morbidity. Increased awareness of
+  the condition resulting from ongoing campaigns and the evidence arising from research
+  in the past 10 years have increased understanding of this problem among clinicians
+  and lay people, and have led to improved outcomes. The World Health Assembly and
+  WHO made sepsis a global health priority in 2017 and have adopted a resolution to
+  improve the prevention, diagnosis, and management of sepsis. In 2016, a new definition
+  of sepsis (Sepsis-3) was developed. Sepsis is now defined as infection with organ
+  dysfunction. This definition codifies organ dysfunction using the Sequential Organ
+  Failure Assessment score. Ongoing research aims to improve definition of patient
+  populations to allow for individualised management strategies matched to a patient's
+  molecular and biochemical profile. The search continues for improved diagnostic
+  techniques that can facilitate this aim, and for a pharmacological agent that can
+  improve outcomes by modifying the disease process. While waiting for this goal to
+  be achieved, improved basic care driven by education and quality-improvement programmes
+  offers the best hope of increasing favourable outcomes.
+author: Cecconi, Maurizio and Evans, Laura and Levy, Mitchell and Rhodes, Andrew
+author_list:
+- family: Cecconi
+  given: Maurizio
+- family: Evans
+  given: Laura
+- family: Levy
+  given: Mitchell
+- family: Rhodes
+  given: Andrew
+doi: 10.1016/S0140-6736(18)30696-2
+file: /mnt/data/wizard/Zotero/storage/TWMDTBK7/Cecconi et al. - 2018 - Sepsis and
+  septic shock.pdf
+files: []
+issn: 1474-547X
+journal: Lancet (London, England)
+keywords: Biomedical Research,Humans,Organ Dysfunction Scores,Precision Medicine,Sepsis,{Shock,
+  Septic},Survival Rate
+langid: english
+month: July
+number: '10141'
+pages: 75--87
+papis_id: 40be28b7d343979aaf2d7407301d33a2
+pmid: '29937192'
+ref: SepsisAndSeptCeccon2018
+title: Sepsis and Septic Shock
+type: article
+volume: '392'
+year: '2018'

@@ -1,0 +1,77 @@
+abstract: Excess alcohol exposure leads to alcoholic liver disease (ALD), a predominant
+  cause of liver-related morbidity and mortality worldwide. In the past decade, increasing
+  attention has been paid to understand the association between n-3 polyunsaturated
+  fatty acids (n-3 PUFAs) and ALD. In this review, we summarize the metabolism of
+  n-3 PUFAs, animal model of ALD, and the findings from recent studies determining
+  the role of n-3 PUFAs in ALD as a possible treatment. The animal models of acute
+  ethanol exposure, chronic ethanol exposure and chronic-plus-single binge ethanol
+  feeding have been widely used to explore the impact of n-3 PUFAs. Although the results
+  of studies regarding the role of n-3 PUFAs in ALD have been inconsistent or controversial,
+  increasing evidence has demonstrated that n-3 PUFAs may be useful in alleviating
+  alcoholic steatosis and alcohol-induced liver injury through multiple mechanisms,
+  including decreased de novo lipogenesis and lipid mobilization from adipose tissue,
+  enhanced mitochondrial fatty acid {$\beta$}-oxidation, reduced hepatic inflammation
+  and oxidative stress, and promoted intestinal homeostasis, positively suggesting
+  that n-3 PUFAs might be promising for the management of ALD. The oxidation of n-3
+  PUFAs ex vivo in an experimental diet was rarely considered in most n-3 PUFA-related
+  studies, likely contributing to the inconsistent results. Thus, the role of n-3
+  PUFAs in ALD deserves greater research efforts and remains to be evaluated in randomized,
+  placebo-controlled clinic trial. ABBREVIATION AA arachidonic acid ACC acetyl-CoA
+  carboxylase ACLY ATP-citrate lyase ACO acyl-CoA oxidase ALA {$\alpha$}-linolenic
+  acid ALD alcoholic liver disease ALP alkaline phosphatase ALT alanine aminotransferase
+  AMPK AMP-activated protein kinase AST aspartate aminotransferase ATGL adipose triglyceride
+  lipase cAMP cyclic adenosine 3',5'-monophosphate COX cyclooxygenases CPT1 carnitine
+  palmitoyltransferase 1 CYP2E1 cytochrome P450 2E1 DGAT2 diacylglycerol acyltransferase
+  2 DGLA dihomo-{$\gamma$}-linolenic acid DHA docosahexaenoic acid DPA docosapentaenoic
+  acid DTA docosatetraenoic acid EPA eicosapentaenoic acid ER endoplasmic reticulum
+  ETA eicosatetraenoic acid FAS fatty acid synthase FATPs fatty acid transporter proteins
+  GLA,{$\gamma$} linolenic acid GPR120 G protein-coupled receptor 120 GSH glutathione;
+  H\&E haematoxylin-eosin; HO-1 heme oxygenase-1; HSL hormone-sensitive lipase; IL-6
+  interleukin-6 iNOS nitric oxide synthase LA linoleic acid LBP lipopolysaccharide
+  binding protein LOX lipoxygenases LXR liver X receptor LXREs LXR response elements
+  MCP-1 monocyte chemotactic protein-1 MTP microsomal triglyceride transfer protein
+  MUFA monounsaturated fatty acids MyD88 myeloid differentiation factor 88 n-3 PUFAs
+  omega-3 polyunsaturated fatty acid NAFLD nonalcoholic fatty liver disease NASH nonalcoholic
+  steatohepatitis NF-{$\kappa$}B transcription factor nuclear factor {$\kappa$}B PDE3B
+  phosphodiesterase 3B PPAR peroxisome proliferator-activated receptor ROS reactive
+  oxygen species RXR retinoid X receptor SCD-1 stearyl CoA desaturase-1 SDA stearidonic
+  acid SFA saturated fatty acids SIRT1 sirtuin 1 SOD superoxide dismutase SREBP sterol
+  regulatory element-binding protein TB total bilirubin TC total cholesterol TG triacylglycerol
+  TLR4 Toll-like receptor-4 TNF-{$\alpha$} tumor necrosis factor-{$\alpha$} VLDLR
+  very low-density lipoprotein receptor WT wild type; ZO-1 zonula occludens-1.
+author: Wang, Meng and Ma, Li-Juan and Yang, Yan and Xiao, Zeyu and Wan, Jian-Bo
+author_list:
+- family: Wang
+  given: Meng
+- family: Ma
+  given: Li-Juan
+- family: Yang
+  given: Yan
+- family: Xiao
+  given: Zeyu
+- family: Wan
+  given: Jian-Bo
+doi: 10.1080/10408398.2018.1544542
+file: /mnt/data/wizard/Zotero/storage/ZI3GUDJ9/Wang et al. - 2019 - n-3 Polyunsaturated
+  fatty acids for the management.pdf
+files: []
+issn: 1549-7852
+journal: Critical Reviews in Food Science and Nutrition
+keywords: Adipose Tissue,Alcoholic liver disease,alcoholic steatosis,Animals,Chemical
+  and Drug Induced Liver Injury,{Disease Models, Animal},Ethanol,{Fatty Acids, Omega-3},Fatty
+  Liver,Gastrointestinal Microbiome,Homeostasis,Humans,inflammation,Inflammation,intestinal
+  homeostasis,Lipid Mobilization,Lipogenesis,Liver,{Liver Diseases, Alcoholic},Mitochondria,n-3
+  polyunsaturated fatty acids,Oxidation-Reduction,oxidative stress,Oxidative Stress,Permeability
+langid: english
+number: sup1
+pages: S116-S129
+papis_id: 76bd1bf43efccdc624fd90e1cf001aee
+pmid: '30580553'
+ref: N3PolyunsaturWang2019
+shorttitle: N-3 {{Polyunsaturated}} Fatty Acids for the Management of Alcoholic Liver
+  Disease
+title: 'N-3 Polyunsaturated Fatty Acids for the Management of Alcoholic Liver Disease:
+  A Critical Review'
+type: article
+volume: '59'
+year: '2019'

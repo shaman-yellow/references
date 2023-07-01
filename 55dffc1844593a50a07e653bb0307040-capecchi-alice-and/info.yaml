@@ -1,0 +1,52 @@
+abstract: Abstract                            Background               Molecular fingerprints
+  are essential cheminformatics tools for virtual screening and mapping chemical space.
+  Among the different types of fingerprints, substructure fingerprints perform best
+  for small molecules such as drugs, while atom-pair fingerprints are preferable for
+  large molecules such as peptides. However, no available fingerprint achieves good
+  performance on both classes of molecules.                                         Results                                Here
+  we set out to design a new fingerprint suitable for both small and large molecules
+  by combining substructure and atom-pair concepts. Our quest resulted in a new fingerprint
+  called MinHashed atom-pair fingerprint up to a diameter of four bonds (MAP4). In
+  this fingerprint the circular substructures with radii of                 r                 \,=\,1
+  and                 r\,                 =\,2 bonds around each atom in an atom-pair
+  are written as two pairs of SMILES, each pair being combined with the topological
+  distance separating the two central atoms. These so-called atom-pair molecular shingles
+  are hashed, and the resulting set of hashes is MinHashed to form the MAP4 fingerprint.
+  MAP4 significantly outperforms all other fingerprints on an extended benchmark that
+  combines the Riniker and Landrum small molecule benchmark with a peptide benchmark
+  recovering BLAST analogs from either scrambled or point mutation analogs. MAP4 furthermore
+  produces well-organized chemical space tree-maps (TMAPs) for databases as diverse
+  as DrugBank, ChEMBL, SwissProt and the Human Metabolome Database (HMBD), and differentiates
+  between all metabolites in HMBD, over 70\% of which are indistinguishable from their
+  nearest neighbor using substructure fingerprints.                                                        Conclusion                                MAP4
+  is a new molecular fingerprint suitable for drugs, biomolecules, and the metabolome
+  and can be adopted as a universal fingerprint to describe and search chemical space.
+  The source code is available at                 https://github.com/reymond-group/map4                 and
+  interactive MAP4 similarity search tools and TMAPs for various databases are accessible
+  at                 http://map-search.gdb.tools/                 and                 http://tm.gdb.tools/map4/                 .
+author: Capecchi, Alice and Probst, Daniel and Reymond, Jean-Louis
+author_list:
+- family: Capecchi
+  given: Alice
+- family: Probst
+  given: Daniel
+- family: Reymond
+  given: Jean-Louis
+doi: 10.1186/s13321-020-00445-4
+file: /mnt/data/wizard/Zotero/storage/4KHDAPNJ/Capecchi et al. - 2020 - One molecular
+  fingerprint to rule them all drugs,.pdf
+files: []
+issn: 1758-2946
+journal: Journal of Cheminformatics
+langid: english
+month: December
+number: '1'
+pages: '43'
+papis_id: 1004b653964b6851e04f44d76fa6215a
+ref: OneMolecularFCapecc2020
+shorttitle: One Molecular Fingerprint to Rule Them All
+title: 'One Molecular Fingerprint to Rule Them All: Drugs, Biomolecules, and the Metabolome'
+type: article
+urldate: '2022-03-30'
+volume: '12'
+year: '2020'

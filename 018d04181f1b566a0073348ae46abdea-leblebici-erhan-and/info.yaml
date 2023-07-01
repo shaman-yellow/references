@@ -1,0 +1,26 @@
+address: '{Cham}'
+author: Leblebici, Erhan and Anjorin, Anthony and Schürr, Andy
+author_list:
+- family: Leblebici
+  given: Erhan
+- family: Anjorin
+  given: Anthony
+- family: Schürr
+  given: Andy
+booktitle: Theory and {{Practice}} of {{Model Transformations}}
+doi: 10.1007/978-3-319-08789-4_10
+editor: Hutchison, David and Kanade, Takeo and Kittler, Josef and Kleinberg, Jon M.
+  and Kobsa, Alfred and Mattern, Friedemann and Mitchell, John C. and Naor, Moni and
+  Nierstrasz, Oscar and Pandu Rangan, C. and Steffen, Bernhard and Terzopoulos, Demetri
+  and Tygar, Doug and Weikum, Gerhard and Di Ruscio, Davide and Varr{\'o}, D{\'a}niel
+files: []
+isbn: 978-3-319-08788-7 978-3-319-08789-4
+pages: 138--145
+papis_id: cfad293007330cba0f2c0ec4a7452b7f
+publisher: '{Springer International Publishing}'
+ref: DevelopingEmofLebleb2014
+title: Developing eMoflon with eMoflon
+type: incollection
+urldate: '2022-05-23'
+volume: '8568'
+year: '2014'

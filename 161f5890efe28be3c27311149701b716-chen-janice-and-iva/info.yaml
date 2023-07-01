@@ -1,0 +1,46 @@
+abstract: An important mechanism by which IFN-{$\gamma$} primes macrophages for enhanced
+  innate immune responses is abrogation of feedback inhibitory pathways. Accordingly,
+  IFN-{$\gamma$} abrogates endotoxin tolerance, a major negative feedback loop that
+  silences expression of inflammatory cytokine genes in macrophages previously exposed
+  to endotoxin/Toll-like receptor (TLR) ligands. Mechanisms by which IFN-{$\gamma$}
+  inhibits endotoxin tolerance have not been elucidated. Here, we show that pretreatment
+  with IFN-{$\gamma$} prevented tolerization of primary human monocytes and restored
+  TLR4-mediated induction of various proinflammatory cytokines, including IL-6 and
+  TNF{$\alpha$}. Surprisingly, IFN-{$\gamma$} did not alter proximal TLR4 signaling
+  defects in tolerized monocytes. Instead, IFN-{$\gamma$} blocked tolerance-associated
+  down-regulation of               IL6               and               TNF               transcription,
+  RNA polymerase II recruitment, and NF-{$\kappa$}B and CCAAT/enhancer-binding protein
+  {$\beta$} transcription factor binding to the               IL6               and               TNF               promoters
+  in tolerized monocytes. The mechanism by which IFN-{$\gamma$} restored               IL6               expression
+  was by facilitating TLR4-induced recruitment of chromatin remodeling machinery to
+  the               IL6               promoter and promoting               IL6               locus
+  accessibility in tolerized monocytes. Our results suggest that IFN-{$\gamma$} overcomes
+  endotoxin tolerance by facilitating TLR-induced chromatin remodeling to allow expression
+  of proinflammatory genes. These results identify a mechanism by which IFN-{$\gamma$}
+  promotes activation of macrophages and highlight the importance of chromatin remodeling
+  and transcriptional control in the regulation of inflammatory cytokine production
+  in tolerant and activated macrophages.
+author: Chen, Janice and Ivashkiv, Lionel B.
+author_list:
+- family: Chen
+  given: Janice
+- family: Ivashkiv
+  given: Lionel B.
+doi: 10.1073/pnas.1007816107
+file: /mnt/data/wizard/Zotero/storage/TVTNG2L8/Chen and Ivashkiv - 2010 - IFN-γ abrogates
+  endotoxin tolerance by facilitatin.pdf
+files: []
+issn: 0027-8424, 1091-6490
+journal: Proceedings of the National Academy of Sciences
+langid: english
+month: November
+number: '45'
+pages: 19438--19443
+papis_id: 3b8613f41d290205358db19e4e811b4d
+ref: IfnGAbrogatChen2010
+title: IFN-$γ$ Abrogates Endotoxin Tolerance by Facilitating Toll-like Receptor-Induced
+  Chromatin Remodeling
+type: article
+urldate: '2023-04-02'
+volume: '107'
+year: '2010'

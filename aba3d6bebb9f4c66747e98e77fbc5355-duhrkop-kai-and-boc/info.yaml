@@ -1,0 +1,23 @@
+address: '{Cham}'
+author: Dührkop, Kai and Böcker, Sebastian
+author_list:
+- family: Dührkop
+  given: Kai
+- family: Böcker
+  given: Sebastian
+booktitle: Research in {{Computational Molecular Biology}}
+doi: 10.1007/978-3-319-16706-0_10
+editor: Przytycka, Teresa M.
+file: /mnt/data/wizard/Zotero/storage/JKIVXXF8/Dührkop and Böcker - 2015 - Fragmentation
+  Trees Reloaded.pdf
+files: []
+isbn: 978-3-319-16705-3 978-3-319-16706-0
+pages: 65--79
+papis_id: 9098d250a2be75dd971d06b9549be625
+publisher: '{Springer International Publishing}'
+ref: FragmentationTDuhrko2015
+title: Fragmentation Trees Reloaded
+type: incollection
+urldate: '2021-11-14'
+volume: '9029'
+year: '2015'

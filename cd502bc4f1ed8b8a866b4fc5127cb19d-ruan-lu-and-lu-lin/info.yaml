@@ -1,0 +1,48 @@
+abstract: 'Eucommia ulmoides seed oil with high health potential is prone to oxidative
+  rancidity due to its rich unsaturated fatty acids. In this work, three natural antioxidants
+  were selected for exploring the oxidation resistance of the oil compared with the
+  common synthetic antioxidant BHT. Antioxidant activity and its dispersion and migration
+  as well as oxygen barrier performance were predicted via the bond dissociation enthalpy
+  (BDE), mean square displacement (MSD), binding energy (Ebinding) and permeability
+  coefficient (S). The predicted comprehensive performance is as follows: myricetin~{$>~$}epicatechin~{$>~$}caffeic
+  acid~{$>~$}BHT. Free radical scavenging assay and Rancimat assay confirmed the antioxidant
+  activity and protective effect on oil. That is the protective effect of three natural
+  antioxidants on Eucommia ulmoides seed oil is better than BHT and myricetin shows
+  the optimal comprehensive performance. The induction period of myricetin/lipid system
+  increased 164.5\% compared with the control. The experimental results are in good
+  consistent with the simulation predictions.'
+author: Ruan, Lu and Lu, Ling and Zhao, Xiuying and Xiong, Wanwei and Xu, Haiyan and
+  Wu, Sizhu
+author_list:
+- family: Ruan
+  given: Lu
+- family: Lu
+  given: Ling
+- family: Zhao
+  given: Xiuying
+- family: Xiong
+  given: Wanwei
+- family: Xu
+  given: Haiyan
+- family: Wu
+  given: Sizhu
+doi: 10.1016/j.foodchem.2022.132640
+files: []
+issn: 1873-7072
+journal: Food Chemistry
+keywords: Antioxidants,Butylated Hydroxytoluene,Eucommia ulmoides seed oil,Eucommiaceae,Molecular
+  simulation,Natural antioxidants,Oxidation-Reduction,Oxidative stability,Oxidative
+  Stress,Plant Oils
+langid: english
+month: July
+pages: '132640'
+papis_id: de6c0bca46518476261480c61f5f91d2
+pmid: '35413767'
+ref: EffectsOfNatuRuan2022
+shorttitle: Effects of Natural Antioxidants on the Oxidative Stability of {{Eucommia}}
+  Ulmoides Seed Oil
+title: 'Effects of Natural Antioxidants on the Oxidative Stability of Eucommia Ulmoides
+  Seed Oil: Experimental and Molecular Simulation Investigations'
+type: article
+volume: '383'
+year: '2022'

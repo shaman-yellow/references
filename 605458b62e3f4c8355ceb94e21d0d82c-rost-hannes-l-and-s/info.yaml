@@ -1,0 +1,81 @@
+author: Röst, Hannes L and Sachsenberg, Timo and Aiche, Stephan and Bielow, Chris
+  and Weisser, Hendrik and Aicheler, Fabian and Andreotti, Sandro and Ehrlich, Hans-Christian
+  and Gutenbrunner, Petra and Kenar, Erhan and Liang, Xiao and Nahnsen, Sven and Nilse,
+  Lars and Pfeuffer, Julianus and Rosenberger, George and Rurik, Marc and Schmitt,
+  Uwe and Veit, Johannes and Walzer, Mathias and Wojnar, David and Wolski, Witold
+  E and Schilling, Oliver and Choudhary, Jyoti S and Malmström, Lars and Aebersold,
+  Ruedi and Reinert, Knut and Kohlbacher, Oliver
+author_list:
+- family: Röst
+  given: Hannes L
+- family: Sachsenberg
+  given: Timo
+- family: Aiche
+  given: Stephan
+- family: Bielow
+  given: Chris
+- family: Weisser
+  given: Hendrik
+- family: Aicheler
+  given: Fabian
+- family: Andreotti
+  given: Sandro
+- family: Ehrlich
+  given: Hans-Christian
+- family: Gutenbrunner
+  given: Petra
+- family: Kenar
+  given: Erhan
+- family: Liang
+  given: Xiao
+- family: Nahnsen
+  given: Sven
+- family: Nilse
+  given: Lars
+- family: Pfeuffer
+  given: Julianus
+- family: Rosenberger
+  given: George
+- family: Rurik
+  given: Marc
+- family: Schmitt
+  given: Uwe
+- family: Veit
+  given: Johannes
+- family: Walzer
+  given: Mathias
+- family: Wojnar
+  given: David
+- family: Wolski
+  given: Witold E
+- family: Schilling
+  given: Oliver
+- family: Choudhary
+  given: Jyoti S
+- family: Malmström
+  given: Lars
+- family: Aebersold
+  given: Ruedi
+- family: Reinert
+  given: Knut
+- family: Kohlbacher
+  given: Oliver
+doi: 10/f82r32
+file: /mnt/data/wizard/Zotero/storage/JR4P5KMK/Röst et al. - 2016 - OpenMS a flexible
+  open-source software platform f.pdf
+files: []
+issn: 1548-7091, 1548-7105
+journal: Nature Methods
+langid: english
+month: September
+number: '9'
+pages: 741--748
+papis_id: 6a0019d1cf1ad65366bd852de313e276
+ref: OpenmsAFlexiRost2016
+shorttitle: '{{OpenMS}}'
+title: 'OpenMS: A Flexible Open-Source Software Platform for Mass Spectrometry Data
+  Analysis'
+type: article
+urldate: '2021-12-31'
+volume: '13'
+year: '2016'

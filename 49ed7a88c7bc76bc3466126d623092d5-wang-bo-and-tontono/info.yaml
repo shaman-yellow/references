@@ -1,0 +1,47 @@
+abstract: Liver X receptors {$\alpha$} and {$\beta$} (LXR{$\alpha$} and LXR{$\beta$})
+  are nuclear receptors with pivotal roles in the transcriptional control of lipid
+  metabolism. Transcriptional activity of LXRs is induced in response to elevated
+  cellular levels of cholesterol. LXRs bind to and regulate the expression of genes
+  that encode proteins involved in cholesterol absorption, transport, efflux, excretion
+  and conversion to bile acids. The coordinated, tissue-specific actions of the LXR
+  pathway maintain systemic cholesterol homeostasis and regulate immune and inflammatory
+  responses. LXRs also regulate fatty acid metabolism by controlling the lipogenic
+  transcription factor sterol regulatory element-binding protein 1c and regulate genes
+  that encode proteins involved in fatty acid elongation and desaturation. LXRs exert
+  important effects on the metabolism of phospholipids, which, along with cholesterol,
+  are major constituents of cellular membranes. LXR activation preferentially drives
+  the incorporation of polyunsaturated fatty acids into phospholipids by inducing
+  transcription of the remodelling enzyme lysophosphatidylcholine acyltransferase
+  3. The ability of the LXR pathway to couple cellular sterol levels with the saturation
+  of fatty acids in membrane phospholipids has implications for several physiological
+  processes, including lipoprotein production, dietary lipid absorption and intestinal
+  stem cell proliferation. Understanding how LXRs regulate membrane composition and
+  function might provide new therapeutic insight into diseases associated with dysregulated
+  lipid metabolism, including atherosclerosis, diabetes mellitus and cancer.
+author: Wang, Bo and Tontonoz, Peter
+author_list:
+- family: Wang
+  given: Bo
+- family: Tontonoz
+  given: Peter
+doi: 10.1038/s41574-018-0037-x
+file: /mnt/data/wizard/Zotero/storage/S3UB4E9A/Wang and Tontonoz - 2018 - Liver X
+  receptors in lipid signalling and membrane.pdf
+files: []
+issn: 1759-5037
+journal: Nature Reviews. Endocrinology
+keywords: Animals,Cholesterol,Gene Expression Regulation,Homeostasis,Humans,Lipid
+  Metabolism,Liver X Receptors,Needs Assessment,Signal Transduction,{Translational
+  Research, Biomedical}
+langid: english
+month: August
+number: '8'
+pages: 452--463
+papis_id: f7fdf6af5f79113e99d25ef7674ff0ec
+pmcid: PMC6433546
+pmid: '29904174'
+ref: LiverXReceptoWang2018
+title: Liver X Receptors in Lipid Signalling and Membrane Homeostasis
+type: article
+volume: '14'
+year: '2018'

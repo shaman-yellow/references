@@ -1,0 +1,51 @@
+abstract: Individual variations in drug efficacy, side effects and adverse drug reactions
+  are still challenging that cannot be ignored in drug research and development. The
+  aim of pharmacometabonomics is to better understand the pharmacokinetic properties
+  of drugs and monitor the drug effects on specific metabolic pathways. Here, we systematically
+  reviewed the recent technological advances in pharmacometabonomics for better understanding
+  the pathophysiological mechanisms of diseases as well as the metabolic effects of
+  drugs on bodies. First, the advantages and disadvantages of all mainstream analytical
+  techniques were compared. Second, many data processing strategies including filtering,
+  missing value imputation, quality control-based correction, transformation, normalization
+  together with the methods implemented in each step were discussed. Third, various
+  feature selection and feature extraction algorithms commonly applied in pharmacometabonomics
+  were described. Finally, the databases that facilitate current pharmacometabonomics
+  were collected and discussed. All in all, this review provided guidance for researchers
+  engaged in pharmacometabonomics and metabolomics, and it would promote the wide
+  application of metabolomics in drug research and personalized medicine.
+author: Fu, Jianbo and Zhang, Ying and Liu, Jin and Lian, Xichen and Tang, Jing and
+  Zhu, Feng
+author_list:
+- family: Fu
+  given: Jianbo
+- family: Zhang
+  given: Ying
+- family: Liu
+  given: Jin
+- family: Lian
+  given: Xichen
+- family: Tang
+  given: Jing
+- family: Zhu
+  given: Feng
+doi: 10.1093/bib/bbab138
+file: /home/wizard/Documents/review.feature.selection.pdf
+files: []
+issn: 1477-4054
+journal: Briefings in Bioinformatics
+keywords: analytical technique,{Chromatography, Liquid},data processing,{Databases,
+  Factual},Gas Chromatography-Mass Spectrometry,Humans,Mass Spectrometry,Metabolome,Metabolomics,Pharmaceutical
+  Preparations,Pharmacokinetics,pharmacometabonomics,precision medicine,Precision
+  Medicine,statistical analysis
+langid: english
+month: September
+number: '5'
+pages: bbab138
+papis_id: f8ce7ca1d741a75783af41c2d22c730f
+pmid: '33866355'
+ref: PharmacometabonFuJi2021
+shorttitle: Pharmacometabonomics
+title: 'Pharmacometabonomics: Data Processing and Statistical Analysis'
+type: article
+volume: '22'
+year: '2021'

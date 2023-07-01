@@ -1,0 +1,64 @@
+abstract: Eucommia ulmoides-Dipsaci Radix (EU-DR) is a commonly used herbal pair for
+  the treatment of osteoporosis (OP) in China. The purpose of this study was to investigate
+  the potential mechanism of EU-DR on OP through network pharmacology and molecular
+  docking approaches. Combining data from multiple open-source databases and literature
+  mining, the active compounds and potential targets of EU-DR were screened out. The
+  OP related targets were identified from the interactive web tool GEO2R. The shared
+  targets were obtained by intersecting the targets of EU-DR and OP. The protein-protein
+  interaction (PPI) network was constructed via the STRING database and Cytoscape
+  3.7.2 software. GO and KEGG enrichment analysis were conducted using R 3.6.3 software
+  with adjusted p-value {$<$} 0.05. Sybyl-x 2.1.1 and Autodock Vina 1.1.2 software
+  were used to cross validate the affinity between active compounds and target proteins.
+  Our results showed that a total of 50 active compounds were screened, corresponding
+  to 895 EU-DR targets, 2202 OP targets and 144 shared targets. The flavonoids in
+  EU-DR played an important role in anti-OP. The enrichment analysis of GO and KEGG
+  suggested EU-DR exerted a therapeutic effect on OP mainly by regulating the osteoclast
+  differentiation related signaling pathway. Meanwhile, molecular docking results
+  showed that most active compounds in EU-DR had strong binding efficiency to the
+  target proteins. In conclusion, this study elaborated the multi-component, multi-target,
+  and multi-pathway interaction mechanism of the EU-DR herbal pair in the treatment
+  of OP for the first time, which also provided a pharmacological basis for treating
+  OP.
+author: Feng, Shuai and Wang, Ting and Fan, Liming and An, Xinxin and Ding, Xinli
+  and Wang, Minjuan and Zhai, Xifeng and Cao, Yanjun and He, Jiao and Li, Yang
+author_list:
+- family: Feng
+  given: Shuai
+- family: Wang
+  given: Ting
+- family: Fan
+  given: Liming
+- family: An
+  given: Xinxin
+- family: Ding
+  given: Xinli
+- family: Wang
+  given: Minjuan
+- family: Zhai
+  given: Xifeng
+- family: Cao
+  given: Yanjun
+- family: He
+  given: Jiao
+- family: Li
+  given: Yang
+doi: 10.1039/d1ra05799e
+file: /mnt/data/wizard/Zotero/storage/7EI9S2PM/Feng et al. - 2022 - Exploring the
+  potential therapeutic effect of Euco.pdf
+files: []
+issn: 2046-2069
+journal: RSC advances
+langid: english
+month: January
+number: '4'
+pages: 2181--2195
+papis_id: 55584b313617307603b8c03fb0056d80
+pmcid: PMC8979300
+pmid: '35425231'
+ref: ExploringThePFeng2022
+title: Exploring the Potential Therapeutic Effect of Eucommia Ulmoides-Dipsaci Radix
+  Herbal Pair on Osteoporosis Based on Network Pharmacology and Molecular Docking
+  Technology
+type: article
+volume: '12'
+year: '2022'

@@ -1,0 +1,23 @@
+author: Rogers, David J. and Tanimoto, Taffee T.
+author_list:
+- family: Rogers
+  given: David J.
+- family: Tanimoto
+  given: Taffee T.
+doi: 10/cc2tj7
+files: []
+issn: 0036-8075, 1095-9203
+journal: Science
+langid: english
+month: October
+number: '3434'
+pages: 1115--1118
+papis_id: e6469de67d5b329b5ece9bfd35a6ac1e
+ref: AComputerProgRogers1960
+shorttitle: A {{Computer Program}} for {{Classifying Plants}}
+title: 'A Computer Program for Classifying Plants: The Computer Is Programmed to Simulate
+  the Taxonomic Process of Comparing Each Case with Every Other Case.'
+type: article
+urldate: '2021-12-20'
+volume: '132'
+year: '1960'

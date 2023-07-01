@@ -1,0 +1,46 @@
+abstract: Abstract             Advances in genome sequencing have produced hundreds
+  of thousands of bacterial genome sequences, many of which have integrated prophages
+  derived from temperate bacteriophages. These prophages play key roles by influencing
+  bacterial metabolism, pathogenicity, antibiotic resistance, and defense against
+  viral attack. However, they vary considerably even among related bacterial strains,
+  and they are challenging to identify computationally and to extract precisely for
+  comparative genomic analyses. Here, we describe DEPhT, a multimodal tool for prophage
+  discovery and extraction. It has three run modes that facilitate rapid screening
+  of large numbers of bacterial genomes, precise extraction of prophage sequences,
+  and prophage annotation. DEPhT uses genomic architectural features that discriminate
+  between phage and bacterial sequences for efficient prophage discovery, and targeted
+  homology searches for precise prophage extraction. DEPhT is designed for prophage
+  discovery in Mycobacterium genomes but can be adapted broadly to other bacteria.
+  We deploy DEPhT to demonstrate that prophages are prevalent in Mycobacterium strains
+  but are absent not only from the few well-characterized Mycobacterium tuberculosis
+  strains, but also are absent from all {$\sim$}30 000 sequenced M. tuberculosis strains.
+author: Gauthier, Christian H and Abad, Lawrence and Venbakkam, Ananya K and Malnak,
+  Julia and Russell, Daniel A and Hatfull, Graham F
+author_list:
+- family: Gauthier
+  given: Christian H
+- family: Abad
+  given: Lawrence
+- family: Venbakkam
+  given: Ananya K
+- family: Malnak
+  given: Julia
+- family: Russell
+  given: Daniel A
+- family: Hatfull
+  given: Graham F
+doi: 10.1093/nar/gkac273
+file: /home/wizard/Documents/gkac273.pdf
+files: []
+issn: 0305-1048, 1362-4962
+journal: Nucleic Acids Research
+langid: english
+month: April
+pages: gkac273
+papis_id: 8b688a37dfded5055dc18a631e8deb8d
+ref: DephtANovelGauthi2022
+shorttitle: '{{DEPhT}}'
+title: 'DEPhT: A Novel Approach for Efficient Prophage Discovery and Precise Extraction'
+type: article
+urldate: '2022-04-26'
+year: '2022'

@@ -1,0 +1,37 @@
+abstract: Production of antigenic peptides that serve as MHC class I ligands is essential
+  for initiation of cell-mediated immunity. Accumulating evidence indicates that the
+  proteasome, a large multisubunit protein deg radative machine in eukaryotes, functions
+  as a processing enzyme responsible for the generation of MHC class I ligands. This
+  processing system is elaborately regulated by various immunomodulatory cytokines.
+  In particular, interferon-gamma induces the formation of immunoproteasomes and a
+  recently identified proteasomal regulatory factor. PA28, which in concert contribute
+  to efficient production of MHC class I ligands. Many of the MHC-encoded genes including
+  LMP appear to have emerged by an ancient chromosomal duplication, suggesting that
+  modifications and renewal of pre-existing non-immune genes were instrumental in
+  the emergence of adaptive immunity.
+author: Tanaka, K. and Kasahara, M.
+author_list:
+- family: Tanaka
+  given: K.
+- family: Kasahara
+  given: M.
+doi: 10.1111/j.1600-065x.1998.tb01195.x
+files: []
+issn: 0105-2896
+journal: Immunological Reviews
+keywords: Amino Acid Sequence,Animals,Antigen Presentation,Chromosome Mapping,Cysteine
+  Endopeptidases,Enzyme Activation,Gene Expression Regulation,Histocompatibility Antigens
+  Class I,Humans,Interferon-gamma,Ligands,Molecular Sequence Data,Multienzyme Complexes,Muscle
+  Proteins,Proteasome Endopeptidase Complex,Protein Conformation,Proteins,Ubiquitins
+langid: english
+month: June
+pages: 161--176
+papis_id: 615aafa2e6e9ff8572783888b742b587
+pmid: '9700509'
+ref: TheMhcClassITanaka1998
+shorttitle: The {{MHC}} Class {{I}} Ligand-Generating System
+title: 'The MHC Class I Ligand-Generating System: Roles of Immunoproteasomes and the
+  Interferon-Gamma-Inducible Proteasome Activator PA28'
+type: article
+volume: '163'
+year: '1998'

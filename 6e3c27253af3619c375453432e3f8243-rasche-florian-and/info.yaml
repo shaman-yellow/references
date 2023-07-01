@@ -1,0 +1,28 @@
+author: Rasche, Florian and Svatoš, Aleš and Maddula, Ravi Kumar and Böttcher, Christoph
+  and Böcker, Sebastian
+author_list:
+- family: Rasche
+  given: Florian
+- family: Svatoš
+  given: Aleš
+- family: Maddula
+  given: Ravi Kumar
+- family: Böttcher
+  given: Christoph
+- family: Böcker
+  given: Sebastian
+doi: 10.1021/ac101825k
+files: []
+issn: 0003-2700, 1520-6882
+journal: Analytical Chemistry
+langid: english
+month: February
+number: '4'
+pages: 1243--1251
+papis_id: 1f4944c8edd82e637a6af748ecdd89a7
+ref: ComputingFragmRasche2011
+title: Computing Fragmentation Trees from Tandem Mass Spectrometry Data
+type: article
+urldate: '2021-11-14'
+volume: '83'
+year: '2011'

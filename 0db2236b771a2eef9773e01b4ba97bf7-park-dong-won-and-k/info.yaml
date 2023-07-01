@@ -1,0 +1,62 @@
+abstract: 'PURPOSE: The purpose of this study is to investigate the effect of serial
+  lysophosphatidylcholine (LPC) measurement on 28-day mortality prediction in patients
+  with severe sepsis or septic shock admitted to the medical intensive care unit (ICU).
+  METHODS: This is a prospective observational study of 74 ICU patients in a tertiary
+  hospital. Serum LPC, white blood cell, C-reactive protein, and procalcitonin (PCT)
+  levels were measured at baseline (day 1 of enrollment) and day 7. The LPC concentrations
+  were compared with inflammatory markers using their absolute levels and relative
+  changes. RESULTS: The LPC concentration on day 7 was significantly lower in nonsurvivors
+  than in survivors (68.45 {$\pm$} 42.36 {$\mu$}mol/L and 99.76 {$\pm$} 73.65 {$\mu$}mol/L;
+  P = .04). A decreased LPC concentration on day 7 to its baseline as well as a sustained
+  high concentration of PCT on day 7 at more than 50\% of its baseline value was useful
+  for predicting the 28-day mortality. Prognostic utility was substantially improved
+  when combined LPC and PCT criteria were applied to 28-day mortality outcome predictions.
+  Furthermore, LPC concentrations increased over time in patients with appropriate
+  antibiotics but not in those with inappropriate antibiotics. CONCLUSIONS: Serial
+  measurements of LPC help in the prediction of 28-day mortality in ICU patients with
+  severe sepsis or septic shock.'
+author: Park, Dong Won and Kwak, Dong Shin and Park, Yun Young and Chang, Youjin and
+  Huh, Jin Won and Lim, Chae-Man and Koh, Younsuck and Song, Dong-Keun and Hong, Sang-Bum
+author_list:
+- family: Park
+  given: Dong Won
+- family: Kwak
+  given: Dong Shin
+- family: Park
+  given: Yun Young
+- family: Chang
+  given: Youjin
+- family: Huh
+  given: Jin Won
+- family: Lim
+  given: Chae-Man
+- family: Koh
+  given: Younsuck
+- family: Song
+  given: Dong-Keun
+- family: Hong
+  given: Sang-Bum
+doi: 10.1016/j.jcrc.2014.05.003
+file: /mnt/data/wizard/Zotero/storage/V58TNXSP/Park et al. - 2014 - Impact of serial
+  measurements of lysophosphatidylc.pdf
+files: []
+issn: 1557-8615
+journal: Journal of Critical Care
+keywords: Aged,APACHE,Biomarkers,C-Reactive Protein,Calcitonin,Calcitonin Gene-Related
+  Peptide,Female,Hospitalization,Humans,Intensive care unit,Intensive Care Units,Lymphocyte
+  Count,Lysophosphatidylcholine,Lysophosphatidylcholines,Male,Middle Aged,Mortality,Organ
+  Dysfunction Scores,Predictive Value of Tests,Prognosis,Prospective Studies,Protein
+  Precursors,Sepsis,Septic shock,Severe sepsis,{Shock, Septic},Time Factors
+langid: english
+month: October
+number: '5'
+pages: 882.e5-11
+papis_id: af84abd824865c4ba6cce306188562e9
+pmid: '24961965'
+ref: ImpactOfSeriaPark2014
+title: Impact of Serial Measurements of Lysophosphatidylcholine on 28-Day Mortality
+  Prediction in Patients Admitted to the Intensive Care Unit with Severe Sepsis or
+  Septic Shock
+type: article
+volume: '29'
+year: '2014'

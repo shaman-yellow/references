@@ -1,0 +1,56 @@
+abstract: Cytoscape is an open source software project for integrating biomolecular
+  interaction networks with high-throughput expression data and other molecular states
+  into a unified conceptual framework. Although applicable to any system of molecular
+  components and interactions, Cytoscape is most powerful when used in conjunction
+  with large databases of protein-protein, protein-DNA, and genetic interactions that
+  are increasingly available for humans and model organisms. Cytoscape's software
+  Core provides basic functionality to layout and query the network; to visually integrate
+  the network with expression profiles, phenotypes, and other molecular states; and
+  to link the network to databases of functional annotations. The Core is extensible
+  through a straightforward plug-in architecture, allowing rapid development of additional
+  computational analyses and features. Several case studies of Cytoscape plug-ins
+  are surveyed, including a search for interaction pathways correlating with changes
+  in gene expression, a study of protein complexes involved in cellular recovery to
+  DNA damage, inference of a combined physical/functional interaction network for               Halobacterium               ,
+  and an interface to detailed stochastic/kinetic gene regulatory models.
+author: Shannon, Paul and Markiel, Andrew and Ozier, Owen and Baliga, Nitin S. and
+  Wang, Jonathan T. and Ramage, Daniel and Amin, Nada and Schwikowski, Benno and Ideker,
+  Trey
+author_list:
+- family: Shannon
+  given: Paul
+- family: Markiel
+  given: Andrew
+- family: Ozier
+  given: Owen
+- family: Baliga
+  given: Nitin S.
+- family: Wang
+  given: Jonathan T.
+- family: Ramage
+  given: Daniel
+- family: Amin
+  given: Nada
+- family: Schwikowski
+  given: Benno
+- family: Ideker
+  given: Trey
+doi: 10/b7kgpg
+file: /mnt/data/wizard/Zotero/storage/IN2BMYU2/Shannon et al. - 2003 - Cytoscape A
+  Software Environment for Integrated M.pdf
+files: []
+issn: 1088-9051
+journal: Genome Research
+langid: english
+month: November
+number: '11'
+pages: 2498--2504
+papis_id: 96750e63826d592b2e1c3e77d9e52d2c
+ref: CytoscapeASoShanno2003
+shorttitle: Cytoscape
+title: 'Cytoscape: A Software Environment for Integrated Models of Biomolecular Interaction
+  Networks'
+type: article
+urldate: '2021-12-21'
+volume: '13'
+year: '2003'

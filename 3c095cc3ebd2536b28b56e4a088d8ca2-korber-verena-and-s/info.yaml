@@ -1,0 +1,52 @@
+abstract: Abstract                            Neuroblastoma, the most frequent solid
+  tumor in infants, shows very diverse outcomes from spontaneous regression to fatal
+  disease. When these different tumors originate and how they evolve are not known.
+  Here we quantify the somatic evolution of neuroblastoma by deep whole-genome sequencing,
+  molecular clock analysis and population-genetic modeling in a comprehensive cohort
+  covering all subtypes. We find that tumors across the entire clinical spectrum begin
+  to develop via aberrant mitoses as early as the first trimester of pregnancy. Neuroblastomas
+  with favorable prognosis expand clonally after short evolution, whereas aggressive
+  neuroblastomas show prolonged evolution during which they acquire telomere maintenance
+  mechanisms. The initial aneuploidization events condition subsequent evolution,
+  with aggressive neuroblastoma exhibiting early genomic instability. We find in the
+  discovery cohort (               n               \,=\,100), and validate in an independent
+  cohort (               n               \,=\,86), that the duration of evolution
+  is an accurate predictor of outcome. Thus, insight into neuroblastoma evolution
+  may prospectively guide treatment decisions.
+author: Körber, Verena and Stainczyk, Sabine A. and Kurilov, Roma and Henrich, Kai-Oliver
+  and Hero, Barbara and Brors, Benedikt and Westermann, Frank and Höfer, Thomas
+author_list:
+- family: Körber
+  given: Verena
+- family: Stainczyk
+  given: Sabine A.
+- family: Kurilov
+  given: Roma
+- family: Henrich
+  given: Kai-Oliver
+- family: Hero
+  given: Barbara
+- family: Brors
+  given: Benedikt
+- family: Westermann
+  given: Frank
+- family: Höfer
+  given: Thomas
+doi: 10.1038/s41588-023-01332-y
+file: /mnt/data/wizard/Zotero/storage/R8J5JD4F/Körber et al. - 2023 - Neuroblastoma
+  arises in early fetal development an.pdf
+files: []
+issn: 1061-4036, 1546-1718
+journal: Nature Genetics
+langid: english
+month: April
+number: '4'
+pages: 619--630
+papis_id: 43f41bd015b45ab35adc69389d507549
+ref: NeuroblastomaAKorber2023
+title: Neuroblastoma Arises in Early Fetal Development and Its Evolutionary Duration
+  Predicts Outcome
+type: article
+urldate: '2023-04-26'
+volume: '55'
+year: '2023'

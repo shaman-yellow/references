@@ -1,0 +1,29 @@
+author: Brown, Nathan and Fiscato, Marco and Segler, Marwin H.S. and Vaucher, Alain
+  C.
+author_list:
+- family: Brown
+  given: Nathan
+- family: Fiscato
+  given: Marco
+- family: Segler
+  given: Marwin H.S.
+- family: Vaucher
+  given: Alain C.
+doi: 10.1021/acs.jcim.8b00839
+file: /mnt/data/wizard/Zotero/storage/W2GYU8QC/Brown et al. - 2019 - GuacaMol Benchmarking
+  Models for de Novo Molecula.pdf
+files: []
+issn: 1549-9596, 1549-960X
+journal: Journal of Chemical Information and Modeling
+langid: english
+month: March
+number: '3'
+pages: 1096--1108
+papis_id: 4d5618ed0773fa197cc3c0f15b6b89ed
+ref: GuacamolBenchBrown2019
+shorttitle: '{{GuacaMol}}'
+title: 'GuacaMol: Benchmarking Models for de Novo Molecular Design'
+type: article
+urldate: '2022-04-28'
+volume: '59'
+year: '2019'

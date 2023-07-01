@@ -1,0 +1,32 @@
+author: Myers, Owen D. and Sumner, Susan J. and Li, Shuzhao and Barnes, Stephen and
+  Du, Xiuxia
+author_list:
+- family: Myers
+  given: Owen D.
+- family: Sumner
+  given: Susan J.
+- family: Li
+  given: Shuzhao
+- family: Barnes
+  given: Stephen
+- family: Du
+  given: Xiuxia
+doi: 10/gbrjtm
+files: []
+issn: 0003-2700, 1520-6882
+journal: Analytical Chemistry
+langid: english
+month: September
+number: '17'
+pages: 8696--8703
+papis_id: a990980d8757a393e142ef8586b7500d
+ref: OneStepForwarMyers2017
+shorttitle: One {{Step Forward}} for {{Reducing False Positive}} and {{False Negative
+  Compound Identifications}} from {{Mass Spectrometry Metabolomics Data}}
+title: 'One Step Forward for Reducing False Positive and False Negative Compound Identifications
+  from Mass Spectrometry Metabolomics Data: New Algorithms for Constructing Extracted
+  Ion Chromatograms and Detecting Chromatographic Peaks'
+type: article
+urldate: '2021-12-17'
+volume: '89'
+year: '2017'

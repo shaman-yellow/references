@@ -1,0 +1,26 @@
+author: Shen, Huibin and Dührkop, Kai and Böcker, Sebastian and Rousu, Juho
+author_list:
+- family: Shen
+  given: Huibin
+- family: Dührkop
+  given: Kai
+- family: Böcker
+  given: Sebastian
+- family: Rousu
+  given: Juho
+doi: 10.1093/bioinformatics/btu275
+files: []
+issn: 1460-2059, 1367-4803
+journal: Bioinformatics
+langid: english
+month: June
+number: '12'
+pages: i157-i164
+papis_id: d6ff3ca9e750e23c90ad39727d4d798a
+ref: MetaboliteIdenShen2014
+title: Metabolite Identification through Multiple Kernel Learning on Fragmentation
+  Trees
+type: article
+urldate: '2021-11-14'
+volume: '30'
+year: '2014'

@@ -1,0 +1,54 @@
+abstract: Per- and polyfluoroalkyl substances (PFASs) are a large and diverse class
+  of chemicals of great interest due to their wide commercial applicability, as well  as
+  increasing public concern regarding their adverse impacts. A common  terminology
+  for PFASs was recommended in 2011, including broad categorization and  detailed
+  naming for many PFASs with rather simple molecular structures. Recent  advancements
+  in chemical analysis have enabled identification of a wide variety  of PFASs that
+  are not covered by this common terminology. The resulting  inconsistency in categorizing
+  and naming of PFASs is preventing efficient  assimilation of reported information.
+  This article explores how a combination of  expert knowledge and cheminformatics
+  approaches could help address this challenge  in a systematic manner. First, the
+  "splitPFAS" approach was developed to  systematically subdivide PFASs (for eventual
+  categorization) following a  C(n)F(2n+1)-X-R pattern into their various parts, with
+  a particular focus on 4  PFAS categories where X is CO, SO(2), CH(2) and CH(2)CH(2).
+  Then, the open,  ontology-based "ClassyFire" approach was tested for potential applicability
+  to  categorizing and naming PFASs using five scenarios of original and simplified  structures
+  based on the "splitPFAS" output. This workflow was applied to a set of  770 PFASs
+  from the latest OECD PFAS list. While splitPFAS categorized PFASs as  intended,
+  the ClassyFire results were mixed. These results reveal that open  cheminformatics
+  approaches have the potential to assist in categorizing PFASs in  a consistent manner,
+  while much development is needed for future systematic  naming of PFASs. The "splitPFAS"
+  tool and related code are publicly available,  and include options to extend this
+  proof-of-concept to encompass further PFASs in  the future.
+address: '{England}'
+author: Sha, Bo and Schymanski, Emma L. and Ruttkies, Christoph and Cousins, Ian T.
+  and Wang, Zhanyun
+author_list:
+- family: Sha
+  given: Bo
+- family: Schymanski
+  given: Emma L.
+- family: Ruttkies
+  given: Christoph
+- family: Cousins
+  given: Ian T.
+- family: Wang
+  given: Zhanyun
+doi: 10.1039/c9em00321e
+files: []
+issn: 2050-7895 2050-7887
+journal: Environmental science. Processes \& impacts
+keywords: '*Cheminformatics,*Fluorocarbons/chemistry/classification,Humans,Molecular
+  Structure'
+langid: english
+month: November
+number: '11'
+pages: 1835--1851
+papis_id: 070e427c83808b640dab876eaeaf15f8
+pmid: '31576380'
+ref: ExploringOpenShaB2019
+title: Exploring Open Cheminformatics Approaches for Categorizing Per- and Polyfluoroalkyl
+  Substances (PFASs).
+type: article
+volume: '21'
+year: '2019'

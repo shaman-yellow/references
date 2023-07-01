@@ -1,0 +1,31 @@
+author: Picart-Armada, Sergio and Fernandez-Albert, Francesc and Vinaixa, Maria and
+  Rodriguez, Miguel A. and Aivio, Suvi and Stracker, Travis H. and Yanes, Oscar and
+  Perera-Lluna, Alexandre
+author_list:
+- family: Picart-Armada
+  given: Sergio
+- family: Fernandez-Albert
+  given: Francesc
+- family: Vinaixa
+  given: Maria
+- family: Rodriguez
+  given: Miguel A.
+- family: Aivio
+  given: Suvi
+- family: Stracker
+  given: Travis H.
+- family: Yanes
+  given: Oscar
+- family: Perera-Lluna
+  given: Alexandre
+doi: 10.1371/journal.pone.0189012
+files: []
+journal: PLOS ONE
+number: '12'
+pages: e0189012
+papis_id: 15ea4789c673dad66c7cb8969c792c8a
+ref: NullDiffusionPicart2017
+title: Null Diffusion-Based Enrichment for Metabolomics Data
+type: article
+volume: '12'
+year: '2017'

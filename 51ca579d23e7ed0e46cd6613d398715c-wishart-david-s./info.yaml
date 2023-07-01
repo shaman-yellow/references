@@ -1,0 +1,34 @@
+abstract: Metabolomics is an emerging 'omics' science involving the comprehensive
+  characterization of metabolites and metabolism in biological systems. Recent advances
+  in metabolomics technologies are leading to a growing number of mainstream biomedical
+  applications. In particular, metabolomics is increasingly being used to diagnose
+  disease, understand disease mechanisms, identify novel drug targets, customize drug
+  treatments and monitor therapeutic outcomes. This Review discusses some of the latest
+  technological advances in metabolomics, focusing on the application of metabolomics
+  towards uncovering the underlying causes of complex diseases (such as atherosclerosis,
+  cancer and diabetes), the growing role of metabolomics in drug discovery and its
+  potential effect on precision medicine.
+author: Wishart, David S.
+author_list:
+- family: Wishart
+  given: David S.
+doi: 10.1038/nrd.2016.32
+file: /mnt/data/wizard/Zotero/storage/N6S7EV79/Wishart - 2016 - Emerging applications
+  of metabolomics in drug disc.pdf
+files: []
+issn: 1474-1784
+journal: Nature Reviews. Drug Discovery
+keywords: Animals,Atherosclerosis,Biomarkers,Clinical Trials as Topic,Diabetes Mellitus,Drug
+  Discovery,{Drug Evaluation, Preclinical},Humans,Metabolomics,Neoplasms,Precision
+  Medicine
+langid: english
+month: July
+number: '7'
+pages: 473--484
+papis_id: 1faa4a58f1ec6a61a94495ea62b93ae2
+pmid: '26965202'
+ref: EmergingApplicWishar2016
+title: Emerging Applications of Metabolomics in Drug Discovery and Precision Medicine
+type: article
+volume: '15'
+year: '2016'

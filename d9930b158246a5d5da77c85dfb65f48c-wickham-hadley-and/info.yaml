@@ -1,0 +1,21 @@
+author: Wickham, Hadley and Henry, Lionel and Pedersen, Thomas Lin and Luciani, T
+  Jake and Decorde, Matthieu and Lise, Vaudor
+author_list:
+- family: Wickham
+  given: Hadley
+- family: Henry
+  given: Lionel
+- family: Pedersen
+  given: Thomas Lin
+- family: Luciani
+  given: T Jake
+- family: Decorde
+  given: Matthieu
+- family: Lise
+  given: Vaudor
+files: []
+papis_id: 770cef8015a5d5fa69ee1a73f633b411
+ref: SvgliteAnSvWickha2022
+title: 'Svglite: An ''SVG'' Graphics Device'
+type: Manual
+year: '2022'

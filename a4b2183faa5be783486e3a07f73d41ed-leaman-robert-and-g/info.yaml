@@ -1,0 +1,24 @@
+address: '{Kohala Coast, Hawaii, USA}'
+author: Leaman, Robert and Gonzalez, Graciela
+author_list:
+- family: Leaman
+  given: Robert
+- family: Gonzalez
+  given: Graciela
+booktitle: Biocomputing 2008
+doi: 10.1142/9789812776136_0062
+file: /mnt/data/wizard/Zotero/storage/FPMNCK2C/Leaman and Gonzalez - 2007 - BANNER
+  AN EXECUTABLE SURVEY OF ADVANCES IN BIOMED.pdf
+files: []
+isbn: 978-981-277-608-2 978-981-277-613-6
+langid: english
+month: December
+pages: 652--663
+papis_id: ccf8a9490dde5115fcf0a5fbc7f6b0b5
+publisher: '{WORLD SCIENTIFIC}'
+ref: BannerAnExecLeaman2007
+shorttitle: '{{BANNER}}'
+title: 'BANNER: AN EXECUTABLE SURVEY OF ADVANCES IN BIOMEDICAL NAMED ENTITY RECOGNITION'
+type: inproceedings
+urldate: '2022-07-19'
+year: '2007'

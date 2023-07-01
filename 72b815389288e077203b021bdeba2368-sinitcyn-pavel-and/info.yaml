@@ -1,0 +1,74 @@
+abstract: Abstract             MaxDIA is a software platform for analyzing data-independent
+  acquisition (DIA) proteomics data within the MaxQuant software environment. Using
+  spectral libraries, MaxDIA achieves deep proteome coverage with substantially better
+  coefficients of variation in protein quantification than other software. MaxDIA
+  is equipped with accurate false discovery rate (FDR) estimates on both library-to-DIA
+  match and protein levels, including when using whole-proteome predicted spectral
+  libraries. This is the foundation of discovery DIA\textemdash hypothesis-free analysis
+  of DIA samples without library and with reliable FDR control. MaxDIA performs three-
+  or four-dimensional feature detection of fragment data, and scoring of matches is
+  augmented by machine learning on the features of an identification. MaxDIA's bootstrap
+  DIA workflow performs multiple rounds of matching with increasing quality of recalibration
+  and stringency of matching to the library. Combining MaxDIA with two new technologies\textemdash
+  BoxCar acquisition and trapped ion mobility spectrometry\textemdash both lead to
+  deep and accurate proteome quantification.
+author: Sinitcyn, Pavel and Hamzeiy, Hamid and Salinas Soto, Favio and Itzhak, Daniel
+  and McCarthy, Frank and Wichmann, Christoph and Steger, Martin and Ohmayer, Uli
+  and Distler, Ute and Kaspar-Schoenefeld, Stephanie and Prianichnikov, Nikita and
+  Yılmaz, Şule and Rudolph, Jan Daniel and Tenzer, Stefan and Perez-Riverol, Yasset
+  and Nagaraj, Nagarjuna and Humphrey, Sean J. and Cox, Jürgen
+author_list:
+- family: Sinitcyn
+  given: Pavel
+- family: Hamzeiy
+  given: Hamid
+- family: Salinas Soto
+  given: Favio
+- family: Itzhak
+  given: Daniel
+- family: McCarthy
+  given: Frank
+- family: Wichmann
+  given: Christoph
+- family: Steger
+  given: Martin
+- family: Ohmayer
+  given: Uli
+- family: Distler
+  given: Ute
+- family: Kaspar-Schoenefeld
+  given: Stephanie
+- family: Prianichnikov
+  given: Nikita
+- family: Yılmaz
+  given: Şule
+- family: Rudolph
+  given: Jan Daniel
+- family: Tenzer
+  given: Stefan
+- family: Perez-Riverol
+  given: Yasset
+- family: Nagaraj
+  given: Nagarjuna
+- family: Humphrey
+  given: Sean J.
+- family: Cox
+  given: Jürgen
+doi: 10.1038/s41587-021-00968-7
+file: /mnt/data/wizard/Zotero/storage/JNSUGHLN/Sinitcyn et al. - 2021 - MaxDIA enables
+  library-based and library-free data.pdf
+files: []
+issn: 1087-0156, 1546-1696
+journal: Nature Biotechnology
+langid: english
+month: December
+number: '12'
+pages: 1563--1573
+papis_id: cccd085cd535ce26fed37e15d76bf24d
+ref: MaxdiaEnablesSinitc2021
+title: MaxDIA Enables Library-Based and Library-Free Data-Independent Acquisition
+  Proteomics
+type: article
+urldate: '2022-04-02'
+volume: '39'
+year: '2021'

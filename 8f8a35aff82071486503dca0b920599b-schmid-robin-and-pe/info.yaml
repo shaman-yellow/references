@@ -1,0 +1,136 @@
+abstract: Abstract             Molecular networking connects mass spectra of molecules
+  based on the similarity of their fragmentation patterns. However, during ionization,
+  molecules commonly form multiple ion species with different fragmentation behavior.
+  As a result, the fragmentation spectra of these ion species often remain unconnected
+  in tandem mass spectrometry-based molecular networks, leading to redundant and disconnected
+  sub-networks of the same compound classes. To overcome this bottleneck, we develop
+  Ion Identity Molecular Networking (IIMN) that integrates chromatographic peak shape
+  correlation analysis into molecular networks to connect and collapse different ion
+  species of the same molecule. The new feature relationships improve network connectivity
+  for structurally related molecules, can be used to reveal unknown ion-ligand complexes,
+  enhance annotation within molecular networks, and facilitate the expansion of spectral
+  reference libraries. IIMN is integrated into various open source feature finding
+  tools and the GNPS environment. Moreover, IIMN-based spectral libraries with a broad
+  coverage of ion species are publicly available.
+author: Schmid, Robin and Petras, Daniel and Nothias, Louis-Félix and Wang, Mingxun
+  and Aron, Allegra T. and Jagels, Annika and Tsugawa, Hiroshi and Rainer, Johannes
+  and Garcia-Aloy, Mar and Dührkop, Kai and Korf, Ansgar and Pluskal, Tomáš and Kameník,
+  Zdeněk and Jarmusch, Alan K. and Caraballo-Rodr\ǵuez, Andrés Mauricio and Weldon,
+  Kelly C. and Nothias-Esposito, Melissa and Aksenov, Alexander A. and Bauermeister,
+  Anelize and Albarracin Orio, Andrea and Grundmann, Carlismari O. and Vargas, Fernando
+  and Koester, Irina and Gauglitz, Julia M. and Gentry, Emily C. and Hövelmann, Yannick
+  and Kalinina, Svetlana A. and Pendergraft, Matthew A. and Panitchpakdi, Morgan and
+  Tehan, Richard and Le Gouellec, Audrey and Aleti, Gajender and Mannochio Russo,
+  Helena and Arndt, Birgit and Hübner, Florian and Hayen, Heiko and Zhi, Hui and Raffatellu,
+  Manuela and Prather, Kimberly A. and Aluwihare, Lihini I. and Böcker, Sebastian
+  and McPhail, Kerry L. and Humpf, Hans-Ulrich and Karst, Uwe and Dorrestein, Pieter
+  C.
+author_list:
+- family: Schmid
+  given: Robin
+- family: Petras
+  given: Daniel
+- family: Nothias
+  given: Louis-Félix
+- family: Wang
+  given: Mingxun
+- family: Aron
+  given: Allegra T.
+- family: Jagels
+  given: Annika
+- family: Tsugawa
+  given: Hiroshi
+- family: Rainer
+  given: Johannes
+- family: Garcia-Aloy
+  given: Mar
+- family: Dührkop
+  given: Kai
+- family: Korf
+  given: Ansgar
+- family: Pluskal
+  given: Tomáš
+- family: Kameník
+  given: Zdeněk
+- family: Jarmusch
+  given: Alan K.
+- family: Caraballo-Rodr\ǵuez
+  given: Andrés Mauricio
+- family: Weldon
+  given: Kelly C.
+- family: Nothias-Esposito
+  given: Melissa
+- family: Aksenov
+  given: Alexander A.
+- family: Bauermeister
+  given: Anelize
+- family: Albarracin Orio
+  given: Andrea
+- family: Grundmann
+  given: Carlismari O.
+- family: Vargas
+  given: Fernando
+- family: Koester
+  given: Irina
+- family: Gauglitz
+  given: Julia M.
+- family: Gentry
+  given: Emily C.
+- family: Hövelmann
+  given: Yannick
+- family: Kalinina
+  given: Svetlana A.
+- family: Pendergraft
+  given: Matthew A.
+- family: Panitchpakdi
+  given: Morgan
+- family: Tehan
+  given: Richard
+- family: Le Gouellec
+  given: Audrey
+- family: Aleti
+  given: Gajender
+- family: Mannochio Russo
+  given: Helena
+- family: Arndt
+  given: Birgit
+- family: Hübner
+  given: Florian
+- family: Hayen
+  given: Heiko
+- family: Zhi
+  given: Hui
+- family: Raffatellu
+  given: Manuela
+- family: Prather
+  given: Kimberly A.
+- family: Aluwihare
+  given: Lihini I.
+- family: Böcker
+  given: Sebastian
+- family: McPhail
+  given: Kerry L.
+- family: Humpf
+  given: Hans-Ulrich
+- family: Karst
+  given: Uwe
+- family: Dorrestein
+  given: Pieter C.
+doi: 10.1038/s41467-021-23953-9
+file: /mnt/data/wizard/Zotero/storage/7CTUGC53/Schmid et al. - 2021 - Ion identity
+  molecular networking for mass spectro.pdf
+files: []
+issn: 2041-1723
+journal: Nature Communications
+langid: english
+month: December
+number: '1'
+pages: '3832'
+papis_id: 30166b988b6098db704afd3ea533d63d
+ref: IonIdentityMoSchmid2021
+title: Ion Identity Molecular Networking for Mass Spectrometry-Based Metabolomics
+  in the GNPS Environment
+type: article
+urldate: '2021-11-15'
+volume: '12'
+year: '2021'

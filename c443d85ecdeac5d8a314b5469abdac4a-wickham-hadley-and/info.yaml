@@ -1,0 +1,16 @@
+author: Wickham, Hadley and François, Romain and Henry, Lionel and Müller, Kirill
+author_list:
+- family: Wickham
+  given: Hadley
+- family: François
+  given: Romain
+- family: Henry
+  given: Lionel
+- family: Müller
+  given: Kirill
+files: []
+papis_id: 9b200526489d73b51f5b6d6060c699b1
+ref: DplyrAGrammaWickha2022
+title: 'Dplyr: A Grammar of Data Manipulation'
+type: Manual
+year: '2022'

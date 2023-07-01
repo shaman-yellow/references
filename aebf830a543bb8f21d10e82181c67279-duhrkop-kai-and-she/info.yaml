@@ -1,0 +1,42 @@
+abstract: Metabolites provide a direct functional signature of cellular state. Untargeted
+  metabolomics experiments usually rely on tandem MS to identify the thousands of
+  compounds in a biological sample. Today, the vast majority of metabolites remain
+  unknown. We present a method for searching molecular structure databases using tandem
+  MS data of small molecules. Our method computes a fragmentation tree that best explains
+  the fragmentation spectrum of an unknown molecule. We use the fragmentation tree
+  to predict the molecular structure fingerprint of the unknown compound using machine
+  learning. This fingerprint is then used to search a molecular structure database
+  such as PubChem. Our method is shown to improve on the competing methods for computational
+  metabolite identification by a considerable margin.
+author: Dührkop, Kai and Shen, Huibin and Meusel, Marvin and Rousu, Juho and Böcker,
+  Sebastian
+author_list:
+- family: Dührkop
+  given: Kai
+- family: Shen
+  given: Huibin
+- family: Meusel
+  given: Marvin
+- family: Rousu
+  given: Juho
+- family: Böcker
+  given: Sebastian
+doi: 10.1073/pnas.1509788112
+file: /mnt/data/wizard/Zotero/storage/ZS78WHRR/Dührkop et al. - 2015 - Searching molecular
+  structure databases with tande.pdf
+files: []
+issn: 0027-8424, 1091-6490
+journal: Proceedings of the National Academy of Sciences
+langid: english
+month: October
+number: '41'
+pages: 12580--12585
+papis_id: da59d8312474e48dbb6f1593ce54691c
+ref: SearchingMolecDuhrko2015
+shorttitle: Searching Molecular Structure Databases with Tandem Mass Spectra Using
+  {{CSI}}
+title: Searching Molecular Structure Databases with Tandem Mass Spectra Using CSI:FingerID
+type: article
+urldate: '2021-11-14'
+volume: '112'
+year: '2015'

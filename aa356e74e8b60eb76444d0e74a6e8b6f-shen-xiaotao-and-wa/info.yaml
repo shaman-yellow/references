@@ -1,0 +1,55 @@
+abstract: Large-scale metabolite annotation is a challenge in liquid chromatogram-mass
+  spectrometry (LC-MS)-based untargeted metabolomics. Here, we develop a metabolic
+  reaction network (MRN)-based recursive algorithm (MetDNA) that expands metabolite
+  annotations without the need for a comprehensive standard spectral library. MetDNA
+  is based on the rationale that seed metabolites and their reaction-paired neighbors
+  tend to share structural similarities resulting in similar MS2 spectra. MetDNA characterizes
+  initial seed metabolites using a small library of MS2 spectra, and utilizes their
+  experimental MS2 spectra as surrogate spectra to annotate their reaction-paired
+  neighbor metabolites, which subsequently serve as the basis for recursive analysis.
+  Using different LC-MS platforms, data acquisition methods, and biological samples,
+  we showcase the utility and versatility of MetDNA and demonstrate that about 2000
+  metabolites can cumulatively be annotated from one experiment. Our results demonstrate
+  that MetDNA substantially expands metabolite annotation, enabling quantitative assessment
+  of metabolic pathways and facilitating integrative multi-omics analysis.
+author: Shen, Xiaotao and Wang, Ruohong and Xiong, Xin and Yin, Yandong and Cai, Yuping
+  and Ma, Zaijun and Liu, Nan and Zhu, Zheng-Jiang
+author_list:
+- family: Shen
+  given: Xiaotao
+- family: Wang
+  given: Ruohong
+- family: Xiong
+  given: Xin
+- family: Yin
+  given: Yandong
+- family: Cai
+  given: Yuping
+- family: Ma
+  given: Zaijun
+- family: Liu
+  given: Nan
+- family: Zhu
+  given: Zheng-Jiang
+doi: 10.1038/s41467-019-09550-x
+file: /mnt/data/wizard/Zotero/storage/PYLPE6ZW/Shen et al. - 2019 - Metabolic reaction
+  network-based recursive metabol.pdf
+files: []
+issn: 2041-1723
+journal: Nature Communications
+keywords: Algorithms,Animals,{Chromatography, Liquid},{Databases, Factual},Drosophila,Gene
+  Expression Regulation,Gluconeogenesis,Metabolic Networks and Pathways,Metabolome,Metabolomics,{Models,
+  Biological},Tandem Mass Spectrometry,Transcriptome
+langid: english
+month: April
+number: '1'
+pages: '1516'
+papis_id: 4c3953273547919eb8e10d38500f2fb3
+pmcid: PMC6447530
+pmid: '30944337'
+ref: MetabolicReactShen2019
+title: Metabolic Reaction Network-Based Recursive Metabolite Annotation for Untargeted
+  Metabolomics
+type: article
+volume: '10'
+year: '2019'

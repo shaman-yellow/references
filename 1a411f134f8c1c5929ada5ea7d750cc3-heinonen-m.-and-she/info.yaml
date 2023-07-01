@@ -1,0 +1,26 @@
+author: Heinonen, M. and Shen, H. and Zamboni, N. and Rousu, J.
+author_list:
+- family: Heinonen
+  given: M.
+- family: Shen
+  given: H.
+- family: Zamboni
+  given: N.
+- family: Rousu
+  given: J.
+doi: 10.1093/bioinformatics/bts437
+files: []
+issn: 1367-4803, 1460-2059
+journal: Bioinformatics
+langid: english
+month: September
+number: '18'
+pages: 2333--2341
+papis_id: 1f251ecf86040fb226ebb83c594be999
+ref: MetaboliteIdenHeinon2012
+title: Metabolite Identification and Molecular Fingerprint Prediction through Machine
+  Learning
+type: article
+urldate: '2021-11-14'
+volume: '28'
+year: '2012'

@@ -1,0 +1,126 @@
+abstract: Abstract                            Anti-PD-1/PD-L1 agents have transformed
+  the treatment landscape of advanced non-small cell lung cancer (NSCLC). To expand
+  our understanding of the molecular features underlying response to checkpoint inhibitors
+  in NSCLC, we describe here the first joint analysis of the Stand Up To Cancer-Mark
+  Foundation cohort, a resource of whole exome and/or RNA sequencing from 393 patients
+  with NSCLC treated with anti-PD-(L)1 therapy, along with matched clinical response
+  annotation. We identify a number of associations between molecular features and
+  outcome, including (1) favorable (for example,               ATM               altered)
+  and unfavorable (for example,               TERT               amplified) genomic
+  subgroups, (2) a prominent association between expression of inducible components
+  of the immunoproteasome and response and (3) a dedifferentiated tumor-intrinsic
+  subtype with enhanced response to checkpoint blockade. Taken together, results from
+  this cohort demonstrate the complexity of biological determinants underlying immunotherapy
+  outcomes and reinforce the discovery potential of integrative analysis within large,
+  well-curated, cancer-specific cohorts.
+author: Ravi, Arvind and Hellmann, Matthew D. and Arniella, Monica B. and Holton,
+  Mark and Freeman, Samuel S. and Naranbhai, Vivek and Stewart, Chip and Leshchiner,
+  Ignaty and Kim, Jaegil and Akiyama, Yo and Griffin, Aaron T. and Vokes, Natalie
+  I. and Sakhi, Mustafa and Kamesan, Vashine and Rizvi, Hira and Ricciuti, Biagio
+  and Forde, Patrick M. and Anagnostou, Valsamo and Riess, Jonathan W. and Gibbons,
+  Don L. and Pennell, Nathan A. and Velcheti, Vamsidhar and Digumarthy, Subba R. and
+  Mino-Kenudson, Mari and Califano, Andrea and Heymach, John V. and Herbst, Roy S.
+  and Brahmer, Julie R. and Schalper, Kurt A. and Velculescu, Victor E. and Henick,
+  Brian S. and Rizvi, Naiyer and Jänne, Pasi A. and Awad, Mark M. and Chow, Andrew
+  and Greenbaum, Benjamin D. and Luksza, Marta and Shaw, Alice T. and Wolchok, Jedd
+  and Hacohen, Nir and Getz, Gad and Gainor, Justin F.
+author_list:
+- family: Ravi
+  given: Arvind
+- family: Hellmann
+  given: Matthew D.
+- family: Arniella
+  given: Monica B.
+- family: Holton
+  given: Mark
+- family: Freeman
+  given: Samuel S.
+- family: Naranbhai
+  given: Vivek
+- family: Stewart
+  given: Chip
+- family: Leshchiner
+  given: Ignaty
+- family: Kim
+  given: Jaegil
+- family: Akiyama
+  given: Yo
+- family: Griffin
+  given: Aaron T.
+- family: Vokes
+  given: Natalie I.
+- family: Sakhi
+  given: Mustafa
+- family: Kamesan
+  given: Vashine
+- family: Rizvi
+  given: Hira
+- family: Ricciuti
+  given: Biagio
+- family: Forde
+  given: Patrick M.
+- family: Anagnostou
+  given: Valsamo
+- family: Riess
+  given: Jonathan W.
+- family: Gibbons
+  given: Don L.
+- family: Pennell
+  given: Nathan A.
+- family: Velcheti
+  given: Vamsidhar
+- family: Digumarthy
+  given: Subba R.
+- family: Mino-Kenudson
+  given: Mari
+- family: Califano
+  given: Andrea
+- family: Heymach
+  given: John V.
+- family: Herbst
+  given: Roy S.
+- family: Brahmer
+  given: Julie R.
+- family: Schalper
+  given: Kurt A.
+- family: Velculescu
+  given: Victor E.
+- family: Henick
+  given: Brian S.
+- family: Rizvi
+  given: Naiyer
+- family: Jänne
+  given: Pasi A.
+- family: Awad
+  given: Mark M.
+- family: Chow
+  given: Andrew
+- family: Greenbaum
+  given: Benjamin D.
+- family: Luksza
+  given: Marta
+- family: Shaw
+  given: Alice T.
+- family: Wolchok
+  given: Jedd
+- family: Hacohen
+  given: Nir
+- family: Getz
+  given: Gad
+- family: Gainor
+  given: Justin F.
+doi: 10.1038/s41588-023-01355-5
+file: /mnt/data/wizard/Zotero/storage/USV2TETR/Ravi et al. - 2023 - Genomic and transcriptomic
+  analysis of checkpoint .pdf
+files: []
+issn: 1061-4036, 1546-1718
+journal: Nature Genetics
+langid: english
+month: April
+papis_id: 5608de9185747e09fdabae2a943ab020
+ref: GenomicAndTraRavi2023
+title: Genomic and Transcriptomic Analysis of Checkpoint Blockade Response in Advanced
+  Non-Small Cell Lung Cancer
+type: article
+urldate: '2023-04-26'
+year: '2023'

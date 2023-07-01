@@ -1,0 +1,56 @@
+abstract: The edible and medicinal part of Inula nervosa Wall. (Xiaoheiyao) is confined
+  to its root without sufficient phytochemical and biological investigation. In this  study,
+  the secondary metabolites of root, stem, leaf, and flower of I. nervosa  Wall. were
+  visualized using Global Natural Products Social Molecular Networking  (GNPS), MolNetEnhancer,
+  XCMS(xcmsonline.scripps.edu) analysis, and `ili mapping  based on high performance
+  liquid chromatography-tandem mass spectrometry  (HPLC-MS/MS) data to reveal their
+  chemical differences. Among the 11 kinds of  chemical repertoires annotated by MolNetEnhancer
+  and 16 hits against the GNPS  library, 10-isobutyryloxy-8,9-epoxythymol isobutyrate
+  (1) was revealed as the  most dominant and responsible marker between the roots
+  and the other parts.  Moreover, a battery of unique MS features as well as differential
+  markers were  discovered from different parts of the plant. The chemical differences
+  contribute  to the bioactivity differences, which presented in the  2,2-diphenyl-1-picryl-hydrazyl
+  (DPPH)assay and H(2)O(2)-insulted HepG2 cells and  were in significant correlations
+  with the contents of 1. real-time reverse  transcription polymerase chain reaction
+  (RT-PCR)results demonstrated that I.  nervosa Wall. extracts upregulated the mRNA
+  expression of nuclear factor  E2-related factor 2(Nrf2), heme oxygenase 1(HO-1),
+  NAD(P)H quinone dehydrogenase  1 (NQO1), manganese superoxide dismutase (MnSOD),
+  and glutamate-cysteine ligase  catalytic subunit (GCLC) actors involved in antioxidative
+  response in  H(2)O(2)-challenged HepG2 cells. These findings support the roots of
+  I. nervosa  Wall. as active parts of Xiaoheiyao, and also indicate the potential
+  antioxidant  activities of other parts.
+author: Cheng, Xiang-Rong and Zhao, Wei and Dong, Wen-le and Le, Guo-Wei
+author_list:
+- family: Cheng
+  given: Xiang-Rong
+- family: Zhao
+  given: Wei
+- family: Dong
+  given: Wen-le
+- family: Le
+  given: Guo-Wei
+doi: 10.3390/molecules25204789
+file: /mnt/data/wizard/Zotero/storage/3UNN3HTA/Cheng et al. - 2020 - Chemical Space
+  Charting of Different Parts of Inul.pdf
+files: []
+issn: 1420-3049
+journal: Molecules (Basel, Switzerland)
+keywords: Antioxidant Response Elements/genetics,Antioxidants/chemistry,Biological
+  Products/pharmacology,Biphenyl Compounds/pharmacology,Flowers/genetics,Gene Expression
+  Regulation/drug effects,Glutamate-Cysteine Ligase/genetics,GNPS molecular networking,Heme
+  Oxygenase-1/genetics,Humans,Hydrogen Peroxide/toxicity,Inula/chemistry/*genetics,MolNetEnhancer,NAD(P)H
+  Dehydrogenase (Quinone)/genetics,NF-E2-Related Factor 2/*genetics,Nrf2,Picrates/pharmacology,Plant
+  Extracts/chemistry/*pharmacology,Plant Roots/*chemistry,Superoxide Dismutase/genetics,XCMS
+  online,Xiaoheiyao
+langid: english
+month: October
+number: '20'
+papis_id: fa6050bab17762c2fef7d4630de95166
+pmcid: PMC7587606
+pmid: '33086565'
+ref: ChemicalSpaceCheng2020
+title: 'Chemical Space Charting of Different Parts of Inula Nervosa Wall.: Upregulation
+  of Expression of Nrf2 and Correlated Antioxidants Enzymes.'
+type: article
+volume: '25'
+year: '2020'

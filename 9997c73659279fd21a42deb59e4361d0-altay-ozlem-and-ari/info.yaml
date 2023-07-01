@@ -1,0 +1,80 @@
+abstract: COVID-19 is associated with mitochondrial dysfunction and metabolic abnormalities,
+  including the deficiencies in nicotinamide adenine dinucleotide (NAD+ ) and glutathione
+  metabolism. Here it is investigated if administration of a mixture of combined metabolic
+  activators (CMAs) consisting of glutathione and NAD+ precursors can restore metabolic
+  function and thus aid the recovery of COVID-19 patients. CMAs include l-serine,
+  N-acetyl-l-cysteine, nicotinamide riboside, and l-carnitine tartrate, salt form
+  of l-carnitine. Placebo-controlled, open-label phase 2 study and double-blinded
+  phase 3 clinical trials are conducted to investigate the time of symptom-free recovery
+  on ambulatory patients using CMAs. The results of both studies show that the time
+  to complete recovery is significantly shorter in the CMA group (6.6~vs 9.3 d) in
+  phase 2 and (5.7~vs 9.2 d) in phase 3 trials compared to placebo group. A comprehensive
+  analysis of the plasma metabolome and proteome reveals major metabolic changes.
+  Plasma levels of proteins and metabolites associated with inflammation and antioxidant
+  metabolism are significantly improved in patients treated with CMAs as compared
+  to placebo. The results show that treating patients infected with COVID-19 with
+  CMAs lead to a more rapid symptom-free recovery, suggesting a role for such a therapeutic
+  regime in the treatment of infections leading to respiratory problems.
+author: Altay, Ozlem and Arif, Muhammad and Li, Xiangyu and Yang, Hong and Aydın,
+  Mehtap and Alkurt, Gizem and Kim, Woonghee and Akyol, Dogukan and Zhang, Cheng and
+  Dinler-Doganay, Gizem and Turkez, Hasan and Shoaie, Saeed and Nielsen, Jens and
+  Borén, Jan and Olmuscelik, Oktay and Doganay, Levent and Uhlén, Mathias and Mardinoglu,
+  Adil
+author_list:
+- family: Altay
+  given: Ozlem
+- family: Arif
+  given: Muhammad
+- family: Li
+  given: Xiangyu
+- family: Yang
+  given: Hong
+- family: Aydın
+  given: Mehtap
+- family: Alkurt
+  given: Gizem
+- family: Kim
+  given: Woonghee
+- family: Akyol
+  given: Dogukan
+- family: Zhang
+  given: Cheng
+- family: Dinler-Doganay
+  given: Gizem
+- family: Turkez
+  given: Hasan
+- family: Shoaie
+  given: Saeed
+- family: Nielsen
+  given: Jens
+- family: Borén
+  given: Jan
+- family: Olmuscelik
+  given: Oktay
+- family: Doganay
+  given: Levent
+- family: Uhlén
+  given: Mathias
+- family: Mardinoglu
+  given: Adil
+doi: 10.1002/advs.202101222
+file: /mnt/data/wizard/Zotero/storage/U8PDI7EK/Altay et al. - 2021 - Combined Metabolic
+  Activators Accelerates Recovery.pdf
+files: []
+issn: 2198-3844
+journal: Advanced Science (Weinheim, Baden-Wurttemberg, Germany)
+keywords: Adult,Aged,Antioxidants,combined metabolic activators,COVID-19,Double-Blind
+  Method,Female,Humans,Inflammation,Male,Metabolome,metabolomics,Middle Aged,omics
+  data,Proteins,Proteome,proteomics,Young Adult
+langid: english
+month: September
+number: '17'
+pages: e2101222
+papis_id: 93c94e50a327f4297873eb0996c8c956
+pmcid: PMC8420376
+pmid: '34180141'
+ref: CombinedMetaboAltay2021
+title: Combined Metabolic Activators Accelerates Recovery in Mild-to-Moderate COVID-19
+type: article
+volume: '8'
+year: '2021'

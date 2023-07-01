@@ -1,0 +1,33 @@
+author: Wu, Di and Lim, Elgene and Vaillant, François and Asselin-Labat, Marie-Liesse
+  and Visvader, Jane E. and Smyth, Gordon K.
+author_list:
+- family: Wu
+  given: Di
+- family: Lim
+  given: Elgene
+- family: Vaillant
+  given: François
+- family: Asselin-Labat
+  given: Marie-Liesse
+- family: Visvader
+  given: Jane E.
+- family: Smyth
+  given: Gordon K.
+doi: 10.1093/bioinformatics/btq401
+file: /mnt/data/wizard/Zotero/storage/5PZ5RAV5/Wu et al. - 2010 - ROAST rotation gene
+  set tests for complex microar.pdf
+files: []
+issn: 1460-2059, 1367-4803
+journal: Bioinformatics
+langid: english
+month: September
+number: '17'
+pages: 2176--2182
+papis_id: c49b9e7ffd27663d375f6b6bfd9b773c
+ref: RoastRotationWuDi2010
+shorttitle: '{{ROAST}}'
+title: 'ROAST: Rotation Gene Set Tests for Complex Microarray Experiments'
+type: article
+urldate: '2022-06-06'
+volume: '26'
+year: '2010'

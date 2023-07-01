@@ -1,0 +1,67 @@
+abstract: 'BACKGROUND: A number of computational tools for metabolism prediction have
+  been developed over the last 20~years to predict the structures of small molecules
+  undergoing biological transformation or environmental degradation. These tools were
+  largely developed to facilitate absorption, distribution, metabolism, excretion,
+  and toxicity (ADMET) studies, although there is now a growing interest in using
+  such tools to facilitate metabolomics and exposomics studies. However, their use
+  and widespread adoption is still hampered by several factors, including their limited
+  scope, breath of coverage, availability, and performance. RESULTS: To address these
+  limitations, we have developed BioTransformer, a freely available software package
+  for accurate, rapid, and comprehensive in silico metabolism prediction and compound
+  identification. BioTransformer combines a machine learning approach with a knowledge-based
+  approach to predict small molecule metabolism in human tissues (e.g. liver tissue),
+  the human gut as well as the environment (soil and water microbiota), via its metabolism
+  prediction tool. A comprehensive evaluation of BioTransformer showed that it was
+  able to outperform two state-of-the-art commercially available tools (Meteor Nexus
+  and ADMET Predictor), with precision and recall values up to 7 times better than
+  those obtained for Meteor Nexus or ADMET Predictor on the same sets of pharmaceuticals,
+  pesticides, phytochemicals or endobiotics under similar or identical constraints.
+  Furthermore BioTransformer was able to reproduce 100\% of the transformations and
+  metabolites predicted by the EAWAG pathway prediction system. Using mass spectrometry
+  data obtained from a rat experimental study with epicatechin supplementation, BioTransformer
+  was also able to correctly identify 39 previously reported epicatechin metabolites
+  via its metabolism identification tool, and suggest 28 potential metabolites, 17
+  of which matched nine monoisotopic masses for which no evidence of a previous report
+  could be found. CONCLUSION: BioTransformer can be used as an open access command-line
+  tool, or a software library. It is freely available at https://bitbucket.org/djoumbou/biotransformerjar/
+  . Moreover, it is also freely available as an open access RESTful application at
+  www.biotransformer.ca , which allows users to manually or programmatically submit
+  queries, and retrieve metabolism predictions or compound identification data.'
+author: Djoumbou-Feunang, Yannick and Fiamoncini, Jarlei and Gil-de-la-Fuente, Alberto
+  and Greiner, Russell and Manach, Claudine and Wishart, David S.
+author_list:
+- family: Djoumbou-Feunang
+  given: Yannick
+- family: Fiamoncini
+  given: Jarlei
+- family: Gil-de-la-Fuente
+  given: Alberto
+- family: Greiner
+  given: Russell
+- family: Manach
+  given: Claudine
+- family: Wishart
+  given: David S.
+doi: 10.1186/s13321-018-0324-5
+file: /mnt/data/wizard/Zotero/storage/5IREXHKJ/Djoumbou-Feunang et al. - 2019 - BioTransformer
+  a comprehensive computational tool.pdf
+files: []
+issn: 1758-2946
+journal: Journal of Cheminformatics
+keywords: Biotransformation,Enzyme-substrate specificity,Knowledge-based system,Machine
+  learning,Mass spectrometry,Metabolic pathway,Metabolism prediction,Metabolite identification,Microbial
+  degradation,Structure-based classification
+langid: english
+month: January
+number: '1'
+pages: '2'
+papis_id: 76e8ab3eab7acc8382458d25ba28adbf
+pmcid: PMC6689873
+pmid: '30612223'
+ref: BiotransformerDjoumb2019
+shorttitle: '{{BioTransformer}}'
+title: 'BioTransformer: A Comprehensive Computational Tool for Small Molecule Metabolism
+  Prediction and Metabolite Identification'
+type: article
+volume: '11'
+year: '2019'

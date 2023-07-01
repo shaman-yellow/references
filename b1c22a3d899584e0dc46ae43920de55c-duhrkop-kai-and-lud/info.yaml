@@ -1,0 +1,31 @@
+address: '{Berlin, Heidelberg}'
+author: Dührkop, Kai and Ludwig, Marcus and Meusel, Marvin and Böcker, Sebastian
+author_list:
+- family: Dührkop
+  given: Kai
+- family: Ludwig
+  given: Marcus
+- family: Meusel
+  given: Marvin
+- family: Böcker
+  given: Sebastian
+booktitle: Algorithms in {{Bioinformatics}}
+doi: 10.1007/978-3-642-40453-5_5
+editor: Hutchison, David and Kanade, Takeo and Kittler, Josef and Kleinberg, Jon M.
+  and Mattern, Friedemann and Mitchell, John C. and Naor, Moni and Nierstrasz, Oscar
+  and Pandu Rangan, C. and Steffen, Bernhard and Sudan, Madhu and Terzopoulos, Demetri
+  and Tygar, Doug and Vardi, Moshe Y. and Weikum, Gerhard and Darling, Aaron and Stoye,
+  Jens
+file: /mnt/data/wizard/Zotero/storage/NY738L3R/Dührkop et al. - 2013 - Faster Mass
+  Decomposition.pdf
+files: []
+isbn: 978-3-642-40452-8 978-3-642-40453-5
+pages: 45--58
+papis_id: 270e2b8a86e200207db33992960e9885
+publisher: '{Springer Berlin Heidelberg}'
+ref: FasterMassDecDuhrko2013
+title: Faster Mass Decomposition
+type: incollection
+urldate: '2021-11-15'
+volume: '8126'
+year: '2013'

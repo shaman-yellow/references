@@ -1,0 +1,30 @@
+author: Allaire, e̊lax JJ and Xie, Yihui and McPherson, Jonathan and Luraschi, Javier
+  and Ushey, Kevin and Atkins, Aron and Wickham, Hadley and Cheng, Joe and Chang,
+  Winston and Iannone, Richard
+author_list:
+- family: Allaire
+  given: e̊lax JJ
+- family: Xie
+  given: Yihui
+- family: McPherson
+  given: Jonathan
+- family: Luraschi
+  given: Javier
+- family: Ushey
+  given: Kevin
+- family: Atkins
+  given: Aron
+- family: Wickham
+  given: Hadley
+- family: Cheng
+  given: Joe
+- family: Chang
+  given: Winston
+- family: Iannone
+  given: Richard
+files: []
+papis_id: b14484ed9e7f3f588fe4c271ac5571a8
+ref: RmarkdownDynaAllair2022
+title: 'Rmarkdown: Dynamic Documents for R'
+type: Manual
+year: '2022'

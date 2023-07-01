@@ -1,0 +1,52 @@
+abstract: The urine metabolome constitutes a rich source of functional information
+  reflecting physiological states that are influenced by distinct conditions and  biological
+  stresses, such as responses to drug treatments or disease  manifestations. Although
+  global liquid chromatography-mass spectrometry (MS)  profiling provides the most
+  comprehensive measurement of metabolites in complex  biological samples, annotation
+  remains a challenge, and computational approaches  are necessary to translate the
+  molecular composition into biological knowledge.  Here, we investigated the use
+  of tandem MS-based enhanced molecular networks  (MolNetEnhancer) to improve the
+  metabolite annotation of urine extracts. The  samples (n = 10) were analyzed by
+  hydrophilic interaction  chromatography-quadrupole time-of-flight mass spectrometry
+  in both electrospray  ionization (ESI) modes. Consistent with other common data
+  preprocessing software,  the use of Progenesis QI led to the annotation of up to
+  20 metabolites based on  MS2 library searches, showing a high fragmentation score
+  (cosine similarity {$\geq$}  0.7), that is, {$\sim$}2\% of mass features containing
+  MS2 spectra. Molecular networking  based on library matching resulted in the annotation
+  of up to 62 urinary  compounds. Using a combination of unsupervised substructure
+  discovery (MS2LDA),  the in silico tool network annotation propagation (NAP), and
+  ClassyFire chemical  ontology, embedded in a multilayered molecular network by MolNetEnhancer,
+  we were  able to expand the chemical characterization to {$\sim$}50\% of the data
+  set. The  integrative approach led to the annotation of 275 compounds at the metabolomics  standards
+  initiative (MSI) confidence level 2, as well as 459 and 578 urinary  metabolites
+  (MSI level 3) in both negative and positive ESI modes, respectively.  The exhaustive
+  MS2-based annotation outperformed similar studies applied to  larger cohorts while
+  offering the discovery of metabolites not identified by the  MS2 library search.
+  This is the first work that effectively integrates orthogonal  annotation methods
+  and MS2-based fragmentation studies to improve metabolite  annotation in urine samples.
+author: Neto, Fausto Carnevale and Raftery, Daniel
+author_list:
+- family: Neto
+  given: Fausto Carnevale
+- family: Raftery
+  given: Daniel
+doi: 10.1021/acs.analchem.1c02041
+file: /mnt/data/wizard/Zotero/storage/XAVRQKMH/Neto and Raftery - 2021 - Expanding
+  Urinary Metabolite Annotation through In.pdf
+files: []
+issn: 1520-6882 0003-2700
+journal: Analytical chemistry
+keywords: '*Metabolomics,*Tandem Mass Spectrometry,{Chromatography, Liquid},Metabolome,Software'
+langid: english
+month: September
+number: '35'
+pages: 12001--12010
+papis_id: 87c61cafbe1ded39192497092cd0705f
+pmcid: PMC8530160
+pmid: '34436864'
+ref: ExpandingUrinaNeto2021
+title: Expanding Urinary Metabolite Annotation through Integrated Mass Spectral Similarity
+  Networking.
+type: article
+volume: '93'
+year: '2021'

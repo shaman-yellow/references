@@ -1,0 +1,28 @@
+author: Bittremieux, Wout and May, Damon H. and Bilmes, Jeffrey and Noble, William
+  Stafford
+author_list:
+- family: Bittremieux
+  given: Wout
+- family: May
+  given: Damon H.
+- family: Bilmes
+  given: Jeffrey
+- family: Noble
+  given: William Stafford
+doi: 10.1038/s41592-022-01496-1
+file: /home/echo/Documents/lite/A learned embedding for efficient joint analysis of
+  millions of mass spectra.pdf
+files: []
+issn: 1548-7091, 1548-7105
+journal: Nature Methods
+langid: english
+month: June
+number: '6'
+pages: 675--678
+papis_id: cd9ff98e9e00934a600f6b6c40e18f37
+ref: ALearnedEmbedBittre2022
+title: A Learned Embedding for Efficient Joint Analysis of Millions of Mass Spectra
+type: article
+urldate: '2022-08-01'
+volume: '19'
+year: '2022'

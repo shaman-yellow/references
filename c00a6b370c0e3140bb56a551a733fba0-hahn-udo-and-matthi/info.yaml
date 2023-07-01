@@ -1,0 +1,32 @@
+abstract: We introduce JCORE 2.0, the relaunch of a UIMA-based open software repository
+  for full-scale natural language processing originating from the Jena University
+  Language \& Information Engineering (JULIE) Lab. In an attempt to put the new release
+  of JCORE on firm software engineering ground, we uploaded it to GITHUB, a social
+  coding platform, with an underlying source code versioning system and various means
+  to support collaboration for software development and code modification management.
+  In order to automate the builds of complex NLP pipelines and properly represent
+  and track dependencies of the underlying JAVA code, we incorporated MAVEN as part
+  of our software configuration management efforts. In the meantime, we have deployed
+  our artifacts on MAVEN CENTRAL, as well. JCORE 2.0 offers a broad range of text
+  analytics functionality (mostly) for English-language scientific abstracts and full-text
+  articles, especially from the life sciences domain.
+author: Hahn, Udo and Matthies, Franz and Faessler, Erik and Hellrich, Johannes
+author_list:
+- family: Hahn
+  given: Udo
+- family: Matthies
+  given: Franz
+- family: Faessler
+  given: Erik
+- family: Hellrich
+  given: Johannes
+file: /mnt/data/wizard/Zotero/storage/SSGMPVYI/Hahn et al. - UIMA-based JCORE 2.0
+  Goes GITHUB and MAVEN CENTRAL.pdf
+files: []
+langid: english
+pages: '8'
+papis_id: 6484da42378527f7098b73c410fd0209
+ref: UimaBasedJcorHahn
+title: UIMA-based JCORE 2.0 Goes GITHUB and MAVEN CENTRAL — State-of-the-Art Software
+  Resource Engineering and Distribution of NLP Pipelines
+type: article

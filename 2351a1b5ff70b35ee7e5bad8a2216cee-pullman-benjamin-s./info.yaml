@@ -1,0 +1,55 @@
+abstract: High-throughput tandem mass spectrometry has enabled the detection and identification
+  of over 75\% of all proteins predicted to result in translated gene products in
+  the human genome. In fact, the galloping rate of data acquisition and sharing of
+  mass spectrometry data has led to the current availability of many tens of terabytes
+  of public data in thousands of human data sets. The systematic reanalysis of these
+  public data sets has been used to build a community-scale spectral library of 2.1
+  million precursors for over 1 million unique sequences from over 19,000 proteins
+  (including spectra of synthetic peptides). However, it has remained challenging
+  to find and inspect spectra of peptides covering functional protein regions or matching
+  novel proteins. ProteinExplorer addresses these challenges with an intuitive interface
+  mapping tens of millions of identifications to functional sites on nearly all human
+  proteins while maintaining provenance for every identification back to the original
+  data set and data file. Additionally, ProteinExplorer facilitates the selection
+  and inspection of HPP-compliant peptides whose spectra can be matched to spectra
+  of synthetic peptides and already includes HPP-compliant evidence for 107 missing
+  (PE2, PE3, and PE4) and 23 dubious (PE5) proteins. Finally, ProteinExplorer allows
+  users to rate spectra and to contribute to a community library of peptides entitled
+  PrEdict (Protein Existance dictionary) mapping to novel proteins but whose preliminary
+  identities have not yet been fully established with community-scale false discovery
+  rates and synthetic peptide spectra. ProteinExplorer can be now be accessed at https://massive.ucsd.edu/ProteoSAFe/protein\_explorer\_splash.jsp
+  .
+author: Pullman, Benjamin S. and Wertz, Julie and Carver, Jeremy and Bandeira, Nuno
+author_list:
+- family: Pullman
+  given: Benjamin S.
+- family: Wertz
+  given: Julie
+- family: Carver
+  given: Jeremy
+- family: Bandeira
+  given: Nuno
+doi: 10.1021/acs.jproteome.8b00496
+file: /mnt/data/wizard/Zotero/storage/GV9RSWY7/Pullman et al. - 2018 - ProteinExplorer
+  A Repository-Scale Resource for E.pdf
+files: []
+issn: 1535-3907
+journal: Journal of Proteome Research
+keywords: Algorithms,Amino Acid Sequence,big data,community-scale science,computational
+  analysis,{Databases, Protein},Datasets as Topic,human proteome,Humans,Mass Spectrometry,missing
+  proteins,peptide-spectrum match,Proteome,proteomics,Proteomics,spectral library,tandem
+  mass spectrometry,user submission
+langid: english
+month: December
+number: '12'
+pages: 4227--4234
+papis_id: 9ec2987270486e4c54d00f7ac43efd5a
+pmcid: PMC6709584
+pmid: '30985146'
+ref: ProteinexplorerPullma2018
+shorttitle: '{{ProteinExplorer}}'
+title: 'ProteinExplorer: A Repository-Scale Resource for Exploration of Protein Detection
+  in Public Mass Spectrometry Data Sets'
+type: article
+volume: '17'
+year: '2018'

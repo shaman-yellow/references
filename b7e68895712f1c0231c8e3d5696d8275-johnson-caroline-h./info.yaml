@@ -1,0 +1,37 @@
+abstract: Metabolomics, which is the profiling of metabolites in biofluids, cells
+  and tissues, is routinely applied as a tool for biomarker discovery. Owing to innovative
+  developments in informatics and analytical technologies, and the integration of
+  orthogonal biological approaches, it is now possible to expand metabolomic analyses
+  to understand the systems-level effects of metabolites. Moreover, because of the
+  inherent sensitivity of metabolomics, subtle alterations in biological pathways
+  can be detected to provide insight into the mechanisms that underlie various physiological
+  conditions and aberrant processes, including diseases.
+author: Johnson, Caroline H. and Ivanisevic, Julijana and Siuzdak, Gary
+author_list:
+- family: Johnson
+  given: Caroline H.
+- family: Ivanisevic
+  given: Julijana
+- family: Siuzdak
+  given: Gary
+doi: 10.1038/nrm.2016.25
+file: /mnt/data/wizard/Zotero/storage/EZ52WMJI/Johnson et al. - 2016 - Metabolomics
+  beyond biomarkers and towards mechan.pdf
+files: []
+issn: 1471-0080
+journal: Nature Reviews. Molecular Cell Biology
+keywords: Animals,Biomarkers,Humans,Metabolic Networks and Pathways,Metabolome,Metabolomics,Systems
+  Biology
+langid: english
+month: July
+number: '7'
+pages: 451--459
+papis_id: 8adce8dd7254364ab992090368371b99
+pmcid: PMC5729912
+pmid: '26979502'
+ref: MetabolomicsBJohnso2016
+shorttitle: Metabolomics
+title: 'Metabolomics: Beyond Biomarkers and towards Mechanisms'
+type: article
+volume: '17'
+year: '2016'

@@ -1,0 +1,46 @@
+abstract: Abstract             Identification of small molecules is a critical task
+  in various areas of life science. Recent advances in mass spectrometry have enabled
+  the collection of tandem mass spectra of small molecules from hundreds of thousands
+  of environments. To identify which molecules are present in a sample, one can search
+  mass spectra collected from the sample against millions of molecular structures
+  in small molecule databases. The existing approaches are based on chemistry domain
+  knowledge, and they fail to explain many of the peaks in mass spectra of small molecules.
+  Here, we present molDiscovery, a mass spectral database search method that improves
+  both efficiency and accuracy of small molecule identification by learning a probabilistic
+  model to match small molecules with their mass spectra. A search of over 8 million
+  spectra from the Global Natural Product Social molecular networking infrastructure
+  shows that molDiscovery correctly identify six times more unique small molecules
+  than previous methods.
+author: Cao, Liu and Guler, Mustafa and Tagirdzhanov, Azat and Lee, Yi-Yuan and Gurevich,
+  Alexey and Mohimani, Hosein
+author_list:
+- family: Cao
+  given: Liu
+- family: Guler
+  given: Mustafa
+- family: Tagirdzhanov
+  given: Azat
+- family: Lee
+  given: Yi-Yuan
+- family: Gurevich
+  given: Alexey
+- family: Mohimani
+  given: Hosein
+doi: 10.1038/s41467-021-23986-0
+file: /mnt/data/wizard/Zotero/storage/PEJ85DPA/Cao et al. - 2021 - MolDiscovery learning
+  mass spectrometry fragmenta.pdf
+files: []
+issn: 2041-1723
+journal: Nature Communications
+langid: english
+month: December
+number: '1'
+pages: '3718'
+papis_id: b4e07c92d2eb369a9222187e7a24786b
+ref: MoldiscoveryLCaoL2021
+shorttitle: '{{MolDiscovery}}'
+title: 'MolDiscovery: Learning Mass Spectrometry Fragmentation of Small Molecules'
+type: article
+urldate: '2022-04-28'
+volume: '12'
+year: '2021'

@@ -1,0 +1,49 @@
+abstract: Abstract                            Renal cell carcinomas (RCC) are classified
+  according to their histological features. Accurate classification of RCC and comprehensive
+  understanding of their metabolic dysregulation are of critical importance. Here
+  we investigate the use of metabolomic analyses to classify the main RCC subtypes
+  and to describe the metabolic variation for each subtype. To this end, we performed
+  metabolomic profiling of 65 RCC frozen samples (40 clear cell, 14 papillary and
+  11 chromophobe) using liquid chromatography-mass spectrometry. OPLS-DA multivariate
+  analysis based on metabolomic data showed clear discrimination of all three main
+  subtypes of RCC (R               2               \,=\,75.0\%, Q               2               \,=\,59.7\%).
+  The prognostic performance was evaluated using an independent cohort and showed
+  an AUROC of 0.924, 0.991 and 1 for clear cell, papillary and chromophobe RCC, respectively.
+  Further pathway analysis using the 21 top metabolites showed significant differences
+  in amino acid and fatty acid metabolism between three RCC subtypes. In conclusion,
+  this study shows that metabolomic profiling could serve as a tool that is complementary
+  to histology for RCC subtype classification. An overview of metabolic dysregulation
+  in RCC subtypes was established giving new insights into the understanding of their
+  clinical behaviour and for the development of targeted therapeutic strategies.
+author: Jing, Lun and Guigonis, Jean-Marie and Borchiellini, Delphine and Durand,
+  Matthieu and Pourcher, Thierry and Ambrosetti, Damien
+author_list:
+- family: Jing
+  given: Lun
+- family: Guigonis
+  given: Jean-Marie
+- family: Borchiellini
+  given: Delphine
+- family: Durand
+  given: Matthieu
+- family: Pourcher
+  given: Thierry
+- family: Ambrosetti
+  given: Damien
+doi: 10/gphz87
+file: /mnt/data/wizard/Zotero/storage/WXU6P9Y6/Jing et al. - 2019 - LC-MS based metabolomic
+  profiling for renal cell c.pdf
+files: []
+issn: 2045-2322
+journal: Scientific Reports
+langid: english
+month: December
+number: '1'
+pages: '15635'
+papis_id: a94d6a95c93c74c71ffd1984e2c4e693
+ref: LcMsBasedMetJing2019
+title: LC-MS Based Metabolomic Profiling for Renal Cell Carcinoma Histologic Subtypes
+type: article
+urldate: '2022-02-21'
+volume: '9'
+year: '2019'

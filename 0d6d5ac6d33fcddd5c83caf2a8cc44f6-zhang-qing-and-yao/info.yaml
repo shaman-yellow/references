@@ -1,0 +1,71 @@
+abstract: As the major component of cell membranes, phosphatidylcholine (PC) is synthesized
+  de novo in the Kennedy pathway and then undergoes extensive deacylation-reacylation
+  remodeling via Lands' cycle. The re-acylation is catalyzed by lysophosphatidylcholine
+  acyltransferase (LPCAT) and among the four LPCAT members in human, the LPCAT3 preferentially
+  introduces polyunsaturated acyl onto the sn-2 position of lysophosphatidylcholine,
+  thereby modulating the membrane fluidity and membrane protein functions therein.
+  Combining the x-ray crystallography and the cryo-electron microscopy, we determined
+  the structures of LPCAT3 in apo-, acyl donor-bound, and acyl receptor-bound states.
+  A reaction chamber was revealed in the LPCAT3 structure where the lysophosphatidylcholine
+  and arachidonoyl-CoA were positioned in two tunnels connected near to the catalytic
+  center. A side pocket was found expanding the tunnel for the arachidonoyl CoA and
+  holding the main body of arachidonoyl. The structural and functional analysis provides
+  the basis for the re-acylation of lysophosphatidylcholine and the substrate preference
+  during the reactions.
+author: Zhang, Qing and Yao, Deqiang and Rao, Bing and Jian, Liyan and Chen, Yang
+  and Hu, Kexin and Xia, Ying and Li, Shaobai and Shen, Yafeng and Qin, An and Zhao,
+  Jie and Zhou, Lu and Lei, Ming and Jiang, Xian-Cheng and Cao, Yu
+author_list:
+- family: Zhang
+  given: Qing
+- family: Yao
+  given: Deqiang
+- family: Rao
+  given: Bing
+- family: Jian
+  given: Liyan
+- family: Chen
+  given: Yang
+- family: Hu
+  given: Kexin
+- family: Xia
+  given: Ying
+- family: Li
+  given: Shaobai
+- family: Shen
+  given: Yafeng
+- family: Qin
+  given: An
+- family: Zhao
+  given: Jie
+- family: Zhou
+  given: Lu
+- family: Lei
+  given: Ming
+- family: Jiang
+  given: Xian-Cheng
+- family: Cao
+  given: Yu
+doi: 10.1038/s41467-021-27244-1
+file: /mnt/data/wizard/Zotero/storage/Z6B9VNFC/Zhang et al. - 2021 - The structural
+  basis for the phospholipid remodeli.pdf
+files: []
+issn: 2041-1723
+journal: Nature Communications
+keywords: 1-Acylglycerophosphocholine O-Acyltransferase,Acyl Coenzyme A,Acylation,Animals,Catalytic
+  Domain,Chickens,Cryoelectron Microscopy,{Crystallography, X-Ray},Lysophosphatidylcholines,{Models,
+  Molecular},Phospholipids,Protein Multimerization,Structure-Activity Relationship,Substrate
+  Specificity
+langid: english
+month: November
+number: '1'
+pages: '6869'
+papis_id: 2325019fc08ac799e36e579eaf4e7988
+pmcid: PMC8617236
+pmid: '34824256'
+ref: TheStructuralZhang2021
+title: The Structural Basis for the Phospholipid Remodeling by Lysophosphatidylcholine
+  Acyltransferase 3
+type: article
+volume: '12'
+year: '2021'

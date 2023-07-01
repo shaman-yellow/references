@@ -1,0 +1,12 @@
+author: Horan, Kevin and Girke, Thomas
+author_list:
+- family: Horan
+  given: Kevin
+- family: Girke
+  given: Thomas
+files: []
+papis_id: 6a55eb985e3b77690abb087187748ebd
+ref: ChemmineobRIHoran2021
+title: 'ChemmineOB: R Interface to a Subset of OpenBabel Functionalities'
+type: Manual
+year: '2021'

@@ -1,0 +1,66 @@
+abstract: ChEBI (http://www.ebi.ac.uk/chebi) is a database and ontology of chemical
+  entities of biological interest. Over the past few years, ChEBI has continued to
+  grow steadily in content, and has added several new features. In addition to incorporating
+  all user-requested compounds, our annotation efforts have emphasized immunology,
+  natural products and metabolites in many species. All database entries are now 'is\_a'
+  classified within the ontology, meaning that all of the chemicals are available
+  to semantic reasoning tools that harness the classification hierarchy. We have completely
+  aligned the ontology with the Open Biomedical Ontologies (OBO) Foundry-recommended
+  upper level Basic Formal Ontology. Furthermore, we have aligned our chemical classification
+  with the classification of chemical-involving processes in the Gene Ontology (GO),
+  and as a result of this effort, the majority of chemical-involving processes in
+  GO are now defined in terms of the ChEBI entities that participate in them. This
+  effort necessitated incorporating many additional biologically relevant compounds.
+  We have incorporated additional data types including reference citations, and the
+  species and component for metabolites. Finally, our website and web services have
+  had several enhancements, most notably the provision of a dynamic new interactive
+  graph-based ontology visualization.
+author: Hastings, Janna and de Matos, Paula and Dekker, Adriano and Ennis, Marcus
+  and Harsha, Bhavana and Kale, Namrata and Muthukrishnan, Venkatesh and Owen, Gareth
+  and Turner, Steve and Williams, Mark and Steinbeck, Christoph
+author_list:
+- family: Hastings
+  given: Janna
+- family: de Matos
+  given: Paula
+- family: Dekker
+  given: Adriano
+- family: Ennis
+  given: Marcus
+- family: Harsha
+  given: Bhavana
+- family: Kale
+  given: Namrata
+- family: Muthukrishnan
+  given: Venkatesh
+- family: Owen
+  given: Gareth
+- family: Turner
+  given: Steve
+- family: Williams
+  given: Mark
+- family: Steinbeck
+  given: Christoph
+doi: 10.1093/nar/gks1146
+file: /mnt/data/wizard/Zotero/storage/FPAYNCIV/Hastings et al. - 2013 - The ChEBI
+  reference database and ontology for biol.pdf
+files: []
+issn: 1362-4962
+journal: Nucleic Acids Research
+keywords: Biochemical Phenomena,Computer Graphics,{Databases, Chemical},Internet,User-Computer
+  Interface
+langid: english
+month: January
+number: Database issue
+pages: D456-463
+papis_id: 90fbcbd625e5eb6e8a4827d796bbf6de
+pmcid: PMC3531142
+pmid: '23180789'
+ref: TheChebiReferHastin2013
+shorttitle: The {{ChEBI}} Reference Database and Ontology for Biologically Relevant
+  Chemistry
+title: 'The ChEBI Reference Database and Ontology for Biologically Relevant Chemistry:
+  Enhancements for 2013'
+type: article
+volume: '41'
+year: '2013'

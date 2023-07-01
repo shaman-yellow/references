@@ -1,0 +1,43 @@
+abstract: Abnormally high expression of aryl hydrocarbon receptor (AhR) has been implicated
+  in dedifferentiation of radioiodine-refractory papillary thyroid cancer (RR-PTC).
+  This study aimed to evaluate the differentiation effect of AhR antagonist in PTC,
+  and to explore the potential mechanism of it. Results showed that AhR antagonists
+  promoted differentiation of PTC, as shown as increase in 125I uptake and Na/I symporter
+  (NIS) expression level. CircRNA microarray in K1 cells treated with StemRegenin
+  1(SR1) revealed that hsa\_circ\_0006741 (circSH2B3) was down-regulated in SR1 treated
+  K1 cells. Downregulation of circSH2B3 increased 125I uptake and NIS expression levels.
+  CircSH2B3 acted as an endogenous sponge of hsa-miR-4640-5p and modulated IGF2BP2
+  expression. IGF2BP2 overexpression induced dedifferentiation of PTC, while silencing
+  IGF2BP2 accelerated differentiation of PTC cells. Rescue studies showed that the
+  dedifferentiation activity of AhR was modulated by the circSH2B3/miR-4640-5p/IGF2BP2
+  axis. Our findings confirmed for the first time that AhR antagonists promote differentiation
+  of PTC via inhibiting the circSH2B3/miR-4640-5p/IGF2BP2 axis, offering a novel therapeutic
+  approach and a potential marker for differentiation of PTC.
+author: Sa, Ri and Guo, Meiliang and Liu, Danyan and Guan, Feng
+author_list:
+- family: Sa
+  given: Ri
+- family: Guo
+  given: Meiliang
+- family: Liu
+  given: Danyan
+- family: Guan
+  given: Feng
+doi: 10.3389/fphar.2021.795386
+file: /mnt/data/wizard/Zotero/storage/SCDRKMM9/Sa et al. - 2021 - AhR Antagonist Promotes
+  Differentiation of Papilla.pdf
+files: []
+issn: 1663-9812
+journal: Frontiers in Pharmacology
+keywords: AhR antagonist,circSH2B3,differentiation,IGF2BP2,papillary thyroid cancer
+langid: english
+pages: '795386'
+papis_id: ef4bd0e6f3afd50e50c13e153838aea7
+pmcid: PMC8733664
+pmid: '35002727'
+ref: AhrAntagonistSaRi2021
+title: AhR Antagonist Promotes Differentiation of Papillary Thyroid Cancer via Regulating
+  circSH2B3/miR-4640-5P/IGF2BP2 Axis
+type: article
+volume: '12'
+year: '2021'

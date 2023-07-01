@@ -1,0 +1,23 @@
+address: '{New York}'
+author: Smyth, G. K.
+author_list:
+- family: Smyth
+  given: G. K.
+booktitle: Bioinformatics and {{Computational Biology Solutions Using R}} and {{Bioconductor}}
+doi: 10.1007/0-387-29362-0_23
+editor: Gentleman, Robert and Carey, Vincent J. and Huber, Wolfgang and Irizarry,
+  Rafael A. and Dudoit, Sandrine
+file: /mnt/data/wizard/Zotero/storage/GRAFDMBI/Smyth - 2005 - limma Linear Models
+  for Microarray Data.pdf
+files: []
+isbn: 978-0-387-25146-2
+langid: english
+pages: 397--420
+papis_id: 209c3ef528b791f07bc32f5906b9c186
+publisher: '{Springer-Verlag}'
+ref: LimmaLinearMSmyth2005
+shorttitle: Limma
+title: 'Limma: Linear Models for Microarray Data'
+type: incollection
+urldate: '2022-06-22'
+year: '2005'

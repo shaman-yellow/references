@@ -1,0 +1,19 @@
+author: Feinerer, Ingo and Hornik, Kurt and Meyer, David
+author_list:
+- family: Feinerer
+  given: Ingo
+- family: Hornik
+  given: Kurt
+- family: Meyer
+  given: David
+files: []
+journal: Journal of Statistical Software
+month: March
+number: '5'
+pages: 1--54
+papis_id: 95a62fd29d0d7cc4195c621947f07045
+ref: TextMiningInfFeiner2008
+title: Text Mining Infrastructure in R
+type: article
+volume: '25'
+year: '2008'

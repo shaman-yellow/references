@@ -1,0 +1,16 @@
+address: '{Boca Raton, Florida}'
+author: Xie, Yihui and Dervieux, Christophe and Riederer, Emily
+author_list:
+- family: Xie
+  given: Yihui
+- family: Dervieux
+  given: Christophe
+- family: Riederer
+  given: Emily
+files: []
+papis_id: 83fb50898383d1278fd611f3863b976d
+publisher: '{Chapman and Hall/CRC}'
+ref: RMarkdownCookXieY2020
+title: R Markdown Cookbook
+type: book
+year: '2020'

@@ -1,0 +1,68 @@
+author: Ashburner, M. and Ball, C. A. and Blake, J. A. and Botstein, D. and Butler,
+  H. and Cherry, J. M. and Davis, A. P. and Dolinski, K. and Dwight, S. S. and Eppig,
+  J. T. and Harris, M. A. and Hill, D. P. and Issel-Tarver, L. and Kasarskis, A. and
+  Lewis, S. and Matese, J. C. and Richardson, J. E. and Ringwald, M. and Rubin, G.
+  M. and Sherlock, G.
+author_list:
+- family: Ashburner
+  given: M.
+- family: Ball
+  given: C. A.
+- family: Blake
+  given: J. A.
+- family: Botstein
+  given: D.
+- family: Butler
+  given: H.
+- family: Cherry
+  given: J. M.
+- family: Davis
+  given: A. P.
+- family: Dolinski
+  given: K.
+- family: Dwight
+  given: S. S.
+- family: Eppig
+  given: J. T.
+- family: Harris
+  given: M. A.
+- family: Hill
+  given: D. P.
+- family: Issel-Tarver
+  given: L.
+- family: Kasarskis
+  given: A.
+- family: Lewis
+  given: S.
+- family: Matese
+  given: J. C.
+- family: Richardson
+  given: J. E.
+- family: Ringwald
+  given: M.
+- family: Rubin
+  given: G. M.
+- family: Sherlock
+  given: G.
+doi: 10.1038/75556
+file: /mnt/data/wizard/Zotero/storage/F2CRVHHG/Ashburner et al. - 2000 - Gene ontology
+  tool for the unification of biology.pdf
+files: []
+issn: 1061-4036
+journal: Nature Genetics
+keywords: Animals,Computer Communication Networks,{Databases, Factual},Eukaryotic
+  Cells,Genes,Humans,Metaphysics,Mice,Molecular Biology,{Sequence Analysis, DNA},Terminology
+  as Topic
+langid: english
+month: May
+number: '1'
+pages: 25--29
+papis_id: 35d35ec5ae35e7d5c41d999681831f76
+pmcid: PMC3037419
+pmid: '10802651'
+ref: GeneOntologyAshbur2000
+shorttitle: Gene Ontology
+title: 'Gene Ontology: Tool for the Unification of Biology. The Gene Ontology Consortium'
+type: article
+volume: '25'
+year: '2000'

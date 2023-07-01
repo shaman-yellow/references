@@ -1,0 +1,29 @@
+author: Segler, Marwin H. S. and Kogej, Thierry and Tyrchan, Christian and Waller,
+  Mark P.
+author_list:
+- family: Segler
+  given: Marwin H. S.
+- family: Kogej
+  given: Thierry
+- family: Tyrchan
+  given: Christian
+- family: Waller
+  given: Mark P.
+doi: 10.1021/acscentsci.7b00512
+file: /mnt/data/wizard/Zotero/storage/UW3CW7VU/Segler et al. - 2018 - Generating Focused
+  Molecule Libraries for Drug Dis.pdf
+files: []
+issn: 2374-7943, 2374-7951
+journal: ACS Central Science
+langid: english
+month: January
+number: '1'
+pages: 120--131
+papis_id: 9c8f41d270124c2dc61b9c7660135c7c
+ref: GeneratingFocuSegler2018
+title: Generating Focused Molecule Libraries for Drug Discovery with Recurrent Neural
+  Networks
+type: article
+urldate: '2022-04-28'
+volume: '4'
+year: '2018'

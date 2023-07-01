@@ -1,0 +1,58 @@
+abstract: Meniscus plays an important role in joint homeostasis. Tear or degeneration
+  of meniscus might facilitate the process of knee osteoarthritis (OA). Hence, to
+  investigate the transcriptome change during meniscus degeneration, we reveal the
+  alterations of messenger RNA (mRNA), microRNA (miRNA), long noncoding RNA (lncRNA),
+  and circular RNA (circRNA) in meniscus during OA by whole-transcriptome sequence.
+  A total of 375 mRNAs, 15 miRNAs, 56 lncRNAs, and 90 circRNAs were significantly
+  altered in the degenerative meniscus treated with interleukin-1{$\beta$} (IL-1{$\beta$}).
+  More importantly, highly specific co-expression RNA (ceRNA) networks regulated by
+  lncRNA LOC107986251-miR-212-5p-SESN3 and hsa\_circ\_0018069-miR-147b-3p-TJP2 were
+  screened out during IL-induced meniscus degeneration, unveiling potential therapeutic
+  targets for meniscus degeneration during the OA process. Furthermore, lipocalin-2
+  (LCN2) and RAB27B were identified as potential biomarkers in meniscus degeneration
+  by overlapping three previously constructed databases of OA menisci. LCN2 and RAB27B
+  were both upregulated in osteoarthritic menisci and IL-1{$\beta$}-treated menisci
+  and were highly associated with the severity of OA. This could introduce potential
+  novel molecules into the database of clinical diagnostic biomarkers and possible
+  therapeutic targets for early-stage OA treatment.
+author: Jiang, Zongrui and Du, Xue and Wen, Xingzhao and Li, Hongyi and Zeng, Anyu
+  and Sun, Hao and Hu, Shu and He, Qing and Liao, Weiming and Zhang, Zhiqi
+author_list:
+- family: Jiang
+  given: Zongrui
+- family: Du
+  given: Xue
+- family: Wen
+  given: Xingzhao
+- family: Li
+  given: Hongyi
+- family: Zeng
+  given: Anyu
+- family: Sun
+  given: Hao
+- family: Hu
+  given: Shu
+- family: He
+  given: Qing
+- family: Liao
+  given: Weiming
+- family: Zhang
+  given: Zhiqi
+doi: 10.3389/fgene.2021.754421
+file: /mnt/data/wizard/Zotero/storage/B64BQXA3/Jiang et al. - 2021 - Whole-Transcriptome
+  Sequence of Degenerative Menis.pdf
+files: []
+issn: 1664-8021
+journal: Frontiers in Genetics
+keywords: co-expression network,meniscus,osteoarthiritis,RNA,whole-transcriptome sequence
+langid: english
+pages: '754421'
+papis_id: 91fa1df8d736cb0ced6fcd1e98deaade
+pmcid: PMC8554121
+pmid: '34721542'
+ref: WholeTranscripJiang2021
+title: Whole-Transcriptome Sequence of Degenerative Meniscus Cells Unveiling Diagnostic
+  Markers and Therapeutic Targets for Osteoarthritis
+type: article
+volume: '12'
+year: '2021'

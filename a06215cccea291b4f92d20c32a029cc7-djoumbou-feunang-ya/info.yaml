@@ -1,0 +1,59 @@
+abstract: Metabolite identification for untargeted metabolomics is often hampered
+  by the lack of experimentally collected reference spectra from tandem mass spectrometry
+  (MS/MS). To circumvent this problem, Competitive Fragmentation Modeling-ID (CFM-ID)
+  was developed to accurately predict electrospray ionization-MS/MS (ESI-MS/MS) spectra
+  from chemical structures and to aid in compound identification via MS/MS spectral
+  matching. While earlier versions of CFM-ID performed very well, CFM-ID's performance
+  for predicting the MS/MS spectra of certain classes of compounds, including many
+  lipids, was quite poor. Furthermore, CFM-ID's compound identification capabilities
+  were limited because it did not use experimentally available MS/MS spectra nor did
+  it exploit metadata in its spectral matching algorithm. Here, we describe significant
+  improvements to CFM-ID's performance and speed. These include (1) the implementation
+  of a rule-based fragmentation approach for lipid MS/MS spectral prediction, which
+  greatly improves the speed and accuracy of CFM-ID; (2) the inclusion of experimental
+  MS/MS spectra and other metadata to enhance CFM-ID's compound identification abilities;
+  (3) the development of new scoring functions that improves CFM-ID's accuracy by
+  21.1\%; and (4) the implementation of a chemical classification algorithm that correctly
+  classifies unknown chemicals (based on their MS/MS spectra) in {$>$}80\% of the
+  cases. This improved version called CFM-ID 3.0 is freely available as a web server.
+  Its source code is also accessible online.
+author: Djoumbou-Feunang, Yannick and Pon, Allison and Karu, Naama and Zheng, Jiamin
+  and Li, Carin and Arndt, David and Gautam, Maheswor and Allen, Felicity and Wishart,
+  David S.
+author_list:
+- family: Djoumbou-Feunang
+  given: Yannick
+- family: Pon
+  given: Allison
+- family: Karu
+  given: Naama
+- family: Zheng
+  given: Jiamin
+- family: Li
+  given: Carin
+- family: Arndt
+  given: David
+- family: Gautam
+  given: Maheswor
+- family: Allen
+  given: Felicity
+- family: Wishart
+  given: David S.
+doi: 10.3390/metabo9040072
+file: /mnt/data/wizard/Zotero/storage/NP9FNN83/Djoumbou-Feunang et al. - 2019 - CFM-ID
+  3.0 Significantly Improved ESI-MSMS Predi.pdf
+files: []
+issn: 2218-1989
+journal: Metabolites
+langid: english
+month: April
+number: '4'
+pages: '72'
+papis_id: 9630b419b6f2b47b6097a948afad0372
+ref: CfmId30SigDjoumb2019
+shorttitle: '{{CFM-ID}} 3.0'
+title: 'CFM-ID 3.0: Significantly Improved ESI-MS/MS Prediction and Compound Identification'
+type: article
+urldate: '2022-04-28'
+volume: '9'
+year: '2019'

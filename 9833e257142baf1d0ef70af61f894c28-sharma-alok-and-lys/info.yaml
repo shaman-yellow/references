@@ -1,0 +1,56 @@
+abstract: Artificial intelligence methods offer exciting new capabilities for the
+  discovery of biological mechanisms from raw data because they are able to detect
+  vastly more complex patterns of association that cannot be captured by classical
+  statistical tests. Among these methods, deep neural networks are currently among
+  the most advanced approaches and, in particular, convolutional neural networks (CNNs)
+  have been shown to perform excellently for a variety of difficult tasks. Despite
+  that applications of this type of networks to high-dimensional omics data and, most
+  importantly, meaningful interpretation of the results returned from such models
+  in a biomedical context remains an open problem. Here we present, an approach applying
+  a CNN to nonimage data for feature selection. Our pipeline, DeepFeature, can both
+  successfully transform omics data into a form that is optimal for fitting a CNN
+  model and can also return sets of the most important genes used internally for computing
+  predictions. Within the framework, the Snowfall compression algorithm is introduced
+  to enable more elements in the fixed pixel framework, and region accumulation and
+  element decoder is developed to find elements or genes from the class activation
+  maps. In comparative tests for cancer type prediction task, DeepFeature simultaneously
+  achieved superior predictive performance and better ability to discover key pathways
+  and biological processes meaningful for this context. Capabilities offered by the
+  proposed framework can enable the effective use of powerful deep learning methods
+  to facilitate the discovery of causal mechanisms in high-dimensional biomedical
+  data.
+author: Sharma, Alok and Lysenko, Artem and Boroevich, Keith A. and Vans, Edwin and
+  Tsunoda, Tatsuhiko
+author_list:
+- family: Sharma
+  given: Alok
+- family: Lysenko
+  given: Artem
+- family: Boroevich
+  given: Keith A.
+- family: Vans
+  given: Edwin
+- family: Tsunoda
+  given: Tatsuhiko
+doi: 10.1093/bib/bbab297
+file: /mnt/data/wizard/Zotero/storage/7KJKCGSE/Sharma et al. - 2021 - DeepFeature
+  feature selection in nonimage data us.pdf
+files: []
+issn: 1477-4054
+journal: Briefings in Bioinformatics
+keywords: Algorithms,Convolutional neural network,Deep Learning,DeepInsight,Feature
+  selection,Humans,{Neural Networks, Computer},Non-image data,Omics data
+langid: english
+month: November
+number: '6'
+pages: bbab297
+papis_id: a176e5869ccc8fbc4e95cc4b3e6026df
+pmcid: PMC8575039
+pmid: '34368836'
+ref: DeepfeatureFeSharma2021
+shorttitle: '{{DeepFeature}}'
+title: 'DeepFeature: Feature Selection in Nonimage Data Using Convolutional Neural
+  Network'
+type: article
+volume: '22'
+year: '2021'
