@@ -1,0 +1,23 @@
+abstract: '  Hardware-assisted trusted execution environments (TEEs) are critical
+  building blocks of many modern applications. However, they have a one-way isolation
+  model that introduces a semantic gap between a TEE and its outside world. This lack
+  of information causes an ever-increasing set of attacks on TEE-enabled applications
+  that exploit various insecure interactions with the host OSs, applications, or other
+  enclaves. We introduce Sirius, the first compartmentalization framework that achieves
+  strong isolation and secure sharing in TEE-assisted applications by controlling
+  the dataflows within primary kernel objects (e.g. threads, processes, address spaces,
+  files, sockets, pipes) in both the secure and normal worlds. Sirius replaces ad-hoc
+  interactions in current TEE systems with a principled approach that adds strong
+  inter- and intra-address space isolation and effectively eliminates a wide range
+  of attacks. We evaluate Sirius on ARM platforms and find that it is lightweight
+  ($\approx 15K$ LoC) and only adds $\approx 10.8\%$ overhead to enable TEE support
+  on applications such as httpd, and improves the performance of existing TEE-enabled
+  applications such as the Darknet ML framework and ARM''s LibDDSSec by $0.05\%-5.6\%$. '
+author: Zahra Tarkhani, Anil Madhavapeddy
+files: []
+papis_id: 03567382b860d8935b52836c09341c31
+published: '2020-09-03T18:30:02Z'
+ref: EnclaveAwareCZahra2020
+title: Enclave-Aware Compartmentalization and Secure Sharing with Sirius
+url: http://arxiv.org/abs/2009.01869v3
+year: '2020'
