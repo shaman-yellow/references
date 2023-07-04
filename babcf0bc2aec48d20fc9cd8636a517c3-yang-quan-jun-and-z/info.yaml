@@ -1,0 +1,45 @@
+author: Yang, Quan-Jun and Zhao, Jiang-Rong and Hao, Juan and Li, Bin and Huo, Yan
+  and Han, Yong-Long and Wan, Li-Li and Li, Jie and Huang, Jinlu and Lu, Jin and Yang,
+  Gen-Jin and Guo, Cheng
+author_list:
+- family: Yang
+  given: Quan-Jun
+- family: Zhao
+  given: Jiang-Rong
+- family: Hao
+  given: Juan
+- family: Li
+  given: Bin
+- family: Huo
+  given: Yan
+- family: Han
+  given: Yong-Long
+- family: Wan
+  given: Li-Li
+- family: Li
+  given: Jie
+- family: Huang
+  given: Jinlu
+- family: Lu
+  given: Jin
+- family: Yang
+  given: Gen-Jin
+- family: Guo
+  given: Cheng
+doi: 10.1002/jcsm.12246
+files:
+- serumandurineyang2017-a.pdf
+issue: '1'
+journal: Journal of Cachexia, Sarcopenia and Muscle
+month: '11'
+notes: notes.tex
+page: 71-85
+papis_id: 451b9b03d971f8aa49e43ba9e8f20a0d
+publisher: Wiley
+ref: SerumAndUrineYang2017
+title: Serum and urine metabolomics study reveals a distinct diagnostic model for
+  cancer cachexia
+type: article
+url: http://dx.doi.org/10.1002/jcsm.12246
+volume: '9'
+year: '2017'

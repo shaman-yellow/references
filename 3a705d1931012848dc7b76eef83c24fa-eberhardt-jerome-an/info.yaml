@@ -1,0 +1,40 @@
+abstract: AutoDock Vina is arguably one of the fastest and most widely used open-source
+  programs for molecular docking. However, compared to other programs in the AutoDock
+  Suite, it lacks support for modeling specific features such as macrocycles or explicit
+  water molecules. Here, we describe the implementation of this functionality in AutoDock
+  Vina 1.2.0. Additionally, AutoDock Vina 1.2.0 supports the AutoDock4.2 scoring function,
+  simultaneous docking of multiple ligands, and a batch mode for docking a large number
+  of ligands. Furthermore, we implemented Python bindings to facilitate scripting
+  and the development of docking workflows. This work is an effort toward the unification
+  of the features of the AutoDock4 and AutoDock Vina programs. The source code is
+  available at https://github.com/ccsb-scripps/AutoDock-Vina.
+author: Eberhardt, Jerome and Santos-Martins, Diogo and Tillack, Andreas F. and Forli,
+  Stefano
+author_list:
+- family: Eberhardt
+  given: Jerome
+- family: Santos-Martins
+  given: Diogo
+- family: Tillack
+  given: Andreas F.
+- family: Forli
+  given: Stefano
+doi: 10.1021/acs.jcim.1c00203
+files:
+- autodockvina1eberha2021-a.pdf
+issn: 1549-960X
+journal: Journal of Chemical Information and Modeling
+keywords: Animals,Boidae,Ligands,Molecular Docking Simulation,Software
+langid: english
+month: August
+number: '8'
+pages: 3891--3898
+papis_id: 90dd966deeaad1725c44532dfbce4b7b
+pmid: '34278794'
+ref: AutodockVina1Eberha2021
+shorttitle: '{{AutoDock Vina}} 1.2.0'
+title: 'AutoDock Vina 1.2.0: New Docking Methods, Expanded Force Field, and Python
+  Bindings'
+type: article
+volume: '61'
+year: '2021'

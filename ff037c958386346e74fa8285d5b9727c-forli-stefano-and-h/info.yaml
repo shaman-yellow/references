@@ -1,0 +1,31 @@
+author: Forli, Stefano and Huey, Ruth and Pique, Michael E and Sanner, Michel F and
+  Goodsell, David S and Olson, Arthur J
+author_list:
+- family: Forli
+  given: Stefano
+- family: Huey
+  given: Ruth
+- family: Pique
+  given: Michael E
+- family: Sanner
+  given: Michel F
+- family: Goodsell
+  given: David S
+- family: Olson
+  given: Arthur J
+doi: 10.1038/nprot.2016.051
+files:
+- computationalpforli2016-a.pdf
+issue: '5'
+journal: Nature Protocols
+month: '4'
+page: 905-919
+papis_id: 0339b566e4939e773a8397b5c13370c6
+publisher: Springer Science and Business Media LLC
+ref: ComputationalPForli2016
+title: Computational protein–ligand docking and virtual drug screening with the AutoDock
+  suite
+type: article
+url: http://dx.doi.org/10.1038/nprot.2016.051
+volume: '11'
+year: '2016'
