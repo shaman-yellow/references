@@ -1,0 +1,29 @@
+author: Su, Yufeng and Luo, Yunan and Zhao, Xiaoming and Liu, Yang and Peng, Jian
+author_list:
+- family: Su
+  given: Yufeng
+- family: Luo
+  given: Yunan
+- family: Zhao
+  given: Xiaoming
+- family: Liu
+  given: Yang
+- family: Peng
+  given: Jian
+doi: 10.1371/journal.pcbi.1007283
+files:
+- integratingthesuyu2019-a.pdf
+issue: '9'
+journal: PLOS Computational Biology
+month: '9'
+notes: notes.tex
+page: e1007283
+papis_id: 195d3d918c062a18d45890567505b604
+publisher: Public Library of Science (PLoS)
+ref: IntegratingTheSuYu2019
+title: Integrating thermodynamic and sequence contexts improves protein-RNA binding
+  prediction
+type: article
+url: http://dx.doi.org/10.1371/journal.pcbi.1007283
+volume: '15'
+year: '2019'

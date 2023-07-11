@@ -1,0 +1,29 @@
+author: Armaos, Alexandros and Colantoni, Alessio and Proietti, Gabriele and Rupert,
+  Jakob and Tartaglia, Gian Gaetano
+author_list:
+- family: Armaos
+  given: Alexandros
+- family: Colantoni
+  given: Alessio
+- family: Proietti
+  given: Gabriele
+- family: Rupert
+  given: Jakob
+- family: Tartaglia
+  given: Gian Gaetano
+doi: 10.1093/nar/gkab393
+files:
+- icatirapidarmaos2021-a.pdf
+issue: W1
+journal: Nucleic Acids Research
+month: '6'
+page: W72-W79
+papis_id: d89bc6999ae204fa0061a7d2b9c0fc1e
+publisher: Oxford University Press (OUP)
+ref: ICatIRapidArmaos2021
+title: '<i>cat</i>RAPID<i>omics v2.0</i>: going deeper and wider in the prediction
+  of protein–RNA interactions'
+type: article
+url: http://dx.doi.org/10.1093/nar/gkab393
+volume: '49'
+year: '2021'

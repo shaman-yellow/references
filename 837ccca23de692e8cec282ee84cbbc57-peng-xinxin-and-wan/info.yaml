@@ -1,0 +1,33 @@
+author: Peng, Xinxin and Wang, Xiaoyu and Guo, Yuming and Ge, Zongyuan and Li, Fuyi
+  and Gao, Xin and Song, Jiangning
+author_list:
+- family: Peng
+  given: Xinxin
+- family: Wang
+  given: Xiaoyu
+- family: Guo
+  given: Yuming
+- family: Ge
+  given: Zongyuan
+- family: Li
+  given: Fuyi
+- family: Gao
+  given: Xin
+- family: Song
+  given: Jiangning
+doi: 10.1093/bib/bbac215
+files:
+- rbptstlisatpeng2022-a.pdf
+issue: '4'
+journal: Briefings in Bioinformatics
+month: '6'
+notes: notes.tex
+papis_id: a2dd84de5c3df2e7f84888533ccd1bd2
+publisher: Oxford University Press (OUP)
+ref: RbpTstlIsATPeng2022
+title: RBP-TSTL is a two-stage transfer learning framework for genome-scale prediction
+  of RNA-binding proteins
+type: article
+url: http://dx.doi.org/10.1093/bib/bbac215
+volume: '23'
+year: '2022'

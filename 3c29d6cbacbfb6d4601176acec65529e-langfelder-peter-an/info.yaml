@@ -1,0 +1,20 @@
+author: Langfelder, Peter and Horvath, Steve
+author_list:
+- family: Langfelder
+  given: Peter
+- family: Horvath
+  given: Steve
+doi: 10.1186/1471-2105-9-559
+files:
+- wgcnaanrpaclangfe2008-a.pdf
+issue: '1'
+journal: BMC Bioinformatics
+month: '12'
+papis_id: 871d4bc0acf1c856fb8ec0d3f7d13572
+publisher: Springer Science and Business Media LLC
+ref: WgcnaAnRPacLangfe2008
+title: 'WGCNA: an R package for weighted correlation network analysis'
+type: article
+url: http://dx.doi.org/10.1186/1471-2105-9-559
+volume: '9'
+year: '2008'
