@@ -1,0 +1,54 @@
+author: Wang, Dehe and Hu, Xiao and Ye, Hanzhe and Wang, Yue and Yang, Qian and Liang,
+  Xiaodong and Wang, Zilin and Zhou, Yifan and Wen, Miaomiao and Yuan, Xueyan and
+  Zheng, Xiaomin and Ye, Wen and Guo, Boyu and Yusuyin, Mayila and Russinova, Eugenia
+  and Zhou, Yu and Wang, Kun
+author_list:
+- family: Wang
+  given: Dehe
+- family: Hu
+  given: Xiao
+- family: Ye
+  given: Hanzhe
+- family: Wang
+  given: Yue
+- family: Yang
+  given: Qian
+- family: Liang
+  given: Xiaodong
+- family: Wang
+  given: Zilin
+- family: Zhou
+  given: Yifan
+- family: Wen
+  given: Miaomiao
+- family: Yuan
+  given: Xueyan
+- family: Zheng
+  given: Xiaomin
+- family: Ye
+  given: Wen
+- family: Guo
+  given: Boyu
+- family: Yusuyin
+  given: Mayila
+- family: Russinova
+  given: Eugenia
+- family: Zhou
+  given: Yu
+- family: Wang
+  given: Kun
+doi: 10.1186/s13059-023-02886-0
+files:
+- cellspecificcwang2023-a.pdf
+issue: '1'
+journal: Genome Biology
+month: '3'
+papis_id: 7ea8744a59d5f62c8190f416fb1bd2b4
+publisher: Springer Science and Business Media LLC
+ref: CellSpecificCWang2023
+title: Cell-specific clock-controlled gene expression program regulates rhythmic fiber
+  cell growth in cotton
+type: article
+url: http://dx.doi.org/10.1186/s13059-023-02886-0
+volume: '24'
+year: '2023'

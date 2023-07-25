@@ -1,0 +1,63 @@
+author: Wang, Chen and Barnoud, Coline and Cenerenti, Mara and Sun, Mengzhu and Caffa,
+  Irene and Kizil, Burak and Bill, Ruben and Liu, Yuanlong and Pick, Robert and Garnier,
+  Laure and Gkountidi, Olga A. and Ince, Louise M. and Holtkamp, Stephan and Fournier,
+  Nadine and Michielin, Olivier and Speiser, Daniel E. and Hugues, Stéphanie and Nencioni,
+  Alessio and Pittet, Mikaël J. and Jandus, Camilla and Scheiermann, Christoph
+author_list:
+- family: Wang
+  given: Chen
+- family: Barnoud
+  given: Coline
+- family: Cenerenti
+  given: Mara
+- family: Sun
+  given: Mengzhu
+- family: Caffa
+  given: Irene
+- family: Kizil
+  given: Burak
+- family: Bill
+  given: Ruben
+- family: Liu
+  given: Yuanlong
+- family: Pick
+  given: Robert
+- family: Garnier
+  given: Laure
+- family: Gkountidi
+  given: Olga A.
+- family: Ince
+  given: Louise M.
+- family: Holtkamp
+  given: Stephan
+- family: Fournier
+  given: Nadine
+- family: Michielin
+  given: Olivier
+- family: Speiser
+  given: Daniel E.
+- family: Hugues
+  given: Stéphanie
+- family: Nencioni
+  given: Alessio
+- family: Pittet
+  given: Mikaël J.
+- family: Jandus
+  given: Camilla
+- family: Scheiermann
+  given: Christoph
+doi: 10.1038/s41586-022-05605-0
+files:
+- dendriticcellswang2022-a.pdf
+issue: '7946'
+journal: Nature
+month: '12'
+page: 136-143
+papis_id: 10c287fb0e424f3102d8f245f8c2ad09
+publisher: Springer Science and Business Media LLC
+ref: DendriticCellsWang2022
+title: Dendritic cells direct circadian anti-tumour immune responses
+type: article
+url: http://dx.doi.org/10.1038/s41586-022-05605-0
+volume: '614'
+year: '2022'
