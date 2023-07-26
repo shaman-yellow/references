@@ -1,0 +1,28 @@
+author: Satija, Rahul and Farrell, Jeffrey A and Gennert, David and Schier, Alexander
+  F and Regev, Aviv
+author_list:
+- family: Satija
+  given: Rahul
+- family: Farrell
+  given: Jeffrey A
+- family: Gennert
+  given: David
+- family: Schier
+  given: Alexander F
+- family: Regev
+  given: Aviv
+doi: 10.1038/nbt.3192
+files:
+- spatialreconstsatija2015-a.pdf
+issue: '5'
+journal: Nature Biotechnology
+month: '4'
+page: 495-502
+papis_id: c62f9a3bb801a3d2293e6acd7ed0cce2
+publisher: Springer Science and Business Media LLC
+ref: SpatialReconstSatija2015
+title: Spatial reconstruction of single-cell gene expression data
+type: article
+url: http://dx.doi.org/10.1038/nbt.3192
+volume: '33'
+year: '2015'

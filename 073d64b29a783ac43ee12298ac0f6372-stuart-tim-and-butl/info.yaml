@@ -1,0 +1,39 @@
+author: Stuart, Tim and Butler, Andrew and Hoffman, Paul and Hafemeister, Christoph
+  and Papalexi, Efthymia and Mauck, William M. and Hao, Yuhan and Stoeckius, Marlon
+  and Smibert, Peter and Satija, Rahul
+author_list:
+- family: Stuart
+  given: Tim
+- family: Butler
+  given: Andrew
+- family: Hoffman
+  given: Paul
+- family: Hafemeister
+  given: Christoph
+- family: Papalexi
+  given: Efthymia
+- family: Mauck
+  given: William M.
+- family: Hao
+  given: Yuhan
+- family: Stoeckius
+  given: Marlon
+- family: Smibert
+  given: Peter
+- family: Satija
+  given: Rahul
+doi: 10.1016/j.cell.2019.05.031
+files:
+- comprehensiveistuart2019-a.pdf
+issue: '7'
+journal: Cell
+month: '6'
+page: 1888-1902.e21
+papis_id: 07188e5c821f990a7936706359965332
+publisher: Elsevier BV
+ref: ComprehensiveIStuart2019
+title: Comprehensive Integration of Single-Cell Data
+type: article
+url: http://dx.doi.org/10.1016/j.cell.2019.05.031
+volume: '177'
+year: '2019'
