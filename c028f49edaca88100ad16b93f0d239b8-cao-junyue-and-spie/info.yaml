@@ -1,0 +1,43 @@
+author: Cao, Junyue and Spielmann, Malte and Qiu, Xiaojie and Huang, Xingfan and Ibrahim,
+  Daniel M. and Hill, Andrew J. and Zhang, Fan and Mundlos, Stefan and Christiansen,
+  Lena and Steemers, Frank J. and Trapnell, Cole and Shendure, Jay
+author_list:
+- family: Cao
+  given: Junyue
+- family: Spielmann
+  given: Malte
+- family: Qiu
+  given: Xiaojie
+- family: Huang
+  given: Xingfan
+- family: Ibrahim
+  given: Daniel M.
+- family: Hill
+  given: Andrew J.
+- family: Zhang
+  given: Fan
+- family: Mundlos
+  given: Stefan
+- family: Christiansen
+  given: Lena
+- family: Steemers
+  given: Frank J.
+- family: Trapnell
+  given: Cole
+- family: Shendure
+  given: Jay
+doi: 10.1038/s41586-019-0969-x
+files:
+- thesinglecellcaoj2019-a.pdf
+issue: '7745'
+journal: Nature
+month: '2'
+page: 496-502
+papis_id: 4e891abbd67f5fa6f3c3dd40fe3cd512
+publisher: Springer Science and Business Media LLC
+ref: TheSingleCellCaoJ2019
+title: The single-cell transcriptional landscape of mammalian organogenesis
+type: article
+url: http://dx.doi.org/10.1038/s41586-019-0969-x
+volume: '566'
+year: '2019'

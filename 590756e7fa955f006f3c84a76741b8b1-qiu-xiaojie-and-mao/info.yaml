@@ -1,0 +1,32 @@
+author: Qiu, Xiaojie and Mao, Qi and Tang, Ying and Wang, Li and Chawla, Raghav and
+  Pliner, Hannah A and Trapnell, Cole
+author_list:
+- family: Qiu
+  given: Xiaojie
+- family: Mao
+  given: Qi
+- family: Tang
+  given: Ying
+- family: Wang
+  given: Li
+- family: Chawla
+  given: Raghav
+- family: Pliner
+  given: Hannah A
+- family: Trapnell
+  given: Cole
+doi: 10.1038/nmeth.4402
+files:
+- reversedgraphqiux2017-a.pdf
+issue: '10'
+journal: Nature Methods
+month: '8'
+page: 979-982
+papis_id: 3be804d0d890c38209bc9429571ce19e
+publisher: Springer Science and Business Media LLC
+ref: ReversedGraphQiuX2017
+title: Reversed graph embedding resolves complex single-cell trajectories
+type: article
+url: http://dx.doi.org/10.1038/nmeth.4402
+volume: '14'
+year: '2017'
