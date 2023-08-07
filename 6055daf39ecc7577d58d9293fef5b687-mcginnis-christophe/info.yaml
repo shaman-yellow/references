@@ -28,7 +28,8 @@ author_list:
 - family: Gartner
   given: Zev J.
 doi: 10.1038/s41592-019-0433-8
-files: []
+files:
+- multiseqsampmcginn2019-a.pdf
 issue: '7'
 journal: Nature Methods
 month: '6'
