@@ -1,0 +1,46 @@
+author: Colaprico, Antonio and Silva, Tiago C. and Olsen, Catharina and Garofano,
+  Luciano and Cava, Claudia and Garolini, Davide and Sabedot, Thais S. and Malta,
+  Tathiane M. and Pagnotta, Stefano M. and Castiglioni, Isabella and Ceccarelli, Michele
+  and Bontempi, Gianluca and Noushmehr, Houtan
+author_list:
+- family: Colaprico
+  given: Antonio
+- family: Silva
+  given: Tiago C.
+- family: Olsen
+  given: Catharina
+- family: Garofano
+  given: Luciano
+- family: Cava
+  given: Claudia
+- family: Garolini
+  given: Davide
+- family: Sabedot
+  given: Thais S.
+- family: Malta
+  given: Tathiane M.
+- family: Pagnotta
+  given: Stefano M.
+- family: Castiglioni
+  given: Isabella
+- family: Ceccarelli
+  given: Michele
+- family: Bontempi
+  given: Gianluca
+- family: Noushmehr
+  given: Houtan
+doi: 10.1093/nar/gkv1507
+files:
+- tcgabiolinksacolapr2015-a.pdf
+issue: '8'
+journal: Nucleic Acids Research
+month: '12'
+page: e71-e71
+papis_id: 354491159b1d79350d0cefd12221c1f6
+publisher: Oxford University Press (OUP)
+ref: TcgabiolinksAColapr2015
+title: 'TCGAbiolinks: an R/Bioconductor package for integrative analysis of TCGA data'
+type: article
+url: http://dx.doi.org/10.1093/nar/gkv1507
+volume: '44'
+year: '2015'
