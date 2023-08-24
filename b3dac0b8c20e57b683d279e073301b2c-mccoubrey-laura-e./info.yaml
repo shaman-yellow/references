@@ -1,0 +1,24 @@
+author: McCoubrey, Laura E. and Gaisford, Simon and Orlu, Mine and Basit, Abdul W.
+author_list:
+- family: McCoubrey
+  given: Laura E.
+- family: Gaisford
+  given: Simon
+- family: Orlu
+  given: Mine
+- family: Basit
+  given: Abdul W.
+doi: 10.1016/j.biotechadv.2021.107797
+files:
+- predictingdrugmccoub2022-a.pdf
+journal: Biotechnology Advances
+month: '1'
+page: '107797'
+papis_id: e3b7f29cfab0ed87c25cbb0fbe1c92ea
+publisher: Elsevier BV
+ref: PredictingDrugMccoub2022
+title: Predicting drug-microbiome interactions with machine learning
+type: article
+url: http://dx.doi.org/10.1016/j.biotechadv.2021.107797
+volume: '54'
+year: '2022'

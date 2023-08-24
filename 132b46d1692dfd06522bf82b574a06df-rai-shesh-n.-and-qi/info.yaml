@@ -1,0 +1,40 @@
+author: Rai, Shesh N. and Qian, Chen and Pan, Jianmin and Rai, Jayesh P. and Song,
+  Ming and Bagaitkar, Juhi and Merchant, Michael and Cave, Matthew and Egilmez, Nejat
+  K. and McClain, Craig J.
+author_list:
+- family: Rai
+  given: Shesh N.
+- family: Qian
+  given: Chen
+- family: Pan
+  given: Jianmin
+- family: Rai
+  given: Jayesh P.
+- family: Song
+  given: Ming
+- family: Bagaitkar
+  given: Juhi
+- family: Merchant
+  given: Michael
+- family: Cave
+  given: Matthew
+- family: Egilmez
+  given: Nejat K.
+- family: McClain
+  given: Craig J.
+doi: 10.1016/j.gendis.2019.12.005
+files:
+- microbiomedatarais2021-a.pdf
+issue: '2'
+journal: Genes &amp; Diseases
+month: '3'
+page: 215-223
+papis_id: e5adfcd83a3f5cc0bb181a304a2558f3
+publisher: Elsevier BV
+ref: MicrobiomeDataRaiS2021
+title: 'Microbiome data analysis with applications to pre-clinical studies using QIIME2:
+  Statistical considerations'
+type: article
+url: http://dx.doi.org/10.1016/j.gendis.2019.12.005
+volume: '8'
+year: '2021'

@@ -1,0 +1,30 @@
+author: Gandini, Enrico and Marcou, Gilles and Bonachera, Fanny and Varnek, Alexandre
+  and Pieraccini, Stefano and Sironi, Maurizio
+author_list:
+- family: Gandini
+  given: Enrico
+- family: Marcou
+  given: Gilles
+- family: Bonachera
+  given: Fanny
+- family: Varnek
+  given: Alexandre
+- family: Pieraccini
+  given: Stefano
+- family: Sironi
+  given: Maurizio
+doi: 10.3390/ijms23116114
+files:
+- molecularsimilgandin2022-a.pdf
+issue: '11'
+journal: International Journal of Molecular Sciences
+month: '5'
+page: '6114'
+papis_id: d2dcadb279c8d371a99b5d0747e142d3
+publisher: MDPI AG
+ref: MolecularSimilGandin2022
+title: Molecular Similarity Perception Based on Machine-Learning Models
+type: article
+url: http://dx.doi.org/10.3390/ijms23116114
+volume: '23'
+year: '2022'
