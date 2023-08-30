@@ -1,0 +1,268 @@
+author: Bolyen, Evan and Rideout, Jai Ram and Dillon, Matthew R. and Bokulich, Nicholas
+  A. and Abnet, Christian C. and Al-Ghalith, Gabriel A. and Alexander, Harriet and
+  Alm, Eric J. and Arumugam, Manimozhiyan and Asnicar, Francesco and Bai, Yang and
+  Bisanz, Jordan E. and Bittinger, Kyle and Brejnrod, Asker and Brislawn, Colin J.
+  and Brown, C. Titus and Callahan, Benjamin J. and Caraballo-Rodríguez, Andrés Mauricio
+  and Chase, John and Cope, Emily K. and Da Silva, Ricardo and Diener, Christian and
+  Dorrestein, Pieter C. and Douglas, Gavin M. and Durall, Daniel M. and Duvallet,
+  Claire and Edwardson, Christian F. and Ernst, Madeleine and Estaki, Mehrbod and
+  Fouquier, Jennifer and Gauglitz, Julia M. and Gibbons, Sean M. and Gibson, Deanna
+  L. and Gonzalez, Antonio and Gorlick, Kestrel and Guo, Jiarong and Hillmann, Benjamin
+  and Holmes, Susan and Holste, Hannes and Huttenhower, Curtis and Huttley, Gavin
+  A. and Janssen, Stefan and Jarmusch, Alan K. and Jiang, Lingjing and Kaehler, Benjamin
+  D. and Kang, Kyo Bin and Keefe, Christopher R. and Keim, Paul and Kelley, Scott
+  T. and Knights, Dan and Koester, Irina and Kosciolek, Tomasz and Kreps, Jorden and
+  Langille, Morgan G. I. and Lee, Joslynn and Ley, Ruth and Liu, Yong-Xin and Loftfield,
+  Erikka and Lozupone, Catherine and Maher, Massoud and Marotz, Clarisse and Martin,
+  Bryan D. and McDonald, Daniel and McIver, Lauren J. and Melnik, Alexey V. and Metcalf,
+  Jessica L. and Morgan, Sydney C. and Morton, Jamie T. and Naimey, Ahmad Turan and
+  Navas-Molina, Jose A. and Nothias, Louis Felix and Orchanian, Stephanie B. and Pearson,
+  Talima and Peoples, Samuel L. and Petras, Daniel and Preuss, Mary Lai and Pruesse,
+  Elmar and Rasmussen, Lasse Buur and Rivers, Adam and Robeson, Michael S. and Rosenthal,
+  Patrick and Segata, Nicola and Shaffer, Michael and Shiffer, Arron and Sinha, Rashmi
+  and Song, Se Jin and Spear, John R. and Swafford, Austin D. and Thompson, Luke R.
+  and Torres, Pedro J. and Trinh, Pauline and Tripathi, Anupriya and Turnbaugh, Peter
+  J. and Ul-Hasan, Sabah and van der Hooft, Justin J. J. and Vargas, Fernando and
+  Vázquez-Baeza, Yoshiki and Vogtmann, Emily and von Hippel, Max and Walters, William
+  and Wan, Yunhu and Wang, Mingxun and Warren, Jonathan and Weber, Kyle C. and Williamson,
+  Charles H. D. and Willis, Amy D. and Xu, Zhenjiang Zech and Zaneveld, Jesse R. and
+  Zhang, Yilong and Zhu, Qiyun and Knight, Rob and Caporaso, J. Gregory
+author_list:
+- family: Bolyen
+  given: Evan
+- family: Rideout
+  given: Jai Ram
+- family: Dillon
+  given: Matthew R.
+- family: Bokulich
+  given: Nicholas A.
+- family: Abnet
+  given: Christian C.
+- family: Al-Ghalith
+  given: Gabriel A.
+- family: Alexander
+  given: Harriet
+- family: Alm
+  given: Eric J.
+- family: Arumugam
+  given: Manimozhiyan
+- family: Asnicar
+  given: Francesco
+- family: Bai
+  given: Yang
+- family: Bisanz
+  given: Jordan E.
+- family: Bittinger
+  given: Kyle
+- family: Brejnrod
+  given: Asker
+- family: Brislawn
+  given: Colin J.
+- family: Brown
+  given: C. Titus
+- family: Callahan
+  given: Benjamin J.
+- family: Caraballo-Rodríguez
+  given: Andrés Mauricio
+- family: Chase
+  given: John
+- family: Cope
+  given: Emily K.
+- family: Da Silva
+  given: Ricardo
+- family: Diener
+  given: Christian
+- family: Dorrestein
+  given: Pieter C.
+- family: Douglas
+  given: Gavin M.
+- family: Durall
+  given: Daniel M.
+- family: Duvallet
+  given: Claire
+- family: Edwardson
+  given: Christian F.
+- family: Ernst
+  given: Madeleine
+- family: Estaki
+  given: Mehrbod
+- family: Fouquier
+  given: Jennifer
+- family: Gauglitz
+  given: Julia M.
+- family: Gibbons
+  given: Sean M.
+- family: Gibson
+  given: Deanna L.
+- family: Gonzalez
+  given: Antonio
+- family: Gorlick
+  given: Kestrel
+- family: Guo
+  given: Jiarong
+- family: Hillmann
+  given: Benjamin
+- family: Holmes
+  given: Susan
+- family: Holste
+  given: Hannes
+- family: Huttenhower
+  given: Curtis
+- family: Huttley
+  given: Gavin A.
+- family: Janssen
+  given: Stefan
+- family: Jarmusch
+  given: Alan K.
+- family: Jiang
+  given: Lingjing
+- family: Kaehler
+  given: Benjamin D.
+- family: Kang
+  given: Kyo Bin
+- family: Keefe
+  given: Christopher R.
+- family: Keim
+  given: Paul
+- family: Kelley
+  given: Scott T.
+- family: Knights
+  given: Dan
+- family: Koester
+  given: Irina
+- family: Kosciolek
+  given: Tomasz
+- family: Kreps
+  given: Jorden
+- family: Langille
+  given: Morgan G. I.
+- family: Lee
+  given: Joslynn
+- family: Ley
+  given: Ruth
+- family: Liu
+  given: Yong-Xin
+- family: Loftfield
+  given: Erikka
+- family: Lozupone
+  given: Catherine
+- family: Maher
+  given: Massoud
+- family: Marotz
+  given: Clarisse
+- family: Martin
+  given: Bryan D.
+- family: McDonald
+  given: Daniel
+- family: McIver
+  given: Lauren J.
+- family: Melnik
+  given: Alexey V.
+- family: Metcalf
+  given: Jessica L.
+- family: Morgan
+  given: Sydney C.
+- family: Morton
+  given: Jamie T.
+- family: Naimey
+  given: Ahmad Turan
+- family: Navas-Molina
+  given: Jose A.
+- family: Nothias
+  given: Louis Felix
+- family: Orchanian
+  given: Stephanie B.
+- family: Pearson
+  given: Talima
+- family: Peoples
+  given: Samuel L.
+- family: Petras
+  given: Daniel
+- family: Preuss
+  given: Mary Lai
+- family: Pruesse
+  given: Elmar
+- family: Rasmussen
+  given: Lasse Buur
+- family: Rivers
+  given: Adam
+- family: Robeson
+  given: Michael S.
+- family: Rosenthal
+  given: Patrick
+- family: Segata
+  given: Nicola
+- family: Shaffer
+  given: Michael
+- family: Shiffer
+  given: Arron
+- family: Sinha
+  given: Rashmi
+- family: Song
+  given: Se Jin
+- family: Spear
+  given: John R.
+- family: Swafford
+  given: Austin D.
+- family: Thompson
+  given: Luke R.
+- family: Torres
+  given: Pedro J.
+- family: Trinh
+  given: Pauline
+- family: Tripathi
+  given: Anupriya
+- family: Turnbaugh
+  given: Peter J.
+- family: Ul-Hasan
+  given: Sabah
+- family: van der Hooft
+  given: Justin J. J.
+- family: Vargas
+  given: Fernando
+- family: Vázquez-Baeza
+  given: Yoshiki
+- family: Vogtmann
+  given: Emily
+- family: von Hippel
+  given: Max
+- family: Walters
+  given: William
+- family: Wan
+  given: Yunhu
+- family: Wang
+  given: Mingxun
+- family: Warren
+  given: Jonathan
+- family: Weber
+  given: Kyle C.
+- family: Williamson
+  given: Charles H. D.
+- family: Willis
+  given: Amy D.
+- family: Xu
+  given: Zhenjiang Zech
+- family: Zaneveld
+  given: Jesse R.
+- family: Zhang
+  given: Yilong
+- family: Zhu
+  given: Qiyun
+- family: Knight
+  given: Rob
+- family: Caporaso
+  given: J. Gregory
+doi: 10.1038/s41587-019-0209-9
+files: []
+issn: 1546-1696
+journal: Nature Biotechnology
+number: '8'
+pages: 852-857
+papis_id: c80142b284a897d7fb7d0adf6cd71125
+ref: ReproducibleIBolyen2019
+title: Reproducible, interactive, scalable and extensible microbiome data science
+  using QIIME 2
+type: article
+url: https://doi.org/10.1038/s41587-019-0209-9
+volume: '37'
+year: '2019'

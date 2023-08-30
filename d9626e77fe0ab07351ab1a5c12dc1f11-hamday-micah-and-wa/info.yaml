@@ -1,0 +1,25 @@
+author: Hamday, Micah and Walker J., Jeffrey and Harris, J. Kirk and Gold J., Nicholas
+  and Knight, Rob
+author_list:
+- family: Hamday
+  given: Micah
+- family: Walker J.
+  given: Jeffrey
+- family: Harris
+  given: J. Kirk
+- family: Gold J.
+  given: Nicholas
+- family: Knight
+  given: Rob
+doi: 10.1038/nmeth.1184
+files: []
+issue: '3'
+journal: Nature Methods
+pages: 235–-237
+papis_id: a092b387f8e145132caa96013faae5b2
+ref: ErrorCorrectinHamday2008
+title: Error-correcting barcoded primers allow hundreds of samples to be pyrosequenced
+  in multiplex
+type: article
+volume: '5'
+year: '2008'

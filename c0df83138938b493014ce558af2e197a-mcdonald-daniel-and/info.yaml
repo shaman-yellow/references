@@ -1,0 +1,41 @@
+author: McDonald, Daniel and Clemente, Jose C and Kuczynski, Justin and Rideout, Jai
+  Ram and Stombaugh, Jesse and Wendel, Doug and Wilke, Andreas and Huse, Susan and
+  Hufnagle, John and Meyer, Folker and Knight, Rob and Caporaso, J Gregory
+author_list:
+- family: McDonald
+  given: Daniel
+- family: Clemente
+  given: Jose C
+- family: Kuczynski
+  given: Justin
+- family: Rideout
+  given: Jai Ram
+- family: Stombaugh
+  given: Jesse
+- family: Wendel
+  given: Doug
+- family: Wilke
+  given: Andreas
+- family: Huse
+  given: Susan
+- family: Hufnagle
+  given: John
+- family: Meyer
+  given: Folker
+- family: Knight
+  given: Rob
+- family: Caporaso
+  given: J Gregory
+doi: 10.1186/2047-217X-1-7
+files: []
+journal: GigaScience
+number: '1'
+pages: '7'
+papis_id: 2b9400364a29ff8403057020f20490de
+publisher: BioMed Central
+ref: TheBiologicalMcdona2012
+title: 'The Biological Observation Matrix (BIOM) format or: how I learned to stop
+  worrying and love the ome-ome'
+type: article
+volume: '1'
+year: '2012'
