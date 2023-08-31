@@ -1,0 +1,31 @@
+author: Segata, Nicola and Izard, Jacques and Waldron, Levi and Gevers, Dirk and Miropolsky,
+  Larisa and Garrett, Wendy S and Huttenhower, Curtis
+author_list:
+- family: Segata
+  given: Nicola
+- family: Izard
+  given: Jacques
+- family: Waldron
+  given: Levi
+- family: Gevers
+  given: Dirk
+- family: Miropolsky
+  given: Larisa
+- family: Garrett
+  given: Wendy S
+- family: Huttenhower
+  given: Curtis
+doi: 10.1186/gb-2011-12-6-r60
+files:
+- metagenomicbiosegata2011-a.pdf
+issue: '6'
+journal: Genome Biology
+page: R60
+papis_id: 1ef505d43eb4ca5ae7b28cc4ef18d9a7
+publisher: Springer Science and Business Media LLC
+ref: MetagenomicBioSegata2011
+title: Metagenomic biomarker discovery and explanation
+type: article
+url: http://dx.doi.org/10.1186/gb-2011-12-6-r60
+volume: '12'
+year: '2011'
