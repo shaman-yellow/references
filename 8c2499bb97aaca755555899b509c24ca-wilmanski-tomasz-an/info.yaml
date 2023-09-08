@@ -1,0 +1,39 @@
+author: Wilmanski, Tomasz and Rappaport, Noa and Earls, John C. and Magis, Andrew
+  T. and Manor, Ohad and Lovejoy, Jennifer and Omenn, Gilbert S. and Hood, Leroy and
+  Gibbons, Sean M. and Price, Nathan D.
+author_list:
+- family: Wilmanski
+  given: Tomasz
+- family: Rappaport
+  given: Noa
+- family: Earls
+  given: John C.
+- family: Magis
+  given: Andrew T.
+- family: Manor
+  given: Ohad
+- family: Lovejoy
+  given: Jennifer
+- family: Omenn
+  given: Gilbert S.
+- family: Hood
+  given: Leroy
+- family: Gibbons
+  given: Sean M.
+- family: Price
+  given: Nathan D.
+doi: 10.1038/s41587-019-0233-9
+files:
+- bloodmetabolomwilman2019-a.pdf
+issue: '10'
+journal: Nature Biotechnology
+month: '9'
+page: 1217-1228
+papis_id: c68f099772fd10ba24311497393a35b3
+publisher: Springer Science and Business Media LLC
+ref: BloodMetabolomWilman2019
+title: Blood metabolome predicts gut microbiome α-diversity in humans
+type: article
+url: http://dx.doi.org/10.1038/s41587-019-0233-9
+volume: '37'
+year: '2019'
