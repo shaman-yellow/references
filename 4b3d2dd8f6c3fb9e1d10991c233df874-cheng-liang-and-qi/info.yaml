@@ -1,0 +1,28 @@
+author: Cheng, Liang and Qi, Changlu and Zhuang, He and Fu, Tongze and Zhang, Xue
+author_list:
+- family: Cheng
+  given: Liang
+- family: Qi
+  given: Changlu
+- family: Zhuang
+  given: He
+- family: Fu
+  given: Tongze
+- family: Zhang
+  given: Xue
+doi: 10.1093/nar/gkz843
+files:
+- gutmdisorderacheng2019-a.pdf
+issue: D1
+journal: Nucleic Acids Research
+month: '10'
+page: D554-D560
+papis_id: 7363c356d49dd33dc7deaa88f849c431
+publisher: Oxford University Press (OUP)
+ref: GutmdisorderACheng2019
+title: 'gutMDisorder: a comprehensive database for dysbiosis of the gut microbiota
+  in disorders and interventions'
+type: article
+url: http://dx.doi.org/10.1093/nar/gkz843
+volume: '48'
+year: '2019'

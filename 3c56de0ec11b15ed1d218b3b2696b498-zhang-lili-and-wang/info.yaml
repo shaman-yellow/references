@@ -1,0 +1,44 @@
+author: Zhang, Lili and Wang, Zhisheng and Zhang, Xiaona and Zhao, Lu and Chu, Jinjin
+  and Li, Haibo and Sun, Wenchang and Yang, Chunjuan and Wang, Hui and Dai, Wenqing
+  and Yan, Shushan and Chen, Xiaohua and Xu, Donghua
+author_list:
+- family: Zhang
+  given: Lili
+- family: Wang
+  given: Zhisheng
+- family: Zhang
+  given: Xiaona
+- family: Zhao
+  given: Lu
+- family: Chu
+  given: Jinjin
+- family: Li
+  given: Haibo
+- family: Sun
+  given: Wenchang
+- family: Yang
+  given: Chunjuan
+- family: Wang
+  given: Hui
+- family: Dai
+  given: Wenqing
+- family: Yan
+  given: Shushan
+- family: Chen
+  given: Xiaohua
+- family: Xu
+  given: Donghua
+doi: 10.1128/spectrum.00324-22
+files:
+- alterationsofzhang2022-a.pdf
+issue: '4'
+journal: Microbiology Spectrum
+month: '8'
+papis_id: 14a80ff4c2d2195dd3ad1c3d79db28ae
+publisher: American Society for Microbiology
+ref: AlterationsOfZhang2022
+title: Alterations of the Gut Microbiota in Patients with Diabetic Nephropathy
+type: article
+url: http://dx.doi.org/10.1128/spectrum.00324-22
+volume: '10'
+year: '2022'
