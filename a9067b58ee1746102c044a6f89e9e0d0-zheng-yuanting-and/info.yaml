@@ -1,0 +1,149 @@
+author: Zheng, Yuanting and Liu, Yaqing and Yang, Jingcheng and Dong, Lianhua and
+  Zhang, Rui and Tian, Sha and Yu, Ying and Ren, Luyao and Hou, Wanwan and Zhu, Feng
+  and Mai, Yuanbang and Han, Jinxiong and Zhang, Lijun and Jiang, Hui and Lin, Ling
+  and Lou, Jingwei and Li, Ruiqiang and Lin, Jingchao and Liu, Huafen and Kong, Ziqing
+  and Wang, Depeng and Dai, Fangping and Bao, Ding and Cao, Zehui and Chen, Qiaochu
+  and Chen, Qingwang and Chen, Xingdong and Gao, Yuechen and Jiang, He and Li, Bin
+  and Li, Bingying and Li, Jingjing and Liu, Ruimei and Qing, Tao and Shang, Erfei
+  and Shang, Jun and Sun, Shanyue and Wang, Haiyan and Wang, Xiaolin and Zhang, Naixin
+  and Zhang, Peipei and Zhang, Ruolan and Zhu, Sibo and Scherer, Andreas and Wang,
+  Jiucun and Wang, Jing and Huo, Yinbo and Liu, Gang and Cao, Chengming and Shao,
+  Li and Xu, Joshua and Hong, Huixiao and Xiao, Wenming and Liang, Xiaozhen and Lu,
+  Daru and Jin, Li and Tong, Weida and Ding, Chen and Li, Jinming and Fang, Xiang
+  and Shi, Leming
+author_list:
+- family: Zheng
+  given: Yuanting
+- family: Liu
+  given: Yaqing
+- family: Yang
+  given: Jingcheng
+- family: Dong
+  given: Lianhua
+- family: Zhang
+  given: Rui
+- family: Tian
+  given: Sha
+- family: Yu
+  given: Ying
+- family: Ren
+  given: Luyao
+- family: Hou
+  given: Wanwan
+- family: Zhu
+  given: Feng
+- family: Mai
+  given: Yuanbang
+- family: Han
+  given: Jinxiong
+- family: Zhang
+  given: Lijun
+- family: Jiang
+  given: Hui
+- family: Lin
+  given: Ling
+- family: Lou
+  given: Jingwei
+- family: Li
+  given: Ruiqiang
+- family: Lin
+  given: Jingchao
+- family: Liu
+  given: Huafen
+- family: Kong
+  given: Ziqing
+- family: Wang
+  given: Depeng
+- family: Dai
+  given: Fangping
+- family: Bao
+  given: Ding
+- family: Cao
+  given: Zehui
+- family: Chen
+  given: Qiaochu
+- family: Chen
+  given: Qingwang
+- family: Chen
+  given: Xingdong
+- family: Gao
+  given: Yuechen
+- family: Jiang
+  given: He
+- family: Li
+  given: Bin
+- family: Li
+  given: Bingying
+- family: Li
+  given: Jingjing
+- family: Liu
+  given: Ruimei
+- family: Qing
+  given: Tao
+- family: Shang
+  given: Erfei
+- family: Shang
+  given: Jun
+- family: Sun
+  given: Shanyue
+- family: Wang
+  given: Haiyan
+- family: Wang
+  given: Xiaolin
+- family: Zhang
+  given: Naixin
+- family: Zhang
+  given: Peipei
+- family: Zhang
+  given: Ruolan
+- family: Zhu
+  given: Sibo
+- family: Scherer
+  given: Andreas
+- family: Wang
+  given: Jiucun
+- family: Wang
+  given: Jing
+- family: Huo
+  given: Yinbo
+- family: Liu
+  given: Gang
+- family: Cao
+  given: Chengming
+- family: Shao
+  given: Li
+- family: Xu
+  given: Joshua
+- family: Hong
+  given: Huixiao
+- family: Xiao
+  given: Wenming
+- family: Liang
+  given: Xiaozhen
+- family: Lu
+  given: Daru
+- family: Jin
+  given: Li
+- family: Tong
+  given: Weida
+- family: Ding
+  given: Chen
+- family: Li
+  given: Jinming
+- family: Fang
+  given: Xiang
+- family: Shi
+  given: Leming
+doi: 10.1038/s41587-023-01934-1
+files:
+- multiomicsdatzheng2023-a.pdf
+journal: Nature Biotechnology
+month: '9'
+papis_id: 1f73758189cbbcaf8f8ce2ff95848cca
+publisher: Springer Science and Business Media LLC
+ref: MultiOmicsDatZheng2023
+title: Multi-omics data integration using ratio-based quantitative profiling with
+  Quartet reference materials
+type: article
+url: http://dx.doi.org/10.1038/s41587-023-01934-1
+year: '2023'
