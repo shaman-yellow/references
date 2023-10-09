@@ -1,0 +1,42 @@
+author: Jost, Marco and Santos, Daniel A. and Saunders, Reuben A. and Horlbeck, Max
+  A. and Hawkins, John S. and Scaria, Sonia M. and Norman, Thomas M. and Hussmann,
+  Jeffrey A. and Liem, Christina R. and Gross, Carol A. and Weissman, Jonathan S.
+author_list:
+- family: Jost
+  given: Marco
+- family: Santos
+  given: Daniel A.
+- family: Saunders
+  given: Reuben A.
+- family: Horlbeck
+  given: Max A.
+- family: Hawkins
+  given: John S.
+- family: Scaria
+  given: Sonia M.
+- family: Norman
+  given: Thomas M.
+- family: Hussmann
+  given: Jeffrey A.
+- family: Liem
+  given: Christina R.
+- family: Gross
+  given: Carol A.
+- family: Weissman
+  given: Jonathan S.
+doi: 10.1038/s41587-019-0387-5
+files:
+- titratinggenejost2020-a.pdf
+issue: '3'
+journal: Nature Biotechnology
+month: '1'
+page: 355-364
+papis_id: 22b66af41d73f5726810e2bbba30cd06
+publisher: Springer Science and Business Media LLC
+ref: TitratingGeneJost2020
+title: Titrating gene expression using libraries of systematically attenuated CRISPR
+  guide RNAs
+type: article
+url: http://dx.doi.org/10.1038/s41587-019-0387-5
+volume: '38'
+year: '2020'
