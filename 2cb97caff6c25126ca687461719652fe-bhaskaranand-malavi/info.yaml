@@ -1,0 +1,77 @@
+author: Bhaskaranand, Malavika and Ramachandra, Chaithanya and Bhat, Sandeep and Cuadros,
+  Jorge and Nittala, Muneeswar Gupta and Sadda, SriniVas and Solanki, Kaushal
+author_list:
+- affiliation:
+  - name: Eyenuk, Inc, Los Angeles, CA, USA
+  family: Bhaskaranand
+  given: Malavika
+- affiliation:
+  - name: Eyenuk, Inc, Los Angeles, CA, USA
+  family: Ramachandra
+  given: Chaithanya
+- affiliation:
+  - name: Eyenuk, Inc, Los Angeles, CA, USA
+  family: Bhat
+  given: Sandeep
+- affiliation:
+  - name: EyePACS LLC, San Jose, CA, USA
+  family: Cuadros
+  given: Jorge
+- affiliation:
+  - name: Doheny Eye Institute, Los Angeles, CA, USA
+  family: Nittala
+  given: Muneeswar Gupta
+- affiliation:
+  - name: Doheny Eye Institute, Los Angeles, CA, USA
+  family: Sadda
+  given: SriniVas
+- affiliation:
+  - name: Eyenuk, Inc, Los Angeles, CA, USA
+  family: Solanki
+  given: Kaushal
+citations:
+- doi: 10.2337/diacare.27.2007.S84
+- doi: 10.2337/diacare.23.3.390
+- doi: 10.1016/j.diabres.2011.10.029
+- author: Abràmoff MD
+  first-page: '41'
+  volume: '2015'
+  volume-title: Teleophthalmology in Preventive Medicine
+- doi: 10.1016/S0161-6420(03)00475-5
+- doi: 10.1159/000213639
+- doi: 10.2337/dc12-1491
+- doi: 10.1097/IAE.0b013e318295f6de
+- doi: 10.1136/bjo.80.2.135
+- doi: 10.1007/s10792-012-9620-7
+- doi: 10.1177/193229680900300315
+- doi: 10.1109/CVPR.2005.177
+- doi: 10.1109/34.308479
+- author: Michelson AA.
+  volume-title: Studies in Optics
+  year: '1995'
+- author: Tomasi C
+  first-page: '839'
+  volume: '1998'
+  volume-title: Sixth International Conference on Computer Vision
+- author: Frangi AF
+  first-page: '130'
+  volume: '1998'
+  volume-title: Medical Image Computing and Computer-Assisted Intervention—MICCAI’98
+doc_url: http://journals.sagepub.com/doi/pdf/10.1177/1932296816628546
+doi: 10.1177/1932296816628546
+files: []
+issue: '2'
+journal: Journal of Diabetes Science and Technology
+language: en
+month: 3
+pages: 254--261
+papis_id: cc5b6057e5ef628fbabe1a879b358ce8
+publisher: SAGE Publications
+ref: AutomatedDiabeBhaska2016
+time-added: 2023-10-12-09:54:08
+title: Automated Diabetic Retinopathy Screening and Monitoring Using Retinal Fundus
+  Image Analysis
+type: article
+url: http://dx.doi.org/10.1177/1932296816628546
+volume: '10'
+year: 2016
