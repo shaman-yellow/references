@@ -1,0 +1,50 @@
+abstract: <jats:title>Abstract</jats:title><jats:p>A large amount of sequencing data
+  is generated and processed every day with the continuous evolution of sequencing
+  technology and the expansion of sequencing applications. One consequence of such
+  sequencing data explosion is the increasing cost and complexity of data processing.
+  The preprocessing of FASTQ data, which means removing adapter contamination, filtering
+  low‐quality reads, and correcting wrongly represented bases, is an indispensable
+  but resource intensive part of sequencing data analysis. Therefore, although a lot
+  of software applications have been developed to solve this problem, bioinformatics
+  scientists and engineers are still pursuing faster, simpler, and more energy‐efficient
+  software. Several years ago, the author developed fastp, which is an ultrafast all‐in‐one
+  FASTQ data preprocessor with many modern features. This software has been approved
+  by many bioinformatics users and has been continuously maintained and updated. Since
+  the first publication on fastp, it has been greatly improved, making it even faster
+  and more powerful. For instance, the duplication evaluation module has been improved,
+  and a new deduplication module has been added. This study aimed to introduce the
+  new features of fastp and demonstrate how it was designed and implemented.</jats:p>
+author: Chen, Shifu
+author_list:
+- affiliation:
+  - name: HaploX Biotechnology Shenzhen China
+  - name: Shenzhen Institutes of Advanced Technology Chinese Academy of Sciences Shenzhen
+      China
+  family: Chen
+  given: Shifu
+citations:
+- doi: 10.1038/nbt.2403
+- doi: 10.1186/s12859-018-2428-3
+- doi: 10.14806/ej.17.1.200
+- doi: 10.1093/bioinformatics/btu170
+- doi: 10.1093/bioinformatics/btx373
+- doi: 10.1371/journal.pone.0030619
+- doi: 10.1093/bioinformatics/bty560
+- doi: 10.1038/s41592-018-0046-7
+doc_url: https://onlinelibrary.wiley.com/doi/pdf/10.1002/imt2.107
+doi: 10.1002/imt2.107
+files: []
+issue: '2'
+journal: iMeta
+language: en
+month: 5
+papis_id: a7725555e15609b5a55d062511631da0
+publisher: Wiley
+ref: UltrafastOnePChen2023
+time-added: 2023-10-18-09:59:26
+title: Ultrafast one‐pass FASTQ data preprocessing, quality control, and deduplication
+  using fastp
+type: article
+url: http://dx.doi.org/10.1002/imt2.107
+volume: '2'
+year: 2023

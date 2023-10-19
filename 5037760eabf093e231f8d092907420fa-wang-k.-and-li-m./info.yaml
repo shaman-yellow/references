@@ -1,0 +1,208 @@
+author: Wang, K. and Li, M. and Hakonarson, H.
+author_list:
+- affiliation: []
+  family: Wang
+  given: K.
+- affiliation: []
+  family: Li
+  given: M.
+- affiliation: []
+  family: Hakonarson
+  given: H.
+citations:
+- author: Trapnell
+  doi: 10.1038/nbt0509-455
+  first-page: '455'
+  issn: http://id.crossref.org/issn/1087-0156
+  issn-type: print
+  issue: '5'
+  journal-title: Nature biotechnology
+  volume: '27'
+  year: '2009'
+- doi: 10.1093/bib/bbp058
+  first-page: '3'
+  issn: http://id.crossref.org/issn/1467-5463
+  issn-type: print
+  issue: '1'
+  journal-title: Briefings in Bioinformatics
+  volume: '11'
+  year: '2010'
+- author: Ng
+  doi: 10.1038/ng.499
+  first-page: '30'
+  issn: http://id.crossref.org/issn/1061-4036
+  issn-type: print
+  issue: '1'
+  journal-title: Nature genetics
+  volume: '42'
+  year: '2010'
+- doi: 10.1093/bioinformatics/btp644
+  first-page: '259'
+  issn: http://id.crossref.org/issn/1367-4803
+  issn-type: print
+  issue: '2'
+  journal-title: Bioinformatics
+  volume: '26'
+  year: '2010'
+- doi: 10.1093/nar/gkl969
+  first-page: D707
+  issn: http://id.crossref.org/issn/0305-1048
+  issn-type: print
+  issue: suppl_1
+  journal-title: Nucleic Acids Research
+  volume: '35'
+  year: '2007'
+- doi: 10.1101/gr.071571.107
+  first-page: '640'
+  issn: http://id.crossref.org/issn/1088-9051
+  issn-type: print
+  issue: '4'
+  journal-title: Genome Research
+  volume: '18'
+  year: '2008'
+- doi: 10.1093/bib/bbn047
+  first-page: '35'
+  issn: http://id.crossref.org/issn/1467-5463
+  issn-type: print
+  issue: '1'
+  journal-title: Briefings in Bioinformatics
+  volume: '10'
+  year: '2009'
+- doi: 10.1093/nar/gkm904
+  first-page: D820
+  issn: http://id.crossref.org/issn/0305-1048
+  issn-type: print
+  issue: suppl_1
+  journal-title: Nucleic Acids Research
+  volume: '36'
+  year: '2008'
+- author: Ng
+  doi: 10.1093/nar/gkg509
+  first-page: '3812'
+  issn: http://id.crossref.org/issn/0305-1048
+  issn-type: print
+  issue: '13'
+  journal-title: Nucleic Acids Research
+  volume: '31'
+  year: '2003'
+- author: Ramensky
+  doi: 10.1093/nar/gkf493
+  first-page: '3894'
+  issn: http://id.crossref.org/issn/0305-1048
+  issn-type: print
+  issue: '17'
+  journal-title: Nucleic Acids Research
+  volume: '30'
+  year: '2002'
+- author: Ng
+  doi: 10.1038/nature08250
+  first-page: '272'
+  issn: http://id.crossref.org/issn/1476-4687
+  issn-type: print
+  issue: '7261'
+  journal-title: Nature; Physical Science (London)
+  volume: '461'
+  year: '2009'
+- doi: 10.1093/nar/gkp939
+  first-page: D613
+  issn: http://id.crossref.org/issn/0305-1048
+  issn-type: print
+  issue: suppl_1
+  journal-title: Nucleic Acids Research
+  volume: '38'
+  year: '2010'
+- author: Curwen
+  doi: 10.1101/gr.1858004
+  first-page: '942'
+  issn: http://id.crossref.org/issn/1088-9051
+  issn-type: print
+  issue: '5'
+  journal-title: Genome Research
+  volume: '14'
+  year: '2004'
+- author: Bentley
+  doi: 10.1038/nature07517
+  first-page: '53'
+  issn: http://id.crossref.org/issn/1476-4687
+  issn-type: print
+  issue: '7218'
+  journal-title: Nature; Physical Science (London)
+  volume: '456'
+  year: '2008'
+- doi: 10.1093/nar/gkl842
+  first-page: D61
+  issn: http://id.crossref.org/issn/0305-1048
+  issn-type: print
+  issue: suppl_1
+  journal-title: Nucleic Acids Research
+  volume: '35'
+  year: '2007'
+- doi: 10.1093/bioinformatics/btl048
+  first-page: '1036'
+  issn: http://id.crossref.org/issn/1367-4803
+  issn-type: print
+  issue: '9'
+  journal-title: Bioinformatics
+  volume: '22'
+  year: '2006'
+- author: den Dunnen
+  doi: 10.1007/s004390100505
+  first-page: '121'
+  issn: http://id.crossref.org/issn/0340-6717
+  issn-type: print
+  issue: '1'
+  journal-title: Human genetics
+  volume: '109'
+  year: '2001'
+- doi: 10.1101/gr.3715005
+  first-page: '1034'
+  issn: http://id.crossref.org/issn/1088-9051
+  issn-type: print
+  issue: '8'
+  journal-title: Genome Research
+  volume: '15'
+  year: '2005'
+- doi: 10.1101/gr.097857.109
+  first-page: '110'
+  issn: http://id.crossref.org/issn/1088-9051
+  issn-type: print
+  issue: '1'
+  journal-title: Genome Research
+  volume: '20'
+  year: '2010'
+- doi: 10.1101/gr.GR-1871R
+  first-page: '1005'
+  issn: http://id.crossref.org/issn/1088-9051
+  issn-type: print
+  issue: '6'
+  journal-title: Genome Research
+  volume: '11'
+  year: '2001'
+- author: Gasparini
+  doi: 10.1038/sj.ejhg.5200406
+  first-page: '19'
+  issn: http://id.crossref.org/issn/1018-4813
+  issn-type: print
+  issue: '1'
+  journal-title: 'European journal of human genetics : EJHG'
+  volume: '8'
+  year: '2000'
+doc_url: http://academic.oup.com/nar/article-pdf/38/16/e164/7701417/gkq603.pdf
+doi: 10.1093/nar/gkq603
+files:
+- annovarfunctiwang2010.pdf
+issue: '16'
+journal: Nucleic Acids Research
+language: en
+month: 9
+pages: e164--e164
+papis_id: 85f9a576e5f1f2c8353dcd4fdc5b92bf
+publisher: Oxford University Press (OUP)
+ref: AnnovarFunctiWang2010
+time-added: 2023-10-18-10:06:24
+title: 'ANNOVAR: functional annotation of genetic variants from high-throughput sequencing
+  data'
+type: article
+url: http://dx.doi.org/10.1093/nar/gkq603
+volume: '38'
+year: 2010
