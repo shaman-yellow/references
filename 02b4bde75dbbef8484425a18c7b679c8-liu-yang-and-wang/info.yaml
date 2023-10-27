@@ -1,0 +1,25 @@
+author: Liu, Yang and Wang, Tao and Zhou, Bin and Zheng, Deyou
+author_list:
+- family: Liu
+  given: Yang
+- family: Wang
+  given: Tao
+- family: Zhou
+  given: Bin
+- family: Zheng
+  given: Deyou
+doi: 10.1038/s41587-021-00859-x
+files: []
+issn: 1087-0156
+issue: '7'
+journal: Nature biotechnology
+pages: 877--884
+papis_id: 5b44511e378f2be7d6b06ac6ebfe0284
+pmid: '33767393'
+ref: RobustIntegratLiuY2021
+time-added: 2023-10-27-16:17:18
+title: Robust integration of multiple single-cell RNA sequencing datasets using a
+  single reference space
+type: article
+volume: '39'
+year: 2021
