@@ -1,0 +1,20 @@
+author: Cao, Yinghao and Wang, Xiaoyue and Peng, Gongxin
+author_list:
+- family: Cao
+  given: Yinghao
+- family: Wang
+  given: Xiaoyue
+- family: Peng
+  given: Gongxin
+doi: 10.3389/fgene.2020.00490
+files: []
+issn: 1664-8021
+journal: Frontiers in genetics
+papis_id: 39135a4f72eca233bea4c18227de8edb
+pmid: '32477414'
+ref: ScsaACellTyCaoY2020
+time-added: 2023-10-31-15:45:56
+title: 'SCSA: A Cell Type Annotation Tool for Single-Cell RNA-seq Data'
+type: article
+volume: '11'
+year: 2020
