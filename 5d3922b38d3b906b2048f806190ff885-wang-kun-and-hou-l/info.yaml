@@ -1,0 +1,728 @@
+author: Wang, Kun and Hou, Liangzhen and Wang, Xin and Zhai, Xiangwei and Lu, Zhaolian
+  and Zi, Zhike and Zhai, Weiwei and He, Xionglei and Curtis, Christina and Zhou,
+  Da and Hu, Zheng
+author_list:
+- affiliation: []
+  family: Wang
+  given: Kun
+- affiliation: []
+  family: Hou
+  given: Liangzhen
+- affiliation: []
+  family: Wang
+  given: Xin
+- affiliation: []
+  family: Zhai
+  given: Xiangwei
+- affiliation: []
+  family: Lu
+  given: Zhaolian
+- affiliation: []
+  family: Zi
+  given: Zhike
+- affiliation: []
+  family: Zhai
+  given: Weiwei
+- affiliation: []
+  family: He
+  given: Xionglei
+- affiliation: []
+  family: Curtis
+  given: Christina
+- affiliation: []
+  family: Zhou
+  given: Da
+- affiliation: []
+  family: Hu
+  given: Zheng
+citations:
+- author: SJ Salipante
+  doi: 10.1073/pnas.0601265103
+  first-page: '5448'
+  journal-title: Proc. Natl Acad. Sci. USA
+  unstructured: Salipante, S. J. & Horwitz, M. S. Phylogenetic fate mapping. Proc.
+    Natl Acad. Sci. USA 103, 5448–5453 (2006).
+  volume: '103'
+  year: '2006'
+- author: JE Sulston
+  doi: 10.1016/0012-1606(83)90201-4
+  first-page: '64'
+  journal-title: Dev. Biol.
+  unstructured: Sulston, J. E., Schierenberg, E., White, J. G. & Thomson, J. N. The
+    embryonic cell lineage of the nematode Caenorhabditis elegans. Dev. Biol. 100,
+    64–119 (1983).
+  volume: '100'
+  year: '1983'
+- author: T Stadler
+  doi: 10.1126/science.aah6266
+  first-page: eaah6266
+  journal-title: Science
+  unstructured: Stadler, T., Pybus, O. G. & Stumpf, M. P. Phylodynamics for cell biologists.
+    Science 371, eaah6266 (2021).
+  volume: '371'
+  year: '2021'
+- author: CS Baron
+  doi: 10.1038/s41580-019-0186-3
+  first-page: '753'
+  journal-title: Nat. Rev. Mol. Cell Biol.
+  unstructured: Baron, C. S. & van Oudenaarden, A. Unravelling cellular relationships
+    during development and regeneration using genetic lineage tracing. Nat. Rev. Mol.
+    Cell Biol. 20, 753–765 (2019).
+  volume: '20'
+  year: '2019'
+- author: N Moris
+  doi: 10.1038/nrg.2016.98
+  first-page: '693'
+  journal-title: Nat. Rev. Genet.
+  unstructured: Moris, N., Pina, C. & Arias, A. M. Transition states and cell fate
+    decisions in epigenetic landscapes. Nat. Rev. Genet. 17, 693–703 (2016).
+  volume: '17'
+  year: '2016'
+- author: SC Bendall
+  doi: 10.1016/j.cell.2014.04.005
+  first-page: '714'
+  journal-title: Cell
+  unstructured: Bendall, S. C. et al. Single-cell trajectory detection uncovers progression
+    and regulatory coordination in human B cell development. Cell 157, 714–725 (2014).
+  volume: '157'
+  year: '2014'
+- author: C Trapnell
+  doi: 10.1038/nbt.2859
+  first-page: '381'
+  journal-title: Nat. Biotechnol.
+  unstructured: Trapnell, C. et al. The dynamics and regulators of cell fate decisions
+    are revealed by pseudotemporal ordering of single cells. Nat. Biotechnol. 32,
+    381–386 (2014).
+  volume: '32'
+  year: '2014'
+- author: L Haghverdi
+  doi: 10.1038/nmeth.3971
+  first-page: '845'
+  journal-title: Nat. Methods
+  unstructured: Haghverdi, L., Buttner, M., Wolf, F. A., Buettner, F. & Theis, F.
+    J. Diffusion pseudotime robustly reconstructs lineage branching. Nat. Methods
+    13, 845–848 (2016).
+  volume: '13'
+  year: '2016'
+- author: W Saelens
+  doi: 10.1038/s41587-019-0071-9
+  first-page: '547'
+  journal-title: Nat. Biotechnol.
+  unstructured: Saelens, W., Cannoodt, R., Todorov, H. & Saeys, Y. A comparison of
+    single-cell trajectory inference methods. Nat. Biotechnol. 37, 547–554 (2019).
+  volume: '37'
+  year: '2019'
+- author: GS Gulati
+  doi: 10.1126/science.aax0249
+  first-page: '405'
+  journal-title: Science
+  unstructured: Gulati, G. S. et al. Single-cell transcriptional diversity is a hallmark
+    of developmental potential. Science 367, 405–411 (2020).
+  volume: '367'
+  year: '2020'
+- author: C Weinreb
+  doi: 10.1073/pnas.1714723115
+  first-page: E2467
+  journal-title: Proc. Natl Acad. Sci. USA
+  unstructured: Weinreb, C., Wolock, S., Tusi, B. K., Socolovsky, M. & Klein, A. M.
+    Fundamental limits on dynamic inference from single-cell snapshots. Proc. Natl
+    Acad. Sci. USA 115, E2467–E2476 (2018).
+  volume: '115'
+  year: '2018'
+- author: S Tritschler
+  doi: 10.1242/dev.170506
+  first-page: dev170506
+  journal-title: Development
+  unstructured: Tritschler, S. et al. Concepts and limitations for learning developmental
+    trajectories from single cell genomics. Development 146, dev170506 (2019).
+  volume: '146'
+  year: '2019'
+- author: DE Wagner
+  doi: 10.1038/s41576-020-0223-2
+  first-page: '410'
+  journal-title: Nat. Rev. Genet.
+  unstructured: 'Wagner, D. E. & Klein, A. M. Lineage tracing meets single-cell omics:
+    opportunities and challenges. Nat. Rev. Genet. 21, 410–427 (2020).'
+  volume: '21'
+  year: '2020'
+- author: JS Packer
+  doi: 10.1126/science.aax1971
+  first-page: eaax1971
+  journal-title: Science
+  unstructured: Packer, J. S. et al. A lineage-resolved molecular atlas of C. elegans
+    embryogenesis at single-cell resolution. Science 365, eaax1971 (2019).
+  volume: '365'
+  year: '2019'
+- author: C Mulas
+  doi: 10.1242/dev.199950
+  first-page: dev199950
+  journal-title: Development
+  unstructured: 'Mulas, C., Chaigne, A., Smith, A. & Chalut, K. J. Cell state transitions:
+    definitions and challenges. Development 148, dev199950 (2021).'
+  volume: '148'
+  year: '2021'
+- author: T Gerber
+  doi: 10.1126/science.aaq0681
+  first-page: eaaq0681
+  journal-title: Science
+  unstructured: Gerber, T. et al. Single-cell analysis uncovers convergence of cell
+    identities during axolotl limb regeneration. Science 362, eaaq0681 (2018).
+  volume: '362'
+  year: '2018'
+- author: X Liu
+  doi: 10.1016/j.celrep.2019.06.092
+  first-page: '1346'
+  journal-title: Cell Rep.
+  unstructured: Liu, X. et al. Single-cell RNA-seq of the developing cardiac outflow
+    tract reveals convergent development of the vascular smooth muscle cells. Cell
+    Rep. 28, 1346–1361 (2019).
+  volume: '28'
+  year: '2019'
+- author: S Nowotschin
+  doi: 10.1038/s41586-019-1127-1
+  first-page: '361'
+  journal-title: Nature
+  unstructured: Nowotschin, S. et al. The emergent landscape of the mouse gut endoderm
+    at single-cell resolution. Nature 569, 361–367 (2019).
+  volume: '569'
+  year: '2019'
+- author: B Pijuan-Sala
+  doi: 10.1038/s41586-019-0933-9
+  first-page: '490'
+  journal-title: Nature
+  unstructured: Pijuan-Sala, B. et al. A single-cell molecular map of mouse gastrulation
+    and early organogenesis. Nature 566, 490–495 (2019).
+  volume: '566'
+  year: '2019'
+- author: M Lange
+  doi: 10.1038/s41592-021-01346-6
+  first-page: '159'
+  journal-title: Nat. Methods
+  unstructured: Lange, M. et al. CellRank for directed single-cell fate mapping. Nat.
+    Methods 19, 159–170 (2022).
+  volume: '19'
+  year: '2022'
+- author: PB Gupta
+  doi: 10.1016/j.stem.2018.11.011
+  first-page: '65'
+  journal-title: Cell Stem Cell
+  unstructured: 'Gupta, P. B., Pastushenko, I., Skibinski, A., Blanpain, C. & Kuperwasser,
+    C. Phenotypic plasticity: driver of cancer initiation, progression, and therapy
+    resistance. Cell Stem Cell 24, 65–78 (2019).'
+  volume: '24'
+  year: '2019'
+- author: G La Manno
+  doi: 10.1038/s41586-018-0414-6
+  first-page: '494'
+  journal-title: Nature
+  unstructured: La Manno, G. et al. RNA velocity of single cells. Nature 560, 494–498
+    (2018).
+  volume: '560'
+  year: '2018'
+- author: V Bergen
+  doi: 10.1038/s41587-020-0591-3
+  first-page: '1408'
+  journal-title: Nat. Biotechnol.
+  unstructured: Bergen, V., Lange, M., Peidli, S., Wolf, F. A. & Theis, F. J. Generalizing
+    RNA velocity to transient cell states through dynamical modeling. Nat. Biotechnol.
+    38, 1408–1414 (2020).
+  volume: '38'
+  year: '2020'
+- author: M Barile
+  doi: 10.1186/s13059-021-02414-y
+  journal-title: Genome Biol.
+  unstructured: Barile, M. et al. Coordinated changes in gene expression kinetics
+    underlie both mouse and human erythroid maturation. Genome Biol. 22, 197 (2021).
+  volume: '22'
+  year: '2021'
+- author: V Bergen
+  doi: 10.15252/msb.202110282
+  first-page: e10282
+  journal-title: Mol. Syst. Biol.
+  unstructured: Bergen, V., Soldatov, R. A., Kharchenko, P. V. & Theis, F. J. RNA
+    velocity—current challenges and future perspectives. Mol. Syst. Biol. 17, e10282
+    (2021).
+  volume: '17'
+  year: '2021'
+- author: A McKenna
+  doi: 10.1126/science.aaf7907
+  first-page: aaf7907
+  journal-title: Science
+  unstructured: McKenna, A. et al. Whole-organism lineage tracing by combinatorial
+    and cumulative genome editing. Science 353, aaf7907 (2016).
+  volume: '353'
+  year: '2016'
+- author: KL Frieda
+  doi: 10.1038/nature20777
+  first-page: '107'
+  journal-title: Nature
+  unstructured: Frieda, K. L. et al. Synthetic recording and in situ readout of lineage
+    information in single cells. Nature 541, 107–111 (2017).
+  volume: '541'
+  year: '2017'
+- author: R Kalhor
+  doi: 10.1126/science.aat9804
+  first-page: eaat9804
+  journal-title: Science
+  unstructured: Kalhor, R. et al. Developmental barcoding of whole mouse via homing
+    CRISPR. Science 361, eaat9804 (2018).
+  volume: '361'
+  year: '2018'
+- author: S VanHorn
+  doi: 10.1016/j.devcel.2020.10.021
+  first-page: '7'
+  journal-title: Dev. Cell
+  unstructured: VanHorn, S. & Morris, S. A. Next-generation lineage tracing and fate
+    mapping to interrogate development. Dev. Cell 56, 7–21 (2021).
+  volume: '56'
+  year: '2021'
+- author: A Alemany
+  doi: 10.1038/nature25969
+  first-page: '108'
+  journal-title: Nature
+  unstructured: Alemany, A., Florescu, M., Baron, C. S., Peterson-Maduro, J. & van
+    Oudenaarden, A. Whole-organism clone tracing using single-cell sequencing. Nature
+    556, 108–112 (2018).
+  volume: '556'
+  year: '2018'
+- author: B Raj
+  doi: 10.1038/nbt.4103
+  first-page: '442'
+  journal-title: Nat. Biotechnol.
+  unstructured: Raj, B. et al. Simultaneous single-cell profiling of lineages and
+    cell types in the vertebrate brain. Nat. Biotechnol. 36, 442–450 (2018).
+  volume: '36'
+  year: '2018'
+- author: MM Chan
+  doi: 10.1038/s41586-019-1184-5
+  first-page: '77'
+  journal-title: Nature
+  unstructured: Chan, M. M. et al. Molecular recording of mammalian embryogenesis.
+    Nature 570, 77–82 (2019).
+  volume: '570'
+  year: '2019'
+- author: L Kester
+  doi: 10.1016/j.stem.2018.04.014
+  first-page: '166'
+  journal-title: Cell Stem Cell
+  unstructured: Kester, L. & van Oudenaarden, A. Single-cell transcriptomics meets
+    lineage tracing. Cell Stem Cell 23, 166–179 (2018).
+  volume: '23'
+  year: '2018'
+- author: B Spanjaard
+  doi: 10.1038/nbt.4124
+  first-page: '469'
+  journal-title: Nat. Biotechnol.
+  unstructured: Spanjaard, B. et al. Simultaneous lineage tracing and cell-type identification
+    using CRISPR–Cas9-induced genetic scars. Nat. Biotechnol. 36, 469–473 (2018).
+  volume: '36'
+  year: '2018'
+- author: S Bowling
+  doi: 10.1016/j.cell.2020.06.018
+  first-page: '1693'
+  journal-title: Cell
+  unstructured: Bowling, S. et al. An engineered CRISPR–Cas9 mouse line for simultaneous
+    readout of lineage histories and gene expression profiles in single cells. Cell
+    181, 1693–1694 (2020).
+  volume: '181'
+  year: '2020'
+- author: SW Wang
+  doi: 10.1038/s41587-022-01209-1
+  first-page: '1066'
+  journal-title: Nat. Biotechnol.
+  unstructured: Wang, S. W., Herriges, M. J., Hurley, K., Kotton, D. N. & Klein, A.
+    M. CoSpar identifies early cell fate biases from single-cell transcriptomic and
+    lineage information. Nat. Biotechnol. 40, 1066–1074 (2022).
+  volume: '40'
+  year: '2022'
+- author: C Weinreb
+  doi: 10.1126/science.aaw3381
+  first-page: eaat9804
+  journal-title: Science
+  unstructured: Weinreb, C., Rodriguez-Fraticelli, A., Camargo, F. D. & Klein, A.
+    M. Lineage tracing on transcriptional landscapes links state to fate during differentiation.
+    Science 367, eaat9804 (2020).
+  volume: '367'
+  year: '2020'
+- author: A Forrow
+  doi: 10.1038/s41467-021-25133-1
+  journal-title: Nat. Commun.
+  unstructured: Forrow, A. & Schiebinger, G. LineageOT is a unified framework for
+    lineage tracing and trajectory inference. Nat. Commun. 12, 4940 (2021).
+  volume: '12'
+  year: '2021'
+- author: R Lopez
+  doi: 10.1038/s41592-018-0229-2
+  first-page: '1053'
+  journal-title: Nat. Methods
+  unstructured: Lopez, R., Regier, J., Cole, M. B., Jordan, M. I. & Yosef, N. Deep
+    generative modeling for single-cell transcriptomics. Nat. Methods 15, 1053–1058
+    (2018).
+  volume: '15'
+  year: '2018'
+- author: MA Butler
+  doi: 10.1086/426002
+  first-page: '683'
+  journal-title: Am. Nat.
+  unstructured: 'Butler, M. A. & King, A. A. Phylogenetic comparative analysis: a
+    modeling approach for adaptive evolution. Am. Nat. 164, 683–695 (2004).'
+  volume: '164'
+  year: '2004'
+- author: N Papadopoulos
+  doi: 10.1093/bioinformatics/btz078
+  first-page: '3517'
+  journal-title: Bioinformatics
+  unstructured: 'Papadopoulos, N., Gonzalo, P. R. & Soding, J. PROSSTT: probabilistic
+    simulation of single-cell RNA-seq data for complex differentiation processes.
+    Bioinformatics 35, 3517–3519 (2019).'
+  volume: '35'
+  year: '2019'
+- author: K Liu
+  doi: 10.1038/s41592-021-01325-x
+  first-page: '1506'
+  journal-title: Nat. Methods
+  unstructured: Liu, K. et al. Mapping single-cell-resolution cell phylogeny reveals
+    cell population dynamics during organ development. Nat. Methods 18, 1506–1514
+    (2021).
+  volume: '18'
+  year: '2021'
+- author: DE Wagner
+  doi: 10.1126/science.aar4362
+  first-page: '981'
+  journal-title: Science
+  unstructured: Wagner, D. E. et al. Single-cell mapping of gene expression landscapes
+    and lineage in the zebrafish embryo. Science 360, 981–987 (2018).
+  volume: '360'
+  year: '2018'
+- author: SJ Salipante
+  doi: 10.1111/j.1525-142X.2009.00393.x
+  first-page: '84'
+  journal-title: Evol. Dev.
+  unstructured: Salipante, S. J., Kas, A., McMonagle, E. & Horwitz, M. S. Phylogenetic
+    analysis of developmental and postnatal mouse cell lineages. Evol. Dev. 12, 84–94
+    (2010).
+  volume: '12'
+  year: '2010'
+- author: K Street
+  doi: 10.1186/s12864-018-4772-0
+  journal-title: BMC Genomics
+  unstructured: 'Street, K. et al. Slingshot: cell lineage and pseudotime inference
+    for single-cell transcriptomics. BMC Genomics 19, 477 (2018).'
+  volume: '19'
+  year: '2018'
+- author: FA Wolf
+  doi: 10.1186/s13059-019-1663-x
+  journal-title: Genome Biol.
+  unstructured: 'Wolf, F. A. et al. PAGA: graph abstraction reconciles clustering
+    with trajectory inference through a topology preserving map of single cells. Genome
+    Biol. 20, 59 (2019).'
+  volume: '20'
+  year: '2019'
+- author: I Salvador-Martinez
+  doi: 10.7554/eLife.40292
+  first-page: e40292
+  journal-title: eLife
+  unstructured: Salvador-Martinez, I., Grillo, M., Averof, M. & Telford, M. J. Is
+    it possible to reconstruct an accurate cell lineage using CRISPR recorders? eLife
+    8, e40292 (2019).
+  volume: '8'
+  year: '2019'
+- author: G La Manno
+  doi: 10.1038/s41586-021-03775-x
+  first-page: '92'
+  journal-title: Nature
+  unstructured: La Manno, G. et al. Molecular architecture of the developing mouse
+    brain. Nature 596, 92–96 (2021).
+  volume: '596'
+  year: '2021'
+- author: MH Baron
+  doi: 10.1182/blood-2012-01-153486
+  first-page: '4828'
+  journal-title: Blood
+  unstructured: Baron, M. H., Isern, J. & Fraser, S. T. The embryonic origins of erythropoiesis
+    in mammals. Blood 119, 4828–4837 (2012).
+  volume: '119'
+  year: '2012'
+- author: X Qiu
+  doi: 10.1016/j.cell.2021.12.045
+  first-page: '690'
+  journal-title: Cell
+  unstructured: Qiu, X. et al. Mapping transcriptomic vector fields of single cells.
+    Cell 185, 690–711 (2022).
+  volume: '185'
+  year: '2022'
+- author: D Yang
+  doi: 10.1016/j.cell.2022.04.015
+  first-page: '1905'
+  journal-title: Cell
+  unstructured: Yang, D. et al. Lineage tracing reveals the phylodynamics, plasticity,
+    and paths of tumor evolution. Cell 185, 1905–1923 e1925 (2022).
+  volume: '185'
+  year: '2022'
+- author: ND Marjanovic
+  doi: 10.1016/j.ccell.2020.06.012
+  first-page: '229'
+  journal-title: Cancer Cell
+  unstructured: Marjanovic, N. D. et al. Emergence of a high-plasticity cell state
+    during lung cancer evolution. Cancer Cell 38, 229–246 (2020).
+  volume: '38'
+  year: '2020'
+- author: LM LaFave
+  doi: 10.1016/j.ccell.2020.06.006
+  first-page: '212'
+  journal-title: Cancer Cell
+  unstructured: LaFave, L. M. et al. Epigenomic state transitions characterize tumor
+    progression in mouse lung adenocarcinoma. Cancer Cell 38, 212–228 (2020).
+  volume: '38'
+  year: '2020'
+- author: N Kim
+  doi: 10.1038/s41467-020-16164-1
+  journal-title: Nat. Commun.
+  unstructured: Kim, N. et al. Single-cell RNA sequencing demonstrates the molecular
+    and cellular reprogramming of metastatic lung adenocarcinoma. Nat. Commun. 11,
+    2285 (2020).
+  volume: '11'
+  year: '2020'
+- author: BA Biddy
+  doi: 10.1038/s41586-018-0744-4
+  first-page: '219'
+  journal-title: Nature
+  unstructured: Biddy, B. A. et al. Single-cell mapping of lineage and identity in
+    direct reprogramming. Nature 564, 219–224 (2018).
+  volume: '564'
+  year: '2018'
+- author: L Penter
+  doi: 10.3389/fimmu.2021.788891
+  first-page: '788891'
+  journal-title: Front. Immunol.
+  unstructured: Penter, L., Gohil, S. H. & Wu, C. J. Natural barcodes for longitudinal
+    single cell tracking of leukemic and immune cell dynamics. Front. Immunol. 12,
+    788891 (2022).
+  volume: '12'
+  year: '2022'
+- author: KE Yost
+  doi: 10.1038/s41591-019-0522-3
+  first-page: '1251'
+  journal-title: Nat. Med.
+  unstructured: Yost, K. E. et al. Clonal replacement of tumor-specific T cells following
+    PD-1 blockade. Nat. Med. 25, 1251–1259 (2019).
+  volume: '25'
+  year: '2019'
+- doi: 10.1101/2022.07.08.499381
+  unstructured: Gu, Y., Blaauw, D. & Welch, J. D. Bayesian inference of RNA velocity
+    from multi-lineage single-cell data. Preprint at bioRxiv https://doi.org/10.1101/2022.07.08.499381
+    (2022).
+- doi: 10.1101/2022.04.03.486877
+  unstructured: 'Cui, H., Maan, H., Taylor, M. D. & Wang, B. DeepVelo: deep learning
+    extends RNA velocity to multi-lineage systems with cell-specific kinetics. Preprint
+    at bioRxiv https://doi.org/10.1101/2022.04.03.486877 (2022).'
+- doi: 10.1038/s41587-023-01728-5
+  unstructured: Li, S. et al. A relay velocity model infers cell-dependent RNA velocity.
+    Nat. Biotechnol. https://doi.org/10.1038/s41587-023-01728-5 (2023).
+- author: M Gao
+  doi: 10.1038/s41467-022-34188-7
+  journal-title: Nat. Commun.
+  unstructured: 'Gao, M., Qiao, C. & Huang, Y. UniTVelo: temporally unified RNA velocity
+    reinforces single-cell trajectory inference. Nat. Commun. 13, 6586 (2022).'
+  volume: '13'
+  year: '2022'
+- author: KP Simeonov
+  doi: 10.1016/j.ccell.2021.05.005
+  first-page: '1150'
+  journal-title: Cancer Cell
+  unstructured: Simeonov, K. P. et al. Single-cell lineage tracing of metastatic cancer
+    reveals selection of hybrid EMT states. Cancer Cell 39, 1150–1162 e1159 (2021).
+  volume: '39'
+  year: '2021'
+- author: JJ Quinn
+  doi: 10.1126/science.abc1944
+  first-page: eabc1944
+  journal-title: Science
+  unstructured: Quinn, J. J. et al. Single-cell lineages reveal the rates, routes,
+    and drivers of metastasis in cancer xenografts. Science 371, eabc1944 (2021).
+  volume: '371'
+  year: '2021'
+- author: J Choi
+  doi: 10.1038/s41586-022-04922-8
+  first-page: '98'
+  journal-title: Nature
+  unstructured: Choi, J. et al. A time-resolved, multi-symbol molecular recorder via
+    sequential genome editing. Nature 608, 98–107 (2022).
+  volume: '608'
+  year: '2022'
+- author: Q Qiu
+  doi: 10.1038/s41592-020-0935-4
+  first-page: '991'
+  journal-title: Nat. Methods
+  unstructured: Qiu, Q. et al. Massively parallel and time-resolved RNA sequencing
+    in single cells with scNT-seq. Nat. Methods 17, 991–1001 (2020).
+  volume: '17'
+  year: '2020'
+- author: EI Athanasiadis
+  doi: 10.1038/s41467-017-02305-6
+  journal-title: Nat. Commun.
+  unstructured: Athanasiadis, E. I. et al. Single-cell RNA-sequencing uncovers transcriptional
+    states and fate decisions in haematopoiesis. Nat. Commun. 8, 2045 (2017).
+  volume: '8'
+  year: '2017'
+- author: L Fei
+  doi: 10.1038/s41588-022-01118-8
+  first-page: '1051'
+  journal-title: Nat. Genet.
+  unstructured: Fei, L. et al. Systematic identification of cell-fate regulatory programs
+    using a single-cell atlas of mouse development. Nat. Genet. 54, 1051–1061 (2022).
+  volume: '54'
+  year: '2022'
+- author: J Shi
+  first-page: '248'
+  journal-title: Brief. Bioinform
+  unstructured: 'Shi, J., Teschendorff, A. E., Chen, W., Chen, L. & Li, T. Quantifying
+    Waddington’s epigenetic landscape: a comparison of single-cell potency measures.
+    Brief. Bioinform 21, 248–261 (2018).'
+  volume: '21'
+  year: '2018'
+- author: AE Teschendorff
+  doi: 10.1038/s41576-021-00341-z
+  first-page: '459'
+  journal-title: Nat. Rev. Genet.
+  unstructured: Teschendorff, A. E. & Feinberg, A. P. Statistical mechanics meets
+    single-cell biology. Nat. Rev. Genet. 22, 459–476 (2021).
+  volume: '22'
+  year: '2021'
+- doi: 10.1101/2022.10.18.512766
+  unstructured: Singh, R., Wu, A. P., Mudide, A. & Berger, B. Unraveling causal gene
+    regulation from the RNA velocity graph using Velorama. Preprint at bioRxiv https://doi.org/10.1101/2022.10.18.512766
+    (2022).
+- author: NW Hughes
+  doi: 10.1016/j.molcel.2022.06.001
+  first-page: '3103'
+  journal-title: Mol. Cell.
+  unstructured: Hughes, N. W. et al. Machine-learning-optimized Cas12a barcoding enables
+    the recovery of single-cell lineages and transcriptional profiles. Mol. Cell.
+    82, 3103–3118 (2022).
+  volume: '82'
+  year: '2022'
+- author: W Gong
+  doi: 10.1016/j.cels.2021.05.008
+  first-page: '810'
+  journal-title: Cell Syst.
+  unstructured: Gong, W. et al. Benchmarked approaches for reconstruction of in vitro
+    cell lineages and in silico models of C. elegans and M. musculus developmental
+    trees. Cell Syst. 12, 810–826 (2021).
+  volume: '12'
+  year: '2021'
+- author: I Espinosa-Medina
+  doi: 10.1098/rsob.190229
+  first-page: '190229'
+  journal-title: Open Biol.
+  unstructured: Espinosa-Medina, I., Garcia-Marques, J., Cepko, C. & Lee, T. High-throughput
+    dense reconstruction of cell lineages. Open Biol. 9, 190229 (2019).
+  volume: '9'
+  year: '2019'
+- doi: 10.1101/2022.10.23.512790
+  unstructured: Jindal, K. et al. Multiomic single-cell lineage tracing to dissect
+    fate-specific gene regulatory programs. Preprint at bioRxiv https://doi.org/10.1101/2022.10.23.512790
+    (2022).
+- author: DT Gillespie
+  doi: 10.1021/j100540a008
+  first-page: '2340'
+  journal-title: J. Phys. Chem.
+  unstructured: Gillespie, D. T. Exact stochastic simulation of coupled chemical reactions.
+    J. Phys. Chem. 81, 2340–2361 (1977).
+  volume: '81'
+  year: '1977'
+- author: BQ Minh
+  doi: 10.1093/molbev/msaa015
+  first-page: '1530'
+  journal-title: Mol. Biol. Evol.
+  unstructured: 'Minh, B. Q. et al. IQ-TREE 2: new models and efficient methods for
+    phylogenetic inference in the genomic era. Mol. Biol. Evol. 37, 1530–1534 (2020).'
+  volume: '37'
+  year: '2020'
+- author: E Paradis
+  doi: 10.1093/bioinformatics/btg412
+  first-page: '289'
+  journal-title: Bioinformatics
+  unstructured: 'Paradis, E., Claude, J. & Strimmer, K. APE: analyses of phylogenetics
+    and evolution in R language. Bioinformatics 20, 289–290 (2004).'
+  volume: '20'
+  year: '2004'
+- author: W Chen
+  doi: 10.1186/s13059-018-1438-9
+  journal-title: Genome Biol.
+  unstructured: Chen, W. et al. UMI-count modeling and differential expression analysis
+    for single-cell RNA sequencing. Genome Biol. 19, 70 (2018).
+  volume: '19'
+  year: '2018'
+- author: C Jia
+  doi: 10.1137/19M1253198
+  first-page: '1336'
+  journal-title: SIAM J. Appl. Math.
+  unstructured: Jia, C. Kinetic foundation of the zero-inflated negative binomial
+    model for single-cell RNA sequencing data. SIAM J. Appl. Math. 80, 1336–1355 (2020).
+  volume: '80'
+  year: '2020'
+- author: RC Prim
+  doi: 10.1002/j.1538-7305.1957.tb01515.x
+  first-page: '1389'
+  journal-title: Bell System Technical Journal
+  unstructured: Prim, R. C. Shortest connection networks and some generalizations.
+    Bell System Technical Journal 36, 1389–1401 (1957).
+  volume: '36'
+  year: '1957'
+- author: PJ Cock
+  doi: 10.1093/bioinformatics/btp163
+  first-page: '1422'
+  journal-title: Bioinformatics
+  unstructured: 'Cock, P. J. et al. Biopython: freely available Python tools for computational
+    molecular biology and bioinformatics. Bioinformatics 25, 1422–1423 (2009).'
+  volume: '25'
+  year: '2009'
+- author: I Letunic
+  doi: 10.1093/nar/gkab301
+  first-page: W293
+  journal-title: Nucleic Acids Res.
+  unstructured: 'Letunic, I. & Bork, P. Interactive Tree Of Life (iTOL) v5: an online
+    tool for phylogenetic tree display and annotation. Nucleic Acids Res. 49, W293–W296
+    (2021).'
+  volume: '49'
+  year: '2021'
+- author: FA Wolf
+  doi: 10.1186/s13059-017-1382-0
+  journal-title: Genome Biol.
+  unstructured: 'Wolf, F. A., Angerer, P. & Theis, F. J. SCANPY: large-scale single-cell
+    gene expression data analysis. Genome Biol. 19, 15 (2018).'
+  volume: '19'
+  year: '2018'
+- author: J Glanville
+  doi: 10.1038/nature22976
+  first-page: '94'
+  journal-title: Nature
+  unstructured: Glanville, J. et al. Identifying specificity groups in the T cell
+    receptor repertoire. Nature 547, 94–98 (2017).
+  volume: '547'
+  year: '2017'
+- author: T Wu
+  first-page: '100141'
+  journal-title: Innovation (Camb).
+  unstructured: 'Wu, T. et al. clusterProfiler 4.0: a universal enrichment tool for
+    interpreting omics data. Innovation (Camb). 2, 100141 (2021).'
+  volume: '2'
+  year: '2021'
+- unstructured: Wang, K. et al. PhyloVelo, Phylogeny-based transcriptomic velocity
+    of single cells. GitHub https://github.com/kunwang34/PhyloVelo
+doc_url: https://www.nature.com/articles/s41587-023-01887-5.pdf
+doi: 10.1038/s41587-023-01887-5
+files: []
+journal: Nature Biotechnology
+language: en
+month: 7
+papis_id: 1c19da6cc3cd1b757cf6d2f352857d8d
+publisher: Springer Science and Business Media LLC
+ref: PhyloveloEnhanWang2023
+time-added: 2023-11-03-13:32:13
+title: PhyloVelo enhances transcriptomic velocity field mapping using monotonically
+  expressed genes
+type: article
+url: http://dx.doi.org/10.1038/s41587-023-01887-5
+year: 2023
