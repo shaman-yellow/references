@@ -1,0 +1,762 @@
+abstract: <jats:p>The Genotype-Tissue Expression (GTEx) project dissects how genetic
+  variation affects gene expression and splicing.</jats:p>
+author: None, None and Aguet, François and Anand, Shankara and Ardlie, Kristin G.
+  and Gabriel, Stacey and Getz, Gad A. and Graubert, Aaron and Hadley, Kane and Handsaker,
+  Robert E. and Huang, Katherine H. and Kashin, Seva and Li, Xiao and MacArthur, Daniel
+  G. and Meier, Samuel R. and Nedzel, Jared L. and Nguyen, Duyen T. and Segrè, Ayellet
+  V. and Todres, Ellen and Balliu, Brunilda and Barbeira, Alvaro N. and Battle, Alexis
+  and Bonazzola, Rodrigo and Brown, Andrew and Brown, Christopher D. and Castel, Stephane
+  E. and Conrad, Donald F. and Cotter, Daniel J. and Cox, Nancy and Das, Sayantan
+  and de Goede, Olivia M. and Dermitzakis, Emmanouil T. and Einson, Jonah and Engelhardt,
+  Barbara E. and Eskin, Eleazar and Eulalio, Tiffany Y. and Ferraro, Nicole M. and
+  Flynn, Elise D. and Fresard, Laure and Gamazon, Eric R. and Garrido-Martín, Diego
+  and Gay, Nicole R. and Gloudemans, Michael J. and Guigó, Roderic and Hame, Andrew
+  R. and He, Yuan and Hoffman, Paul J. and Hormozdiari, Farhad and Hou, Lei and Im,
+  Hae Kyung and Jo, Brian and Kasela, Silva and Kellis, Manolis and Kim-Hellmuth,
+  Sarah and Kwong, Alan and Lappalainen, Tuuli and Li, Xin and Liang, Yanyu and Mangul,
+  Serghei and Mohammadi, Pejman and Montgomery, Stephen B. and Muñoz-Aguirre, Manuel
+  and Nachun, Daniel C. and Nobel, Andrew B. and Oliva, Meritxell and Park, YoSon
+  and Park, Yongjin and Parsana, Princy and Rao, Abhiram S. and Reverter, Ferran and
+  Rouhana, John M. and Sabatti, Chiara and Saha, Ashis and Stephens, Matthew and Stranger,
+  Barbara E. and Strober, Benjamin J. and Teran, Nicole A. and Viñuela, Ana and Wang,
+  Gao and Wen, Xiaoquan and Wright, Fred and Wucher, Valentin and Zou, Yuxin and Ferreira,
+  Pedro G. and Li, Gen and Melé, Marta and Yeger-Lotem, Esti and Barcus, Mary E. and
+  Bradbury, Debra and Krubit, Tanya and McLean, Jeffrey A. and Qi, Liqun and Robinson,
+  Karna and Roche, Nancy V. and Smith, Anna M. and Sobin, Leslie and Tabor, David
+  E. and Undale, Anita and Bridge, Jason and Brigham, Lori E. and Foster, Barbara
+  A. and Gillard, Bryan M. and Hasz, Richard and Hunter, Marcus and Johns, Christopher
+  and Johnson, Mark and Karasik, Ellen and Kopen, Gene and Leinweber, William F. and
+  McDonald, Alisa and Moser, Michael T. and Myer, Kevin and Ramsey, Kimberley D. and
+  Roe, Brian and Shad, Saboor and Thomas, Jeffrey A. and Walters, Gary and Washington,
+  Michael and Wheeler, Joseph and Jewell, Scott D. and Rohrer, Daniel C. and Valley,
+  Dana R. and Davis, David A. and Mash, Deborah C. and Branton, Philip A. and Barker,
+  Laura K. and Gardiner, Heather M. and Mosavel, Maghboeba and Siminoff, Laura A.
+  and Flicek, Paul and Haeussler, Maximilian and Juettemann, Thomas and Kent, W. James
+  and Lee, Christopher M. and Powell, Conner C. and Rosenbloom, Kate R. and Ruffier,
+  Magali and Sheppard, Dan and Taylor, Kieron and Trevanion, Stephen J. and Zerbino,
+  Daniel R. and Abell, Nathan S. and Akey, Joshua and Chen, Lin and Demanelis, Kathryn
+  and Doherty, Jennifer A. and Feinberg, Andrew P. and Hansen, Kasper D. and Hickey,
+  Peter F. and Jasmine, Farzana and Jiang, Lihua and Kaul, Rajinder and Kibriya, Muhammad
+  G. and Li, Jin Billy and Li, Qin and Lin, Shin and Linder, Sandra E. and Pierce,
+  Brandon L. and Rizzardi, Lindsay F. and Skol, Andrew D. and Smith, Kevin S. and
+  Snyder, Michael and Stamatoyannopoulos, John and Tang, Hua and Wang, Meng and Carithers,
+  Latarsha J. and Guan, Ping and Koester, Susan E. and Little, A. Roger and Moore,
+  Helen M. and Nierras, Concepcion R. and Rao, Abhi K. and Vaught, Jimmie B. and Volpi,
+  Simona
+author_list:
+- affiliation: []
+  family: null
+  given: null
+- affiliation: []
+  family: Aguet
+  given: François
+- affiliation: []
+  family: Anand
+  given: Shankara
+- affiliation: []
+  family: Ardlie
+  given: Kristin G.
+- affiliation: []
+  family: Gabriel
+  given: Stacey
+- affiliation: []
+  family: Getz
+  given: Gad A.
+- affiliation: []
+  family: Graubert
+  given: Aaron
+- affiliation: []
+  family: Hadley
+  given: Kane
+- affiliation: []
+  family: Handsaker
+  given: Robert E.
+- affiliation: []
+  family: Huang
+  given: Katherine H.
+- affiliation: []
+  family: Kashin
+  given: Seva
+- affiliation: []
+  family: Li
+  given: Xiao
+- affiliation: []
+  family: MacArthur
+  given: Daniel G.
+- affiliation: []
+  family: Meier
+  given: Samuel R.
+- affiliation: []
+  family: Nedzel
+  given: Jared L.
+- affiliation: []
+  family: Nguyen
+  given: Duyen T.
+- affiliation: []
+  family: Segrè
+  given: Ayellet V.
+- affiliation: []
+  family: Todres
+  given: Ellen
+- affiliation: []
+  family: Balliu
+  given: Brunilda
+- affiliation: []
+  family: Barbeira
+  given: Alvaro N.
+- affiliation: []
+  family: Battle
+  given: Alexis
+- affiliation: []
+  family: Bonazzola
+  given: Rodrigo
+- affiliation: []
+  family: Brown
+  given: Andrew
+- affiliation: []
+  family: Brown
+  given: Christopher D.
+- affiliation: []
+  family: Castel
+  given: Stephane E.
+- affiliation: []
+  family: Conrad
+  given: Donald F.
+- affiliation: []
+  family: Cotter
+  given: Daniel J.
+- affiliation: []
+  family: Cox
+  given: Nancy
+- affiliation: []
+  family: Das
+  given: Sayantan
+- affiliation: []
+  family: de Goede
+  given: Olivia M.
+- affiliation: []
+  family: Dermitzakis
+  given: Emmanouil T.
+- affiliation: []
+  family: Einson
+  given: Jonah
+- affiliation: []
+  family: Engelhardt
+  given: Barbara E.
+- affiliation: []
+  family: Eskin
+  given: Eleazar
+- affiliation: []
+  family: Eulalio
+  given: Tiffany Y.
+- affiliation: []
+  family: Ferraro
+  given: Nicole M.
+- affiliation: []
+  family: Flynn
+  given: Elise D.
+- affiliation: []
+  family: Fresard
+  given: Laure
+- affiliation: []
+  family: Gamazon
+  given: Eric R.
+- affiliation: []
+  family: Garrido-Martín
+  given: Diego
+- affiliation: []
+  family: Gay
+  given: Nicole R.
+- affiliation: []
+  family: Gloudemans
+  given: Michael J.
+- affiliation: []
+  family: Guigó
+  given: Roderic
+- affiliation: []
+  family: Hame
+  given: Andrew R.
+- affiliation: []
+  family: He
+  given: Yuan
+- affiliation: []
+  family: Hoffman
+  given: Paul J.
+- affiliation: []
+  family: Hormozdiari
+  given: Farhad
+- affiliation: []
+  family: Hou
+  given: Lei
+- affiliation: []
+  family: Im
+  given: Hae Kyung
+- affiliation: []
+  family: Jo
+  given: Brian
+- affiliation: []
+  family: Kasela
+  given: Silva
+- affiliation: []
+  family: Kellis
+  given: Manolis
+- affiliation: []
+  family: Kim-Hellmuth
+  given: Sarah
+- affiliation: []
+  family: Kwong
+  given: Alan
+- affiliation: []
+  family: Lappalainen
+  given: Tuuli
+- affiliation: []
+  family: Li
+  given: Xin
+- affiliation: []
+  family: Liang
+  given: Yanyu
+- affiliation: []
+  family: Mangul
+  given: Serghei
+- affiliation: []
+  family: Mohammadi
+  given: Pejman
+- affiliation: []
+  family: Montgomery
+  given: Stephen B.
+- affiliation: []
+  family: Muñoz-Aguirre
+  given: Manuel
+- affiliation: []
+  family: Nachun
+  given: Daniel C.
+- affiliation: []
+  family: Nobel
+  given: Andrew B.
+- affiliation: []
+  family: Oliva
+  given: Meritxell
+- affiliation: []
+  family: Park
+  given: YoSon
+- affiliation: []
+  family: Park
+  given: Yongjin
+- affiliation: []
+  family: Parsana
+  given: Princy
+- affiliation: []
+  family: Rao
+  given: Abhiram S.
+- affiliation: []
+  family: Reverter
+  given: Ferran
+- affiliation: []
+  family: Rouhana
+  given: John M.
+- affiliation: []
+  family: Sabatti
+  given: Chiara
+- affiliation: []
+  family: Saha
+  given: Ashis
+- affiliation: []
+  family: Stephens
+  given: Matthew
+- affiliation: []
+  family: Stranger
+  given: Barbara E.
+- affiliation: []
+  family: Strober
+  given: Benjamin J.
+- affiliation: []
+  family: Teran
+  given: Nicole A.
+- affiliation: []
+  family: Viñuela
+  given: Ana
+- affiliation: []
+  family: Wang
+  given: Gao
+- affiliation: []
+  family: Wen
+  given: Xiaoquan
+- affiliation: []
+  family: Wright
+  given: Fred
+- affiliation: []
+  family: Wucher
+  given: Valentin
+- affiliation: []
+  family: Zou
+  given: Yuxin
+- affiliation: []
+  family: Ferreira
+  given: Pedro G.
+- affiliation: []
+  family: Li
+  given: Gen
+- affiliation: []
+  family: Melé
+  given: Marta
+- affiliation: []
+  family: Yeger-Lotem
+  given: Esti
+- affiliation: []
+  family: Barcus
+  given: Mary E.
+- affiliation: []
+  family: Bradbury
+  given: Debra
+- affiliation: []
+  family: Krubit
+  given: Tanya
+- affiliation: []
+  family: McLean
+  given: Jeffrey A.
+- affiliation: []
+  family: Qi
+  given: Liqun
+- affiliation: []
+  family: Robinson
+  given: Karna
+- affiliation: []
+  family: Roche
+  given: Nancy V.
+- affiliation: []
+  family: Smith
+  given: Anna M.
+- affiliation: []
+  family: Sobin
+  given: Leslie
+- affiliation: []
+  family: Tabor
+  given: David E.
+- affiliation: []
+  family: Undale
+  given: Anita
+- affiliation: []
+  family: Bridge
+  given: Jason
+- affiliation: []
+  family: Brigham
+  given: Lori E.
+- affiliation: []
+  family: Foster
+  given: Barbara A.
+- affiliation: []
+  family: Gillard
+  given: Bryan M.
+- affiliation: []
+  family: Hasz
+  given: Richard
+- affiliation: []
+  family: Hunter
+  given: Marcus
+- affiliation: []
+  family: Johns
+  given: Christopher
+- affiliation: []
+  family: Johnson
+  given: Mark
+- affiliation: []
+  family: Karasik
+  given: Ellen
+- affiliation: []
+  family: Kopen
+  given: Gene
+- affiliation: []
+  family: Leinweber
+  given: William F.
+- affiliation: []
+  family: McDonald
+  given: Alisa
+- affiliation: []
+  family: Moser
+  given: Michael T.
+- affiliation: []
+  family: Myer
+  given: Kevin
+- affiliation: []
+  family: Ramsey
+  given: Kimberley D.
+- affiliation: []
+  family: Roe
+  given: Brian
+- affiliation: []
+  family: Shad
+  given: Saboor
+- affiliation: []
+  family: Thomas
+  given: Jeffrey A.
+- affiliation: []
+  family: Walters
+  given: Gary
+- affiliation: []
+  family: Washington
+  given: Michael
+- affiliation: []
+  family: Wheeler
+  given: Joseph
+- affiliation: []
+  family: Jewell
+  given: Scott D.
+- affiliation: []
+  family: Rohrer
+  given: Daniel C.
+- affiliation: []
+  family: Valley
+  given: Dana R.
+- affiliation: []
+  family: Davis
+  given: David A.
+- affiliation: []
+  family: Mash
+  given: Deborah C.
+- affiliation: []
+  family: Branton
+  given: Philip A.
+- affiliation: []
+  family: Barker
+  given: Laura K.
+- affiliation: []
+  family: Gardiner
+  given: Heather M.
+- affiliation: []
+  family: Mosavel
+  given: Maghboeba
+- affiliation: []
+  family: Siminoff
+  given: Laura A.
+- affiliation: []
+  family: Flicek
+  given: Paul
+- affiliation: []
+  family: Haeussler
+  given: Maximilian
+- affiliation: []
+  family: Juettemann
+  given: Thomas
+- affiliation: []
+  family: Kent
+  given: W. James
+- affiliation: []
+  family: Lee
+  given: Christopher M.
+- affiliation: []
+  family: Powell
+  given: Conner C.
+- affiliation: []
+  family: Rosenbloom
+  given: Kate R.
+- affiliation: []
+  family: Ruffier
+  given: Magali
+- affiliation: []
+  family: Sheppard
+  given: Dan
+- affiliation: []
+  family: Taylor
+  given: Kieron
+- affiliation: []
+  family: Trevanion
+  given: Stephen J.
+- affiliation: []
+  family: Zerbino
+  given: Daniel R.
+- affiliation: []
+  family: Abell
+  given: Nathan S.
+- affiliation: []
+  family: Akey
+  given: Joshua
+- affiliation: []
+  family: Chen
+  given: Lin
+- affiliation: []
+  family: Demanelis
+  given: Kathryn
+- affiliation: []
+  family: Doherty
+  given: Jennifer A.
+- affiliation: []
+  family: Feinberg
+  given: Andrew P.
+- affiliation: []
+  family: Hansen
+  given: Kasper D.
+- affiliation: []
+  family: Hickey
+  given: Peter F.
+- affiliation: []
+  family: Jasmine
+  given: Farzana
+- affiliation: []
+  family: Jiang
+  given: Lihua
+- affiliation: []
+  family: Kaul
+  given: Rajinder
+- affiliation: []
+  family: Kibriya
+  given: Muhammad G.
+- affiliation: []
+  family: Li
+  given: Jin Billy
+- affiliation: []
+  family: Li
+  given: Qin
+- affiliation: []
+  family: Lin
+  given: Shin
+- affiliation: []
+  family: Linder
+  given: Sandra E.
+- affiliation: []
+  family: Pierce
+  given: Brandon L.
+- affiliation: []
+  family: Rizzardi
+  given: Lindsay F.
+- affiliation: []
+  family: Skol
+  given: Andrew D.
+- affiliation: []
+  family: Smith
+  given: Kevin S.
+- affiliation: []
+  family: Snyder
+  given: Michael
+- affiliation: []
+  family: Stamatoyannopoulos
+  given: John
+- affiliation: []
+  family: Tang
+  given: Hua
+- affiliation: []
+  family: Wang
+  given: Meng
+- affiliation: []
+  family: Carithers
+  given: Latarsha J.
+- affiliation: []
+  family: Guan
+  given: Ping
+- affiliation: []
+  family: Koester
+  given: Susan E.
+- affiliation: []
+  family: Little
+  given: A. Roger
+- affiliation: []
+  family: Moore
+  given: Helen M.
+- affiliation: []
+  family: Nierras
+  given: Concepcion R.
+- affiliation: []
+  family: Rao
+  given: Abhi K.
+- affiliation: []
+  family: Vaught
+  given: Jimmie B.
+- affiliation: []
+  family: Volpi
+  given: Simona
+citations:
+- doi: 10.1038/nature11247
+- doi: 10.1038/nature14248
+- doi: 10.1101/gr.155192.113
+- doi: 10.1038/nature12531
+- doi: 10.1038/ng.3721
+- doi: 10.1038/ng.2653
+- doi: 10.1089/bio.2015.0032
+- doi: 10.1089/bio.2017.0115
+- doi: 10.1126/science.1262110
+- doi: 10.1038/nature24277
+- doi: 10.1101/793091
+  unstructured: O. M. de Goede N. M. Ferraro D. C. Nachun A. S. Rao F. Aguet A. N.
+    Barbeira S. E. Castel S. Kim-Hellmuth Y. Park A. J. Scott B. J. Strober GTEx Consortium
+    C. D. Brown X. Wen I. M. Hall A. Battle T. Lappalainen H. K. Im K. G. Ardlie T.
+    Quertermous K. Kirkegaard S. B. Montgomery Long non-coding RNA gene regulation
+    and trait associations across human tissues. bioRxiv 793091 [Preprint]. 4 October
+    2019. https://doi.org/10.1101/793091.
+- doi: 10.1038/s41588-017-0004-9
+- doi: 10.1093/hmg/ddx043
+- doi: 10.1016/j.ajhg.2017.04.005
+- doi: 10.12688/f1000research.17145.1
+- doi: 10.1101/792911
+  unstructured: S. E. CastelF. Aguet P. Mohammadi GTEx Consortium K. G. Ardlie T.
+    Lappalainen A vast resource of allelic expression data spanning human tissues.
+    Genome Biol. 10.1186/s13059-020-02122-z (2020).
+- doi: 10.1038/s41576-018-0083-1
+- doi: 10.1371/journal.pgen.1002639
+- doi: 10.1126/science.1249547
+- doi: 10.1101/gr.216747.116
+- doi: 10.1126/science.aba3066
+- doi: 10.1093/carcin/bgh244
+- doi: 10.1093/carcin/bgi085
+- doi: 10.1002/path.2902
+- doi: 10.4132/jptm.2016.10.17
+- doi: 10.1096/fj.201800997
+- doi: 10.1038/s41598-019-43128-3
+- doi: 10.1111/exd.12518
+- doi: 10.1038/ng.3979
+- doi: 10.1534/genetics.114.167908
+- doi: 10.1371/journal.pgen.1006646
+- doi: 10.1016/j.cell.2016.04.027
+- doi: 10.1038/s41588-019-0455-2
+- doi: 10.1126/science.aad9417
+- doi: 10.1126/science.aat8266
+- doi: 10.1038/ng1011-1040c
+- doi: 10.1101/gr.216754.116
+- doi: 10.1038/ng.2756
+- doi: 10.1038/s41588-019-0404-0
+- doi: 10.1101/814350
+  unstructured: A. N. Barbeira R. Bonazzola E. R. Gamazon Y. Liang Y. Park S. Kim-Hellmuth
+    G. Wang Z. Jiang D. Zhou F. Hormozdiari B. Liu A. Rao A. R. Hamel M. D. Pividori
+    F. Aguet GTEx GWAS Working Group L. Bastarache D. M. Jordan M. Verbanck R. Do
+    GTEx Consortium M. Stephens K. Ardlie M. McCarthy S. B. Montgomery A. V. Segrè
+    C. D. Brown T. Lappalainen X. Wen H. K. Im Exploiting the GTEx resources to decipher
+    the mechanisms at GWAS loci. bioRxiv 814350 [Preprint]. 23 May 2020. https://doi.org/10.1101/814350.
+- doi: 10.1371/journal.pgen.1000888
+- doi: 10.1038/s41588-018-0154-4
+- doi: 10.1038/ng.3404
+- doi: 10.1038/s41588-018-0148-2
+- article-title: Approximately independent linkage disequilibrium blocks inhuman populations
+  author: Berisa T.
+  doi: 10.1093/bioinformatics/btv546
+  first-page: '283'
+  journal-title: Bioinformatics
+  unstructured: T. Berisa, J. K. Pickrell, Approximately independent linkage disequilibrium
+    blocks inhuman populations. Bioinformatics 32, 283–285 (2016). 26395773
+  volume: '32'
+  year: '2016'
+- doi: 10.1038/ng.3367
+- doi: 10.1038/s41467-020-14288-y
+- doi: 10.1126/science.aaz5900
+- doi: 10.1186/s13059-019-1844-7
+- doi: 10.1038/s41588-018-0268-8
+- doi: 10.1126/science.aay0256
+- doi: 10.1186/s13059-017-1349-1
+- doi: 10.1126/science.aaz8528
+- doi: 10.1038/ng.3737
+- doi: 10.1371/journal.pgen.1005908
+- doi: 10.1038/nrd4051
+  unstructured: R. M. Plenge E. M. Scolnick D. Altshuler Validating therapeutic targets
+    through humangenetics. Nat. Rev. Drug Discov . 12 581–594 (2013). 23868113
+- unstructured: 'F. Aguet broadinstitute/gtex-pipeline: GTEx v8 Zenodo (2020); http://doi.org/10.5281/zenodo.3727189.'
+- unstructured: 'F. Aguet broadinstitute/gtex-v8: main_figures Zenodo (2020); http://doi.org/10.5281/zenodo.3930961.'
+- doi: 10.1186/gb-2011-12-1-r1
+- doi: 10.1038/nature24265
+- doi: 10.1038/nmeth.3317
+- doi: 10.1038/ng.3200
+- doi: 10.1038/nmeth.2307
+- doi: 10.1093/bioinformatics/bts635
+- doi: 10.1038/nmeth.3582
+- doi: 10.1038/ng.2951
+- doi: 10.1093/bioinformatics/bts196
+- doi: 10.1186/gb-2010-11-3-r25
+- doi: 10.1371/journal.pcbi.1000770
+- doi: 10.1101/836825
+  unstructured: N. R. Gay M. Gloudemans M. L. Antonio N. S. Abell B. Balliu Y. Park
+    A. R. Martin S. Musharoff A. Rao F. Aguet A. Barbeira R. Bonazzola F. Hormozdiari
+    GTEx Consortium K. G. Ardlie C. D. Brown H. K. Im T. Lappalainen X. Wen S. B.
+    Montgomery Impact of admixture and ancestry on eQTL analysis and GWAS colocalization
+    in GTEx. Genome Biol. 10.1186/s13059-020-02113-0 (2020).10.1186/s13059-020-02113-0
+- doi: 10.1093/bioinformatics/btv722
+- doi: 10.1073/pnas.1530509100
+- doi: 10.1186/s13059-019-1836-7
+- doi: 10.1371/journal.pgen.1004383
+- doi: 10.1038/ng.3162
+- doi: 10.1101/447367
+  unstructured: U. Võsa A. Claringbould H.-J. Westra M. J. Bonder P. Deelen B. Zeng
+    H. Kirsten A. Saha R. Kreuzhuber S. Kasela N. Pervjakova I. Alvaes M.-J. Fave
+    M. Agbessi M. Christiansen R. Jansen I. Seppälä L. Tong A. Teumer K. Schramm G.
+    Hemani J. Verlouw H. Yaghootkar R. Sönmez A. Brown V. Kukushkina A. Kalnapenkis
+    S. Rüeger E. Porcu J. Kronberg-Guzman J. Kettunen J. Powell V. Lee F. Zhang W.
+    Arindrarto F. Beutner BIOS Consortium H. Brugge i2QTL Consortium J. Dmitreva M.
+    Elansary B. P. Fairfax M. Georges B. T. Heijmans M. Kähönen Y. Kim J. C. Knight
+    P. Kovacs K. Krohn S. Li M. Loeffler U. M. Marigorta H. Mei Y. Momozawa M. Müller-Nurasyid
+    M. Nauck M. Nivard B. Penninx J. Pritchard O. Raitakari O. Rotzchke E. P. Slagboom
+    C. D. A. Stehouwer M. Stumvoll P.Sullivan P. A. C. ‘t Hoen J. Thiery A. Tönjes
+    J. van Dongen M. van Iterson J. Veldink W. Völker C. Wijmenga M. Swertz A.Andiappan
+    G. W. Montgomery S. Ripatti M. Perola Z. Kutalik E. Dermitzakis S. Bergmann T.
+    Frayling J. van Meurs H. Prokisch H. Ahsan B. Pierce T.Lehtimäki D. Boomsma B.
+    M. Psaty S. A. Gharib P. Awadalla L. Milani W. Ouwehand K. Downes O. Stegle A.
+    Battle J. Yang P. M. Visscher M. Scholz G. Gibson T. Esko L. Franke Unraveling
+    the polygenic architecture of complex traits using blood eQTL metaanalysis. bioRxiv
+    447367 [Preprint]. 19 October 2018. https://doi.org/10.1101/447367.
+- doi: 10.1186/s13059-015-0762-6
+- doi: 10.1186/s13059-014-0467-2
+- doi: 10.1038/ncomms12817
+- doi: 10.1186/gb-2010-11-10-r106
+- doi: 10.1186/s13059-015-0621-5
+- doi: 10.1214/16-AOAS952
+- doi: 10.1038/nature24284
+- doi: 10.1038/s41419-018-1288-0
+- doi: 10.1016/j.celrep.2016.06.002
+- doi: 10.1158/0008-5472.CAN-17-0700
+- doi: 10.1093/nar/gky1120
+- doi: 10.1038/s41586-018-0579-z
+- doi: 10.1016/j.cell.2016.10.042
+- doi: 10.1038/ng.3396
+- doi: 10.1038/ng.3888
+- doi: 10.1038/ng.3424
+- doi: 10.1038/nature19806
+- doi: 10.1038/nature14101
+- doi: 10.1038/nature14878
+- doi: 10.1038/ng.3097
+- doi: 10.1038/ng.3359
+- doi: 10.1038/ng.2802
+- doi: 10.1038/ng.3434
+- doi: 10.1371/journal.pgen.1006125
+- doi: 10.1038/ng.520
+- doi: 10.1038/ncomms11122
+- doi: 10.1016/j.biopsych.2017.11.026
+- doi: 10.1038/nature13595
+- doi: 10.1038/nature12873
+- doi: 10.1038/ng.3552
+- doi: 10.1038/nature17671
+- doi: 10.1093/jnci/djv081
+- doi: 10.1093/bioinformatics/btt500
+- doi: 10.1093/bioinformatics/btu416
+- doi: 10.1016/j.ajhg.2016.03.029
+- doi: 10.1038/ng.3954
+- doi: 10.1038/s41467-018-03621-1
+- doi: 10.1371/journal.pgen.1007889
+- doi: 10.18637/jss.v033.i01
+- doi: 10.1038/nature09298
+- doi: 10.1016/j.fsi.2017.11.040
+- doi: 10.1016/j.it.2014.04.002
+- unstructured: W. Wang M. Stephens Empirical Bayes Matrix Factorization. arXiv:1802.06931
+    [stat.ME] (22 February 2018).
+- doi: 10.1371/journal.pgen.1003491
+- doi: 10.1038/ng.2310
+- doi: 10.1371/journal.pgen.1002555
+- doi: 10.1038/ng.3981
+- doi: 10.1101/674226
+  unstructured: A. Majumdar C. Giambartolomei N. Cai T. Haldar T. Schwarz M. J. Gandal
+    J. Flint B. Pasaniuc Leveraging eQTLs toidentify individual-level tissue of interest
+    for a complex trait. bioRxiv 674226 [Preprint]. 18 July 2019. https://doi.org/10.1101/674226.
+- doi: 10.1038/ng.3810
+- doi: 10.1016/j.ajhg.2015.11.021
+- doi: 10.1093/bioinformatics/btq099
+- doi: 10.1093/nar/gkt1026
+doc_url: https://syndication.highwire.org/content/doi/10.1126/science.aaz1776
+doi: 10.1126/science.aaz1776
+files: []
+issue: '6509'
+journal: Science
+language: en
+month: 9
+pages: 1318--1330
+papis_id: dd7b7eee20f544b3977f133523dc546c
+publisher: American Association for the Advancement of Science (AAAS)
+ref: TheGtexConsorNone2020
+time-added: 2023-11-08-10:52:24
+title: The GTEx Consortium atlas of genetic regulatory effects across human tissues
+type: article
+url: http://dx.doi.org/10.1126/science.aaz1776
+volume: '369'
+year: 2020
