@@ -1,0 +1,442 @@
+author: Cole, Timothy J. and Short, Kelly L. and Hooper, Stuart B.
+author_list:
+- affiliation: []
+  family: Cole
+  given: Timothy J.
+- affiliation: []
+  family: Short
+  given: Kelly L.
+- affiliation: []
+  family: Hooper
+  given: Stuart B.
+citations:
+- author: Medvei
+  series-title: A history of endocrinology
+  year: '1982'
+- article-title: The molecular biology, biochemistry, and physiology of human steroidogenesis
+    and its disorders
+  author: Miller
+  doi: 10.1210/er.2010-0013
+  first-page: '81'
+  issue: '1'
+  journal-title: Endocr Rev
+  volume: '32'
+  year: '2011'
+- article-title: 'Short-chain dehydrogenase/reductase (SDR) relationships: a large
+    family with eight clusters common to human, animal, and plant genomes'
+  author: Kallberg
+  doi: 10.1110/ps.26902
+  first-page: '636'
+  issue: '3'
+  journal-title: Protein Sci Publ Protein Soc
+  volume: '11'
+  year: '2002'
+- article-title: Cardiac steroidogenesis in the normal and failing heart
+  author: Young
+  doi: 10.1210/jcem.86.11.7925
+  first-page: '5121'
+  issue: '11'
+  journal-title: J Clin Endocrinol Metab
+  volume: '86'
+  year: '2001'
+- article-title: Enzymology of human cytosolic sulfotransferases
+  author: Falany
+  doi: 10.1096/fasebj.11.4.9068609
+  first-page: '206'
+  issue: '4'
+  journal-title: 'FASEB J : Offic Publ Fed Am Soc Exp Biol'
+  volume: '11'
+  year: '1997'
+- article-title: '11beta-hydroxysteroid dehydrogenase 1: translational and therapeutic
+    aspects'
+  author: Gathercole
+  doi: 10.1210/er.2012-1050
+  first-page: '525'
+  issue: '4'
+  journal-title: Endocr Rev
+  volume: '34'
+  year: '2013'
+- article-title: 'Cloning of the mouse 11 beta-hydroxysteroid dehydrogenase type 2
+    gene: tissue specific expression and localization in distal convoluted tubules
+    and collecting ducts of the kidney'
+  author: Cole
+  doi: 10.1210/endo.136.10.7664690
+  first-page: '4693'
+  issue: '10'
+  journal-title: Endocrinology
+  volume: '136'
+  year: '1995'
+- article-title: A mutation in the HSD11B2 gene in a family with apparent mineralocorticoid
+    excess
+  author: Wilson
+  first-page: '2263'
+  issue: '7'
+  journal-title: J Clin Endocrinol Metab
+  volume: '80'
+  year: '1995'
+- article-title: 'Steroidogenesis: unanswered questions'
+  author: Miller
+  doi: 10.1016/j.tem.2017.09.002
+  first-page: '771'
+  issue: '11'
+  journal-title: 'Trends Endocrinol Metabol: TEM'
+  volume: '28'
+  year: '2017'
+- article-title: Congenital adrenal hyperplasia due to 21-hydroxylase deficiency
+  author: White
+  first-page: '245'
+  issue: '3'
+  journal-title: Endocr Rev
+  volume: '21'
+  year: '2000'
+- article-title: 'GC/MS in recent years has defined the normal and clinically disordered
+    steroidome: will it soon Be surpassed by LC/tandem MS in this role?'
+  author: Shackleton
+  doi: 10.1210/js.2018-00135
+  first-page: '974'
+  issue: '8'
+  journal-title: J Endocr Soc
+  volume: '2'
+  year: '2018'
+- article-title: Aromatase cytochrome P450, the enzyme responsible for estrogen biosynthesis
+  author: Simpson
+  first-page: '342'
+  issue: '3'
+  journal-title: Endocr Rev
+  volume: '15'
+  year: '1994'
+- article-title: Tissue-specific promoters regulate aromatase cytochrome P450 expression
+  author: Simpson
+  doi: 10.1016/0960-0760(93)90235-O
+  first-page: '321'
+  issue: 4–6
+  journal-title: J Steroid Biochem Mol Biol
+  volume: '44'
+  year: '1993'
+- article-title: 'Steroid 5 alpha-reductase: two genes/two enzymes'
+  author: Russell
+  doi: 10.1146/annurev.bi.63.070194.000325
+  first-page: '25'
+  journal-title: Annu Rev Biochem
+  volume: '63'
+  year: '1994'
+- article-title: Mineralocorticoid action
+  author: Rogerson
+  doi: 10.1016/S0039-128X(99)00087-2
+  first-page: '61'
+  issue: '2'
+  journal-title: Steroids
+  volume: '65'
+  year: '2000'
+- article-title: Acute and chronic regulation of aldosterone production
+  author: Hattangady
+  doi: 10.1016/j.mce.2011.07.034
+  first-page: '151'
+  issue: '2'
+  journal-title: Mol Cell Endocrinol
+  volume: '350'
+  year: '2012'
+- article-title: 'Mineralocorticoid action: target tissue specificity is enzyme, not
+    receptor, mediated'
+  author: Funder
+  doi: 10.1126/science.2845584
+  first-page: '583'
+  issue: '4878'
+  journal-title: Science
+  volume: '242'
+  year: '1988'
+- article-title: The effect of spironolactone on morbidity and mortality in patients
+    with severe heart failure. Randomized aldactone evaluation study investigators
+  author: Pitt
+  doi: 10.1056/NEJM199909023411001
+  first-page: '709'
+  issue: '10'
+  journal-title: N Engl J Med
+  volume: '341'
+  year: '1999'
+- article-title: Eplerenone in patients with systolic heart failure and mild symptoms
+  author: Zannad
+  doi: 10.1056/NEJMoa1009492
+  first-page: '11'
+  issue: '1'
+  journal-title: N Engl J Med
+  volume: '364'
+  year: '2011'
+- article-title: Aldosterone in the brain
+  author: Geerling
+  doi: 10.1152/ajprenal.90399.2008
+  first-page: F559
+  issue: '3'
+  journal-title: Am J Physiol Renal Physiol
+  volume: '297'
+  year: '2009'
+- article-title: How do glucocorticoids influence stress responses? Integrating permissive,
+    suppressive, stimulatory, and preparative actions
+  author: Sapolsky
+  first-page: '55'
+  issue: '1'
+  journal-title: Endocr Rev
+  volume: '21'
+  year: '2000'
+- article-title: 'Anti-inflammatory actions of glucocorticoids: molecular mechanisms'
+  author: Barnes
+  doi: 10.1042/cs0940557
+  first-page: '557'
+  issue: '6'
+  journal-title: Clin Sci
+  volume: '94'
+  year: '1998'
+- article-title: Glucocorticoid receptor isoforms generate transcription specificity
+  author: Lu
+  doi: 10.1016/j.tcb.2006.04.005
+  first-page: '301'
+  issue: '6'
+  journal-title: Trends Cell Biol
+  volume: '16'
+  year: '2006'
+- article-title: The role of cortisol in preparing the fetus for birth
+  author: Liggins
+  doi: 10.1071/RD9940141
+  first-page: '141'
+  issue: '2'
+  journal-title: Reprod Fertil Dev
+  volume: '6'
+  year: '1994'
+- article-title: 'Glucocorticoid regulation of lung development: lessons learned from
+    conditional GR knockout mice'
+  author: Bird
+  doi: 10.1210/me.2014-1362
+  first-page: '158'
+  issue: '2'
+  journal-title: Mol Endocrinol
+  volume: '29'
+  year: '2015'
+- article-title: The nuclear receptor superfamily
+  author: Robinson-Rechavi
+  doi: 10.1242/jcs.00247
+  first-page: '585'
+  issue: Pt 4
+  journal-title: J Cell Sci
+  volume: '116'
+  year: '2003'
+- article-title: Expression of androgen receptor coregulators in prostate cancer
+  author: Linja
+  doi: 10.1158/1078-0432.CCR-0990-3
+  first-page: '1032'
+  issue: '3'
+  journal-title: 'Clin Cancer Res : Offic J Am Associat Canc Res'
+  volume: '10'
+  year: '2004'
+- article-title: 'A protein interaction atlas for the nuclear receptors: properties
+    and quality of a hub-based dimerisation network'
+  author: Amoutzias
+  doi: 10.1186/1752-0509-1-34
+  first-page: '34'
+  journal-title: BMC Syst Biol
+  volume: '1'
+  year: '2007'
+- article-title: The orphan nuclear receptors at their 25-year reunion
+  author: Mullican
+  doi: 10.1530/JME-13-0212
+  first-page: T115
+  issue: '3'
+  journal-title: J Mol Endocrinol
+  volume: '51'
+  year: '2013'
+- article-title: 'A tale of two steroids: the importance of the androgens DHEA and
+    DHEAS for early neurodevelopment'
+  author: Greaves
+  doi: 10.1016/j.jsbmb.2018.12.007
+  first-page: '77'
+  journal-title: J Steroid Biochem Mol Biol
+  volume: '188'
+  year: '2019'
+- article-title: The role of dehydroepiandrosterone (DHEA) in schizophrenia
+  author: Vuksan-Cusa
+  first-page: '30'
+  issue: '1'
+  journal-title: Psychiatr Danub
+  volume: '28'
+  year: '2016'
+- article-title: Expression of oestrogen receptors in foetal lung tissue of mice
+  author: Carvalho
+  doi: 10.1111/j.1439-0264.2011.01096.x
+  first-page: '1'
+  issue: '1'
+  journal-title: Anat Histol Embryol
+  volume: '41'
+  year: '2012'
+- article-title: Epithelial cells are the major site of hydroxysteroid (17beta) dehydrogenase
+    2 and androgen receptor expression in fetal mouse lungs during the period overlapping
+    the surge of surfactant
+  author: Plante
+  doi: 10.1016/j.jsbmb.2009.08.006
+  first-page: '139'
+  issue: 4–5
+  journal-title: J Steroid Biochem Mol Biol
+  volume: '117'
+  year: '2009'
+- article-title: Type 2 and 5 17beta-hydroxysteroid dehydrogenases and androgen receptor
+    in human fetal lungs
+  author: Simard
+  doi: 10.1016/j.mce.2009.12.007
+  first-page: '79'
+  issue: 1–2
+  journal-title: Mol Cell Endocrinol
+  volume: '319'
+  year: '2010'
+- article-title: C21-steroids inactivation and glucocorticoid synthesis in the developing
+    lung
+  author: Boucher
+  doi: 10.1016/j.jsbmb.2014.11.025
+  first-page: '70'
+  journal-title: J Steroid Biochem Mol Biol
+  volume: '147'
+  year: '2015'
+- article-title: Role of the adrenal glands in the maturation of lung liquid secretory
+    mechanisms in fetal sheep
+  author: Wallace
+  first-page: R33
+  issue: 1 Pt 2
+  journal-title: Am J Physiol
+  volume: '270'
+  year: '1996'
+- article-title: 'The biology of the glucocorticoid receptor: new signaling mechanisms
+    in health and disease'
+  author: Oakley
+  doi: 10.1016/j.jaci.2013.09.007
+  first-page: '1033'
+  issue: '5'
+  journal-title: J Allergy Clin Immunol
+  volume: '132'
+  year: '2013'
+- article-title: Identification of betamethasone regulated target genes and cell pathways
+    in fetal rat lung mesenchymal fibroblasts
+  author: Seow
+  doi: 10.1210/en.2018-01071
+  journal-title: Endocrinology
+  year: '2019'
+- article-title: Stimulation of gastric proteases in the neonatal pig by a rise in
+    adrenocortical secretion at parturition
+  author: Sangild
+  doi: 10.1071/RD9951293
+  first-page: '1293'
+  issue: '5'
+  journal-title: Reprod Fertil Dev
+  volume: '7'
+  year: '1995'
+- article-title: The prenatal development and glucocorticoid control of brush-border
+    hydrolases in the pig small intestine
+  author: Sangild
+  doi: 10.1203/00006450-199502000-00014
+  first-page: '207'
+  issue: '2'
+  journal-title: Pediatr Res
+  volume: '37'
+  year: '1995'
+- article-title: Nycthemeral rhythm in adrenal responsiveness to ACTH
+  author: Dallman
+  first-page: R210
+  issue: '5'
+  journal-title: Am J Physiol
+  volume: '235'
+  year: '1978'
+- article-title: 'Equivalent doses and relative drug potencies for non-genomic glucocorticoid
+    effects: a novel glucocorticoid hierarchy'
+  author: Buttgereit
+  doi: 10.1016/S0006-2952(99)00090-8
+  first-page: '363'
+  issue: '2'
+  journal-title: Biochem Pharmacol
+  volume: '58'
+  year: '1999'
+- article-title: A controlled trial of antepartum glucocorticoid treatment for prevention
+    of the respiratory distress syndrome in premature infants
+  author: Liggins
+  doi: 10.1542/peds.50.4.515
+  first-page: '515'
+  issue: '4'
+  journal-title: Pediatrics
+  volume: '50'
+  year: '1972'
+- article-title: Victorian Infant Collaborative Study G. Association between postnatal
+    dexamethasone for treatment of bronchopulmonary dysplasia and brain volumes at
+    adolescence in infants born very preterm
+  author: Cheong
+  doi: 10.1016/j.jpeds.2013.10.083
+  first-page: '737'
+  issue: '4'
+  journal-title: J Pediatr
+  volume: '164'
+  year: '2014'
+- article-title: 'Antenatal corticosteroid therapy: a meta-analysis of the randomized
+    trials, 1972 to 1994'
+  author: Crowley
+  doi: 10.1016/0002-9378(95)90222-8
+  first-page: '322'
+  issue: '1'
+  journal-title: Am J Obstet Gynecol
+  volume: '173'
+  year: '1995'
+- author: Guidelines-Panel
+  series-title: 'Antenatal corticosteroids given to women prior to birth to improve
+    fetal, infant, child and adult health: clinical Practice Guidelines'
+  year: '2015'
+- article-title: Identification of glucocorticoid-regulated genes that control cell
+    proliferation during murine respiratory development
+  author: Bird
+  doi: 10.1113/jphysiol.2007.136796
+  first-page: '187'
+  issue: Pt 1
+  journal-title: J Physiol
+  volume: '585'
+  year: '2007'
+- article-title: Mesenchymal glucocorticoid receptor regulates the development of
+    multiple cell layers of the mouse lung
+  author: Bird
+  doi: 10.1165/rcmb.2013-0169OC
+  first-page: '419'
+  issue: '2'
+  journal-title: Am J Respir Cell Mol Biol
+  volume: '50'
+  year: '2014'
+- article-title: Effects of antenatal glucocorticoids on the developing brain
+  author: Carson
+  doi: 10.1016/j.steroids.2016.05.012
+  first-page: '25'
+  journal-title: Steroids
+  volume: '114'
+  year: '2016'
+- article-title: Evolving neonatal steroid prescription habits and patient outcomes
+  author: Fortin-Pellerin
+  doi: 10.1111/apa.12285
+  first-page: '799'
+  issue: '8'
+  journal-title: Acta Paediatr
+  volume: '102'
+  year: '2013'
+- article-title: 'Long term effects of antenatal betamethasone on lung function: 30
+    year follow up of a randomised controlled trial'
+  author: Dalziel
+  doi: 10.1136/thx.2005.051763
+  first-page: '678'
+  issue: '8'
+  journal-title: Thorax
+  volume: '61'
+  year: '2006'
+doi: 10.1016/j.siny.2019.05.005
+files: []
+issue: '3'
+journal: Seminars in Fetal and Neonatal Medicine
+language: en
+month: 6
+pages: 170--175
+papis_id: deeda396f39c53e30e89770d6047c0a8
+publisher: Elsevier BV
+ref: TheScienceOfCole2019
+time-added: 2023-11-09-14:29:49
+title: The science of steroids
+type: article
+url: http://dx.doi.org/10.1016/j.siny.2019.05.005
+volume: '24'
+year: 2019

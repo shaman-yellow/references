@@ -1,0 +1,141 @@
+abstract: <jats:p>TGR5 is a G protein-coupled bile acid receptor that is increasingly
+  recognized as a key regulator of glucose homeostasis. While the role of TGR5 signaling
+  in immune cells, adipocytes and enteroendocrine L cells in metabolic regulation
+  has been well described and extensively reviewed, the impact of TGR5-mediated effects
+  on hepatic physiology and pathophysiology in metabolic regulation has received less
+  attention. Recent studies suggest that TGR5 signaling contributes to improvements
+  in hepatic insulin signaling and decreased hepatic inflammation, as well as metabolically
+  beneficial improvements in bile acid profile. Additionally, TGR5 signaling has been
+  associated with reduced hepatic steatosis and liver fibrosis, and improved liver
+  function. Despite the beneficial effects of TGR5 signaling on metabolic health,
+  TGR5-mediated gallstone formation and gallbladder filling complicate therapeutic
+  targeting of TGR5 signaling. To this end, there is a growing need to identify cell
+  type-specific effects of hepatic TGR5 signaling to begin to identify and target
+  the downstream effectors of TGR5 signaling. Herein, we describe and integrate recent
+  advances in our understanding of the impact of TGR5 signaling on liver physiology
+  and how its effects on the liver integrate more broadly with whole body glucose
+  regulation.</jats:p>
+author: Holter, Marlena M. and Chirikjian, Margot K. and Govani, Viraj N. and Cummings,
+  Bethany P.
+author_list:
+- affiliation: []
+  family: Holter
+  given: Marlena M.
+- affiliation: []
+  family: Chirikjian
+  given: Margot K.
+- affiliation: []
+  family: Govani
+  given: Viraj N.
+- affiliation: []
+  family: Cummings
+  given: Bethany P.
+citations:
+- doi: 10.1074/jbc.M209706200
+- doi: 10.1016/S0006-291X(02)02550-0
+- doi: 10.1172/JCI76289
+- doi: 10.1152/ajpgi.00388.2012
+- doi: 10.1152/ajpgi.00383.2012
+- doi: 10.1136/gutjnl-2015-309458
+- doi: 10.1074/jbc.M117.784322
+- doi: 10.1074/jbc.M510258200
+- doi: 10.1016/j.cmet.2009.08.001
+- doi: 10.1194/jlr.M200489-JLR200
+- doi: 10.1007/s10620-015-3776-8
+- doi: 10.1002/hep.23831
+- doi: 10.1038/nature04330
+- doi: 10.3389/fphar.2015.00287
+- doi: 10.1002/hep.24525
+- doi: 10.1016/j.bbrc.2005.01.139
+- doi: 10.2147/DDDT.S131892
+- doi: 10.1016/j.cmet.2015.07.002
+- doi: 10.1038/s41467-017-02068-0
+- doi: 10.1016/j.bbrc.2008.04.171
+- doi: 10.1002/hep.21458
+- doi: 10.1042/BJ20060537
+- doi: 10.1002/hep.23032
+- doi: 10.3390/nu12072124
+- doi: 10.1677/JOE-10-0009
+- doi: 10.1002/hep.28707
+- doi: 10.1152/ajpgi.00300.2018
+- doi: 10.1021/jm901390p
+- doi: 10.1016/j.bbrc.2007.06.130
+- doi: 10.1371/journal.pone.0136873
+- doi: 10.1210/me.2010-0460
+- doi: 10.1021/jm7015864
+- doi: 10.1136/gutjnl-2015-309871
+- doi: 10.1016/j.metabol.2019.07.003
+- doi: 10.1002/cpdd.34
+- doi: 10.1111/j.1365-2982.2010.01487.x
+- doi: 10.1016/j.bbrc.2007.07.001
+- article-title: Distribution of bile acid receptor TGR5 in the gastrointestinal tract
+    of dogs
+  author: Giaretta
+  first-page: '18025'
+  journal-title: Histol. Histopathol.
+  volume: '34'
+  year: '2018'
+- doi: 10.1016/j.cmet.2011.11.006
+- doi: 10.1002/hep.24537
+- doi: 10.1159/000371864
+- doi: 10.1136/gutjnl-2018-316975
+- doi: 10.1113/jphysiol.2010.192146
+- doi: 10.1002/hep.26463
+- doi: 10.1371/journal.pone.0141082
+- doi: 10.1152/ajpheart.00087.2015
+- doi: 10.3390/cells8111467
+- doi: 10.1210/en.2015-1321
+- doi: 10.1152/ajpgi.00400.2012
+- doi: 10.1016/j.bbrc.2012.09.104
+- doi: 10.1097/MD.0000000000002778
+- doi: 10.1056/NEJM197706162962401
+- doi: 10.1074/jbc.M111.305789
+- doi: 10.1371/journal.pone.0013953
+- doi: 10.1074/jbc.M203912200
+- doi: 10.1152/physrev.00010.2008
+- doi: 10.2337/db13-0639
+- doi: 10.1371/journal.pone.0106993
+- doi: 10.1126/science.1128294
+- doi: 10.1136/bmjdrc-2017-000469
+- doi: 10.1053/j.gastro.2012.02.033
+- doi: 10.1159/000371668
+- doi: 10.1152/ajpendo.00417.2009
+- doi: 10.1038/nm1166
+- doi: 10.1093/intimm/dxaa002
+- doi: 10.1152/ajpendo.00092.2009
+- doi: 10.1001/jama.292.14.1724
+- doi: 10.1056/NEJMoa1200225
+- doi: 10.1038/oby.2009.102
+- doi: 10.1002/oby.20522
+- doi: 10.1007/s11892-018-1092-3
+- doi: 10.3389/fphys.2019.00374
+- doi: 10.1016/j.mam.2017.04.001
+- doi: 10.1002/hep.28689
+- doi: 10.1038/nature13135
+- doi: 10.1053/j.gastro.2018.11.017
+- doi: 10.1007/s11695-018-3297-6
+- doi: 10.1016/j.ebiom.2018.05.026
+- doi: 10.1530/JOE-17-0557
+- doi: 10.3748/wjg.v24.i2.195
+- doi: 10.1038/srep42801
+- doi: 10.1021/jm301071h
+- doi: 10.1111/bph.12158
+- doi: 10.1002/hep.29284
+doc_url: https://www.mdpi.com/2072-6643/12/9/2598/pdf
+doi: 10.3390/nu12092598
+files:
+- tgr5signalingholter2020.pdf
+issue: '9'
+journal: Nutrients
+language: en
+month: 8
+pages: '2598'
+papis_id: b6daf6abc7d8c63413788f17c1be247d
+publisher: MDPI AG
+ref: Tgr5SignalingHolter2020
+time-added: 2023-11-09-14:47:47
+title: TGR5 Signaling in Hepatic Metabolic Health
+type: article
+url: http://dx.doi.org/10.3390/nu12092598
+volume: '12'
+year: 2020

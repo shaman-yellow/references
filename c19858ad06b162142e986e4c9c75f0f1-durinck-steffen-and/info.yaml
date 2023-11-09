@@ -1,0 +1,25 @@
+author: Durinck, Steffen and Spellman, Paul T and Birney, Ewan and Huber, Wolfgang
+author_list:
+- family: Durinck
+  given: Steffen
+- family: Spellman
+  given: Paul T
+- family: Birney
+  given: Ewan
+- family: Huber
+  given: Wolfgang
+doi: 10.1038/nprot.2009.97
+files: []
+issn: 1750-2799
+issue: '8'
+journal: Nature protocols
+pages: 1184--1191
+papis_id: 1826b01e90088f8fb05d5bcb826d598c
+pmid: '19617889'
+ref: MappingIdentifDurinc2009
+time-added: 2023-11-09-10:10:24
+title: Mapping identifiers for the integration of genomic datasets with the R/Bioconductor
+  package biomaRt
+type: article
+volume: '4'
+year: 2009
