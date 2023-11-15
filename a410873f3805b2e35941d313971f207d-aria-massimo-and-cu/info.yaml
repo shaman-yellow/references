@@ -1,0 +1,499 @@
+author: Aria, Massimo and Cuccurullo, Corrado
+author_list:
+- affiliation: []
+  family: Aria
+  given: Massimo
+- affiliation: []
+  family: Cuccurullo
+  given: Corrado
+citations:
+- author: Alavifard
+  series-title: 'hindexcalculator: H-index calculator using data from a web of science
+    (WoS) citation report. R package version 1.0.0'
+  year: '2015'
+- article-title: Visualizing knowledge domains
+  author: Börner
+  doi: 10.1002/aris.1440370106
+  first-page: '179'
+  issue: '1'
+  journal-title: Annual Review of Information Science and Technology
+  volume: '37'
+  year: '2003'
+- article-title: 'The scientific network of surfactants: Structural analysis'
+  author: Bailón-Moreno
+  doi: 10.1002/asi.20362
+  first-page: '949'
+  issue: '7'
+  journal-title: Journal of the American Society for Information Science and Technology
+  volume: '57'
+  year: '2006'
+- article-title: Which h-index? A comparison of WoS, Scopus and Google Scholar
+  author: Bar-Ilan
+  doi: 10.1007/s11192-008-0216-y
+  first-page: '257'
+  issue: '2'
+  journal-title: Scientometrics
+  volume: '74'
+  year: '2007'
+- author: Benzécri
+  series-title: L'Analyse des Donnéss. II. L'analyse des correspondances
+  year: '1982'
+- article-title: Systematic review and evidence synthesis as a practice and scholarship
+    tool
+  author: Briner
+  first-page: '112'
+  series-title: 'Handbook of evidence-based management: Companies, classrooms and
+    research'
+  year: '2012'
+- article-title: Toward a definition of bibliometrics
+  author: Broadus
+  doi: 10.1007/BF02016680
+  first-page: '373'
+  issue: 5–6
+  journal-title: Scientometrics
+  volume: '12'
+  year: '1987'
+- article-title: 'From translations to problematic networks: An introduction to co-word
+    analysis'
+  author: Callon
+  doi: 10.1177/053901883022002003
+  first-page: '191'
+  issue: '2'
+  journal-title: Social Science Information
+  volume: '22'
+  year: '1983'
+- article-title: 'CiteSpace II: Detecting and visualizing emerging trends and transient
+    patterns in scientific literature'
+  author: Chen
+  first-page: '359'
+  issue: '3'
+  journal-title: Journal of the Association for Information Science and Technology
+  volume: '57'
+  year: '2006'
+- article-title: 'Science Mapping Software Tools: Review, analysis, and cooperative
+    study among tools'
+  author: Cobo
+  doi: 10.1002/asi.21525
+  journal-title: Journal of the American Society for Information Science and Technology
+  year: '2011'
+- article-title: 'An approach for detecting, quantifying, and visualizing the evolution
+    of a research field: a practical application to the fuzzy sets theory field'
+  author: Cobo
+  doi: 10.1016/j.joi.2010.10.002
+  first-page: '146'
+  issue: '1'
+  journal-title: Journal of Informetrics
+  volume: '5'
+  year: '2011'
+- article-title: 'SciMAT: A new science mapping analysis software tool'
+  author: Cobo
+  doi: 10.1002/asi.22688
+  first-page: '1609'
+  issue: '8'
+  journal-title: Journal of the American Society for Information Science and Technology
+  volume: '63'
+  year: '2012'
+- author: Crane
+  series-title: 'Invisible colleges: Diffusion of knowledge in scientific communities'
+  year: '1972'
+- article-title: Foundations and trends in performance management. A twenty-five years
+    bibliometric analysis in business and public administration domains
+  author: Cuccurullo
+  doi: 10.1007/s11192-016-1948-8
+  first-page: '595'
+  issue: '2'
+  journal-title: Scientometrics
+  volume: '108'
+  year: '2016'
+- author: Diodato
+  series-title: Dictionary of bibliometrics
+  year: '1994'
+- article-title: Latent semantic analysis
+  author: Dumais
+  first-page: '189'
+  journal-title: Annual Review of Information Science and Technology
+  volume: '38'
+  year: '2004'
+- article-title: Bibliometric impact assessment with R and the CITAN package
+  author: Gagolewski
+  doi: 10.1016/j.joi.2011.06.006
+  first-page: '678'
+  issue: '4'
+  journal-title: Journal of Informetrics
+  volume: '5'
+  year: '2011'
+- article-title: 'Networks of scientific journals: An exploration of Chinese patent
+    data'
+  author: Gao
+  doi: 10.1007/s11192-007-2013-4
+  first-page: '283'
+  issue: '1'
+  journal-title: Scientometrics
+  volume: '80'
+  year: '2009'
+- article-title: Historiographic mapping of knowledge domains literature
+  author: Garfield
+  doi: 10.1177/0165551504042802
+  first-page: '119'
+  issue: '2'
+  journal-title: Journal of Information Science
+  volume: '30'
+  year: '2004'
+- author: Gifi
+  series-title: Nonlinear multivariate analysis
+  year: '1990'
+- article-title: Analysing scientific networks through co-authorship
+  author: Glänzel
+  first-page: '257'
+  volume: '11'
+  year: '2004'
+- article-title: Using core documents for detecting and labelling new emerging topics
+  author: Glänzel
+  doi: 10.1007/s11192-011-0591-7
+  first-page: '399'
+  issue: '2'
+  journal-title: Scientometrics
+  volume: '91'
+  year: '2012'
+- article-title: National characteristics in international scientific co-authorship
+    relations
+  author: Glänzel
+  doi: 10.1023/A:1010512628145
+  first-page: '69'
+  issue: '1'
+  journal-title: Scientometrics
+  volume: '51'
+  year: '2001'
+- series-title: Multiple correspondence analysis and related methods
+  year: '2006'
+- article-title: 'Automating bibliometric analyses using Taverna scientific workflows:
+    A tutorial on integrating Web Services'
+  author: Guler
+  doi: 10.1016/j.joi.2016.05.002
+  first-page: '830'
+  issue: '3'
+  journal-title: Journal of Informetrics
+  volume: '10'
+  year: '2016'
+- article-title: Scientific workflows for bibliometrics
+  author: Guler
+  doi: 10.1007/s11192-016-1885-6
+  first-page: '385'
+  issue: '2'
+  journal-title: Scientometrics
+  volume: '107'
+  year: '2016'
+- author: Harzing
+  series-title: Publish or Perish
+  year: '2007'
+- article-title: An index to quantify an individual’s scientific research output
+  author: Hirsch
+  doi: 10.1073/pnas.0507655102
+  first-page: '16569'
+  journal-title: Proceedings of the National academy of Sciences of the United States
+    of America
+  year: '2005'
+- article-title: An algorithm for drawing general undirected graphs
+  author: Kamada
+  doi: 10.1016/0020-0190(89)90102-6
+  first-page: '7'
+  issue: '1'
+  journal-title: Information Processing Letters
+  volume: '31'
+  year: '1989'
+- author: Keirstead
+  series-title: 'scholar: analyse citation data from Google Scholar. R package'
+  year: '2015'
+- article-title: Bibliographic coupling between scientific papers
+  author: Kessler
+  first-page: '10'
+  issue: '1'
+  journal-title: Journal of the Association for Information Science and Technology
+  volume: '14'
+  year: '1963'
+- article-title: Which type of citation analysis generates the most accurate taxonomy
+    of scientific and technical knowledge?
+  author: Klavans
+  doi: 10.1002/asi.23734
+  first-page: '984'
+  issue: '4'
+  journal-title: Journal of the Association for Information Science and Technology
+  volume: '68'
+  year: '2017'
+- author: Lebart
+  series-title: Multivariate descriptive statistical analysis (correspondence analysis
+    and related techniques for large matrices)
+  year: '1984'
+- article-title: A tri-citation analysis exploring the citation image of Kurt Lewin
+  author: Marion
+  doi: 10.1002/meet.1450390101
+  first-page: '3'
+  issue: '1'
+  journal-title: Proceedings of the American Society for Information Science and Technology
+  volume: '39'
+  year: '2002'
+- author: Matloff
+  series-title: 'The art of R programming: A tour of statistical software design'
+  year: '2011'
+- article-title: 'Mapping economics through the journal literature: An experiment
+    in journal cocitation analysis'
+  author: McCain
+  doi: 10.1002/(SICI)1097-4571(199105)42:4<290::AID-ASI5>3.0.CO;2-9
+  first-page: '290'
+  issue: '4'
+  journal-title: Journal of the American Society for Information Science
+  volume: '42'
+  year: '1991'
+- article-title: 'Using tricitation to dissect the citation image: Conrad Hal Waddington
+    and the rise of evolutionary developmental biology'
+  author: McCain
+  doi: 10.1002/asi.21064
+  first-page: '1301'
+  issue: '7'
+  journal-title: Journal of the American Society for Information Science and Technology
+  volume: '60'
+  year: '2009'
+- author: Persson
+  first-page: '9'
+  volume: '5'
+  year: '2009'
+- article-title: 'Structuring scientific activities by co-author analysis: An expercise
+    on a university faculty level'
+  author: Peters
+  doi: 10.1007/BF02018157
+  first-page: '235'
+  issue: '1'
+  journal-title: Scientometrics
+  volume: '20'
+  year: '1991'
+- article-title: An algorithm for suffix stripping
+  author: Porter
+  doi: 10.1108/eb046814
+  first-page: '130'
+  issue: '3'
+  journal-title: Program
+  volume: '14'
+  year: '1980'
+- article-title: Statistical bibliography or bibliometrics
+  author: Pritchard
+  first-page: '348'
+  journal-title: Journal of Documentation
+  volume: '25'
+  year: '1969'
+- author: R Core Team
+  series-title: 'R: A language and environment for statistical computing'
+  year: '2016'
+- series-title: The Oxford handbook of evidence-based management
+  year: '2012'
+- article-title: Optimal expectile smoothing
+  author: Schnabel
+  doi: 10.1016/j.csda.2009.05.002
+  first-page: '4168'
+  issue: '12'
+  journal-title: Computational Statistics & Data Analysis
+  volume: '53'
+  year: '2009'
+- author: Sci2 Team
+  series-title: Science of Science (Sci2) Tool
+  year: '2009'
+- article-title: 'Discrete and continuous conceptualizations of science: Implications
+    for knowledge domain visualization'
+  author: Skupin
+  doi: 10.1016/j.joi.2009.03.002
+  first-page: '233'
+  issue: '3'
+  journal-title: Journal of Informetrics
+  volume: '3'
+  year: '2009'
+- article-title: Journal clustering using a bibliographic coupling method
+  author: Small
+  doi: 10.1016/0306-4573(77)90017-6
+  first-page: '277'
+  issue: '5'
+  journal-title: Information Processing & Management
+  volume: '13'
+  year: '1977'
+- article-title: Citation structure of an emerging research area on the verge of application
+  author: Small
+  doi: 10.1007/s11192-009-0424-0
+  first-page: '365'
+  issue: '2'
+  journal-title: Scientometrics
+  volume: '79'
+  year: '2009'
+- article-title: 'Co-citation in the scientific literature: A new measure of the relationship
+    between two documents'
+  author: Small
+  first-page: '265'
+  issue: '4'
+  journal-title: Journal of the Association for Information Science and Technology
+  volume: '24'
+  year: '1973'
+- article-title: Tracking and predicting growth areas in science
+  author: Small
+  doi: 10.1007/s11192-006-0132-y
+  first-page: '595'
+  issue: '3'
+  journal-title: Scientometrics
+  volume: '68'
+  year: '2006'
+- article-title: Do second-order similarities provide added-value in a hybrid approach?
+  author: Thijs
+  doi: 10.1007/s11192-012-0896-1
+  first-page: '667'
+  issue: '3'
+  journal-title: Scientometrics
+  volume: '96'
+  year: '2013'
+- author: Uddin
+  series-title: 'scientoText: Text & Scientometric Analytics. R package version 0.1'
+  year: '2016'
+- article-title: 'Emerging research fronts in science and technology: patterns of
+    new knowledge development'
+  author: Upham
+  doi: 10.1007/s11192-009-0051-9
+  first-page: '15'
+  issue: '1'
+  journal-title: Scientometrics
+  volume: '83'
+  year: '2010'
+- article-title: A unified approach to mapping and clustering of bibliometric networks
+  author: Waltman
+  doi: 10.1016/j.joi.2010.07.002
+  first-page: '629'
+  issue: '4'
+  journal-title: Journal of Informetrics
+  volume: '4'
+  year: '2010'
+- article-title: A review of the literature on citation impact indicators
+  author: Waltman
+  doi: 10.1016/j.joi.2016.02.007
+  first-page: '365'
+  issue: '2'
+  journal-title: Journal of Informetrics
+  volume: '10'
+  year: '2016'
+- article-title: 'Author cocitation: A literature measure of intellectual structure'
+  author: White
+  doi: 10.1002/asi.4630320302
+  first-page: '163'
+  issue: '3'
+  journal-title: Journal of the American Society for Information Science
+  volume: '32'
+  year: '1981'
+- article-title: 'Visualizing a discipline: An author co-citation analysis of information
+    science, 1972–1995'
+  author: White
+  first-page: '327'
+  issue: '4'
+  journal-title: Journal of the American Society for Information Science
+  volume: '49'
+  year: '1998'
+- article-title: 'Scholarly network similarities: How bibliographic coupling networks,
+    citation networks, cocitation networks, topical networks, coauthorship networks,
+    and coword networks relate to each other'
+  author: Yan
+  doi: 10.1002/asi.22680
+  first-page: '1313'
+  issue: '7'
+  journal-title: Journal of the American Society for Information Science and Technology
+  volume: '63'
+  year: '2012'
+- article-title: 'Citation analysis: a comparison of Google Scholar, Scopus, and Web
+    of Science'
+  author: Yang
+  doi: 10.1002/meet.14504301185
+  first-page: '1'
+  issue: '1'
+  journal-title: Proceedings of the American Society for information science and technology
+  volume: '43'
+  year: '2006'
+- article-title: 'Visualizing the intellectual structure of information science (2006–2015):
+    Introducing author keyword coupling analysis'
+  author: Yang
+  doi: 10.1016/j.joi.2015.12.003
+  first-page: '132'
+  issue: '1'
+  journal-title: Journal of Informetrics
+  volume: '10'
+  year: '2016'
+- article-title: 'Evolution of research activities and intellectual influences in
+    information science 1996–2005: Introducing author bibliographic-coupling analysis'
+  author: Zhao
+  doi: 10.1002/asi.20910
+  first-page: '2070'
+  issue: '1998'
+  journal-title: Journal of the American Society for Information Science
+  volume: '59'
+  year: '2008'
+- article-title: Bibliometric methods in management and organization
+  author: Zupic
+  doi: 10.1177/1094428114562629
+  first-page: '429'
+  issue: '3'
+  journal-title: Organizational Research Methods
+  volume: '18'
+  year: '2015'
+- article-title: Domain analysis and information retrieval through the construction
+    of heliocentric maps based on ISI-JCR category cocitation
+  author: de Moya-Anegon
+  doi: 10.1016/j.ipm.2005.03.017
+  first-page: '1520'
+  issue: '6'
+  journal-title: Information Processing & Management
+  volume: '41'
+  year: '2005'
+- article-title: Generalizing the h-and g-indices
+  author: van Eck
+  doi: 10.1016/j.joi.2008.09.004
+  first-page: '263'
+  issue: '4'
+  journal-title: Journal of Informetrics
+  volume: '2'
+  year: '2008'
+- article-title: How to normalize cooccurrence data? An analysis of some well-known
+    similarity measures
+  author: van Eck
+  first-page: '1635'
+  issue: '8'
+  journal-title: Journal of the Association for Information Science and Technology
+  volume: '60'
+  year: '2009'
+- article-title: 'Software survey: VOSviewer, a computer program for bibliometric
+    mapping'
+  author: van Eck
+  doi: 10.1007/s11192-009-0146-3
+  first-page: '523'
+  issue: '2'
+  journal-title: Scientometrics
+  volume: '84'
+  year: '2010'
+- article-title: 'CitNetExplorer: A new software tool for analyzing and visualizing
+    citation networks'
+  author: van Eck
+  doi: 10.1016/j.joi.2014.07.006
+  first-page: '802'
+  issue: '4'
+  journal-title: Journal of Informetrics
+  volume: '8'
+  year: '2014'
+- article-title: A unified approach to mapping and clustering of bibliometric networks14
+  author: van Eck
+  journal-title: Eleventh International Conference on Science and Technology Indicators
+  year: '2010'
+doi: 10.1016/j.joi.2017.08.007
+files: []
+issue: '4'
+journal: Journal of Informetrics
+language: en
+month: 11
+pages: 959--975
+papis_id: 6eb10b2499ec86294190f1ddb79c92e1
+publisher: Elsevier BV
+ref: BibliometrixAria2017
+time-added: 2023-11-15-15:37:57
+title: 'bibliometrix : An R-tool for comprehensive science mapping analysis'
+type: article
+url: http://dx.doi.org/10.1016/j.joi.2017.08.007
+volume: '11'
+year: 2017
