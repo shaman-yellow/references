@@ -1,0 +1,199 @@
+abstract: <jats:title>Abstract</jats:title><jats:sec><jats:title>Background</jats:title><jats:p>IgA
+  nephropathy (Ig<jats:styled-content style="fixed-case">AN</jats:styled-content>)
+  is a common complex disease with a strong genetic involvement. We aimed to identify
+  novel, rare, highly penetrant risk variants combining family‐based linkage analysis
+  with whole‐exome sequencing (<jats:styled-content style="fixed-case">WES</jats:styled-content>).</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>Linkage
+  analysis of 16 kindreds of South Italian ancestry was performed using an ‘affected‐only’
+  strategy. Eight most informative trios composed of two familial cases and an intrafamilial
+  control were selected for <jats:styled-content style="fixed-case">WES</jats:styled-content>.
+  High‐priority variants in linked regions were identified and validated using Sanger
+  sequencing. Custom TaqMan assays were designed and carried out in the 16 kindreds
+  and an independent cohort of 240 Ig<jats:styled-content style="fixed-case">AN</jats:styled-content>
+  patients and 113 control subjects.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>We
+  found suggestive linkage signals in 12 loci. After sequential filtering and validation
+  of <jats:styled-content style="fixed-case">WES</jats:styled-content> data, we identified
+  24 private or extremely rare (<jats:styled-content style="fixed-case">MAF</jats:styled-content>
+  &lt;0.0003) linked variants segregating with Ig<jats:styled-content style="fixed-case">AN</jats:styled-content>
+  status. These were present within coding or regulatory regions of 23 genes that
+  merged into a common functional network. The genes were interconnected by <jats:italic><jats:styled-content
+  style="fixed-case">AKT</jats:styled-content>,<jats:styled-content style="fixed-case">
+  CTNNB</jats:styled-content>1, <jats:styled-content style="fixed-case">NFKB</jats:styled-content>,<jats:styled-content
+  style="fixed-case"> MYC</jats:styled-content></jats:italic> and <jats:italic><jats:styled-content
+  style="fixed-case">UBC</jats:styled-content></jats:italic>, key modulators of <jats:styled-content
+  style="fixed-case">WNT</jats:styled-content>/β‐catenin and <jats:styled-content
+  style="fixed-case">PI</jats:styled-content>3K/Akt pathways, which are implicated
+  in Ig<jats:styled-content style="fixed-case">AN</jats:styled-content> pathogenesis.
+  Overlaying publicly available expression data, genes/proteins with expression notably
+  altered in Ig<jats:styled-content style="fixed-case">AN</jats:styled-content> were
+  included in this immune‐related network. In particular, the network included the
+  glucocorticoid receptor gene, <jats:italic><jats:styled-content style="fixed-case">NR</jats:styled-content>3C1</jats:italic>,
+  which is the target of corticosteroid therapy routinely used in the treatment of
+  Ig<jats:styled-content style="fixed-case">AN</jats:styled-content>.</jats:p></jats:sec><jats:sec><jats:title>Conclusion</jats:title><jats:p>Our
+  findings suggest that disease susceptibility could be influenced by multiple rare
+  variants acting in a common network that could provide the starting point for the
+  identification of potential drug targets for personalized therapy.</jats:p></jats:sec>
+author: Cox, S. N. and Pesce, F. and El‐Sayed Moustafa, J.S. and Sallustio, F. and
+  Serino, G. and Kkoufou, C. and Giampetruzzi, A. and Ancona, N. and Falchi, M. and
+  Schena, F. P. and None, None
+author_list:
+- affiliation:
+  - name: Department of Emergency and Organ Transplantation University of Bari Aldo
+      Moro Bari Italy
+  - name: C.A.R.S.O. Consortium University of Bari Bari Italy
+  family: Cox
+  given: S. N.
+- affiliation:
+  - name: Department of Emergency and Organ Transplantation University of Bari Aldo
+      Moro Bari Italy
+  - name: Department of Genomics of Common Disease Imperial College London London
+      UK
+  family: Pesce
+  given: F.
+- affiliation:
+  - name: Department of Genomics of Common Disease Imperial College London London
+      UK
+  - name: Department of Twin Research and Genetic Epidemiology King's College London
+      London UK
+  family: El‐Sayed Moustafa
+  given: J.S.
+- affiliation:
+  - name: Department of Emergency and Organ Transplantation University of Bari Aldo
+      Moro Bari Italy
+  family: Sallustio
+  given: F.
+- affiliation:
+  - name: Department of Emergency and Organ Transplantation University of Bari Aldo
+      Moro Bari Italy
+  - name: IRCCS ‘de Bellis’ Laboratory of Experimental Immunopathology Bari Italy
+  family: Serino
+  given: G.
+- affiliation:
+  - name: Department of Genomics of Common Disease Imperial College London London
+      UK
+  family: Kkoufou
+  given: C.
+- affiliation:
+  - name: Department of Soil, Plant and Food Sciences University of Bari Aldo Moro
+      Bari Italy
+  family: Giampetruzzi
+  given: A.
+- affiliation:
+  - name: ISSIA, CNR Bari Italy
+  family: Ancona
+  given: N.
+- affiliation:
+  - name: Department of Genomics of Common Disease Imperial College London London
+      UK
+  - name: Department of Twin Research and Genetic Epidemiology King's College London
+      London UK
+  family: Falchi
+  given: M.
+- affiliation:
+  - name: Department of Emergency and Organ Transplantation University of Bari Aldo
+      Moro Bari Italy
+  - name: C.A.R.S.O. Consortium University of Bari Bari Italy
+  family: Schena
+  given: F. P.
+- affiliation: []
+  family: null
+  given: null
+citations:
+- doi: 10.1142/9789812835871_0002
+- doi: 10.1056/NEJMra1206793
+- doi: 10.1093/ndt/gfq665
+- doi: 10.1038/456018a
+- doi: 10.1681/ASN.2010010076
+- doi: 10.1038/ng.787
+- doi: 10.1038/ng.1047
+- doi: 10.1038/ng.3118
+- doi: 10.1038/ncomms8270
+- doi: 10.1371/journal.pgen.1002765
+- doi: 10.1172/JCI74475
+- doi: 10.1038/81677
+- doi: 10.1086/510135
+- doi: 10.1681/ASN.2007020241
+- doi: 10.1007/s00467-010-1500-7
+- doi: 10.1038/nrg2779
+- doi: 10.1038/ng.3448
+- doi: 10.1136/jmedgenet-2011-100223
+- doi: 10.1186/1471‐2369‐6‐14
+- doi: 10.1038/ejhg.2014.208
+- doi: 10.2307/2533202
+- doi: 10.1086/301592
+- doi: 10.1086/303029
+- doi: 10.1038/ng786
+- doi: 10.1038/nrg2865
+- doi: 10.1093/bioinformatics/btp698
+- doi: 10.1038/ng.806
+- doi: 10.1186/1479‐7364‐8‐14
+- doi: 10.1006/jmbi.1994.1104
+- doi: 10.4161/fly.19695
+- doi: 10.1038/ng.2892
+- doi: 10.1093/ndt/gfv032
+- doi: 10.1093/ndt/gfv017
+- doi: 10.1038/ki.2012.147
+- doi: 10.1038/ki.2010.138
+- doi: 10.1038/ncpneph0492
+- doi: 10.1016/j.semnephrol.2007.10.006
+- doi: 10.1038/ki.2008.636
+- doi: 10.1038/ki.2008.579
+- doi: 10.1042/CS20150711
+- doi: 10.1038/ki.2012.147
+- doi: 10.1093/ndt/gfp356
+- doi: 10.1681/ASN.2011111112
+- doi: 10.1159/000334381
+- article-title: Increased risk of end‐stage renal disease in familial IgA nephropathy
+  author: Schena FP
+  doi: 10.1681/ASN.V132453
+  first-page: '453'
+  journal-title: J Am Soc Nephrol
+  volume: '13'
+  year: '2002'
+- doi: 10.1038/nrg3908
+- doi: 10.1038/nrg3931
+- doi: 10.1681/ASN.2011050464
+- doi: 10.1159/000381738
+- article-title: Innate immunity and IgA nephropathy
+  author: Coppo R
+  first-page: '626'
+  journal-title: J Nephrol
+  volume: '23'
+  year: '2010'
+- article-title: KDIGO Clinical Practice Guideline for Glomerulonephritis
+  author: 'Kidney Disease: Improving Global Outcomes (KDIGO) Glomerulonephritis Work
+    Group'
+  first-page: '139'
+  journal-title: Kidney Int Suppl
+  volume: '2'
+  year: '2012'
+- doi: 10.1056/NEJMoa1415463
+- article-title: Intensive supportive care plus immunosuppression in IgA nephropathy
+  author: Schena FP
+  first-page: '992'
+  journal-title: N Engl J Med
+  volume: '374'
+  year: '2016'
+- doi: 10.1056/NEJMc1600141
+- doi: 10.1056/NEJMc1600141
+- doi: 10.1016/j.gene.2015.06.041
+- doi: 10.1111/j.1365-2249.1995.tb03132.x
+- doi: 10.1136/jcp.49.1.38
+- doi: 10.1046/j.1365-2249.2001.01431.x
+doc_url: https://onlinelibrary.wiley.com/doi/pdf/10.1111/joim.12565
+doi: 10.1111/joim.12565
+files: []
+issue: '2'
+journal: Journal of Internal Medicine
+language: en
+month: 2
+pages: 189--205
+papis_id: 9c0daf39cabaa9e16152a34c353a4dee
+publisher: Wiley
+ref: MultipleRareGCoxS2017
+time-added: 2023-11-20-15:30:38
+title: Multiple rare genetic variants co‐segregating with familial IgA nephropathy
+  all act within a single immune‐related network
+type: article
+url: http://dx.doi.org/10.1111/joim.12565
+volume: '281'
+year: 2017

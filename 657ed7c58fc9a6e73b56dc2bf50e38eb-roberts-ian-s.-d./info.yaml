@@ -1,0 +1,788 @@
+author: Roberts, Ian S. D.
+author_list:
+- affiliation: []
+  family: Roberts
+  given: Ian S. D.
+citations:
+- author: YK Seedat
+  doi: 10.1159/000185144
+  first-page: '137'
+  journal-title: Nephron
+  unstructured: Seedat, Y. K., Nathoo, B. C., Parag, K. B., Naiker, I. P. & Ramsaroop,
+    R. IgA nephropathy in blacks and Indians of Natal. Nephron 50, 137–141 (1988).
+  volume: '50'
+  year: '1988'
+- author: FP Schena
+  doi: 10.1016/0002-9343(90)90300-3
+  first-page: '209'
+  journal-title: Am. J. Med.
+  unstructured: Schena, F. P. A retrospective analysis of the natural history of primary
+    IgA nephropathy worldwide. Am. J. Med. 89, 209–215 (1990).
+  volume: '89'
+  year: '1990'
+- author: G D'Amico
+  doi: 10.1097/00005792-198501000-00004
+  first-page: '49'
+  journal-title: Medicine (Baltimore)
+  unstructured: D'Amico, G. et al. Idiopathic IgA mesangial nephropathy. Clinical
+    and histological study of 374 patients. Medicine (Baltimore) 64, 49–60 (1985).
+  volume: '64'
+  year: '1985'
+- author: CH Zeng
+  doi: 10.1053/j.ajkd.2012.06.011
+  first-page: '812'
+  journal-title: Am. J. Kidney Dis.
+  unstructured: Zeng, C. H. et al. A multicenter application and evaluation of the
+    Oxford Classification of IgA nephropathy in adult Chinese patients. Am. J. Kidney
+    Dis. 60, 812–820 (2012).
+  volume: '60'
+  year: '2012'
+- author: KN Lai
+  doi: 10.1038/nrneph.2012.58
+  first-page: '275'
+  journal-title: Nat. Rev. Nephrol.
+  unstructured: Lai, K. N. Pathogenesis of IgA nephropathy. Nat. Rev. Nephrol. 8,
+    275–283 (2012).
+  volume: '8'
+  year: '2012'
+- author: H Suzuki
+  first-page: '1668'
+  journal-title: J. Clin. Invest.
+  unstructured: Suzuki, H. et al. Aberrantly glycosylated IgA1 in IgA nephropathy
+    patients is recognized by IgG antibodies with restricted heterogeneity. J. Clin.
+    Invest. 119, 1668–1677 (2009).
+  volume: '119'
+  year: '2009'
+- author: J Novak
+  doi: 10.1111/j.1523-1755.2005.67107.x
+  first-page: '504'
+  journal-title: Kidney Int.
+  unstructured: Novak, J. et al. IgA1-containing immune complexes in IgA nephropathy
+    differentially affect proliferation of mesangial cells. Kidney Int. 67, 504–513
+    (2005).
+  volume: '67'
+  year: '2005'
+- author: ISD Roberts
+  first-page: 74A
+  issue: Suppl. S1
+  journal-title: J. Pathol.
+  unstructured: 'Roberts, I. S. D., Price, N., Sarkar, E. & Winearls, C. Subclinical
+    recurrence of IgA nephropathy following renal transplantation: evidence from early
+    protocol biopsies. J. Pathol. 210 (Suppl. S1), 74A (2006).'
+  volume: '210'
+  year: '2006'
+- author: R Waldherr
+  doi: 10.1093/ndt/4.11.943
+  first-page: '943'
+  journal-title: Nephrol. Dial. Transplant.
+  unstructured: Waldherr, R., Rambausek, M., Duncker, W. D. & Ritz, E. Frequency of
+    mesangial IgA deposits in a non-selected autopsy series. Nephrol. Dial. Transplant.
+    4, 943–946 (1989).
+  volume: '4'
+  year: '1989'
+- author: RM Valentijn
+  doi: 10.1038/ki.1984.213
+  first-page: '760'
+  journal-title: Kidney Int.
+  unstructured: Valentijn, R. M. et al. Circulating and mesangial secretory component-binding
+    IgA-1 in primary IgA nephropathy. Kidney Int. 26, 760–766 (1984).
+  volume: '26'
+  year: '1984'
+- author: O Hotta
+  doi: 10.1053/ajkd.2002.31399
+  first-page: '493'
+  journal-title: Am. J. Kidney Dis.
+  unstructured: 'Hotta, O., Furuta, T., Chiba, S., Tomioka, S. & Taguma, Y. Regression
+    of IgA nephropathy: a repeat biopsy study. Am. J. Kidney Dis. 39, 493–502 (2002).'
+  volume: '39'
+  year: '2002'
+- author: SS Bellur
+  doi: 10.1093/ndt/gfq812
+  first-page: '2533'
+  journal-title: Nephrol. Dial. Transplant.
+  unstructured: 'Bellur, S. S., Troyanov, S., Cook, H. T. & Roberts, I. S. Immunostaining
+    findings in IgA nephropathy: correlation with histology and clinical outcome in
+    the Oxford classification patient cohort. Nephrol. Dial. Transplant. 26, 2533–2536
+    (2011).'
+  volume: '26'
+  year: '2011'
+- author: SP Andreoli
+  doi: 10.1159/000167049
+  first-page: '28'
+  journal-title: Am. J. Nephrol.
+  unstructured: Andreoli, S. P., Yum, M. N. & Bergstein, J. M. Significance of glomerular
+    basement membrane deposition of IgA. Am. J. Nephrol. 6, 28–33 (1986).
+  volume: '6'
+  year: '1986'
+- author: M Yoshimura
+  doi: 10.1016/S0272-6386(87)80143-9
+  first-page: '404'
+  journal-title: Am. J. Kidney Dis.
+  unstructured: Yoshimura, M. et al. Significance of IgA deposits on the glomerular
+    capillary walls in IgA nephropathy. Am. J. Kidney Dis. 9, 404–409 (1987).
+  volume: '9'
+  year: '1987'
+- author: G D'Amico
+  doi: 10.1016/j.semnephrol.2004.01.001
+  first-page: '179'
+  journal-title: Semin. Nephrol.
+  unstructured: D'Amico, G. Natural history of idiopathic IgA nephropathy and factors
+    predictive of disease outcome. Semin. Nephrol. 24, 179–196 (2004).
+  volume: '24'
+  year: '2004'
+- author: DC Cattran
+  doi: 10.1038/ki.2009.243
+  first-page: '534'
+  journal-title: Kidney Int.
+  unstructured: 'Cattran, D. C. et al. The Oxford classification of IgA nephropathy:
+    rationale, clinicopathological correlations, and classification. Kidney Int. 76,
+    534–545 (2009).'
+  volume: '76'
+  year: '2009'
+- author: IS Roberts
+  doi: 10.1038/ki.2009.168
+  first-page: '546'
+  journal-title: Kidney Int.
+  unstructured: 'Roberts, I. S. et al. The Oxford classification of IgA nephropathy:
+    pathology definitions, correlations, and reproducibility. Kidney Int. 76, 546–556
+    (2009).'
+  volume: '76'
+  year: '2009'
+- author: A Vangelista
+  doi: 10.1159/000409745
+  first-page: '167'
+  journal-title: Contrib. Nephrol.
+  unstructured: 'Vangelista, A., Frasca, G. M., Mondini, S. & Bonomini, V. Idiopathic
+    mesangial IgA nephropathy: immunohistological features. Contrib. Nephrol. 40,
+    167–173 (1984).'
+  volume: '40'
+  year: '1984'
+- author: JC Jennette
+  doi: 10.1016/S0272-6386(88)80022-2
+  first-page: '348'
+  journal-title: Am. J. Kidney Dis.
+  unstructured: Jennette, J. C. The immunohistology of IgA nephropathy. Am. J. Kidney
+    Dis. 12, 348–352 (1988).
+  volume: '12'
+  year: '1988'
+- author: JC Jennette
+  first-page: '424'
+  unstructured: Jennette, J. C., Olson, J. L., Schwartz, M. M. & Silva, F. G. Heptinstall's
+    Pathology of the Kidney 6th edn Vol. 1, 424–487 (Lippincott Williams & Wilkins,
+    2007).
+  volume-title: Heptinstall's Pathology of the Kidney
+  year: '2007'
+- author: TM Eison
+  doi: 10.5414/CN107423
+  first-page: '465'
+  journal-title: Clin. Nephrol.
+  unstructured: Eison, T. M. et al. Association of IgG co-deposition with serum levels
+    of galactose-deficient IgA1 in pediatric IgA nephropathy. Clin. Nephrol. 78, 465–469
+    (2012).
+  volume: '78'
+  year: '2012'
+- author: C Nieuwhof
+  doi: 10.1053/ajkd.1998.v31.pm9631840
+  first-page: '962'
+  journal-title: Am. J. Kidney Dis.
+  unstructured: Nieuwhof, C., Kruytzer, M., Frederiks, P. & van Breda Vriesman, P.
+    J. Chronicity index and mesangial IgG deposition are risk factors for hypertension
+    and renal failure in early IgA nephropathy. Am. J. Kidney Dis. 31, 962–970 (1998).
+  volume: '31'
+  year: '1998'
+- author: Y Wada
+  doi: 10.1007/s10157-012-0660-0
+  first-page: '73'
+  journal-title: Clin. Exp. Nephrol.
+  unstructured: Wada, Y. et al. Clinical significance of IgG deposition in the glomerular
+    mesangial area in patients with IgA nephropathy. Clin. Exp. Nephrol. 17, 73–82
+    (2013).
+  volume: '17'
+  year: '2013'
+- author: SJ Kim
+  doi: 10.1371/journal.pone.0040495
+  first-page: e40495
+  journal-title: PLoS ONE
+  unstructured: Kim, S. J. et al. Decreased circulating C3 levels and mesangial C3
+    deposition predict renal outcome in patients with IgA nephropathy. PLoS ONE 7,
+    e40495 (2012).
+  volume: '7'
+  year: '2012'
+- author: YI Maeng
+  first-page: '904'
+  journal-title: Int. J. Clin. Exp. Pathol.
+  unstructured: 'Maeng, Y. I. et al. Glomerular and tubular C4d depositions in IgA
+    nephropathy: relations with histopathology and with albuminuria. Int. J. Clin.
+    Exp. Pathol. 6, 904–910 (2013).'
+  volume: '6'
+  year: '2013'
+- author: M Espinosa
+  doi: 10.1093/ndt/gfn563
+  first-page: '886'
+  journal-title: Nephrol. Dial. Transplant.
+  unstructured: 'Espinosa, M. et al. Mesangial C4d deposition: a new prognostic factor
+    in IgA nephropathy. Nephrol. Dial. Transplant. 24, 886–891 (2009).'
+  volume: '24'
+  year: '2009'
+- author: PN Furness
+  doi: 10.1046/j.1523-1755.2001.00030.x
+  first-page: '1998'
+  journal-title: Kidney Int.
+  unstructured: 'Furness, P. N., Taub N. & Convergence of European Renal Transplant
+    Pathology Assessment Procedures (CERTPAP) Project. International variation in
+    the interpretation of renal transplant biopsies: report of the CERTPAP Project.
+    Kidney Int. 60, 1998–2012 (2001).'
+  volume: '60'
+  year: '2001'
+- doi: 10.1038/ki.2014.63
+  unstructured: 'Coppo, R. et al. The predictive value of the Oxford classification
+    of IgA nephropathy in cohorts with different presentations and receiving different
+    treatments: the VALIGA study. Kidney Int. http://dx.doi.org/10.1038/ki.2014.63
+    .'
+- author: M Haas
+  doi: 10.1016/S0272-6386(97)90456-X
+  first-page: '829'
+  journal-title: Am. J. Kidney Dis.
+  unstructured: 'Haas, M. Histological subclassification of IgA nephropathy: a clinicopathologic
+    study of 244 cases. Am. J. Kidney Dis. 29, 829–842 (1997).'
+  volume: '29'
+  year: '1997'
+- author: YN Hall
+  doi: 10.1186/1471-2369-5-10
+  first-page: '10'
+  journal-title: BMC Nephrol.
+  unstructured: Hall, Y. N., Fuentes, E. F., Chertow, G. M. & Olson, J. L. Race/ethnicity
+    and disease severity in IgA nephropathy. BMC Nephrol. 5, 10 (2004).
+  volume: '5'
+  year: '2004'
+- author: LP Bartosik
+  doi: 10.1053/ajkd.2001.27689
+  first-page: '728'
+  journal-title: Am. J. Kidney Dis.
+  unstructured: Bartosik, L. P., Lajoie, G., Sugar, L. & Cattran, D. C. Predicting
+    progression in IgA nephropathy. Am. J. Kidney Dis. 38, 728–735 (2001).
+  volume: '38'
+  year: '2001'
+- author: Q Wu
+  doi: 10.1093/ndt/gfr797
+  first-page: '3234'
+  journal-title: Nephrol. Dial. Transplant.
+  unstructured: Wu, Q., Tanaka, H., Hirukawa, T., Endoh, M. & Fukagawa, M. Characterization
+    and quantification of proliferating cell patterns in endocapillary proliferation.
+    Nephrol. Dial. Transplant. 27, 3234–3241 (2012).
+  volume: '27'
+  year: '2012'
+- author: Y Ikezumi
+  doi: 10.1111/j.1365-2559.2011.03742.x
+  first-page: '198'
+  journal-title: Histopathology
+  unstructured: 'Ikezumi, Y. et al. Identification of alternatively activated macrophages
+    in new-onset paediatric and adult immunoglobulin A nephropathy: potential role
+    in mesangial matrix expansion. Histopathology 58, 198–210 (2011).'
+  volume: '58'
+  year: '2011'
+- author: N Yang
+  doi: 10.1046/j.1523-1755.1998.00978.x
+  first-page: '143'
+  journal-title: Kidney Int.
+  unstructured: Yang, N. et al. Local macrophage proliferation in human glomerulonephritis.
+    Kidney Int. 54, 143–151 (1998).
+  volume: '54'
+  year: '1998'
+- author: M Haas
+  doi: 10.1053/ajkd.2000.17615
+  first-page: '709'
+  journal-title: Am. J. Kidney Dis.
+  unstructured: Haas, M. et al. ANCA-associated crescentic glomerulonephritis with
+    mesangial IgA deposits. Am. J. Kidney Dis. 36, 709–718 (2000).
+  volume: '36'
+  year: '2000'
+- author: CC Szeto
+  doi: 10.1038/modpathol.3880364
+  first-page: '635'
+  journal-title: Mod. Pathol.
+  unstructured: Szeto, C. C. et al. Grading of acute and chronic renal lesions in
+    Henoch-Schönlein purpura. Mod. Pathol. 14, 635–640 (2001).
+  volume: '14'
+  year: '2001'
+- author: CL Weber
+  doi: 10.1093/ndt/gfn513
+  first-page: '483'
+  journal-title: Nephrol. Dial. Transplant.
+  unstructured: 'Weber, C. L., Rose, C. L. & Magil, A. B. Focal segmental glomerulosclerosis
+    in mild IgA nephropathy: a clinical-pathologic study. Nephrol. Dial. Transplant.
+    24, 483–488 (2009).'
+  volume: '24'
+  year: '2009'
+- author: IS Roberts
+  first-page: 420A
+  journal-title: J. Am. Soc. Nephrol.
+  unstructured: 'Roberts, I. S., Bellur, S. S. & Cook, H. T. Subclassification of
+    focal segmental glomerulosclerosis in IgA nephropathy: is it of clinical value?
+    Evidence from the Oxford classification cohort. J. Am. Soc. Nephrol. 21, 420A
+    (2010).'
+  volume: '21'
+  year: '2010'
+- author: SV Brodsky
+  doi: 10.1093/ndt/gfr559
+  first-page: '475'
+  journal-title: Nephrol. Dial. Transplant.
+  unstructured: Brodsky, S. V., Rovin, B. H. & Hebert, L. A. Benefit of cyclophosphamide
+    therapy in IgA nephritis may have been obscured by warfarin-related nephropathy
+    in the randomized trials in which warfarin and dipyridamole were used in combination
+    with cyclophosphamide. Nephrol. Dial. Transplant. 27, 475–477 (2012).
+  volume: '27'
+  year: '2012'
+- author: NW Boyce
+  doi: 10.1159/000167171
+  first-page: '246'
+  journal-title: Am. J. Nephrol.
+  unstructured: Boyce, N. W., Holdsworth, S. R., Thomson, N. M. & Atkins R. C. Clinicopathological
+    associations in mesangial IgA nephropathy. Am. J. Nephrol. 6, 246–252 (1986).
+  volume: '6'
+  year: '1986'
+- author: G D'Amico
+  first-page: '363'
+  journal-title: Q. J. Med.
+  unstructured: D'Amico, G. et al. Prognostic indicators in idiopathic IgA mesangial
+    nephropathy. Q. J. Med. 59, 363–378 (1986).
+  volume: '59'
+  year: '1986'
+- author: S Rekola
+  doi: 10.1080/00365599.1989.11690429
+  first-page: '37'
+  journal-title: Scand. J. Urol. Nephrol.
+  unstructured: 'Rekola, S., Bergstrand, A. & Bucht, H. IgA nephropathy: a retrospective
+    evaluation of prognostic indices in 176 patients. Scand. J. Urol. Nephrol. 23,
+    37–50 (1989).'
+  volume: '23'
+  year: '1989'
+- author: O Bogenschutz
+  doi: 10.1159/000168068
+  first-page: '137'
+  journal-title: Am. J. Nephrol.
+  unstructured: 'Bogenschutz, O. et al. IgA nephritis: on the importance of morphological
+    and clinical parameters in the long-term prognosis of 239 patients. Am. J. Nephrol.
+    10, 137–147 (1990).'
+  volume: '10'
+  year: '1990'
+- author: H Okada
+  first-page: '235'
+  journal-title: Clin. Nephrol.
+  unstructured: Okada, H., Suzuki, H., Konishi, K., Sakaguchi, H. & Saruta, T. Histological
+    alterations in renal specimens as indicators of prognosis of IgA nephropathy.
+    Clin. Nephrol. 37, 235–238 (1992).
+  volume: '37'
+  year: '1992'
+- author: LS Ibels
+  doi: 10.1097/00005792-199403000-00002
+  first-page: '79'
+  journal-title: Medicine (Baltimore)
+  unstructured: 'Ibels, L. S. & Gyory, A. Z. IgA nephropathy: analysis of the natural
+    history, important factors in the progression of renal disease, and a review of
+    the literature. Medicine (Baltimore) 73, 79–102 (1994).'
+  volume: '73'
+  year: '1994'
+- author: R Katafuchi
+  first-page: '191'
+  journal-title: Clin. Nephrol.
+  unstructured: 'Katafuchi, R. et al. An important role of glomerular segmental lesions
+    on progression of IgA nephropathy: a multivariate analysis. Clin. Nephrol. 41,
+    191–198 (1994).'
+  volume: '41'
+  year: '1994'
+- author: RJ Hogg
+  doi: 10.1007/BF00868251
+  first-page: '15'
+  journal-title: Pediatr. Nephrol.
+  unstructured: Hogg, R. J. et al. Prognostic indicators in children with IgA nephropathy--report
+    of the Southwest Pediatric Nephrology Study Group. Pediatr. Nephrol. 8, 15–20
+    (1994).
+  volume: '8'
+  year: '1994'
+- author: P Freese
+  doi: 10.1159/000045087
+  first-page: '420'
+  journal-title: Nephron
+  unstructured: Freese, P., Norden, G. & Nyberg, G. Morphologic high-risk factors
+    in IgA nephropathy. Nephron 79, 420–425 (1998).
+  volume: '79'
+  year: '1998'
+- author: LJ Vleming
+  first-page: '337'
+  journal-title: Clin. Nephrol.
+  unstructured: Vleming, L. J. et al. Histomorphometric correlates of renal failure
+    in IgA nephropathy. Clin. Nephrol. 49, 337–344 (1998).
+  volume: '49'
+  year: '1998'
+- author: L Daniel
+  doi: 10.1016/S0272-6386(00)70295-2
+  first-page: '13'
+  journal-title: Am. J. Kidney Dis.
+  unstructured: Daniel, L. et al. Tubular lesions determine prognosis of IgA nephropathy.
+    Am. J. Kidney Dis. 35, 13–20 (2000).
+  volume: '35'
+  year: '2000'
+- author: J Mera
+  doi: 10.1159/000045563
+  first-page: '148'
+  journal-title: Nephron
+  unstructured: Mera, J., Uchida, S. & Nagase, M. Clinicopathologic study on prognostic
+    markers in IgA nephropathy. Nephron 84, 148–157 (2000).
+  volume: '84'
+  year: '2000'
+- author: KF To
+  doi: 10.1016/S0272-6386(00)70191-0
+  first-page: '392'
+  journal-title: Am. J. Kidney Dis.
+  unstructured: To, K. F., Choi, P. C. & Szeto, C. C. Outcome of IgA nephropathy in
+    adults graded by chronic histological lesions. Am. J. Kidney Dis. 35, 392–400
+    (2000).
+  volume: '35'
+  year: '2000'
+- author: FW Ballardie
+  doi: 10.1681/ASN.V131142
+  first-page: '142'
+  journal-title: J. Am. Soc. Nephrol.
+  unstructured: Ballardie, F. W. & Roberts, I. S. D. Controlled prospective trial
+    of prednisolone and cytotoxics in progressive IgA nephropathy. J. Am. Soc. Nephrol.
+    13, 142–148 (2002).
+  volume: '13'
+  year: '2002'
+- author: R Nozawa
+  doi: 10.5414/CNP64171
+  first-page: '171'
+  journal-title: Clin. Nephrol.
+  unstructured: Nozawa, R. et al. Clinicopathological features and the prognosis of
+    IgA nephropathy in Japanese children on long-term observation. Clin. Nephrol.
+    64, 171–179 (2005).
+  volume: '64'
+  year: '2005'
+- author: Y Ikezumi
+  doi: 10.1093/ndt/gfl455
+  first-page: '3466'
+  journal-title: Nephrol. Dial. Transplant.
+  unstructured: Ikezumi, Y. et al. Histological differences in new-onset IgA nephropathy
+    between children and adults. Nephrol. Dial. Transplant. 21, 3466–3474 (2006).
+  volume: '21'
+  year: '2006'
+- author: ISD Roberts
+  doi: 10.1136/jcp.53.11.858
+  first-page: '858'
+  journal-title: J. Clin. Pathol.
+  unstructured: 'Roberts, I. S. D. & Brenchley, P. E. C. Mast cells: the forgotten
+    cells of renal fibrosis. J. Clin. Pathol. 53, 858–862 (2000).'
+  volume: '53'
+  year: '2000'
+- author: G Zhu
+  doi: 10.1080/08860220600580373
+  first-page: '229'
+  journal-title: Renal Failure
+  unstructured: Zhu, G., Wang, Y., Wang, J. & Tay, Y.-C. Significance of CD25 positive
+    cells and macrophages in non-crescentic IgA nephropathy. Renal Failure 28, 229–235
+    (2006).
+  volume: '28'
+  year: '2006'
+- author: JM Myllymaki
+  doi: 10.1038/sj.ki.5002046
+  first-page: '343'
+  journal-title: Kidney Int.
+  unstructured: Myllymaki, J. M. et al. Severity of tubulointerstitial inflammation
+    and prognosis in immunoglobulin A nephropathy. Kidney Int. 71, 343–348 (2007).
+  volume: '71'
+  year: '2007'
+- author: SR Meadow
+  first-page: '241'
+  journal-title: Q. J. Med.
+  unstructured: Meadow, S. R. et al. Schonlein-Henoch nephritis. Q. J. Med. 163, 241–258
+    (1972).
+  volume: '163'
+  year: '1972'
+- author: S-MK Lee
+  doi: 10.1016/S0046-8177(82)80221-9
+  first-page: '314'
+  journal-title: Hum. Pathol.
+  unstructured: 'Lee, S.-M. K. et al. IgA nephropathy: morphologic predictors of progressive
+    renal disease. Hum. Pathol. 13, 314–322 (1982).'
+  volume: '13'
+  year: '1982'
+- author: K Wakai
+  doi: 10.1093/ndt/gfl342
+  first-page: '2800'
+  journal-title: Nephrol. Dial. Transplant.
+  unstructured: 'Wakai, K. et al. A scoring system to predict renal outcome in IgA
+    nephropathy: from a nationwide prospective study. Nephrol. Dial. Transplant. 21,
+    2800–2808 (2006).'
+  volume: '21'
+  year: '2006'
+- author: T Kawamura
+  doi: 10.5301/jn.5000151
+  first-page: '350'
+  journal-title: J. Nephrol.
+  unstructured: 'Kawamura, T. et al. A histologic classification of IgA nephropathy
+    for predicting long-term prognosis: emphasis on end-stage renal disease. J. Nephrol.
+    26, 350–357 (2013).'
+  volume: '26'
+  year: '2013'
+- author: K El Karoui
+  doi: 10.1038/ki.2010.460
+  first-page: '643'
+  journal-title: Kidney Int.
+  unstructured: El Karoui, K. et al. Focal segmental glomerulosclerosis plays a major
+    role in the progression of IgA nephropathy. II. Light microscopic and clinical
+    studies. Kidney Int. 79, 643–654 (2011).
+  volume: '79'
+  year: '2011'
+- author: R Katafuchi
+  doi: 10.2215/CJN.02890311
+  first-page: '2806'
+  journal-title: Clin. J. Am. Soc. Nephrol.
+  unstructured: 'Katafuchi, R. et al. Validation study of Oxford Classification of
+    IgA nephropathy: the significance of extracapillary proliferation. Clin. J. Am.
+    Soc. Nephrol. 6, 2806–2813 (2011).'
+  volume: '6'
+  year: '2011'
+- author: E Alamartine
+  doi: 10.2215/CJN.01170211
+  first-page: '2384'
+  journal-title: Clin. J. Am. Soc. Nephrol.
+  unstructured: Alamartine, E. et al. The use of the Oxford classification of IgA
+    nephropathy to predict renal survival. Clin. J. Am. Soc. Nephrol. 6, 2384–2388
+    (2011).
+  volume: '6'
+  year: '2011'
+- author: S Edström Halling
+  doi: 10.1093/ndt/gfr339
+  first-page: '715'
+  journal-title: Nephrol. Dial. Transplant.
+  unstructured: Edström Halling, S., Söderberg, M. P. & Berg, U. B. Predictors of
+    outcome in paediatric IgA nephropathy with regard to clinical and histopathological
+    variables (Oxford classification). Nephrol. Dial. Transplant. 27, 715–722 (2012).
+  volume: '27'
+  year: '2012'
+- author: AM Herzenberg
+  doi: 10.1038/ki.2011.126
+  first-page: '310'
+  journal-title: Kidney Int.
+  unstructured: Herzenberg, A. M. et al. Validation of the Oxford classification of
+    IgA nephropathy. Kidney Int. 80, 310–317 (2011).
+  volume: '80'
+  year: '2011'
+- author: SH Kang
+  doi: 10.1093/ndt/gfr295
+  first-page: '252'
+  journal-title: Nephrol. Dial. Transplant.
+  unstructured: Kang, S. H. et al. The Oxford classification as a predictor of prognosis
+    in patients with IgA nephropathy. Nephrol. Dial. Transplant. 27, 252–258 (2012).
+  volume: '27'
+  year: '2012'
+- author: H Kataoka
+  doi: 10.1007/s10157-012-0613-7
+  first-page: '706'
+  journal-title: Clin. Exp. Nephrol.
+  unstructured: 'Kataoka, H. et al. Overweight and obesity accelerate the progression
+    of IgA nephropathy: prognostic utility of a combination of BMI and histopathological
+    parameters. Clin. Exp. Nephrol. 16, 706–712 (2012).'
+  volume: '16'
+  year: '2012'
+- author: H Lee
+  doi: 10.3904/kjim.2012.27.3.293
+  first-page: '293'
+  journal-title: Korean J. Intern. Med.
+  unstructured: 'Lee, H. et al. Validation of the Oxford Classification of IgA nephropathy:
+    a single-center study in Korean adults. Korean J. Intern. Med. 27, 293–300 (2012).'
+  volume: '27'
+  year: '2012'
+- author: T Moriyama
+  doi: 10.1007/s11255-011-0109-5
+  first-page: '1177'
+  journal-title: Int. Urol. Nephrol.
+  unstructured: Moriyama, T. et al. Severity of nephrotic IgA nephropathy according
+    to the Oxford classification. Int. Urol. Nephrol. 44, 1177–1184 (2012).
+  volume: '44'
+  year: '2012'
+- author: SF Shi
+  doi: 10.2215/CJN.11521210
+  first-page: '2175'
+  journal-title: Clin. J. Am. Soc. Nephrol.
+  unstructured: 'Shi, S. F. et al. Pathologic predictors of renal outcome and therapeutic
+    efficacy in IgA nephropathy: validation of the Oxford Classification. Clin. J.
+    Am. Soc. Nephrol. 6, 2175–2184 (2011).'
+  volume: '6'
+  year: '2011'
+- author: Y Shima
+  doi: 10.1007/s00467-011-2061-0
+  first-page: '783'
+  journal-title: Pediatr. Nephrol.
+  unstructured: Shima, Y. et al. Validity of the Oxford classification of IgA nephropathy
+    in children. Pediatr. Nephrol. 27, 783–792 (2012).
+  volume: '27'
+  year: '2012'
+- author: T Yau
+  doi: 10.1159/000332223
+  first-page: '435'
+  journal-title: Am. J. Nephrol.
+  unstructured: 'Yau, T., Korbet, S. M., Schwartz, M. M. & Cimbaluk, D. J. The Oxford
+    classification of IgA nephropathy: a retrospective analysis. Am. J. Nephrol. 34,
+    435–444 (2011).'
+  volume: '34'
+  year: '2011'
+- author: E Gutierrez
+  doi: 10.1681/ASN.2012010063
+  first-page: '1753'
+  journal-title: J. Am. Soc. Nephrol.
+  unstructured: Gutierrez, E. et al. Long-term outcomes of IgA nephropathy presenting
+    with minimal or no proteinuria. J. Am. Soc. Nephrol. 23, 1753–1760 (2012).
+  volume: '23'
+  year: '2012'
+- author: W Le
+  doi: 10.1186/1471-2369-13-158
+  first-page: '158'
+  journal-title: BMC Nephrol.
+  unstructured: Le, W. et al. Validation of the Oxford Classification of IgA Nephropathy
+    for pediatric patients from China. BMC Nephrol. 13, 158 (2012).
+  volume: '13'
+  year: '2012'
+- author: KS Park
+  doi: 10.1016/j.humpath.2013.08.019
+  first-page: '236'
+  journal-title: Hum. Pathol.
+  unstructured: Park, K. S. et al. Comparison of the Haas and the Oxford classifications
+    for prediction of renal outcome in patients with IgA nephropathy. Hum. Pathol.
+    45, 236–243 (2014).
+  volume: '45'
+  year: '2014'
+- author: A Chakera
+  first-page: 385A
+  issue: Suppl. 2
+  journal-title: Mod. Pathol.
+  unstructured: Chakera, A. et al. Prognostic value of endocapillary proliferation
+    in IgA nephropathy patients with minimal immunosuppression [abstract]. Mod. Pathol.
+    26 (Suppl. 2), 385A (2013).
+  volume: '26'
+  year: '2013'
+- author: L Harper
+  first-page: '360'
+  journal-title: J. Nephrol.
+  unstructured: Harper, L. et al. Treatment of vasculitic IgA nephropathy. J. Nephrol.
+    13, 360–366 (2000).
+  volume: '13'
+  year: '2000'
+- author: JA Tumlin
+  doi: 10.1093/ndt/gfg081
+  first-page: '1321'
+  journal-title: Nephrol. Dial. Transplant.
+  unstructured: 'Tumlin, J. A., Lohavichan, V. & Hennigar, R. Crescentic, proliferative
+    IgA nephropathy: clinical and histological response to methylprednisolone and
+    intravenous cyclophosphamide. Nephrol. Dial. Transplant. 18, 1321–1329 (2003).'
+  volume: '18'
+  year: '2003'
+- author: Y Tomiyoshi
+  doi: 10.2169/internalmedicine.40.862
+  first-page: '862'
+  journal-title: Intern. Med.
+  unstructured: Tomiyoshi, Y. et al. Cellular crescents and segmental glomerular necrosis
+    in IgA nephropathy are indicative of the beneficial effects of corticosteroid
+    therapy. Intern. Med. 40, 862–866 (2001).
+  volume: '40'
+  year: '2001'
+- author: YC Kim
+  doi: 10.1371/journal.pone.0071545
+  first-page: e71545
+  journal-title: PLoS ONE
+  unstructured: 'Kim, Y. C., Chin, H. J., Koo, H. S. & Kim, S. Tacrolimus decreases
+    albuminuria in patients with IgA nephropathy and normal blood pressure: a double-blind
+    randomized controlled trial of efficacy of tacrolimus on IgA nephropathy. PLoS
+    ONE 8, e71545 (2013).'
+  volume: '8'
+  year: '2013'
+- author: C Manno
+  doi: 10.1093/ndt/gfp356
+  first-page: '3694'
+  journal-title: Nephrol. Dial. Transplant.
+  unstructured: Manno, C., Torres, D. D., Rossini, M., Pesce, F. & Schena, F. P. Randomized
+    controlled clinical trial of corticosteroids plus ACE-inhibitors with long-term
+    follow-up in proteinuric IgA nephropathy. Nephrol. Dial. Transplant. 24, 3694–3701
+    (2009).
+  volume: '24'
+  year: '2009'
+- author: C Pozzi
+  doi: 10.1097/01.ASN.0000103869.08096.4F
+  first-page: '157'
+  journal-title: J. Am. Soc. Nephrol.
+  unstructured: 'Pozzi, C. et al. Corticosteroid effectiveness in IgA nephropathy:
+    long-term results of a randomized, controlled trial. J. Am. Soc. Nephrol. 15,
+    157–163 (2004).'
+  volume: '15'
+  year: '2004'
+- author: JM Cruzado
+  doi: 10.1093/ndt/gfr072
+  first-page: '3596'
+  journal-title: Nephrol. Dial. Transplant.
+  unstructured: Cruzado, J. M. et al. Low-dose sirolimus combined with angiotensin-converting
+    enzyme inhibitor and statin stabilizes renal function and reduces glomerular proliferation
+    in poor prognosis IgA nephropathy. Nephrol. Dial. Transplant. 26, 3596–3602 (2011).
+  volume: '26'
+  year: '2011'
+- author: C Ohmacht
+  doi: 10.1097/00007890-199711270-00024
+  first-page: '1493'
+  journal-title: Transplantation
+  unstructured: Ohmacht, C. et al. Recurrent immunoglobulin A nephritis after renal
+    transplantation; a significant contributor to graft loss. Transplantation 64,
+    1493 (1997).
+  volume: '64'
+  year: '1997'
+- author: G Moroni
+  doi: 10.1093/ndt/gfs472
+  first-page: '1305'
+  journal-title: Nephrol. Dial. Transplant.
+  unstructured: Moroni, G. et al. The long-term outcome of renal transplantation of
+    IgA nephropathy and the impact of recurrence on graft survival. Nephrol. Dial.
+    Transplant. 28, 1305–1314 (2013).
+  volume: '28'
+  year: '2013'
+- author: K Oka
+  doi: 10.1093/ndt/15.5.689
+  first-page: '689'
+  journal-title: Nephrol. Dial. Transplant.
+  unstructured: 'Oka, K. et al. A clinicopathological study of IgA nephropathy in
+    renal transplant recipients: beneficial effect of angiotensin-converting enzyme
+    inhibitor. Nephrol. Dial. Transplant. 15, 689–695 (2000).'
+  volume: '15'
+  year: '2000'
+- author: F Ortiz
+  doi: 10.1093/ndt/gfr664
+  first-page: '2553'
+  journal-title: Nephrol. Dial. Transplant.
+  unstructured: Ortiz, F. et al. IgA nephropathy recurs early in the graft when assessed
+    by protocol biopsy. Nephrol. Dial. Transplant. 27, 2553–2558 (2012).
+  volume: '27'
+  year: '2012'
+- author: BJ Lim
+  doi: 10.1097/TP.0b013e318291de65
+  first-page: '1491'
+  journal-title: Transplantation
+  unstructured: Lim, B. J. et al. Usefulness of Oxford classification in assessing
+    immunoglobulin A nephropathy after transplantation. Transplantation 95, 1491–1497
+    (2013).
+  volume: '95'
+  year: '2013'
+doc_url: http://www.nature.com/articles/nrneph.2014.92.pdf
+doi: 10.1038/nrneph.2014.92
+files:
+- pathologyofigrobert2014-a.pdf
+issue: '8'
+journal: Nature Reviews Nephrology
+language: en
+month: 8
+pages: 445--454
+papis_id: 9ed6fe238e252212bf124f2dd9b2558f
+publisher: Springer Science and Business Media LLC
+ref: PathologyOfIgRobert2014
+time-added: 2023-11-20-10:05:59
+title: Pathology of IgA nephropathy
+type: article
+url: http://dx.doi.org/10.1038/nrneph.2014.92
+volume: '10'
+year: 2014
