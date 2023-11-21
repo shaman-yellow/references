@@ -1,0 +1,2042 @@
+author: Liu, Tongtong and Yang, Liping and Mao, Huimin and Ma, Fang and Wang, Yuyang
+  and Li, Shen and Li, Ping and Zhan, Yongli
+author_list:
+- affiliation: []
+  family: Liu
+  given: Tongtong
+- affiliation: []
+  family: Yang
+  given: Liping
+- affiliation: []
+  family: Mao
+  given: Huimin
+- affiliation: []
+  family: Ma
+  given: Fang
+- affiliation: []
+  family: Wang
+  given: Yuyang
+- affiliation: []
+  family: Li
+  given: Shen
+- affiliation: []
+  family: Li
+  given: Ping
+- affiliation: []
+  family: Zhan
+  given: Yongli
+citations:
+- article-title: 'Podocyte aging: why and how getting old matters'
+  author: Shankland
+  doi: 10.1681/ASN.2021050614
+  first-page: '2697'
+  issue: '11'
+  journal-title: J. Am. Soc. Nephrol.
+  volume: '32'
+  year: '2021'
+- article-title: The evolving complexity of the podocyte cytoskeleton
+  author: Schell
+  doi: 10.1681/ASN.2017020143
+  first-page: '3166'
+  issue: '11'
+  journal-title: J. Am. Soc. Nephrol.
+  volume: '28'
+  year: '2017'
+- article-title: Insights into glomerular filtration and albuminuria
+  author: Benzing
+  doi: 10.1056/NEJMra1808786
+  first-page: '1437'
+  issue: '15'
+  journal-title: N. Engl. J. Med.
+  volume: '384'
+  year: '2021'
+- article-title: Wnt/β-catenin links oxidative stress to podocyte injury and proteinuria
+  author: Zhou
+  doi: 10.1016/j.kint.2018.10.032
+  first-page: '830'
+  issue: '4'
+  journal-title: Kidney Int.
+  volume: '95'
+  year: '2019'
+- article-title: Cell biology and pathology of podocytes
+  author: Greka
+  doi: 10.1146/annurev-physiol-020911-153238
+  first-page: '299'
+  journal-title: Annu. Rev. Physiol.
+  volume: '74'
+  year: '2012'
+- article-title: 'Modes of podocyte death in diabetic kidney disease: an update'
+  author: Jiang
+  doi: 10.1007/s40620-022-01269-1
+  journal-title: J. Nephrol.
+  year: '2022'
+- article-title: Deficiency of mitochondrial glycerol 3-phosphate dehydrogenase exacerbates
+    podocyte injury and the progression of diabetic kidney disease
+  author: Qu
+  doi: 10.2337/db20-1157
+  first-page: '1372'
+  issue: '6'
+  journal-title: Diabetes
+  volume: '70'
+  year: '2021'
+- article-title: From podocyte biology to novel cures for glomerular disease
+  author: Torban
+  doi: 10.1016/j.kint.2019.05.015
+  first-page: '850'
+  issue: '4'
+  journal-title: Kidney Int.
+  volume: '96'
+  year: '2019'
+- article-title: 'Knowledge domain and emerging trends in podocyte injury research
+    from 1994 to 2021: a bibliometric and visualized analysis'
+  author: Liu
+  doi: 10.3389/fphar.2021.772386
+  journal-title: Front. Pharm.
+  volume: '12'
+  year: '2021'
+- article-title: Sirtuins' control of autophagy and mitophagy in cancer
+  author: Aventaggiato
+  doi: 10.1016/j.pharmthera.2020.107748
+  journal-title: Pharm. Ther.
+  volume: '221'
+  year: '2021'
+- article-title: Sirtuins as pharmacological targets in neurodegenerative and neuropsychiatric
+    disorders
+  author: Leite
+  doi: 10.1111/bph.15570
+  first-page: '1496'
+  issue: '8'
+  journal-title: Br. J. Pharm.
+  volume: '179'
+  year: '2022'
+- article-title: 'Sirtuins and the circadian clock interplay in cardioprotection:
+    focus on sirtuin 1'
+  author: Soni
+  doi: 10.1007/s00018-020-03713-6
+  first-page: '2503'
+  issue: '6'
+  journal-title: Cell. Mol. Life Sci.
+  volume: '78'
+  year: '2021'
+- article-title: 'Glomerular aging and focal global glomerulosclerosis: a podometric
+    perspective'
+  author: Hodgin
+  doi: 10.1681/ASN.2014080752
+  first-page: '3162'
+  issue: '12'
+  journal-title: J. Am. Soc. Nephrol.
+  volume: '26'
+  year: '2015'
+- article-title: Deciphering nutritional interventions for podocyte structure and
+    function
+  author: Afsar
+  doi: 10.1016/j.phrs.2021.105852
+  journal-title: Pharm. Res.
+  volume: '172'
+  year: '2021'
+- article-title: Transcriptional coactivator p300 and silent information regulator
+    1 (SIRT1) gene polymorphism associated with diabetic kidney disease in a Chinese
+    cohort
+  author: Tang
+  doi: 10.1055/s-0043-103966
+  first-page: '530'
+  issue: '8'
+  journal-title: Exp. Clin. Endocrinol. Diabetes
+  volume: '125'
+  year: '2017'
+- article-title: 'Oral AGE restriction ameliorates insulin resistance in obese individuals
+    with the metabolic syndrome: a randomised controlled trial'
+  author: Vlassara
+  doi: 10.1007/s00125-016-4053-x
+  first-page: '2181'
+  issue: '10'
+  journal-title: Diabetologia
+  volume: '59'
+  year: '2016'
+- article-title: Sirtuin 4 is a lipoamidase regulating pyruvate dehydrogenase complex
+    activity
+  author: Mathias
+  doi: 10.1016/j.cell.2014.11.046
+  first-page: '1615'
+  issue: '7'
+  journal-title: Cell
+  volume: '159'
+  year: '2014'
+- article-title: Sirt5 is a NAD-dependent protein lysine demalonylase and desuccinylase
+  author: Du
+  doi: 10.1126/science.1207861
+  first-page: '806'
+  issue: '6057'
+  journal-title: Science
+  volume: '334'
+  year: '2011'
+- article-title: Functions of the sirtuin deacylase SIRT5 in normal physiology and
+    pathobiology
+  author: Kumar
+  doi: 10.1080/10409238.2018.1458071
+  first-page: '311'
+  issue: '3'
+  journal-title: Crit. Rev. Biochem. Mol. Biol.
+  volume: '53'
+  year: '2018'
+- article-title: SIRT7 is a histone desuccinylase that functionally links to chromatin
+    compaction and genome stability
+  author: Li
+  doi: 10.1038/ncomms12235
+  first-page: '12235'
+  journal-title: Nat. Commun.
+  volume: '7'
+  year: '2016'
+- article-title: NAD+ and sirtuins in aging and disease
+  author: Imai
+  doi: 10.1016/j.tcb.2014.04.002
+  first-page: '464'
+  issue: '8'
+  journal-title: Trends Cell Biol.
+  volume: '24'
+  year: '2014'
+- article-title: 'Sex differences in the aging human heart: decreased sirtuins, pro-inflammatory
+    shift and reduced anti-oxidative defense'
+  author: Barcena de Arellano
+  doi: 10.18632/aging.101881
+  first-page: '1918'
+  issue: '7'
+  journal-title: Aging
+  volume: '11'
+  year: '2019'
+- article-title: Post-translational modifications by SIRT3 de-2-hydroxyisobutyrylase
+    activity regulate glycolysis and enable nephrogenesis
+  author: Perico
+  doi: 10.1038/s41598-021-03039-8
+  first-page: '23580'
+  issue: '1'
+  journal-title: Sci. Rep.
+  volume: '11'
+  year: '2021'
+- article-title: Adult mouse kidney stem cells orchestrate the de novo assembly of
+    a nephron via Sirt2-modulated canonical Wnt/β-catenin signaling
+  author: Han
+  issue: '15'
+  journal-title: Adv. Sci.
+  volume: '9'
+  year: '2022'
+- article-title: Sirtuins and renal oxidative stress
+  author: Ogura
+  doi: 10.3390/antiox10081198
+  issue: '8'
+  journal-title: Antioxidants
+  volume: '10'
+  year: '2021'
+- article-title: Sirtuins and their relevance to the kidney
+  author: Hao
+  doi: 10.1681/ASN.2010010046
+  first-page: '1620'
+  issue: '10'
+  journal-title: J. Am. Soc. Nephrol.
+  volume: '21'
+  year: '2010'
+- article-title: Sirtuins in renal health and disease
+  author: Morigi
+  doi: 10.1681/ASN.2017111218
+  first-page: '1799'
+  issue: '7'
+  journal-title: J. Am. Soc. Nephrol.
+  volume: '29'
+  year: '2018'
+- article-title: Sirt1 deletion leads to enhanced inflammation and aggravates endotoxin-induced
+    acute kidney injury
+  author: Gao
+  doi: 10.1371/journal.pone.0098909
+  issue: '6'
+  journal-title: PLoS One
+  volume: '9'
+  year: '2014'
+- article-title: Reduction in podocyte SIRT1 accelerates kidney injury in aging mice
+  author: Chuang
+  doi: 10.1152/ajprenal.00255.2017
+  first-page: F621
+  issue: '3'
+  journal-title: Am. J. Physiol. Ren. Physiol.
+  volume: '313'
+  year: '2017'
+- article-title: Sirt1 activation ameliorates renal fibrosis by inhibiting the TGF-β/Smad3
+    pathway
+  author: Huang
+  doi: 10.1002/jcb.24748
+  first-page: '996'
+  issue: '5'
+  journal-title: J. Cell. Biochem.
+  volume: '115'
+  year: '2014'
+- article-title: Sirt1-hypoxia-inducible factor-1α interaction is a key mediator of
+    tubulointerstitial damage in the aged kidney
+  author: Ryu
+  doi: 10.1111/acel.12904
+  issue: '2'
+  journal-title: Aging Cell
+  volume: '18'
+  year: '2019'
+- article-title: Inhibition of p53/miR-34a/SIRT1 axis ameliorates podocyte injury
+    in diabetic nephropathy
+  author: Liang
+  doi: 10.1016/j.bbrc.2021.04.025
+  first-page: '48'
+  journal-title: Biochem. Biophys. Res. Commun.
+  volume: '559'
+  year: '2021'
+- article-title: SIRT1 attenuates sepsis-induced acute kidney injury via Beclin1 deacetylation-mediated
+    autophagy activation
+  author: Deng
+  doi: 10.1038/s41419-021-03508-y
+  first-page: '217'
+  issue: '2'
+  journal-title: Cell Death Dis.
+  volume: '12'
+  year: '2021'
+- article-title: Sequential actions of SIRT1-RELB-SIRT3 coordinate nuclear-mitochondrial
+    communication during immunometabolic adaptation to acute inflammation and sepsis
+  author: Liu
+  doi: 10.1074/jbc.M114.566349
+  first-page: '396'
+  issue: '1'
+  journal-title: J. Biol. Chem.
+  volume: '290'
+  year: '2015'
+- article-title: Role of transcription factor acetylation in diabetic kidney disease
+  author: Liu
+  doi: 10.2337/db13-1810
+  first-page: '2440'
+  issue: '7'
+  journal-title: Diabetes
+  volume: '63'
+  year: '2014'
+- article-title: Sirtuin1 maintains actin cytoskeleton by deacetylation of cortactin
+    in injured podocytes
+  author: Motonishi
+  doi: 10.1681/ASN.2014030289
+  first-page: '1939'
+  issue: '8'
+  journal-title: J. Am. Soc. Nephrol.
+  volume: '26'
+  year: '2015'
+- article-title: SIRT1 alleviates aldosterone-induced podocyte injury by suppressing
+    mitochondrial dysfunction and NLRP3 inflammasome activation
+  author: Jiang
+  doi: 10.1159/000513884
+  first-page: '293'
+  issue: '4'
+  journal-title: Kidney Dis.
+  volume: '7'
+  year: '2021'
+- article-title: In vivo RNA interference models of inducible and reversible Sirt1
+    knockdown in kidney cells
+  author: Chuang
+  doi: 10.1016/j.ajpath.2014.03.016
+  first-page: '1940'
+  issue: '7'
+  journal-title: Am. J. Pathol.
+  volume: '184'
+  year: '2014'
+- article-title: Increased podocyte Sirtuin-1 function attenuates diabetic kidney
+    injury
+  author: Hong
+  doi: 10.1016/j.kint.2017.12.008
+  first-page: '1330'
+  issue: '6'
+  journal-title: Kidney Int.
+  volume: '93'
+  year: '2018'
+- article-title: 'Insulin resistance in glomerular podocytes: Potential mechanisms
+    of induction'
+  author: Rogacka
+  doi: 10.1016/j.abb.2021.109005
+  journal-title: Arch. Biochem. Biophys.
+  volume: '710'
+  year: '2021'
+- article-title: The versatility of sirtuin-1 in endocrinology and immunology
+  author: Rasha
+  doi: 10.3389/fcell.2020.589016
+  journal-title: Front. Cell Dev. Biol.
+  volume: '8'
+  year: '2020'
+- article-title: Aging, melatonin, and the pro- and anti-inflammatory networks
+  author: Hardeland
+  doi: 10.3390/ijms20051223
+  issue: '5'
+  journal-title: Int. J. Mol. Sci.
+  volume: '20'
+  year: '2019'
+- article-title: Effect of concomitant treatment of curcumin and melatonin on cisplatin-induced
+    nephrotoxicity in rats
+  author: Ali
+  doi: 10.1016/j.biopha.2020.110761
+  journal-title: Biomed. Pharmacother.
+  volume: '131'
+  year: '2020'
+- article-title: Valsartan- and melatonin-supported adipose-derived mesenchymal stem
+    cells preserve renal function in chronic kidney disease rat through upregulation
+    of prion protein participated in promoting PI3K-Akt-mTOR signaling and cell proliferation
+  author: Yang
+  doi: 10.1016/j.biopha.2021.112551
+  journal-title: Biomed. Pharmacother.
+  volume: '146'
+  year: '2022'
+- article-title: Sex-related disparities in CKD progression
+  author: Ricardo
+  doi: 10.1681/ASN.2018030296
+  first-page: '137'
+  issue: '1'
+  journal-title: J. Am. Soc. Nephrol.
+  volume: '30'
+  year: '2019'
+- article-title: Sex diversity in proximal tubule and endothelial gene expression
+    in mice with ischemic acute kidney injury
+  author: Viñas
+  doi: 10.1042/CS20200168
+  first-page: '1887'
+  issue: '14'
+  journal-title: Clin. Sci.
+  volume: '134'
+  year: '2020'
+- article-title: SIRT1 and estrogen signaling cooperation for breast cancer onset
+    and progression
+  author: Liarte
+  doi: 10.3389/fendo.2018.00552
+  first-page: '552'
+  journal-title: Front. Endocrinol.
+  volume: '9'
+  year: '2018'
+- article-title: SIRT1-mediated ERβ suppression in the endothelium contributes to
+    vascular aging
+  author: Kong
+  doi: 10.1111/acel.12515
+  first-page: '1092'
+  issue: '6'
+  journal-title: Aging Cell
+  volume: '15'
+  year: '2016'
+- article-title: Mechanisms of aging and the preventive effects of resveratrol on
+    age-related diseases
+  author: Pyo
+  doi: 10.3390/molecules25204649
+  issue: '20'
+  journal-title: Molecules
+  volume: '25'
+  year: '2020'
+- article-title: 'Sirtuin activators and inhibitors: promises, achievements, and challenges'
+  author: Dai
+  doi: 10.1016/j.pharmthera.2018.03.004
+  first-page: '140'
+  journal-title: Pharm. Ther.
+  volume: '188'
+  year: '2018'
+- article-title: 'SIRT2: controversy and multiple roles in disease and physiology'
+  author: Wang
+  doi: 10.1016/j.arr.2019.100961
+  journal-title: Ageing Res. Rev.
+  volume: '55'
+  year: '2019'
+- article-title: 'Sirtuin 2 (SIRT2): confusing roles in the pathophysiology of neurological
+    disorders'
+  author: Chen
+  journal-title: Front. Neurosci.
+  volume: '15'
+  year: '2021'
+- article-title: Deacetylation-dependent regulation of PARP1 by SIRT2 dictates ubiquitination
+    of PARP1 in oxidative stress-induced vascular injury
+  author: Zhang
+  doi: 10.1016/j.redox.2021.102141
+  journal-title: Redox Biol.
+  volume: '47'
+  year: '2021'
+- article-title: SIRT2 acts as a cardioprotective deacetylase in pathological cardiac
+    hypertrophy
+  author: Tang
+  doi: 10.1161/CIRCULATIONAHA.117.028728
+  first-page: '2051'
+  issue: '21'
+  journal-title: Circulation
+  volume: '136'
+  year: '2017'
+- article-title: SIRT2 is involved in cisplatin-induced acute kidney injury through
+    regulation of mitogen-activated protein kinase phosphatase-1
+  author: Jung
+  doi: 10.1093/ndt/gfaa042
+  first-page: '1145'
+  issue: '7'
+  journal-title: Nephrol. Dial. Transpl.
+  volume: '35'
+  year: '2020'
+- article-title: SIRT2 regulates LPS-induced renal tubular CXCL2 and CCL2 expression
+  author: Jung
+  doi: 10.1681/ASN.2014030226
+  first-page: '1549'
+  issue: '7'
+  journal-title: J. Am. Soc. Nephrol.
+  volume: '26'
+  year: '2015'
+- article-title: SIRT2-mediated FOXO3a deacetylation drives its nuclear translocation
+    triggering FasL-induced cell apoptosis during renal ischemia reperfusion
+  author: Wang
+  doi: 10.1007/s10495-016-1341-3
+  first-page: '519'
+  issue: '4'
+  journal-title: Apoptosis
+  volume: '22'
+  year: '2017'
+- article-title: Sirt2 deacetylase is a novel AKT binding partner critical for AKT
+    activation by insulin
+  author: Ramakrishnan
+  doi: 10.1074/jbc.M113.537266
+  first-page: '6054'
+  issue: '9'
+  journal-title: J. Biol. Chem.
+  volume: '289'
+  year: '2014'
+- article-title: 'The role of SIRT2 in vascular-related and heart-related diseases:
+    a review'
+  author: Wu
+  doi: 10.1111/jcmm.16618
+  first-page: '6470'
+  issue: '14'
+  journal-title: J. Cell. Mol. Med.
+  volume: '25'
+  year: '2021'
+- article-title: 'Mitochondrial sirtuin 3: new emerging biological function and therapeutic
+    target'
+  author: Zhang
+  doi: 10.7150/thno.45922
+  first-page: '8315'
+  issue: '18'
+  journal-title: Theranostics
+  volume: '10'
+  year: '2020'
+- article-title: 'Mitochondrial proteins in heart failure: the role of deacetylation
+    by SIRT3'
+  author: Wang
+  doi: 10.1016/j.phrs.2021.105802
+  journal-title: Pharm. Res.
+  volume: '172'
+  year: '2021'
+- article-title: SIRT3 regulates mitochondrial fatty-acid oxidation by reversible
+    enzyme deacetylation
+  author: Hirschey
+  doi: 10.1038/nature08778
+  first-page: '121'
+  issue: '7285'
+  journal-title: Nature
+  volume: '464'
+  year: '2010'
+- article-title: SIRT3 inactivation promotes acute kidney injury through elevated
+    acetylation of SOD2 and p53
+  author: Ouyang
+  doi: 10.1016/j.jss.2018.07.019
+  first-page: '221'
+  journal-title: J. Surg. Res.
+  volume: '233'
+  year: '2019'
+- article-title: Sirt3 modulates fatty acid oxidation and attenuates cisplatin-induced
+    AKI in mice
+  author: Li
+  doi: 10.1111/jcmm.15148
+  first-page: '5109'
+  issue: '9'
+  journal-title: J. Cell. Mol. Med.
+  volume: '24'
+  year: '2020'
+- article-title: Sirtuin 3-dependent mitochondrial dynamic improvements protect against
+    acute kidney injury
+  author: Morigi
+  doi: 10.1172/JCI77632
+  first-page: '715'
+  issue: '2'
+  journal-title: J. Clin. Invest.
+  volume: '125'
+  year: '2015'
+- article-title: Omega-3 fatty acids upregulate SIRT1/3, activate PGC-1α via deacetylation,
+    and Induce Nrf1 production in 5/6 nephrectomy rat model
+  author: Son
+  doi: 10.3390/md19040182
+  issue: '4'
+  journal-title: Mar. Drugs
+  volume: '19'
+  year: '2021'
+- article-title: Sirt3 modulate renal ischemia-reperfusion injury through enhancing
+    mitochondrial fusion and activating the ERK-OPA1 signaling pathway
+  author: Wang
+  doi: 10.1002/jcp.28918
+  first-page: '23495'
+  issue: '12'
+  journal-title: J. Cell. Physiol.
+  volume: '234'
+  year: '2019'
+- article-title: SIRT3 protects kidneys from ischemia-reperfusion injury by modulating
+    the DRP1 pathway to induce mitochondrial autophagy
+  author: Zhao
+  doi: 10.1016/j.lfs.2021.120005
+  journal-title: Life Sci.
+  volume: '286'
+  year: '2021'
+- article-title: Sirtuin 3 deficiency promotes acute kidney injury induced by sepsis
+    via mitochondrial dysfunction and apoptosis
+  author: Fan
+  first-page: '675'
+  issue: '5'
+  journal-title: Iran. J. Basic Med. Sci.
+  volume: '24'
+  year: '2021'
+- article-title: SIRT3-KLF15 signaling ameliorates kidney injury induced by hypertension
+  author: Li
+  doi: 10.18632/oncotarget.17165
+  first-page: '39592'
+  issue: '24'
+  journal-title: Oncotarget
+  volume: '8'
+  year: '2017'
+- article-title: Endothelial SIRT3 regulates myofibroblast metabolic shifts in diabetic
+    kidneys
+  author: Srivastava
+  doi: 10.1016/j.isci.2021.102390
+  issue: '5'
+  journal-title: iScience
+  volume: '24'
+  year: '2021'
+- article-title: Melatonin alleviates contrast-induced acute kidney injury by activation
+    of Sirt3
+  author: Zhang
+  first-page: '6668887'
+  journal-title: Oxid. Med. Cell. Longev.
+  volume: '2021'
+  year: '2021'
+- article-title: Sirtuin-3 mediates sex differences in kidney ischemia-reperfusion
+    injury
+  author: Shen
+  doi: 10.1016/j.trsl.2021.03.015
+  first-page: '15'
+  journal-title: Transl. Res.
+  volume: '235'
+  year: '2021'
+- article-title: SIRT3 deficiency leads to induction of abnormal glycolysis in diabetic
+    kidney with fibrosis
+  author: Srivastava
+  doi: 10.1038/s41419-018-1057-0
+  first-page: '997'
+  issue: '10'
+  journal-title: Cell Death Dis.
+  volume: '9'
+  year: '2018'
+- article-title: Inhibition of aerobic glycolysis alleviates sepsis‑induced acute
+    kidney injury by promoting lactate/Sirtuin 3/AMPK‑regulated autophagy
+  author: Tan
+  doi: 10.3892/ijmm.2021.4852
+  issue: '3'
+  journal-title: Int. J. Mol. Med.
+  volume: '47'
+  year: '2021'
+- article-title: Metabolic reprogramming by N-acetyl-seryl-aspartyl-lysyl-proline
+    protects against diabetic kidney disease
+  author: Srivastava
+  doi: 10.1111/bph.15087
+  first-page: '3691'
+  issue: '16'
+  journal-title: Br. J. Pharm.
+  volume: '177'
+  year: '2020'
+- article-title: Endothelial FGFR1 (fibroblast growth factor receptor 1) deficiency
+    contributes differential fibrogenic effects in kidney and heart of diabetic mice
+  author: Li
+  doi: 10.1161/HYPERTENSIONAHA.120.15587
+  first-page: '1935'
+  issue: '6'
+  journal-title: Hypertension
+  volume: '76'
+  year: '2020'
+- article-title: Renal protective effects of empagliflozin via inhibition of EMT and
+    aberrant glycolysis in proximal tubules
+  author: Li
+  doi: 10.1172/jci.insight.129034
+  issue: '6'
+  journal-title: JCI Insight
+  volume: '5'
+  year: '2020'
+- article-title: The roles of mitochondrial SIRT4 in cellular metabolism
+  author: Min
+  doi: 10.3389/fendo.2018.00783
+  first-page: '783'
+  journal-title: Front. Endocrinol.
+  volume: '9'
+  year: '2018'
+- article-title: FOXM1-activated SIRT4 inhibits NF-κB signaling and NLRP3 inflammasome
+    to alleviate kidney injury and podocyte pyroptosis in diabetic nephropathy
+  author: Xu
+  doi: 10.1016/j.yexcr.2021.112863
+  issue: '2'
+  journal-title: Exp. Cell Res.
+  volume: '408'
+  year: '2021'
+- article-title: SIRT4 overexpression protects against diabetic nephropathy by inhibiting
+    podocyte apoptosis
+  author: Shi
+  doi: 10.3892/etm.2016.3938
+  first-page: '342'
+  issue: '1'
+  journal-title: Exp. Ther. Med.
+  volume: '13'
+  year: '2017'
+- article-title: Sirtuin 5 depletion impairs mitochondrial function in human proximal
+    tubular epithelial cells
+  author: Haschler
+  doi: 10.1038/s41598-021-94185-6
+  first-page: '15510'
+  issue: '1'
+  journal-title: Sci. Rep.
+  volume: '11'
+  year: '2021'
+- article-title: Sirtuin 5 regulates proximal tubule fatty acid oxidation to protect
+    against AKI
+  author: Chiba
+  doi: 10.1681/ASN.2019020163
+  first-page: '2384'
+  issue: '12'
+  journal-title: J. Am. Soc. Nephrol.
+  volume: '30'
+  year: '2019'
+- article-title: Sirtuin 7 deficiency reduces inflammation and tubular damage induced
+    by an episode of acute kidney injury
+  author: Sánchez-Navarro
+  doi: 10.3390/ijms23052573
+  first-page: '5'
+  journal-title: Int. J. Mol. Sci.
+  volume: '23'
+  year: '2022'
+- article-title: 'Roles of SIRT6 in kidney disease: a novel therapeutic target'
+  author: Yang
+  doi: 10.1007/s00018-021-04061-9
+  first-page: '53'
+  issue: '1'
+  journal-title: Cell Mol. Life Sci.
+  volume: '79'
+  year: '2021'
+- article-title: Sirt6 deficiency results in progression of glomerular injury in the
+    kidney
+  author: Huang
+  doi: 10.18632/aging.101214
+  first-page: '1069'
+  issue: '3'
+  journal-title: Aging
+  volume: '9'
+  year: '2017'
+- article-title: SIRT6 protects vascular smooth muscle cells from osteogenic transdifferentiation
+    via Runx2 in chronic kidney disease
+  author: Li
+  doi: 10.1172/JCI150051
+  issue: '1'
+  journal-title: J. Clin. Invest.
+  volume: '132'
+  year: '2022'
+- article-title: Sirt6-mediated Nrf2/HO-1 activation alleviates angiotensin II-induced
+    DNA DSBs and apoptosis in podocytes
+  author: Fan
+  doi: 10.1039/D0FO03467C
+  first-page: '7867'
+  issue: '17'
+  journal-title: Food Funct.
+  volume: '12'
+  year: '2021'
+- article-title: Sirt6 deficiency aggravates angiotensin II-induced cholesterol accumulation
+    and injury in podocytes
+  author: Yang
+  doi: 10.7150/thno.45003
+  first-page: '7465'
+  issue: '16'
+  journal-title: Theranostics
+  volume: '10'
+  year: '2020'
+- article-title: Dynamic regulation of ME1 phosphorylation and acetylation affects
+    lipid metabolism and colorectal tumorigenesis
+  author: Zhu
+  doi: 10.1016/j.molcel.2019.10.015
+  first-page: '138'
+  issue: '1'
+  journal-title: Mol. Cell
+  volume: '77'
+  year: '2020'
+- article-title: SIRT6 transcriptionally regulates fatty acid transport by suppressing
+    PPARγ
+  author: Khan
+  doi: 10.1016/j.celrep.2021.109190
+  issue: '9'
+  journal-title: Cell Rep.
+  volume: '35'
+  year: '2021'
+- article-title: SIRT6 controls hepatic lipogenesis by suppressing LXR, ChREBP, and
+    SREBP1
+  author: Zhu
+  doi: 10.1016/j.bbadis.2021.166249
+  issue: '12'
+  journal-title: Biochim. Biophys. Acta Mol. Basis Dis.
+  volume: '1867'
+  year: '2021'
+- article-title: Endothelial SIRT6 is vital to prevent hypertension and associated
+    cardiorenal injury through targeting Nkx3.2-GATA5 signaling
+  author: Guo
+  doi: 10.1161/CIRCRESAHA.118.314032
+  first-page: '1448'
+  issue: '10'
+  journal-title: Circ. Res.
+  volume: '124'
+  year: '2019'
+- article-title: SIRT6 promotes angiogenesis and hemorrhage of carotid plaque via
+    regulating HIF-1α and reactive oxygen species
+  author: Yang
+  doi: 10.1038/s41419-020-03372-2
+  first-page: '77'
+  issue: '1'
+  journal-title: Cell Death Dis.
+  volume: '12'
+  year: '2021'
+- article-title: Sirt6 deficiency exacerbates podocyte injury and proteinuria through
+    targeting Notch signaling
+  author: Liu
+  doi: 10.1038/s41467-017-00498-4
+  first-page: '413'
+  issue: '1'
+  journal-title: Nat. Commun.
+  volume: '8'
+  year: '2017'
+- article-title: Protective role of cannabinoid receptor type 2 in a mouse model of
+    diabetic nephropathy
+  author: Barutta
+  doi: 10.2337/db10-1809
+  first-page: '2386'
+  issue: '9'
+  journal-title: Diabetes
+  volume: '60'
+  year: '2011'
+- article-title: Reversal of diet-induced hepatic steatosis by peripheral CB1 receptor
+    blockade in mice is p53/miRNA-22/SIRT1/PPARα dependent
+  author: Azar
+  doi: 10.1016/j.molmet.2020.101087
+  journal-title: Mol. Metab.
+  volume: '42'
+  year: '2020'
+- article-title: Cannabinoid-1 receptor antagonism improves glycemic control and increases
+    energy expenditure through sirtuin-1/mechanistic target of rapamycin complex 2
+    and 5'adenosine monophosphate-activated protein kinase signaling
+  author: Liu
+  doi: 10.1002/hep.30364
+  first-page: '1535'
+  issue: '4'
+  journal-title: Hepatology
+  volume: '69'
+  year: '2019'
+- article-title: The podocyte as a direct target of immunosuppressive agents
+  author: Schönenberger
+  doi: 10.1093/ndt/gfq617
+  first-page: '18'
+  issue: '1'
+  journal-title: Nephrol. Dial. Transpl.
+  volume: '26'
+  year: '2011'
+- article-title: Trichosanthes kirilowii lectin ameliorates streptozocin-induced kidney
+    injury via modulation of the balance between M1/M2 phenotype macrophage
+  author: Jiandong
+  doi: 10.1016/j.biopha.2018.10.060
+  first-page: '93'
+  journal-title: Biomed. Pharmacother.
+  volume: '109'
+  year: '2019'
+- article-title: Twist1 in podocytes ameliorates podocyte injury and proteinuria by
+    limiting CCL2-dependent macrophage infiltration
+  author: Ren
+  doi: 10.1172/jci.insight.148109
+  issue: '15'
+  journal-title: JCI Insight
+  volume: '6'
+  year: '2021'
+- article-title: Overexpression of Sirt6 promotes M2 macrophage transformation, alleviating
+    renal injury in diabetic nephropathy
+  author: Ji
+  first-page: '103'
+  issue: '1'
+  journal-title: Int. J. Oncol.
+  volume: '55'
+  year: '2019'
+- article-title: Myeloid sirtuin 6 deficiency causes insulin resistance in high-fat
+    diet-fed mice by eliciting macrophage polarization toward an M1 phenotype
+  author: Lee
+  doi: 10.2337/db16-1446
+  first-page: '2659'
+  issue: '10'
+  journal-title: Diabetes
+  volume: '66'
+  year: '2017'
+- article-title: SIRT6 inhibition delays peripheral nerve recovery by suppressing
+    migration, phagocytosis and M2-polarization of macrophages
+  author: Zou
+  doi: 10.1186/s13578-021-00725-y
+  first-page: '210'
+  issue: '1'
+  journal-title: Cell Biosci.
+  volume: '11'
+  year: '2021'
+- article-title: Sirt6 deletion in bone marrow-derived cells increases atherosclerosis
+    – central role of macrophage scavenger receptor 1
+  author: Arsiwala
+  doi: 10.1016/j.yjmcc.2020.01.002
+  first-page: '24'
+  journal-title: J. Mol. Cell. Cardiol.
+  volume: '139'
+  year: '2020'
+- article-title: SIRT6 reduces macrophage foam cell formation by inducing autophagy
+    and cholesterol efflux under ox-LDL condition
+  author: He
+  doi: 10.1111/febs.14055
+  first-page: '1324'
+  issue: '9'
+  journal-title: FEBS J.
+  volume: '284'
+  year: '2017'
+- article-title: SIRT1 regulates macrophage self-renewal
+  author: Imperatore
+  doi: 10.15252/embj.201695737
+  first-page: '2353'
+  issue: '16'
+  journal-title: EMBO J.
+  volume: '36'
+  year: '2017'
+- article-title: Mouse macrophage specific knockout of SIRT1 influences macrophage
+    polarization and promotes angiotensin II-induced abdominal aortic aneurysm formation
+  author: Zhang
+  doi: 10.1016/j.jgg.2018.01.002
+  first-page: '25'
+  issue: '1'
+  journal-title: J. Genet. Genom.
+  volume: '45'
+  year: '2018'
+- article-title: Impairment of sirtuin 1-mediated DNA repair is involved in bisphenol
+    A-induced aggravation of macrophage inflammation and atherosclerosis
+  author: Yang
+  doi: 10.1016/j.chemosphere.2020.128997
+  journal-title: Chemosphere
+  volume: '265'
+  year: '2021'
+- article-title: SIRT1/2 orchestrate acquisition of DNA methylation and loss of histone
+    H3 activating marks to prevent premature activation of inflammatory genes in macrophages
+  author: Li
+  doi: 10.1093/nar/gkz1127
+  first-page: '665'
+  issue: '2'
+  journal-title: Nucleic Acids Res.
+  volume: '48'
+  year: '2020'
+- article-title: Osthole improves an accelerated focal segmental glomerulosclerosis
+    model in the early stage by activating the Nrf2 antioxidant pathway and subsequently
+    inhibiting NF-κB-mediated COX-2 expression and apoptosis
+  author: Yang
+  doi: 10.1016/j.freeradbiomed.2014.05.009
+  first-page: '260'
+  journal-title: Free Radic. Biol. Med.
+  volume: '73'
+  year: '2014'
+- article-title: Receptor activator of NF-κB mediates podocyte injury in diabetic
+    nephropathy
+  author: Ke
+  doi: 10.1016/j.kint.2021.04.036
+  first-page: '377'
+  issue: '2'
+  journal-title: Kidney Int.
+  volume: '100'
+  year: '2021'
+- article-title: Astragaloside IV inhibits glucose-induced epithelial-mesenchymal
+    transition of podocytes through autophagy enhancement via the SIRT-NF-κB p65 axis
+  author: Wang
+  doi: 10.1038/s41598-018-36911-1
+  first-page: '323'
+  issue: '1'
+  journal-title: Sci. Rep.
+  volume: '9'
+  year: '2019'
+- article-title: Omega-3 polyunsaturated fatty acid attenuates the inflammatory response
+    by modulating microglia polarization through SIRT1-mediated deacetylation of the
+    HMGB1/NF-κB pathway following experimental traumatic brain injury
+  author: Chen
+  doi: 10.1186/s12974-018-1151-3
+  first-page: '116'
+  issue: '1'
+  journal-title: J. Neuroinflamm.
+  volume: '15'
+  year: '2018'
+- article-title: SIRT6 links histone H3 lysine 9 deacetylation to NF-kappaB-dependent
+    gene expression and organismal life span
+  author: Kawahara
+  doi: 10.1016/j.cell.2008.10.052
+  first-page: '62'
+  issue: '1'
+  journal-title: Cell
+  volume: '136'
+  year: '2009'
+- article-title: SIRT6-dependent cysteine monoubiquitination in the PRE-SET domain
+    of Suv39h1 regulates the NF-κB pathway
+  author: Santos-Barriopedro
+  doi: 10.1038/s41467-017-02586-x
+  first-page: '101'
+  issue: '1'
+  journal-title: Nat. Commun.
+  volume: '9'
+  year: '2018'
+- article-title: NLRP3 inflammasome mediates M1 macrophage polarization and IL-1β
+    production in inflammatory root resorption
+  author: Zhang
+  doi: 10.1111/jcpe.13258
+  first-page: '451'
+  issue: '4'
+  journal-title: J. Clin. Periodontol.
+  volume: '47'
+  year: '2020'
+- article-title: The key role of NLRP3 and STING in APOL1-associated podocytopathy
+  author: Wu
+  doi: 10.1172/JCI136329
+  issue: '20'
+  journal-title: J. Clin. Invest.
+  volume: '131'
+  year: '2021'
+- article-title: Inhibition of NLRP3 inflammasome ameliorates podocyte damage by suppressing
+    lipid accumulation in diabetic nephropathy
+  author: Wu
+  doi: 10.1016/j.metabol.2021.154748
+  journal-title: Metabolism
+  volume: '118'
+  year: '2021'
+- article-title: NLRP3 inflammasome negatively regulates podocyte autophagy in diabetic
+    nephropathy
+  author: Hou
+  doi: 10.1016/j.bbrc.2019.10.194
+  first-page: '791'
+  issue: '3'
+  journal-title: Biochem. Biophys. Res Commun.
+  volume: '521'
+  year: '2020'
+- article-title: Cyanidin-3-O-β-glucoside inactivates NLRP3 inflammasome and alleviates
+    alcoholic steatohepatitis via SirT1/NF-κB signaling pathway
+  author: Zhou
+  doi: 10.1016/j.freeradbiomed.2020.08.006
+  first-page: '334'
+  journal-title: Free Radic. Biol. Med.
+  volume: '160'
+  year: '2020'
+- article-title: SIRT1 agonism modulates cardiac NLRP3 inflammasome through pyruvate
+    dehydrogenase during ischemia and reperfusion
+  author: Han
+  doi: 10.1016/j.redox.2020.101538
+  journal-title: Redox Biol.
+  volume: '34'
+  year: '2020'
+- article-title: Metabolic regulation of macrophages by SIRT1 determines activation
+    during cholestatic liver disease in mice
+  author: Isaacs-Ten
+  doi: 10.1016/j.jcmgh.2021.12.010
+  first-page: '1019'
+  issue: '4'
+  journal-title: Cell. Mol. Gastroenterol. Hepatol.
+  volume: '13'
+  year: '2022'
+- article-title: Extracellular superoxide dismutase protects against proteinuric kidney
+    disease
+  author: Tan
+  doi: 10.1681/ASN.2014060613
+  first-page: '2447'
+  issue: '10'
+  journal-title: J. Am. Soc. Nephrol.
+  volume: '26'
+  year: '2015'
+- article-title: Resveratrol, an Nrf2 activator, ameliorates aging-related progressive
+    renal injury
+  author: Kim
+  doi: 10.18632/aging.101361
+  first-page: '83'
+  issue: '1'
+  journal-title: Aging
+  volume: '10'
+  year: '2018'
+- article-title: Resveratrol reduces oxidative stress and apoptosis in podocytes via
+    Sir2-related enzymes, Sirtuins1 (SIRT1)/peroxisome proliferator-activated receptor
+    γ co-activator 1α (PGC-1α) axis
+  author: Zhang
+  doi: 10.12659/MSM.911714
+  first-page: '1220'
+  journal-title: Med. Sci. Monit.
+  volume: '25'
+  year: '2019'
+- article-title: Activation of the Nrf2-ARE pathway ameliorates hyperglycemia-mediated
+    mitochondrial dysfunction in podocytes partly through Sirt1
+  author: Zhang
+  doi: 10.1159/000491658
+  first-page: '1'
+  issue: '1'
+  journal-title: Cell. Physiol. Biochem.
+  volume: '48'
+  year: '2018'
+- article-title: Melatonin protects mouse testes from palmitic acid-induced lipotoxicity
+    by attenuating oxidative stress and DNA damage in a SIRT1-dependent manner
+  author: Xu
+  doi: 10.1111/jpi.12690
+  issue: '4'
+  journal-title: J. Pineal Res.
+  volume: '69'
+  year: '2020'
+- article-title: Sirtuin 2 regulates cellular iron homeostasis via deacetylation of
+    transcription factor NRF2
+  author: Yang
+  doi: 10.1172/JCI88574
+  first-page: '1505'
+  issue: '4'
+  journal-title: J. Clin. Invest.
+  volume: '127'
+  year: '2017'
+- article-title: Mitochondrial deacetylase Sirt3 reduces vascular dysfunction and
+    hypertension while Sirt3 depletion in essential hypertension is linked to vascular
+    inflammation and oxidative stress
+  author: Dikalova
+  doi: 10.1161/CIRCRESAHA.119.315767
+  first-page: '439'
+  issue: '4'
+  journal-title: Circ. Res.
+  volume: '126'
+  year: '2020'
+- article-title: SIRT6 protects retinal ganglion cells against hydrogen peroxide-induced
+    apoptosis and oxidative stress by promoting Nrf2/ARE signaling via inhibition
+    of Bach1
+  author: Yu
+  doi: 10.1016/j.cbi.2019.01.018
+  first-page: '151'
+  journal-title: Chem. Biol. Interact.
+  volume: '300'
+  year: '2019'
+- article-title: Sirt6 suppresses high glucose-induced mitochondrial dysfunction and
+    apoptosis in podocytes through AMPK activation
+  author: Fan
+  doi: 10.7150/ijbs.29323
+  first-page: '701'
+  issue: '3'
+  journal-title: Int. J. Biol. Sci.
+  volume: '15'
+  year: '2019'
+- article-title: 'Podocyte injury in diabetic kidney disease: a focus on mitochondrial
+    dysfunction'
+  author: Liu
+  journal-title: Front. Cell Dev. Biol.
+  volume: '10'
+  year: '2022'
+- article-title: 'Targeting energy pathways in kidney disease: the roles of sirtuins,
+    AMPK, and PGC1α'
+  author: Clark
+  doi: 10.1016/j.kint.2020.09.037
+  first-page: '828'
+  issue: '4'
+  journal-title: Kidney Int.
+  volume: '99'
+  year: '2021'
+- article-title: Manipulating Sirtuin 3 pathway ameliorates renal damage in experimental
+    diabetes
+  author: Locatelli
+  doi: 10.1038/s41598-020-65423-0
+  first-page: '8418'
+  issue: '1'
+  journal-title: Sci. Rep.
+  volume: '10'
+  year: '2020'
+- article-title: Resveratrol ameliorates podocyte damage in diabetic mice via SIRT1/PGC-1α
+    mediated attenuation of mitochondrial oxidative stress
+  author: Zhang
+  doi: 10.1002/jcp.27306
+  first-page: '5033'
+  issue: '4'
+  journal-title: J. Cell. Physiol.
+  volume: '234'
+  year: '2019'
+- article-title: Smad4 promotes diabetic nephropathy by modulating glycolysis and
+    OXPHOS
+  author: Li
+  doi: 10.15252/embr.201948781
+  issue: '2'
+  journal-title: EMBO Rep.
+  volume: '21'
+  year: '2020'
+- article-title: SIRT7 suppresses the epithelial-to-mesenchymal transition in oral
+    squamous cell carcinoma metastasis by promoting SMAD4 deacetylation
+  author: Li
+  doi: 10.1186/s13046-018-0819-y
+  first-page: '148'
+  issue: '1'
+  journal-title: J. Exp. Clin. Cancer Res.
+  volume: '37'
+  year: '2018'
+- article-title: SIRT1 inhibits TGF-β-induced endothelial-mesenchymal transition in
+    human endothelial cells with Smad4 deacetylation
+  author: Li
+  doi: 10.1002/jcp.26846
+  first-page: '9007'
+  issue: '11'
+  journal-title: J. Cell. Physiol.
+  volume: '233'
+  year: '2018'
+- article-title: Role of pyruvate kinase M2-mediated metabolic reprogramming during
+    podocyte differentiation
+  author: Yuan
+  doi: 10.1038/s41419-020-2481-5
+  first-page: '355'
+  issue: '5'
+  journal-title: Cell Death Dis.
+  volume: '11'
+  year: '2020'
+- article-title: SIRT5 desuccinylates and activates pyruvate kinase M2 to block macrophage
+    IL-1β production and to prevent DSS-induced colitis in mice
+  author: Wang
+  doi: 10.1016/j.celrep.2017.05.065
+  first-page: '2331'
+  issue: '11'
+  journal-title: Cell Rep.
+  volume: '19'
+  year: '2017'
+- article-title: A comprehensive insight into autophagy and its potential signaling
+    pathways as a therapeutic target in podocyte injury
+  author: Teh
+  doi: 10.1016/j.biocel.2021.106153
+  journal-title: Int. J. Biochem. Cell Biol.
+  volume: '143'
+  year: '2022'
+- article-title: Podocyte autophagy in homeostasis and disease
+  author: Lin
+  first-page: '6'
+  journal-title: J. Clin. Med.
+  volume: '10'
+  year: '2021'
+- article-title: Autophagy influences glomerular disease susceptibility and maintains
+    podocyte homeostasis in aging mice
+  author: Hartleben
+  doi: 10.1172/JCI39492
+  first-page: '1084'
+  issue: '4'
+  journal-title: J. Clin. Invest.
+  volume: '120'
+  year: '2010'
+- article-title: Deficient autophagy results in mitochondrial dysfunction and FSGS
+  author: Kawakami
+  doi: 10.1681/ASN.2013111202
+  first-page: '1040'
+  issue: '5'
+  journal-title: J. Am. Soc. Nephrol.
+  volume: '26'
+  year: '2015'
+- article-title: 'Autophagy in diabetic kidney disease: regulation, pathological role
+    and therapeutic potential'
+  author: Yang
+  doi: 10.1007/s00018-017-2639-1
+  first-page: '669'
+  issue: '4'
+  journal-title: Cell. Mol. Life Sci.
+  volume: '75'
+  year: '2018'
+- article-title: mTOR-mediated podocyte hypertrophy regulates glomerular integrity
+    in mice and humans
+  author: Puelles
+  doi: 10.1172/jci.insight.99271
+  issue: '18'
+  journal-title: JCI Insight
+  volume: '4'
+  year: '2019'
+- article-title: Targeting mTOR signaling can prevent the progression of FSGS
+  author: Zschiedrich
+  doi: 10.1681/ASN.2016050519
+  first-page: '2144'
+  issue: '7'
+  journal-title: J. Am. Soc. Nephrol.
+  volume: '28'
+  year: '2017'
+- article-title: Podocytes maintain high basal levels of autophagy independent of
+    mtor signaling
+  author: Bork
+  doi: 10.1080/15548627.2019.1705007
+  first-page: '1932'
+  issue: '11'
+  journal-title: Autophagy
+  volume: '16'
+  year: '2020'
+- article-title: SIRT1 is downregulated by autophagy in senescence and ageing
+  author: Xu
+  doi: 10.1038/s41556-020-00579-5
+  first-page: '1170'
+  issue: '10'
+  journal-title: Nat. Cell Biol.
+  volume: '22'
+  year: '2020'
+- article-title: SIRT6 in senescence and aging-related cardiovascular diseases
+  author: Li
+  journal-title: Front. Cell Dev. Biol.
+  volume: '9'
+  year: '2021'
+- article-title: SIRT3 deficiency is resistant to autophagy-dependent ferroptosis
+    by inhibiting the AMPK/mTOR pathway and promoting GPX4 levels
+  author: Han
+  doi: 10.1002/jcp.29727
+  first-page: '8839'
+  issue: '11'
+  journal-title: J. Cell. Physiol.
+  volume: '235'
+  year: '2020'
+- article-title: PGRN acts as a novel regulator of mitochondrial homeostasis by facilitating
+    mitophagy and mitochondrial biogenesis to prevent podocyte injury in diabetic
+    nephropathy
+  author: Zhou
+  doi: 10.1038/s41419-019-1754-3
+  first-page: '524'
+  issue: '7'
+  journal-title: Cell Death Dis.
+  volume: '10'
+  year: '2019'
+- article-title: 'Lipotoxicity and diabetic nephropathy: novel mechanistic insights
+    and therapeutic opportunities'
+  author: Opazo-Ríos
+  doi: 10.3390/ijms21072632
+  issue: '7'
+  journal-title: Int. J. Mol. Sci.
+  volume: '21'
+  year: '2020'
+- article-title: Physiologic and pathophysiologic roles of lipid mediators in the
+    kidney
+  author: Hao
+  doi: 10.1038/sj.ki.5002192
+  first-page: '1105'
+  issue: '11'
+  journal-title: Kidney Int.
+  volume: '71'
+  year: '2007'
+- article-title: Sterol-O-acyltransferase-1 has a role in kidney disease associated
+    with diabetes and Alport syndrome
+  author: Liu
+  doi: 10.1016/j.kint.2020.06.040
+  first-page: '1275'
+  issue: '5'
+  journal-title: Kidney Int.
+  volume: '98'
+  year: '2020'
+- article-title: APOL1 risk variants affect podocyte lipid homeostasis and energy
+    production in focal segmental glomerulosclerosis
+  author: Ge
+  doi: 10.1093/hmg/ddab022
+  first-page: '182'
+  issue: 3–4
+  journal-title: Hum. Mol. Genet.
+  volume: '30'
+  year: '2021'
+- article-title: Recruitment of APOL1 kidney disease risk variants to lipid droplets
+    attenuates cell toxicity
+  author: Chun
+  doi: 10.1073/pnas.1820414116
+  first-page: '3712'
+  issue: '9'
+  journal-title: Proc. Natl. Acad. Sci. USA
+  volume: '116'
+  year: '2019'
+- article-title: Emerging roles of SIRT1 in fatty liver diseases
+  author: Ding
+  doi: 10.7150/ijbs.19370
+  first-page: '852'
+  issue: '7'
+  journal-title: Int. J. Biol. Sci.
+  volume: '13'
+  year: '2017'
+- article-title: Non-canonical mTORC2 signaling regulates brown adipocyte lipid catabolism
+    through SIRT6-FoxO1
+  author: Jung
+  doi: 10.1016/j.molcel.2019.07.023
+  first-page: '807'
+  issue: '4'
+  journal-title: Mol. Cell
+  volume: '75'
+  year: '2019'
+- article-title: Xbp1s-FoxO1 axis governs lipid accumulation and contractile performance
+    in heart failure with preserved ejection fraction
+  author: Schiattarella
+  doi: 10.1038/s41467-021-21931-9
+  first-page: '1684'
+  issue: '1'
+  journal-title: Nat. Commun.
+  volume: '12'
+  year: '2021'
+- article-title: S100A11 promotes liver steatosis via FOXO1-mediated autophagy and
+    lipogenesis
+  author: Zhang
+  doi: 10.1016/j.jcmgh.2020.10.006
+  first-page: '697'
+  issue: '3'
+  journal-title: Cell. Mol. Gastroenterol. Hepatol.
+  volume: '11'
+  year: '2021'
+- article-title: Podocytopathies
+  author: Kopp
+  doi: 10.1038/s41572-020-0196-7
+  first-page: '68'
+  issue: '1'
+  journal-title: Nat. Rev. Dis. Prim.
+  volume: '6'
+  year: '2020'
+- article-title: Sirtuins and their biological relevance in aging and age-related
+    diseases
+  author: Zhao
+  doi: 10.14336/AD.2019.0820
+  first-page: '927'
+  issue: '4'
+  journal-title: Aging Dis.
+  volume: '11'
+  year: '2020'
+- article-title: Resveratrol protects podocytes against apoptosis via stimulation
+    of autophagy in a mouse model of diabetic nephropathy
+  author: Huang
+  doi: 10.1038/srep45692
+  first-page: '45692'
+  journal-title: Sci. Rep.
+  volume: '7'
+  year: '2017'
+- article-title: Resveratrol ameliorates renal damage by inhibiting oxidative stress-mediated
+    apoptosis of podocytes in diabetic nephropathy
+  author: Wang
+  doi: 10.1016/j.ejphar.2020.173387
+  journal-title: Eur. J. Pharm.
+  volume: '885'
+  year: '2020'
+- article-title: 'SIRT1 activation by natural phytochemicals: an overview'
+  author: Iside
+  doi: 10.3389/fphar.2020.01225
+  first-page: '1225'
+  journal-title: Front. Pharm.
+  volume: '11'
+  year: '2020'
+- article-title: Cyanidin-3-O-glucoside attenuates high glucose-induced podocyte dysfunction
+    by inhibiting apoptosis and promoting autophagy via activation of SIRT1/AMPK pathway
+  author: Wang
+  doi: 10.1139/cjpp-2020-0341
+  first-page: '589'
+  issue: '6'
+  journal-title: Can. J. Physiol. Pharm.
+  volume: '99'
+  year: '2021'
+- article-title: Protective effects of purple rice husk against diabetic nephropathy
+    by modulating PGC-1α/SIRT3/SOD2 signaling and maintaining mitochondrial redox
+    equilibrium in rats
+  author: Wongmekiat
+  doi: 10.3390/biom11081224
+  issue: '8'
+  journal-title: Biomolecules
+  volume: '11'
+  year: '2021'
+- article-title: Baicalin serves a protective role in diabetic nephropathy through
+    preventing high glucose-induced podocyte apoptosis
+  author: Li
+  doi: 10.3892/etm.2020.8701
+  first-page: '367'
+  issue: '1'
+  journal-title: Exp. Ther. Med.
+  volume: '20'
+  year: '2020'
+- article-title: Study on the inhibitive effect of Catalpol on diabetic nephropathy
+  author: Chen
+  doi: 10.1016/j.lfs.2020.118120
+  journal-title: Life Sci.
+  volume: '257'
+  year: '2020'
+- article-title: Grape seed proanthocyanidin extracts ameliorate podocyte injury by
+    activating peroxisome proliferator-activated receptor-γ coactivator 1α in low-dose
+    streptozotocin-and high-carbohydrate/high-fat diet-induced diabetic rats
+  author: Bao
+  doi: 10.1039/C4FO00340C
+  first-page: '1872'
+  issue: '8'
+  journal-title: Food Funct.
+  volume: '5'
+  year: '2014'
+- article-title: Puerarin attenuates diabetic kidney injury through the suppression
+    of NOX4 expression in podocytes
+  author: Li
+  doi: 10.1038/s41598-017-14906-8
+  first-page: '14603'
+  issue: '1'
+  journal-title: Sci. Rep.
+  volume: '7'
+  year: '2017'
+- article-title: Small-molecule allosteric activators of sirtuins
+  author: Sinclair
+  doi: 10.1146/annurev-pharmtox-010611-134657
+  first-page: '363'
+  journal-title: Annu. Rev. Pharm. Toxicol.
+  volume: '54'
+  year: '2014'
+- article-title: Small molecule activators of SIRT1 as therapeutics for the treatment
+    of type 2 diabetes
+  author: Milne
+  doi: 10.1038/nature06261
+  first-page: '712'
+  issue: '7170'
+  journal-title: Nature
+  volume: '450'
+  year: '2007'
+- article-title: SRT1720 counteracts glucosamine-induced endoplasmic reticulum stress
+    and endothelial dysfunction
+  author: Fiorentino
+  doi: 10.1093/cvr/cvv169
+  first-page: '295'
+  issue: '2'
+  journal-title: Cardiovasc. Res.
+  volume: '107'
+  year: '2015'
+- article-title: Sirtuin 1 activation reduces transforming growth factor-β1-induced
+    fibrogenesis and affords organ protection in a model of progressive, experimental
+    kidney and associated cardiac disease
+  author: Zhang
+  doi: 10.1016/j.ajpath.2016.09.016
+  first-page: '80'
+  issue: '1'
+  journal-title: Am. J. Pathol.
+  volume: '187'
+  year: '2017'
+- article-title: NAD(+) homeostasis in diabetic kidney disease
+  author: Xu
+  journal-title: Front. Med.
+  volume: '8'
+  year: '2021'
+- article-title: Switch of NAD salvage to de novo biosynthesis sustains SIRT1-RelB-dependent
+    inflammatory tolerance
+  author: Zhang
+  doi: 10.3389/fimmu.2019.02358
+  first-page: '2358'
+  journal-title: Front. Immunol.
+  volume: '10'
+  year: '2019'
+- article-title: MiR-34a suppression targets Nampt to ameliorate bone marrow mesenchymal
+    stem cell senescence by regulating NAD(+)-Sirt1 pathway
+  author: Pi
+  doi: 10.1186/s13287-021-02339-0
+  first-page: '271'
+  issue: '1'
+  journal-title: Stem Cell Res. Ther.
+  volume: '12'
+  year: '2021'
+- article-title: LincRNA 1700020I14Rik alleviates cell proliferation and fibrosis
+    in diabetic nephropathy via miR-34a-5p/Sirt1/HIF-1α signaling
+  author: Li
+  doi: 10.1038/s41419-018-0527-8
+  first-page: '461'
+  issue: '5'
+  journal-title: Cell Death Dis.
+  volume: '9'
+  year: '2018'
+- article-title: Exercise training ameliorates early diabetic kidney injury by regulating
+    the H(2) S/SIRT1/p53 pathway
+  author: Yang
+  doi: 10.1096/fj.202100219R
+  issue: '9'
+  journal-title: FASEB J.
+  volume: '35'
+  year: '2021'
+- article-title: 'Multi-regulatory network of ROS: the interconnection of ROS, PGC-1
+    alpha, and AMPK-SIRT1 during exercise'
+  author: Thirupathi
+  doi: 10.1007/s13105-017-0576-y
+  first-page: '487'
+  issue: '4'
+  journal-title: J. Physiol. Biochem.
+  volume: '73'
+  year: '2017'
+- article-title: 'Interplay of adenosine monophosphate-activated protein kinase/sirtuin-1
+    activation and sodium influx inhibition mediates the renal benefits of sodium-glucose
+    co-transporter-2 inhibitors in type 2 diabetes: a novel conceptual framework'
+  author: Packer
+  doi: 10.1111/dom.13961
+  first-page: '734'
+  issue: '5'
+  journal-title: Diabetes Obes. Metab.
+  volume: '22'
+  year: '2020'
+- article-title: Late intervention in the remnant kidney model attenuates proteinuria
+    but not glomerular filtration rate decline
+  author: Veitch
+  doi: 10.1111/nep.13828
+  first-page: '270'
+  issue: '3'
+  journal-title: Nephrology
+  volume: '26'
+  year: '2021'
+- article-title: Olmesartan prevents microalbuminuria in db/db diabetic mice through
+    inhibition of angiotensin II/p38/SIRT1-induced podocyte apoptosis
+  author: Gu
+  doi: 10.1159/000452588
+  first-page: '848'
+  issue: '6'
+  journal-title: Kidney Blood Press. Res.
+  volume: '41'
+  year: '2016'
+- article-title: Regulatory effects of statins on SIRT1 and other sirtuins in cardiovascular
+    diseases
+  author: Khayatan
+  doi: 10.3390/life12050760
+  issue: '5'
+  journal-title: Life
+  volume: '12'
+  year: '2022'
+- article-title: Norisoboldine, a natural AhR agonist, promotes Treg differentiation
+    and attenuates colitis via targeting glycolysis and subsequent NAD(+)/SIRT1/SUV39H1/H3K9me3
+    signaling pathway
+  author: Lv
+  doi: 10.1038/s41419-018-0297-3
+  first-page: '258'
+  issue: '3'
+  journal-title: Cell Death Dis.
+  volume: '9'
+  year: '2018'
+- article-title: 'Neuroprotective effect of linagliptin against cuprizone-induced
+    demyelination and behavioural dysfunction in mice: a pivotal role of AMPK/SIRT1
+    and JAK2/STAT3/NF-κB signalling pathway modulation'
+  author: Elbaz
+  doi: 10.1016/j.taap.2018.05.035
+  first-page: '153'
+  journal-title: Toxicol. Appl. Pharm.
+  volume: '352'
+  year: '2018'
+- article-title: JAK1-mediated Sirt1 phosphorylation functions as a negative feedback
+    of the JAK1-STAT3 pathway
+  author: Wang
+  doi: 10.1074/jbc.RA117.001387
+  first-page: '11067'
+  issue: '28'
+  journal-title: J. Biol. Chem.
+  volume: '293'
+  year: '2018'
+- article-title: Sirtuin 1 (SIRT1) and steroid hormone receptor activity in cancer
+  author: Moore
+  doi: 10.1530/JOE-11-0217
+  first-page: '37'
+  issue: '1'
+  journal-title: J. Endocrinol.
+  volume: '213'
+  year: '2012'
+- article-title: Role of sirtuin-1 in diabetic nephropathy
+  author: Wang
+  doi: 10.1007/s00109-019-01743-7
+  first-page: '291'
+  issue: '3'
+  journal-title: J. Mol. Med.
+  volume: '97'
+  year: '2019'
+- article-title: Loss of endothelial glucocorticoid receptor accelerates diabetic
+    nephropathy
+  author: Srivastava
+  doi: 10.1038/s41467-021-22617-y
+  first-page: '2368'
+  issue: '1'
+  journal-title: Nat. Commun.
+  volume: '12'
+  year: '2021'
+- article-title: Podocyte glucocorticoid receptors are essential for glomerular endothelial
+    cell homeostasis in diabetes mellitus
+  author: Srivastava
+  doi: 10.1161/JAHA.120.019437
+  issue: '15'
+  journal-title: J. Am. Heart Assoc.
+  volume: '10'
+  year: '2021'
+- article-title: SIRT1 is a transcriptional enhancer of the glucocorticoid receptor
+    acting independently to its deacetylase activity
+  author: Suzuki
+  doi: 10.1016/j.mce.2017.09.012
+  first-page: '178'
+  journal-title: Mol. Cell. Endocrinol.
+  volume: '461'
+  year: '2018'
+- article-title: Renal tubular Sirt1 attenuates diabetic albuminuria by epigenetically
+    suppressing Claudin-1 overexpression in podocytes
+  author: Hasegawa
+  doi: 10.1038/nm.3363
+  first-page: '1496'
+  issue: '11'
+  journal-title: Nat. Med.
+  volume: '19'
+  year: '2013'
+- article-title: Pre-emptive short-term nicotinamide mononucleotide treatment in a
+    mouse model of diabetic nephropathy
+  author: Yasuda
+  doi: 10.1681/ASN.2020081188
+  first-page: '1355'
+  issue: '6'
+  journal-title: J. Am. Soc. Nephrol.
+  volume: '32'
+  year: '2021'
+- article-title: Geniposide alleviates diabetic nephropathy of mice through AMPK/SIRT1/NF-κB
+    pathway
+  author: Li
+  doi: 10.1016/j.ejphar.2020.173449
+  journal-title: Eur. J. Pharm.
+  volume: '886'
+  year: '2020'
+- article-title: Salidroside stimulates the Sirt1/PGC-1α axis and ameliorates diabetic
+    nephropathy in mice
+  author: Xue
+  doi: 10.1016/j.phymed.2018.10.031
+  first-page: '240'
+  journal-title: Phytomedicine
+  volume: '54'
+  year: '2019'
+- article-title: Effects of SGLT2 inhibitors on kidney and cardiovascular function
+  author: Vallon
+  doi: 10.1146/annurev-physiol-031620-095920
+  first-page: '503'
+  journal-title: Annu. Rev. Physiol.
+  volume: '83'
+  year: '2021'
+- article-title: 'Role of impaired nutrient and oxygen deprivation signaling and deficient
+    autophagic flux in diabetic CKD development: implications for understanding the
+    effects of sodium-glucose cotransporter 2-inhibitors'
+  author: Packer
+  doi: 10.1681/ASN.2020010010
+  first-page: '907'
+  issue: '5'
+  journal-title: J. Am. Soc. Nephrol.
+  volume: '31'
+  year: '2020'
+- article-title: Metformin overcomes high glucose-induced insulin resistance of podocytes
+    by pleiotropic effects on SIRT1 and AMPK
+  author: Rogacka
+  doi: 10.1016/j.bbadis.2017.10.014
+  first-page: '115'
+  issue: '1'
+  journal-title: Biochim. Biophys. Acta Mol. Basis Dis.
+  volume: '1864'
+  year: '2018'
+- article-title: Telmisartan ameliorates insulin sensitivity by activating the AMPK/SIRT1
+    pathway in skeletal muscle of obese db/db mice
+  author: Shiota
+  doi: 10.1186/1475-2840-11-139
+  first-page: '139'
+  journal-title: Cardiovasc. Diabetol.
+  volume: '11'
+  year: '2012'
+- article-title: microRNA-20b contributes to high glucose-induced podocyte apoptosis
+    by targeting SIRT7
+  author: Wang
+  doi: 10.3892/mmr.2017.7224
+  first-page: '5667'
+  issue: '4'
+  journal-title: Mol. Med. Rep.
+  volume: '16'
+  year: '2017'
+- article-title: Inhibition of miRNA-155 alleviates high glucose-induced podocyte
+    inflammation by targeting SIRT1 in diabetic mice
+  author: Wang
+  doi: 10.1155/2021/5597394
+  first-page: '5597394'
+  journal-title: J. Diabetes Res.
+  volume: '2021'
+  year: '2021'
+- article-title: Silencing of miR-150-5p ameliorates diabetic nephropathy by targeting
+    SIRT1/p53/AMPK pathway
+  author: Dong
+  doi: 10.3389/fphys.2021.624989
+  journal-title: Front. Physiol.
+  volume: '12'
+  year: '2021'
+- article-title: MiR-138 plays an important role in diabetic nephropathy through SIRT1-p38-TTP
+    regulatory axis
+  author: Liu
+  doi: 10.1002/jcp.30238
+  first-page: '6607'
+  issue: '9'
+  journal-title: J. Cell. Physiol.
+  volume: '236'
+  year: '2021'
+- article-title: LncRNA SOX2OT alleviates the high glucose-induced podocytes injury
+    through autophagy induction by the miR-9/SIRT1 axis
+  author: Zhang
+  doi: 10.1016/j.yexmp.2019.104283
+  journal-title: Exp. Mol. Pathol.
+  volume: '110'
+  year: '2019'
+- article-title: 'Obesity-related glomerulopathy: clinical and pathologic characteristics
+    and pathogenesis'
+  author: D'Agati
+  doi: 10.1038/nrneph.2016.75
+  first-page: '453'
+  issue: '8'
+  journal-title: Nat. Rev. Nephrol.
+  volume: '12'
+  year: '2016'
+- article-title: CD36-mediated lipid accumulation and activation of NLRP3 inflammasome
+    lead to podocyte injury in obesity-related glomerulopathy
+  author: Zhao
+  first-page: '3172647'
+  journal-title: Mediat. Inflamm.
+  volume: '2019'
+  year: '2019'
+- article-title: 'The link between obesity and albuminuria: adiponectin and podocyte
+    dysfunction'
+  author: Sharma
+  doi: 10.1038/ki.2009.137
+  first-page: '145'
+  issue: '2'
+  journal-title: Kidney Int.
+  volume: '76'
+  year: '2009'
+- article-title: SIRT1 regulates adiponectin gene expression through Foxo1-C/enhancer-binding
+    protein alpha transcriptional complex
+  author: Qiao
+  doi: 10.1074/jbc.M607215200
+  first-page: '39915'
+  issue: '52'
+  journal-title: J. Biol. Chem.
+  volume: '281'
+  year: '2006'
+- article-title: Resveratrol upregulated SIRT1, FOXO1, and adiponectin and downregulated
+    PPARγ1-3 mRNA expression in human visceral adipocytes
+  author: Costa Cdos
+  doi: 10.1007/s11695-010-0251-7
+  first-page: '356'
+  issue: '3'
+  journal-title: Obes. Surg.
+  volume: '21'
+  year: '2011'
+- article-title: Resveratrol prevents sarcopenic obesity by reversing mitochondrial
+    dysfunction and oxidative stress via the PKA/LKB1/AMPK pathway
+  author: Huang
+  doi: 10.18632/aging.101910
+  first-page: '2217'
+  issue: '8'
+  journal-title: Aging
+  volume: '11'
+  year: '2019'
+- article-title: 'The anti-PLA2R antibody in membranous nephropathy: what we know
+    and what remains a decade after its discovery'
+  author: van de Logt
+  doi: 10.1016/j.kint.2019.07.014
+  first-page: '1292'
+  issue: '6'
+  journal-title: Kidney Int.
+  volume: '96'
+  year: '2019'
+- article-title: 'Course monitoring of membranous nephropathy: both autoantibodies
+    and podocytes require multidimensional attention'
+  author: Liu
+  doi: 10.1016/j.autrev.2021.102976
+  issue: '2'
+  journal-title: Autoimmun. Rev.
+  volume: '21'
+  year: '2022'
+- article-title: Long-term exposure to air pollution and increased risk of membranous
+    nephropathy in China
+  author: Xu
+  doi: 10.1681/ASN.2016010093
+  first-page: '3739'
+  issue: '12'
+  journal-title: J. Am. Soc. Nephrol.
+  volume: '27'
+  year: '2016'
+- article-title: Th17-immune response in patients with membranous nephropathy is associated
+    with thrombosis and relapses
+  author: Cremoni
+  doi: 10.3389/fimmu.2020.574997
+  journal-title: Front. Immunol.
+  volume: '11'
+  year: '2020'
+- article-title: Sirtuin-1 activation controls tumor growth by impeding Th17 differentiation
+    via STAT3 deacetylation
+  author: Limagne
+  doi: 10.1016/j.celrep.2017.04.004
+  first-page: '746'
+  issue: '4'
+  journal-title: Cell Rep.
+  volume: '19'
+  year: '2017'
+- article-title: Treatment with NAD(+) inhibited experimental autoimmune encephalomyelitis
+    by activating AMPK/SIRT1 signaling pathway and modulating Th1/Th17 immune responses
+    in mice
+  author: Wang
+  doi: 10.1016/j.intimp.2016.07.036
+  first-page: '287'
+  journal-title: Int. Immunopharmacol.
+  volume: '39'
+  year: '2016'
+- article-title: Resveratrol ameliorates renal damage, increases expression of heme
+    oxygenase-1, and has anti-complement, anti-oxidative, and anti-apoptotic effects
+    in a murine model of membranous nephropathy
+  author: Wu
+  doi: 10.1371/journal.pone.0125726
+  issue: '5'
+  journal-title: PLoS One
+  volume: '10'
+  year: '2015'
+- article-title: Astragaloside IV attenuates complement membranous attack complex
+    induced podocyte injury through the MAPK pathway
+  author: Zheng
+  doi: 10.1002/ptr.3656
+  first-page: '892'
+  issue: '6'
+  journal-title: Phytother. Res.
+  volume: '26'
+  year: '2012'
+- article-title: 'Podocytopathy in the mesangial proliferative immunoglobulin A nephropathy:
+    new insights into the mechanisms of damage and progression'
+  author: Trimarchi
+  doi: 10.1093/ndt/gfy413
+  first-page: '1280'
+  issue: '8'
+  journal-title: Nephrol. Dial. Transpl.
+  volume: '34'
+  year: '2019'
+- article-title: Evidence from the Oxford classification cohort supports the clinical
+    value of subclassification of focal segmental glomerulosclerosis in IgA nephropathy
+  author: Bellur
+  doi: 10.1016/j.kint.2016.09.029
+  first-page: '235'
+  issue: '1'
+  journal-title: Kidney Int.
+  volume: '91'
+  year: '2017'
+- article-title: Podocyte-derived microparticles in IgA nephropathy
+  author: Farzamikia
+  doi: 10.1016/j.biopha.2021.111891
+  journal-title: Biomed. Pharmacother.
+  volume: '141'
+  year: '2021'
+- article-title: SIRT1, a longevity gene, downregulates angiotensin II type 1 receptor
+    expression in vascular smooth muscle cells
+  author: Miyazaki
+  doi: 10.1161/ATVBAHA.108.166991
+  first-page: '1263'
+  issue: '7'
+  journal-title: Arterioscler. Thromb. Vasc. Biol.
+  volume: '28'
+  year: '2008'
+- article-title: Angiotensin II type 1 receptor-associated protein regulates kidney
+    aging and lifespan independent of angiotensin
+  author: Uneda
+  doi: 10.1161/JAHA.117.006120
+  first-page: '8'
+  journal-title: J. Am. Heart Assoc.
+  volume: '6'
+  year: '2017'
+- article-title: IgA nephropathy benefits from compound K treatment by inhibiting
+    NF-κB/NLRP3 inflammasome and enhancing autophagy and SIRT1
+  author: Wu
+  doi: 10.4049/jimmunol.1900284
+  first-page: '202'
+  issue: '1'
+  journal-title: J. Immunol.
+  volume: '205'
+  year: '2020'
+- article-title: Resveratrol inhibits NLRP3 inflammasome activation by preserving
+    mitochondrial integrity and augmenting autophagy
+  author: Chang
+  doi: 10.1002/jcp.24903
+  first-page: '1567'
+  issue: '7'
+  journal-title: J. Cell. Physiol.
+  volume: '230'
+  year: '2015'
+- article-title: Podocyte injury in lupus nephritis
+  author: Sakhi
+  doi: 10.3390/jcm8091340
+  issue: '9'
+  journal-title: J. Clin. Med.
+  volume: '8'
+  year: '2019'
+- article-title: 'Update on lupus nephritis: core curriculum 2020'
+  author: Parikh
+  doi: 10.1053/j.ajkd.2019.10.017
+  first-page: '265'
+  issue: '2'
+  journal-title: Am. J. Kidney Dis.
+  volume: '76'
+  year: '2020'
+- article-title: Aberrantly glycosylated IgG elicits pathogenic signaling in podocytes
+    and signifies lupus nephritis
+  author: Bhargava
+  doi: 10.1172/jci.insight.147789
+  issue: '9'
+  journal-title: JCI Insight
+  volume: '6'
+  year: '2021'
+- article-title: Role of podocytes in lupus nephritis
+  author: Trivedi
+  doi: 10.1093/ndt/gfp427
+  first-page: '3607'
+  issue: '12'
+  journal-title: Nephrol. Dial. Transpl.
+  volume: '24'
+  year: '2009'
+- article-title: Podocyte activation of NLRP3 inflammasomes contributes to the development
+    of proteinuria in lupus nephritis
+  author: Fu
+  doi: 10.1002/art.40155
+  first-page: '1636'
+  issue: '8'
+  journal-title: Arthritis Rheumatol.
+  volume: '69'
+  year: '2017'
+- article-title: sirt1-null mice develop an autoimmune-like condition
+  author: Sequeira
+  doi: 10.1016/j.yexcr.2008.07.011
+  first-page: '3069'
+  issue: '16'
+  journal-title: Exp. Cell Res.
+  volume: '314'
+  year: '2008'
+- article-title: Urinary levels of sirtuin-1 associated with disease activity in lupus
+    nephritis
+  author: Olivares
+  doi: 10.1042/CS20171410
+  first-page: '569'
+  issue: '5'
+  journal-title: Clin. Sci.
+  volume: '132'
+  year: '2018'
+- article-title: SIRT1 promoter polymorphisms as clinical modifiers on systemic lupus
+    erythematosus
+  author: Consiglio
+  doi: 10.1007/s11033-014-3294-3
+  first-page: '4233'
+  issue: '7'
+  journal-title: Mol. Biol. Rep.
+  volume: '41'
+  year: '2014'
+- article-title: Accelerated, severe lupus nephritis benefits from treatment with
+    honokiol by immunoregulation and differentially regulating NF-κB/NLRP3 inflammasome
+    and sirtuin 1/autophagy axis
+  author: Yang
+  doi: 10.1096/fj.202001326R
+  first-page: '13284'
+  issue: '10'
+  journal-title: FASEB J.
+  volume: '34'
+  year: '2020'
+- article-title: Upregulation of FcγRIIB by resveratrol via NF-κB activation reduces
+    B-cell numbers and ameliorates lupus
+  author: Jhou
+  doi: 10.1038/emm.2017.144
+  issue: '9'
+  journal-title: Exp. Mol. Med.
+  volume: '49'
+  year: '2017'
+doi: 10.1016/j.biopha.2022.113620
+files: []
+journal: Biomedicine &amp; Pharmacotherapy
+language: en
+month: 11
+pages: '113620'
+papis_id: ceb02da1afeeb79be1865aff50bd6388
+publisher: Elsevier BV
+ref: SirtuinsAsNovLiuT2022
+time-added: 2023-11-21-10:23:51
+title: Sirtuins as novel pharmacological targets in podocyte injury and related glomerular
+  diseases
+type: article
+url: http://dx.doi.org/10.1016/j.biopha.2022.113620
+volume: '155'
+year: 2022
