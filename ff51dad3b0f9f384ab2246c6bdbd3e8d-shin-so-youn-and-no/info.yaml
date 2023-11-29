@@ -1,0 +1,506 @@
+author: Shin, So-Youn and None, None and Fauman, Eric B and Petersen, Ann-Kristin
+  and Krumsiek, Jan and Santos, Rita and Huang, Jie and Arnold, Matthias and Erte,
+  Idil and Forgetta, Vincenzo and Yang, Tsun-Po and Walter, Klaudia and Menni, Cristina
+  and Chen, Lu and Vasquez, Louella and Valdes, Ana M and Hyde, Craig L and Wang,
+  Vicky and Ziemek, Daniel and Roberts, Phoebe and Xi, Li and Grundberg, Elin and
+  Waldenberger, Melanie and Richards, J Brent and Mohney, Robert P and Milburn, Michael
+  V and John, Sally L and Trimmer, Jeff and Theis, Fabian J and Overington, John P
+  and Suhre, Karsten and Brosnan, M Julia and Gieger, Christian and Kastenmüller,
+  Gabi and Spector, Tim D and Soranzo, Nicole
+author_list:
+- affiliation: []
+  family: Shin
+  given: So-Youn
+- affiliation: []
+  family: null
+  given: null
+- affiliation: []
+  family: Fauman
+  given: Eric B
+- affiliation: []
+  family: Petersen
+  given: Ann-Kristin
+- affiliation: []
+  family: Krumsiek
+  given: Jan
+- affiliation: []
+  family: Santos
+  given: Rita
+- affiliation: []
+  family: Huang
+  given: Jie
+- affiliation: []
+  family: Arnold
+  given: Matthias
+- affiliation: []
+  family: Erte
+  given: Idil
+- affiliation: []
+  family: Forgetta
+  given: Vincenzo
+- affiliation: []
+  family: Yang
+  given: Tsun-Po
+- affiliation: []
+  family: Walter
+  given: Klaudia
+- affiliation: []
+  family: Menni
+  given: Cristina
+- affiliation: []
+  family: Chen
+  given: Lu
+- affiliation: []
+  family: Vasquez
+  given: Louella
+- affiliation: []
+  family: Valdes
+  given: Ana M
+- affiliation: []
+  family: Hyde
+  given: Craig L
+- affiliation: []
+  family: Wang
+  given: Vicky
+- affiliation: []
+  family: Ziemek
+  given: Daniel
+- affiliation: []
+  family: Roberts
+  given: Phoebe
+- affiliation: []
+  family: Xi
+  given: Li
+- affiliation: []
+  family: Grundberg
+  given: Elin
+- affiliation: []
+  family: Waldenberger
+  given: Melanie
+- affiliation: []
+  family: Richards
+  given: J Brent
+- affiliation: []
+  family: Mohney
+  given: Robert P
+- affiliation: []
+  family: Milburn
+  given: Michael V
+- affiliation: []
+  family: John
+  given: Sally L
+- affiliation: []
+  family: Trimmer
+  given: Jeff
+- affiliation: []
+  family: Theis
+  given: Fabian J
+- affiliation: []
+  family: Overington
+  given: John P
+- affiliation: []
+  family: Suhre
+  given: Karsten
+- affiliation: []
+  family: Brosnan
+  given: M Julia
+- affiliation: []
+  family: Gieger
+  given: Christian
+- affiliation: []
+  family: Kastenmüller
+  given: Gabi
+- affiliation: []
+  family: Spector
+  given: Tim D
+- affiliation: []
+  family: Soranzo
+  given: Nicole
+citations:
+- doi: 10.1097/00007611-193106000-00028
+  unstructured: Garrod, A.E. Inborn Factors in Disease (Oxford University Press, Oxford,
+    1931).
+- author: J Kettunen
+  doi: 10.1038/ng.1073
+  first-page: '269'
+  journal-title: Nat. Genet.
+  unstructured: Kettunen, J. et al. Genome-wide association study identifies multiple
+    loci influencing human serum metabolite levels. Nat. Genet. 44, 269–276 (2012).
+  volume: '44'
+  year: '2012'
+- author: MS Sabatine
+  doi: 10.1161/CIRCULATIONAHA.105.569137
+  first-page: '3868'
+  journal-title: Circulation
+  unstructured: Sabatine, M.S. et al. Metabolomic identification of novel biomarkers
+    of myocardial ischemia. Circulation 112, 3868–3875 (2005).
+  volume: '112'
+  year: '2005'
+- author: E Holmes
+  doi: 10.1038/nature06882
+  first-page: '396'
+  journal-title: Nature
+  unstructured: Holmes, E. et al. Human metabolic phenotype diversity and its association
+    with diet and blood pressure. Nature 453, 396–400 (2008).
+  volume: '453'
+  year: '2008'
+- author: A Sreekumar
+  doi: 10.1038/nature07762
+  first-page: '910'
+  journal-title: Nature
+  unstructured: Sreekumar, A. et al. Metabolomic profiles delineate potential role
+    for sarcosine in prostate cancer progression. Nature 457, 910–914 (2009).
+  volume: '457'
+  year: '2009'
+- author: M Bictash
+  doi: 10.1016/j.jclinepi.2009.10.001
+  first-page: '970'
+  journal-title: J. Clin. Epidemiol.
+  unstructured: 'Bictash, M. et al. Opening up the “Black Box”: metabolic phenotyping
+    and metabolome-wide association studies in epidemiology. J. Clin. Epidemiol. 63,
+    970–979 (2010).'
+  volume: '63'
+  year: '2010'
+- author: A Backshall
+  doi: 10.1158/1078-0432.CCR-10-2474
+  first-page: '3019'
+  journal-title: Clin. Cancer Res.
+  unstructured: Backshall, A., Sharma, R., Clarke, S.J. & Keun, H.C. Pharmacometabonomic
+    profiling as a predictor of toxicity in patients with inoperable colorectal cancer
+    treated with capecitabine. Clin. Cancer Res. 17, 3019–3028 (2011).
+  volume: '17'
+  year: '2011'
+- author: TJ Wang
+  doi: 10.1038/nm.2307
+  first-page: '448'
+  journal-title: Nat. Med.
+  unstructured: Wang, T.J. et al. Metabolite profiles and the risk of developing diabetes.
+    Nat. Med. 17, 448–453 (2011).
+  volume: '17'
+  year: '2011'
+- author: K Suhre
+  doi: 10.1038/nrg3314
+  first-page: '759'
+  journal-title: Nat. Rev. Genet.
+  unstructured: 'Suhre, K. & Gieger, C. Genetic variation in metabolic phenotypes:
+    study designs and applications. Nat. Rev. Genet. 13, 759–769 (2012).'
+  volume: '13'
+  year: '2012'
+- author: C Gieger
+  doi: 10.1371/journal.pgen.1000282
+  first-page: e1000282
+  journal-title: PLoS Genet.
+  unstructured: 'Gieger, C. et al. Genetics meets metabolomics: a genome-wide association
+    study of metabolite profiles in human serum. PLoS Genet. 4, e1000282 (2008).'
+  volume: '4'
+  year: '2008'
+- author: K Suhre
+  doi: 10.1038/nature10354
+  first-page: '54'
+  journal-title: Nature
+  unstructured: Suhre, K. et al. Human metabolic individuality in biomedical and pharmaceutical
+    research. Nature 477, 54–60 (2011).
+  volume: '477'
+  year: '2011'
+- author: G Nicholson
+  doi: 10.1038/msb.2011.57
+  first-page: '525'
+  journal-title: Mol. Syst. Biol.
+  unstructured: Nicholson, G. et al. Human metabolic profiles are stably controlled
+    by genetic and environmental variation. Mol. Syst. Biol. 7, 525 (2011).
+  volume: '7'
+  year: '2011'
+- author: P Sanseau
+  doi: 10.1038/nbt.2151
+  first-page: '317'
+  journal-title: Nat. Biotechnol.
+  unstructured: Sanseau, P. et al. Use of genome-wide association studies for drug
+    repositioning. Nat. Biotechnol. 30, 317–320 (2012).
+  volume: '30'
+  year: '2012'
+- author: J Krumsiek
+  doi: 10.1371/journal.pgen.1003005
+  first-page: e1003005
+  journal-title: PLoS Genet.
+  unstructured: 'Krumsiek, J. et al. Mining the unknown: a systems approach to metabolite
+    identification combining genetic and metabolic information. PLoS Genet. 8, e1003005
+    (2012).'
+  volume: '8'
+  year: '2012'
+- author: DA Lawlor
+  doi: 10.1002/sim.3034
+  first-page: '1133'
+  journal-title: Stat. Med.
+  unstructured: 'Lawlor, D.A., Harbord, R.M., Sterne, J.A., Timpson, N. & Davey Smith,
+    G. Mendelian randomization: using genes as instruments for making causal inferences
+    in epidemiology. Stat. Med. 27, 1133–1163 (2008).'
+  volume: '27'
+  year: '2008'
+- author: M Kanehisa
+  doi: 10.1093/nar/gkr988
+  first-page: D109
+  journal-title: Nucleic Acids Res.
+  unstructured: Kanehisa, M., Goto, S., Sato, Y., Furumichi, M. & Tanabe, M. KEGG
+    for integration and interpretation of large-scale molecular data sets. Nucleic
+    Acids Res. 40, D109–D114 (2012).
+  volume: '40'
+  year: '2012'
+- author: KA Frazer
+  doi: 10.1038/nature06258
+  first-page: '851'
+  journal-title: Nature
+  unstructured: Frazer, K.A. et al. A second generation human haplotype map of over
+    3.1 million SNPs. Nature 449, 851–861 (2007).
+  volume: '449'
+  year: '2007'
+- author: I Pe'er
+  doi: 10.1002/gepi.20303
+  first-page: '381'
+  journal-title: Genet. Epidemiol.
+  unstructured: Pe'er, I., Yelensky, R., Altshuler, D. & Daly, M.J. Estimation of
+    the multiple testing burden for genomewide association studies of nearly all common
+    variants. Genet. Epidemiol. 32, 381–385 (2008).
+  volume: '32'
+  year: '2008'
+- author: EP Rhee
+  doi: 10.1016/j.cmet.2013.06.013
+  first-page: '130'
+  journal-title: Cell Metab.
+  unstructured: Rhee, E.P. et al. A genome-wide association study of the human metabolome
+    in a community-based cohort. Cell Metab. 18, 130–143 (2013).
+  volume: '18'
+  year: '2013'
+- author: T Illig
+  doi: 10.1038/ng.507
+  first-page: '137'
+  journal-title: Nat. Genet.
+  unstructured: Illig, T. et al. A genome-wide perspective of genetic variation in
+    human metabolism. Nat. Genet. 42, 137–141 (2010).
+  volume: '42'
+  year: '2010'
+- author: K Suhre
+  doi: 10.1038/ng.837
+  first-page: '565'
+  journal-title: Nat. Genet.
+  unstructured: Suhre, K. et al. A genome-wide association study of metabolic traits
+    in human urine. Nat. Genet. 43, 565–569 (2011).
+  volume: '43'
+  year: '2011'
+- author: G Nicholson
+  doi: 10.1371/journal.pgen.1002270
+  first-page: e1002270
+  journal-title: PLoS Genet.
+  unstructured: Nicholson, G. et al. A genome-wide metabolic QTL analysis in Europeans
+    implicates two loci shaped by recent positive selection. PLoS Genet. 7, e1002270
+    (2011).
+  volume: '7'
+  year: '2011'
+- author: E Shrawder
+  doi: 10.1016/S0021-9258(19)45454-9
+  first-page: '2486'
+  journal-title: J. Biol. Chem.
+  unstructured: Shrawder, E. & Martinez-Carrion, M. Evidence of phenylalanine transaminase
+    activity in the isoenzymes of aspartate transaminase. J. Biol. Chem. 247, 2486–2492
+    (1972).
+  volume: '247'
+  year: '1972'
+- author: HC Lee
+  doi: 10.1091/mbc.e07-09-0893
+  first-page: '1174'
+  journal-title: Mol. Biol. Cell
+  unstructured: Lee, H.C. et al. Caenorhabditis elegans mboa-7, a member of the MBOAT
+    family, is required for selective incorporation of polyunsaturated fatty acids
+    into phosphatidylinositol. Mol. Biol. Cell 19, 1174–1184 (2008).
+  volume: '19'
+  year: '2008'
+- author: CA Hu
+  doi: 10.1007/s11010-006-9276-6
+  first-page: '85'
+  journal-title: Mol. Cell. Biochem.
+  unstructured: Hu, C.A. et al. Overexpression of proline oxidase induces proline-dependent
+    and mitochondria-mediated apoptosis. Mol. Cell. Biochem. 295, 85–92 (2007).
+  volume: '295'
+  year: '2007'
+- author: J Krumsiek
+  doi: 10.1186/1752-0509-5-21
+  first-page: '21'
+  journal-title: BMC Syst. Biol.
+  unstructured: Krumsiek, J., Suhre, K., Illig, T., Adamski, J. & Theis, F.J. Gaussian
+    graphical modeling reconstructs pathway reactions from high-throughput metabolomics
+    data. BMC Syst. Biol. 5, 21 (2011).
+  volume: '5'
+  year: '2011'
+- author: EE Schadt
+  doi: 10.1371/journal.pbio.0060107
+  first-page: e107
+  journal-title: PLoS Biol.
+  unstructured: Schadt, E.E. et al. Mapping the genetic architecture of gene expression
+    in human liver. PLoS Biol. 6, e107 (2008).
+  volume: '6'
+  year: '2008'
+- author: E Grundberg
+  doi: 10.1038/ng.2394
+  first-page: '1084'
+  journal-title: Nat. Genet.
+  unstructured: Grundberg, E. et al. Mapping cis- and trans-regulatory effects across
+    multiple tissues in twins. Nat. Genet. 44, 1084–1089 (2012).
+  volume: '44'
+  year: '2012'
+- author: DK Kim
+  doi: 10.1006/geno.2001.6678
+  first-page: '95'
+  journal-title: Genomics
+  unstructured: 'Kim, D.K. et al. The human T-type amino acid transporter-1: characterization,
+    gene organization, and chromosomal location. Genomics 79, 95–103 (2002).'
+  volume: '79'
+  year: '2002'
+- author: T Kaper
+  doi: 10.1371/journal.pbio.0050257
+  first-page: e257
+  journal-title: PLoS Biol.
+  unstructured: Kaper, T. et al. Nanosensor detection of an immunoregulatory tryptophan
+    influx/kynurenine efflux cycle. PLoS Biol. 5, e257 (2007).
+  volume: '5'
+  year: '2007'
+- author: VK Mootha
+  doi: 10.1038/ng0210-97
+  first-page: '97'
+  journal-title: Nat. Genet.
+  unstructured: Mootha, V.K. & Hirschhorn, J.N. Inborn variation in metabolism. Nat.
+    Genet. 42, 97–98 (2010).
+  volume: '42'
+  year: '2010'
+- author: A Köttgen
+  doi: 10.1038/ng.568
+  first-page: '376'
+  journal-title: Nat. Genet.
+  unstructured: Köttgen, A. et al. New loci associated with kidney function and chronic
+    kidney disease. Nat. Genet. 42, 376–384 (2010).
+  volume: '42'
+  year: '2010'
+- author: W Xie
+  doi: 10.2337/db12-0876
+  first-page: '2141'
+  journal-title: Diabetes
+  unstructured: Xie, W. et al. Genetic variants associated with glycine metabolism
+    and their role in insulin sensitivity and type 2 diabetes. Diabetes 62, 2141–2150
+    (2013).
+  volume: '62'
+  year: '2013'
+- author: G Kikuchi
+  doi: 10.2183/pjab.84.246
+  first-page: '246'
+  journal-title: Proc. Jpn. Acad., Ser. B, Phys. Biol. Sci.
+  unstructured: 'Kikuchi, G., Motokawa, Y., Yoshida, T. & Hiraga, K. Glycine cleavage
+    system: reaction mechanism, physiological significance, and hyperglycinemia. Proc.
+    Jpn. Acad., Ser. B, Phys. Biol. Sci. 84, 246–263 (2008).'
+  volume: '84'
+  year: '2008'
+- author: A Moayyeri
+  doi: 10.1017/thg.2012.89
+  first-page: '144'
+  journal-title: Twin Res. Hum. Genet.
+  unstructured: Moayyeri, A., Hammond, C.J., Hart, D.J. & Spector, T.D. The UK adult
+    twin registry (TwinsUK Resource). Twin Res. Hum. Genet. 16, 144–149 (2013).
+  volume: '16'
+  year: '2013'
+- author: HE Wichmann
+  doi: 10.1055/s-2005-858226
+  first-page: S26
+  issue: suppl. 1
+  journal-title: Gesundheitswesen
+  unstructured: Wichmann, H.E., Gieger, C. & Illig, T. KORA-gen—resource for population
+    genetics, controls and a broad spectrum of disease phenotypes. Gesundheitswesen
+    67 (suppl. 1), S26–S30 (2005).
+  volume: '67'
+  year: '2005'
+- author: GR Abecasis
+  doi: 10.1038/ng786
+  first-page: '97'
+  journal-title: Nat. Genet.
+  unstructured: Abecasis, G.R., Cherny, S.S., Cookson, W.O. & Cardon, L.R. Merlin—rapid
+    analysis of dense genetic maps using sparse gene flow trees. Nat. Genet. 30, 97–101
+    (2002).
+  volume: '30'
+  year: '2002'
+- author: Z Kutalik
+  doi: 10.1002/gepi.20582
+  first-page: '341'
+  journal-title: Genet. Epidemiol.
+  unstructured: Kutalik, Z., Whittaker, J., Waterworth, D., Beckmann, J.S. & Bergmann,
+    S. Novel method to estimate the phenotypic variation explained by genome-wide
+    association studies reveals large fraction of the missing heritability. Genet.
+    Epidemiol. 35, 341–349 (2011).
+  volume: '35'
+  year: '2011'
+- author: CJ Willer
+  doi: 10.1093/bioinformatics/btq340
+  first-page: '2190'
+  journal-title: Bioinformatics
+  unstructured: 'Willer, C.J., Li, Y. & Abecasis, G.R. METAL: fast and efficient meta-analysis
+    of genomewide association scans. Bioinformatics 26, 2190–2191 (2010).'
+  volume: '26'
+  year: '2010'
+- author: S Boker
+  doi: 10.1007/s11336-010-9200-6
+  first-page: '306'
+  journal-title: Psychometrika
+  unstructured: 'Boker, S. et al. OpenMx: an open source extended structural equation
+    modeling framework. Psychometrika 76, 306–317 (2011).'
+  volume: '76'
+  year: '2011'
+- doi: 10.1038/nature09534
+  unstructured: 1000 Genomes Project Consortium. A map of human genome variation from
+    population-scale sequencing. Nature 467, 1061–1073 (2010).
+- author: O Zuk
+  doi: 10.1073/pnas.1119675109
+  first-page: '1193'
+  journal-title: Proc. Natl. Acad. Sci. USA
+  unstructured: 'Zuk, O., Hechter, E., Sunyaev, S.R. & Lander, E.S. The mystery of
+    missing heritability: genetic interactions create phantom heritability. Proc.
+    Natl. Acad. Sci. USA 109, 1193–1198 (2012).'
+  volume: '109'
+  year: '2012'
+- author: T Hao
+  doi: 10.1186/1471-2105-11-393
+  first-page: '393'
+  journal-title: BMC Bioinformatics
+  unstructured: Hao, T., Ma, H.W., Zhao, X.M. & Goryanin, I. Compartmentalization
+    of the Edinburgh human metabolic network. BMC Bioinformatics 11, 393 (2010).
+  volume: '11'
+  year: '2010'
+- author: I Schomburg
+  doi: 10.1093/nar/gks1049
+  first-page: D764
+  journal-title: Nucleic Acids Res.
+  unstructured: 'Schomburg, I. et al. BRENDA in 2013: integrated reactions, kinetic
+    data, enzyme function data, improved disease classification: new options and contents
+    in BRENDA. Nucleic Acids Res. 41, D764–D772 (2013).'
+  volume: '41'
+  year: '2013'
+- author: GD Smith
+  doi: 10.1093/ije/dyg070
+  first-page: '1'
+  journal-title: Int. J. Epidemiol.
+  unstructured: 'Smith, G.D. & Ebrahim, S. ''Mendelian randomization'': can genetic
+    epidemiology contribute to understanding environmental determinants of disease?
+    Int. J. Epidemiol. 32, 1–22 (2003).'
+  volume: '32'
+  year: '2003'
+doc_url: http://www.nature.com/articles/ng.2982.pdf
+doi: 10.1038/ng.2982
+files: []
+issue: '6'
+journal: Nature Genetics
+language: en
+month: 6
+pages: 543--550
+papis_id: 5331f52421b3f0be4a0086518950ec42
+publisher: Springer Science and Business Media LLC
+ref: AnAtlasOfGenShin2014
+time-added: 2023-11-29-18:03:11
+title: An atlas of genetic influences on human blood metabolites
+type: article
+url: http://dx.doi.org/10.1038/ng.2982
+volume: '46'
+year: 2014
