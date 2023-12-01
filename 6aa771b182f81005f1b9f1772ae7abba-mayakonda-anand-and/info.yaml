@@ -1,0 +1,162 @@
+abstract: <jats:p>Numerous large-scale genomic studies of matched tumor-normal samples
+  have established the somatic landscapes of most cancer types. However, the downstream
+  analysis of data from somatic mutations entails a number of computational and statistical
+  approaches, requiring usage of independent software and numerous tools. Here, we
+  describe an R Bioconductor package, Maftools, which offers a multitude of analysis
+  and visualization modules that are commonly used in cancer genomic studies, including
+  driver gene identification, pathway, signature, enrichment, and association analyses.
+  Maftools only requires somatic variants in Mutation Annotation Format (MAF) and
+  is independent of larger alignment files. With the implementation of well-established
+  statistical and computational methods, Maftools facilitates data-driven research
+  and comparative analysis to discover novel results from publicly available data
+  sets. In the present study, using three of the well-annotated cohorts from The Cancer
+  Genome Atlas (TCGA), we describe the application of Maftools to reproduce known
+  results. More importantly, we show that Maftools can also be used to uncover novel
+  findings through integrative analysis.</jats:p>
+author: Mayakonda, Anand and Lin, De-Chen and Assenov, Yassen and Plass, Christoph
+  and Koeffler, H. Phillip
+author_list:
+- affiliation: []
+  family: Mayakonda
+  given: Anand
+- affiliation: []
+  family: Lin
+  given: De-Chen
+- affiliation: []
+  family: Assenov
+  given: Yassen
+- affiliation: []
+  family: Plass
+  given: Christoph
+- affiliation: []
+  family: Koeffler
+  given: H. Phillip
+citations:
+- doi: 10.1038/nature12477
+- doi: 10.1016/j.celrep.2012.12.008
+- doi: 10.1002/gcc.20511
+- doi: 10.1073/pnas.0308531101
+- doi: 10.1038/nature11252
+- doi: 10.1038/nature11412
+- doi: 10.1056/NEJMoa1301689
+- doi: 10.1038/nature20805
+- doi: 10.1113/jphysiol.2011.224204
+- doi: 10.1158/2159-8290.CD-12-0095
+- article-title: Kataegis expression signature in breast cancer is associated with
+    late onset, better prognosis, and higher HER2 levels
+  doi: 10.1016/j.celrep.2016.06.026
+  first-page: '672'
+  journal-title: Cell Rep
+  volume: '16'
+  year: '2016'
+- doi: 10.1101/gr.134635.111
+- doi: 10.1038/nrg3767
+- doi: 10.1038/ng.2591
+- article-title: Scalable open science approach for mutation calling of tumor exomes
+    using multiple genomic pipelines
+  doi: 10.1016/j.cels.2018.03.002
+  first-page: '271'
+  journal-title: Cell Syst
+  volume: '6'
+  year: '2018'
+- article-title: ErbB targeting inhibitors repress cell migration of esophageal squamous
+    cell carcinoma and adenocarcinoma cells by distinct signaling pathways
+  doi: 10.1007/s00109-014-1187-5
+  first-page: '1209'
+  journal-title: J Mol Med (Berl)
+  volume: '92'
+  year: '2014'
+- doi: 10.1186/gb-2013-14-4-r39
+- doi: 10.1007/s10555-006-9017-z
+- doi: 10.1186/1471-2105-11-367
+- doi: 10.1186/gb-2004-5-10-r80
+- doi: 10.1093/nar/gks743
+- doi: 10.1093/bioinformatics/btw313
+- article-title: Spatial intratumoral heterogeneity and temporal clonal evolution
+    in esophageal squamous cell carcinoma
+  doi: 10.1038/ng.3683
+  first-page: '1500'
+  journal-title: Nat Genet
+  volume: '48'
+  year: '2016'
+- doi: 10.1016/S1097-2765(02)00742-6
+- doi: 10.1038/nrg3729
+- article-title: Voltage-gated Na+ channel activity increases colon cancer transcriptional
+    activity and invasion via persistent MAPK signaling
+  doi: 10.1038/srep11541
+  first-page: '11541'
+  journal-title: Sci Rep
+  volume: '5'
+  year: '2015'
+- doi: 10.1038/nature01580
+- doi: 10.1186/1476-4598-10-17
+- doi: 10.18637/jss.v058.i03
+- doi: 10.1038/ng.3557
+- doi: 10.1186/1745-6150-7-47
+- doi: 10.1371/journal.pcbi.1003118
+- doi: 10.1038/nature12213
+- doi: 10.1038/nature12912
+- doi: 10.1186/s13059-015-0700-7
+- doi: 10.1038/ng.2935
+- doi: 10.1136/gutjnl-2017-314607
+- article-title: Genomic and epigenomic aberrations in esophageal squamous cell carcinoma
+    and implications for patients
+  doi: 10.1053/j.gastro.2017.06.066
+  first-page: '374'
+  journal-title: Gastroenterology
+  volume: '154'
+  year: '2018'
+- doi: 10.1093/hmg/ddp396
+- doi: 10.1158/1078-0432.CCR-10-0821
+- doi: 10.1186/gb-2011-12-4-r41
+- doi: 10.1016/j.cell.2012.04.024
+- doi: 10.1093/biostatistics/kxh008
+- doi: 10.1073/pnas.2637169100
+- doi: 10.1309/AJCPD7NR2RMNQDVF
+- unstructured: 'R Core Team. 2018. R: a language and environment for statistical
+    computing. R Foundation for Statistical Computing, Vienna, Austria. https://www.R-project.org/
+    .'
+- doi: 10.1038/ng.2702
+- doi: 10.1186/s13059-016-0893-4
+- doi: 10.1007/s00232-005-0782-3
+- article-title: Mutational signatures in esophageal adenocarcinoma define etiologically
+    distinct subgroups with therapeutic relevance
+  doi: 10.1038/ng.3659
+  first-page: '1131'
+  journal-title: Nat Genet
+  volume: '48'
+  year: '2016'
+- doi: 10.1158/2159-8290.CD-15-0344
+- doi: 10.1002/gcc.10246
+- doi: 10.1093/bioinformatics/btt395
+- doi: 10.7554/eLife.00534
+- doi: 10.1101/gr.120477.111
+- doi: 10.1126/science.1235122
+- doi: 10.1093/bioinformatics/btr193
+- doi: 10.1101/gr.157602.113
+- doi: 10.1038/ng.788
+- doi: 10.1096/fj.08-108985
+- article-title: Signatures of positive selection reveal a universal role of chromatin
+    modifiers as cancer driver genes
+  doi: 10.1038/s41598-017-12888-1
+  first-page: '13124'
+  journal-title: Sci Rep
+  volume: '7'
+  year: '2017'
+doc_url: https://syndication.highwire.org/content/doi/10.1101/gr.239244.118
+doi: 10.1101/gr.239244.118
+files: []
+issue: '11'
+journal: Genome Research
+language: en
+month: 11
+pages: 1747--1756
+papis_id: 87d5f1645efbb6b19348d47756ad8b1e
+publisher: Cold Spring Harbor Laboratory
+ref: MaftoolsEfficMayako2018
+time-added: 2023-12-01-10:45:14
+title: 'Maftools: efficient and comprehensive analysis of somatic variants in cancer'
+type: article
+url: http://dx.doi.org/10.1101/gr.239244.118
+volume: '28'
+year: 2018
