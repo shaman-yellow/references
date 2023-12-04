@@ -1,0 +1,90 @@
+author: Krishna, Chirag and DiNatale, Renzo G and Kuo, Fengshen and Srivastava, Raghvendra
+  M and Vuong, Lynda and Chowell, Diego and Gupta, Sounak and Vanderbilt, Chad and
+  Purohit, Tanaya A and Liu, Ming and Kansler, Emily and Nixon, Briana G and Chen,
+  Ying-Bei and Makarov, Vladimir and Blum, Kyle A and Attalla, Kyrollis and Weng,
+  Stanley and Salmans, Michael L and Golkaram, Mahdi and Liu, Li and Zhang, Shile
+  and Vijayaraghavan, Raakhee and Pawlowski, Traci and Reuter, Victor and Carlo, Maria
+  I and Voss, Martin H and Coleman, Jonathan and Russo, Paul and Motzer, Robert J
+  and Li, Ming O and Leslie, Christina S and Chan, Timothy A and Hakimi, A Ari
+author_list:
+- family: Krishna
+  given: Chirag
+- family: DiNatale
+  given: Renzo G
+- family: Kuo
+  given: Fengshen
+- family: Srivastava
+  given: Raghvendra M
+- family: Vuong
+  given: Lynda
+- family: Chowell
+  given: Diego
+- family: Gupta
+  given: Sounak
+- family: Vanderbilt
+  given: Chad
+- family: Purohit
+  given: Tanaya A
+- family: Liu
+  given: Ming
+- family: Kansler
+  given: Emily
+- family: Nixon
+  given: Briana G
+- family: Chen
+  given: Ying-Bei
+- family: Makarov
+  given: Vladimir
+- family: Blum
+  given: Kyle A
+- family: Attalla
+  given: Kyrollis
+- family: Weng
+  given: Stanley
+- family: Salmans
+  given: Michael L
+- family: Golkaram
+  given: Mahdi
+- family: Liu
+  given: Li
+- family: Zhang
+  given: Shile
+- family: Vijayaraghavan
+  given: Raakhee
+- family: Pawlowski
+  given: Traci
+- family: Reuter
+  given: Victor
+- family: Carlo
+  given: Maria I
+- family: Voss
+  given: Martin H
+- family: Coleman
+  given: Jonathan
+- family: Russo
+  given: Paul
+- family: Motzer
+  given: Robert J
+- family: Li
+  given: Ming O
+- family: Leslie
+  given: Christina S
+- family: Chan
+  given: Timothy A
+- family: Hakimi
+  given: A Ari
+doi: 10.1016/j.ccell.2021.03.007
+files: []
+issn: 1535-6108
+issue: '5'
+journal: Cancer cell
+pages: 662--677.e6
+papis_id: 17878a8c0c157827ff96d9c2a93279b2
+pmid: '33861994'
+ref: SingleCellSeqKrishn2021
+time-added: 2023-12-04-17:37:50
+title: Single-cell sequencing links multiregional immune landscapes and tissue-resident
+  T cells in ccRCC to tumor topology and therapy efficacy
+type: article
+volume: '39'
+year: 2021
