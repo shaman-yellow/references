@@ -1,0 +1,45 @@
+author: Ambros, Victor and Bartel, Bonnie and Bartel, David P and Burge, Christopher
+  B and Carrington, James C and Chen, Xuemei and Dreyfuss, Gideon and Eddy, Sean R
+  and Griffiths-Jones, Sam and Marshall, Mhairi and Matzke, Marjori and Ruvkun, Gary
+  and Tuschl, Thomas
+author_list:
+- family: Ambros
+  given: Victor
+- family: Bartel
+  given: Bonnie
+- family: Bartel
+  given: David P
+- family: Burge
+  given: Christopher B
+- family: Carrington
+  given: James C
+- family: Chen
+  given: Xuemei
+- family: Dreyfuss
+  given: Gideon
+- family: Eddy
+  given: Sean R
+- family: Griffiths-Jones
+  given: Sam
+- family: Marshall
+  given: Mhairi
+- family: Matzke
+  given: Marjori
+- family: Ruvkun
+  given: Gary
+- family: Tuschl
+  given: Thomas
+doi: 10.1261/rna.2183803
+files: []
+issn: 1355-8382
+issue: '3'
+journal: RNA (New York, N.Y.)
+pages: 277--279
+papis_id: d9df538893325c5bceda2efa715a538f
+pmid: '12592000'
+ref: AUniformSysteAmbros2003
+time-added: 2023-12-13-18:09:44
+title: A uniform system for microRNA annotation
+type: article
+volume: '9'
+year: 2003
