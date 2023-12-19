@@ -1,0 +1,769 @@
+abstract: '<jats:p>Results from genome-wide association studies (GWAS) can be used
+  to infer causal relationships between phenotypes, using a strategy known as 2-sample
+  Mendelian randomization (2SMR) and bypassing the need for individual-level data.
+  However, 2SMR methods are evolving rapidly and GWAS results are often insufficiently
+  curated, undermining efficient implementation of the approach. We therefore developed
+  MR-Base (<jats:ext-link ext-link-type="uri" xlink:href="http://www.mrbase.org">http://www.mrbase.org</jats:ext-link>):
+  a platform that integrates a curated database of complete GWAS results (no restrictions
+  according to statistical significance) with an application programming interface,
+  web app and R packages that automate 2SMR. The software includes several sensitivity
+  analyses for assessing the impact of horizontal pleiotropy and other violations
+  of assumptions. The database currently comprises 11 billion single nucleotide polymorphism-trait
+  associations from 1673 GWAS and is updated on a regular basis. Integrating data
+  with software ensures more rigorous application of hypothesis-driven analyses and
+  allows millions of potential causal relationships to be efficiently evaluated in
+  phenome-wide association studies.</jats:p>'
+author: Hemani, Gibran and Zheng, Jie and Elsworth, Benjamin and Wade, Kaitlin H and
+  Haberland, Valeriia and Baird, Denis and Laurin, Charles and Burgess, Stephen and
+  Bowden, Jack and Langdon, Ryan and Tan, Vanessa Y and Yarmolinsky, James and Shihab,
+  Hashem A and Timpson, Nicholas J and Evans, David M and Relton, Caroline and Martin,
+  Richard M and Davey Smith, George and Gaunt, Tom R and Haycock, Philip C
+author_list:
+- affiliation:
+  - name: Medical Research Council (MRC) Integrative Epidemiology Unit, Population
+      Health Sciences, Bristol Medical School, University of Bristol, Bristol, United
+      Kingdom
+  family: Hemani
+  given: Gibran
+- affiliation:
+  - name: Medical Research Council (MRC) Integrative Epidemiology Unit, Population
+      Health Sciences, Bristol Medical School, University of Bristol, Bristol, United
+      Kingdom
+  family: Zheng
+  given: Jie
+- affiliation:
+  - name: Medical Research Council (MRC) Integrative Epidemiology Unit, Population
+      Health Sciences, Bristol Medical School, University of Bristol, Bristol, United
+      Kingdom
+  family: Elsworth
+  given: Benjamin
+- affiliation:
+  - name: Medical Research Council (MRC) Integrative Epidemiology Unit, Population
+      Health Sciences, Bristol Medical School, University of Bristol, Bristol, United
+      Kingdom
+  family: Wade
+  given: Kaitlin H
+- affiliation:
+  - name: Medical Research Council (MRC) Integrative Epidemiology Unit, Population
+      Health Sciences, Bristol Medical School, University of Bristol, Bristol, United
+      Kingdom
+  family: Haberland
+  given: Valeriia
+- affiliation:
+  - name: Medical Research Council (MRC) Integrative Epidemiology Unit, Population
+      Health Sciences, Bristol Medical School, University of Bristol, Bristol, United
+      Kingdom
+  family: Baird
+  given: Denis
+- affiliation:
+  - name: Medical Research Council (MRC) Integrative Epidemiology Unit, Population
+      Health Sciences, Bristol Medical School, University of Bristol, Bristol, United
+      Kingdom
+  family: Laurin
+  given: Charles
+- affiliation:
+  - name: Department of Public Health and Primary Care, University of Cambridge, Cambridge,
+      United Kingdom
+  family: Burgess
+  given: Stephen
+- affiliation:
+  - name: Medical Research Council (MRC) Integrative Epidemiology Unit, Population
+      Health Sciences, Bristol Medical School, University of Bristol, Bristol, United
+      Kingdom
+  family: Bowden
+  given: Jack
+- affiliation:
+  - name: Medical Research Council (MRC) Integrative Epidemiology Unit, Population
+      Health Sciences, Bristol Medical School, University of Bristol, Bristol, United
+      Kingdom
+  family: Langdon
+  given: Ryan
+- affiliation:
+  - name: Medical Research Council (MRC) Integrative Epidemiology Unit, Population
+      Health Sciences, Bristol Medical School, University of Bristol, Bristol, United
+      Kingdom
+  family: Tan
+  given: Vanessa Y
+- affiliation:
+  - name: Medical Research Council (MRC) Integrative Epidemiology Unit, Population
+      Health Sciences, Bristol Medical School, University of Bristol, Bristol, United
+      Kingdom
+  family: Yarmolinsky
+  given: James
+- affiliation:
+  - name: Medical Research Council (MRC) Integrative Epidemiology Unit, Population
+      Health Sciences, Bristol Medical School, University of Bristol, Bristol, United
+      Kingdom
+  family: Shihab
+  given: Hashem A
+- affiliation:
+  - name: Medical Research Council (MRC) Integrative Epidemiology Unit, Population
+      Health Sciences, Bristol Medical School, University of Bristol, Bristol, United
+      Kingdom
+  family: Timpson
+  given: Nicholas J
+- affiliation:
+  - name: Medical Research Council (MRC) Integrative Epidemiology Unit, Population
+      Health Sciences, Bristol Medical School, University of Bristol, Bristol, United
+      Kingdom
+  - name: University of Queensland Diamantina Institute, Translational Research Institute,
+      Brisbane, Australia
+  family: Evans
+  given: David M
+- affiliation:
+  - name: Medical Research Council (MRC) Integrative Epidemiology Unit, Population
+      Health Sciences, Bristol Medical School, University of Bristol, Bristol, United
+      Kingdom
+  family: Relton
+  given: Caroline
+- affiliation:
+  - name: Medical Research Council (MRC) Integrative Epidemiology Unit, Population
+      Health Sciences, Bristol Medical School, University of Bristol, Bristol, United
+      Kingdom
+  family: Martin
+  given: Richard M
+- affiliation:
+  - name: Medical Research Council (MRC) Integrative Epidemiology Unit, Population
+      Health Sciences, Bristol Medical School, University of Bristol, Bristol, United
+      Kingdom
+  family: Davey Smith
+  given: George
+- affiliation:
+  - name: Medical Research Council (MRC) Integrative Epidemiology Unit, Population
+      Health Sciences, Bristol Medical School, University of Bristol, Bristol, United
+      Kingdom
+  family: Gaunt
+  given: Tom R
+- affiliation:
+  - name: Medical Research Council (MRC) Integrative Epidemiology Unit, Population
+      Health Sciences, Bristol Medical School, University of Bristol, Bristol, United
+      Kingdom
+  family: Haycock
+  given: Philip C
+citations:
+- article-title: A global reference for human genetic variation
+  author: 1000 Genomes Project Consortium
+  doi: 10.1038/nature15393
+  first-page: '68'
+  journal-title: Nature
+  volume: '526'
+  year: '2015'
+- article-title: Estimating the Payoff to Schooling Using the Vietnam-Era Draft Lottery
+  author: Angrist
+  unstructured: Angrist JD, Krueger AB. 1992. Estimating the Payoff to Schooling Using
+    the Vietnam-Era Draft Lottery. http://www.nber.org/papers/w4067 [Accessed February
+    1, 2018].
+  year: '1992'
+- article-title: Split-sample instrumental variables estimates of the return to schooling
+  author: Angrist
+  first-page: '225'
+  journal-title: Journal of Business & Economic Statistics
+  volume: '13'
+  year: '1995'
+- article-title: 'GWAS Central: a comprehensive resource for the comparison and interrogation
+    of genome-wide association studies'
+  author: Beck
+  doi: 10.1038/ejhg.2013.274
+  first-page: '949'
+  journal-title: European Journal of Human Genetics
+  volume: '22'
+  year: '2014'
+- article-title: 'FINEMAP: efficient variable selection using summary data from genome-wide
+    association studies'
+  author: Benner
+  doi: 10.1093/bioinformatics/btw018
+  first-page: '1493'
+  journal-title: Bioinformatics
+  volume: '32'
+  year: '2016'
+- article-title: 'Mendelian randomization with invalid instruments: effect estimation
+    and bias detection through Egger regression'
+  author: Bowden
+  doi: 10.1093/ije/dyv080
+  first-page: '512'
+  journal-title: International Journal of Epidemiology
+  volume: '44'
+  year: '2015'
+- article-title: Consistent Estimation in Mendelian Randomization with Some Invalid
+    Instruments Using a Weighted Median Estimator
+  author: Bowden
+  doi: 10.1002/gepi.21965
+  first-page: '304'
+  journal-title: Genetic Epidemiology
+  volume: '40'
+  year: '2016'
+- article-title: A framework for the investigation of pleiotropy in two-sample summary
+    data Mendelian randomization
+  author: Bowden
+  doi: 10.1002/sim.7221
+  first-page: '1783'
+  journal-title: Statistics in Medicine
+  volume: '36'
+  year: '2017'
+- article-title: 'Assessing the suitability of summary data for two-sample Mendelian
+    randomization analyses using MR-Egger regression: the role of the I2 statistic'
+  author: Bowden
+  doi: 10.1093/ije/dyw220
+  first-page: '1961'
+  journal-title: International Journal of Epidemiology
+  volume: '45'
+  year: '2016'
+- article-title: 'Unbiased estimation of odds ratios: combining genomewide association
+    scans with replication studies'
+  author: Bowden
+  doi: 10.1002/gepi.20394
+  first-page: '406'
+  journal-title: Genetic Epidemiology
+  volume: '33'
+  year: '2009'
+- article-title: Improving the visualisation, interpretation and analysis of two-sample
+    summary data mendelian randomization via the radial plot and radial regression
+  author: Bowden
+  doi: 10.1101/200378
+  volume-title: BioRxiv
+  year: '2017'
+- article-title: An atlas of genetic correlations across human diseases and traits
+  author: Bulik-Sullivan
+  doi: 10.1038/ng.3406
+  first-page: '1236'
+  journal-title: Nature Genetics
+  volume: '47'
+  year: '2015'
+- article-title: 'Beyond Mendelian randomization: how to interpret evidence of shared
+    genetic predictors'
+  author: Burgess
+  doi: 10.1016/j.jclinepi.2015.08.001
+  first-page: '208'
+  journal-title: Journal of Clinical Epidemiology
+  volume: '69'
+  year: '2016'
+- article-title: Using multivariable mendelian randomization to disentangle the causal
+    effects of lipid fractions
+  author: Burgess
+  doi: 10.1371/journal.pone.0108891
+  first-page: e108891
+  journal-title: PLoS ONE
+  volume: '9'
+  year: '2014'
+- article-title: Avoiding bias from weak instruments in Mendelian randomization studies
+  author: Burgess
+  doi: 10.1093/ije/dyr036
+  first-page: '755'
+  journal-title: International Journal of Epidemiology
+  volume: '40'
+  year: '2011'
+- article-title: Genome-wide genetic data on ~500,000 UK Biobank participants
+  author: Bycroft
+  doi: 10.1101/166298
+  volume-title: bioRxiv
+  year: '2017'
+- article-title: Rapid GWAS of thousands of phenotypes for 337,000 samples in the
+    UK Biobank
+  author: Churchhouse
+  unstructured: Churchhouse C, Neale B. 2017. Rapid GWAS of thousands of phenotypes
+    for 337,000 samples in the UK Biobank. Neale Lab. http://www.nealelab.is/blog/2017/7/19/rapid-gwas-of-thousands-of-phenotypes-for-337000-samples-in-the-uk-biobank
+    [Accessed 14, December 2017].
+  volume-title: Neale Lab
+  year: '2017'
+- article-title: Epidemiology--is it time to call it a day?
+  author: Davey Smith
+  doi: 10.1093/ije/30.1.1
+  first-page: '1'
+  journal-title: International Journal of Epidemiology
+  volume: '30'
+  year: '2001'
+- article-title: '''Mendelian randomization'': can genetic epidemiology contribute
+    to understanding environmental determinants of disease?'
+  author: Davey Smith
+  doi: 10.1093/ije/dyg070
+  first-page: '1'
+  journal-title: International Journal of Epidemiology
+  volume: '32'
+  year: '2003'
+- article-title: 'Mendelian randomization: genetic anchors for causal inference in
+    epidemiological studies'
+  author: Davey Smith
+  doi: 10.1093/hmg/ddu328
+  first-page: R89
+  journal-title: Human Molecular Genetics
+  volume: '23'
+  year: '2014'
+- article-title: Genetic studies of plasma analytes identify novel potential biomarkers
+    for several complex traits
+  author: Deming
+  doi: 10.1038/srep18092
+  journal-title: Scientific Reports
+  volume: '6'
+  year: '2016'
+- article-title: 'PheWAS: demonstrating the feasibility of a phenome-wide scan to
+    discover gene-disease associations'
+  author: Denny
+  doi: 10.1093/bioinformatics/btq126
+  first-page: '1205'
+  journal-title: Bioinformatics
+  volume: '26'
+  year: '2010'
+- article-title: Major lipids, apolipoproteins, and risk of vascular disease
+  author: Di Angelantonio
+  doi: 10.1001/jama.2009.1619
+  first-page: '1993'
+  journal-title: JAMA
+  volume: '302'
+  year: '2009'
+- article-title: Common variants associated with plasma triglycerides and risk for
+    coronary artery disease
+  author: Do
+  doi: 10.1038/ng.2795
+  first-page: '1345'
+  journal-title: Nature Genetics
+  volume: '45'
+  year: '2013'
+- article-title: Power and predictive accuracy of polygenic risk scores
+  author: Dudbridge
+  doi: 10.1371/journal.pgen.1003348
+  journal-title: PLoS Genetics
+  volume: '9'
+  year: '2013'
+- article-title: Mapping identifiers for the integration of genomic datasets with
+    the R/Bioconductor package biomaRt
+  author: Durinck
+  doi: 10.1038/nprot.2009.97
+  first-page: '1184'
+  journal-title: Nature Protocols
+  volume: '4'
+  year: '2009'
+- article-title: 'PRSice: Polygenic Risk Score software'
+  author: Euesden
+  doi: 10.1093/bioinformatics/btu848
+  first-page: '1466'
+  journal-title: Bioinformatics
+  volume: '31'
+  year: '2015'
+- article-title: Systematic identification of genetic influences on methylation across
+    the human life course
+  author: Gaunt
+  doi: 10.1186/s13059-016-0926-z
+  journal-title: Genome Biology
+  volume: '17'
+  year: '2016'
+- article-title: Bayesian test for colocalisation between pairs of genetic association
+    studies using summary statistics
+  author: Giambartolomei
+  doi: 10.1371/journal.pgen.1004383
+  journal-title: PLoS Genetics
+  volume: '10'
+  year: '2014'
+- article-title: 'Human genomics. The Genotype-Tissue Expression (GTEx) pilot analysis:
+    multitissue gene regulation in humans'
+  author: GTEx Consortium
+  doi: 10.1126/science.1262110
+  first-page: '648'
+  journal-title: Science
+  volume: '348'
+  year: '2015'
+- article-title: Integrative approaches for large-scale transcriptome-wide association
+    studies
+  author: Gusev
+  doi: 10.1038/ng.3506
+  first-page: '245'
+  journal-title: Nature Genetics
+  volume: '48'
+  year: '2016'
+- article-title: 'Pleiotropic Effects of Trait-Associated Genetic Variation on DNA
+    Methylation: Utility for Refining GWAS Loci'
+  author: Hannon
+  doi: 10.1016/j.ajhg.2017.04.013
+  first-page: '954'
+  journal-title: The American Journal of Human Genetics
+  volume: '100'
+  year: '2017'
+- article-title: 'Inflammatory Biomarkers and Risk of Schizophrenia: A 2-Sample Mendelian
+    Randomization Study'
+  author: Hartwig
+  doi: 10.1001/jamapsychiatry.2017.3191
+  journal-title: JAMA Psychiatry
+  volume: '74'
+  year: '2017'
+- article-title: Robust inference in summary data Mendelian randomization via the
+    zero modal pleiotropy assumption
+  author: Hartwig
+  doi: 10.1093/ije/dyx102
+  first-page: '1985'
+  journal-title: International Journal of Epidemiology
+  volume: '46'
+  year: '2017'
+- article-title: 'Two-sample Mendelian randomization: avoiding the downsides of a
+    powerful, widely applicable but potentially fallible technique'
+  author: Hartwig
+  doi: 10.1093/ije/dyx028
+  first-page: '1717'
+  journal-title: International Journal of Epidemiology
+  volume: '45'
+  year: '2016'
+- article-title: 'Association Between Telomere Length and Risk of Cancer and Non-Neoplastic
+    Diseases: A Mendelian Randomization Study'
+  author: Haycock
+  doi: 10.1001/jamaoncol.2016.5945
+  first-page: '636'
+  journal-title: JAMA Oncology
+  volume: '3'
+  year: '2017'
+- article-title: 'Best (but oft-forgotten) practices: the design, analysis, and interpretation
+    of Mendelian randomization studies'
+  author: Haycock
+  doi: 10.3945/ajcn.115.118216
+  first-page: '965'
+  journal-title: The American Journal of Clinical Nutrition
+  volume: '103'
+  year: '2016'
+- article-title: Automating Mendelian randomization through machine learning to construct
+    a putative causal map of the human phenome
+  author: Hemani
+  doi: 10.1101/173682
+  volume-title: bioRxiv
+  year: '2017'
+- article-title: Orienting the causal relationship between imprecisely measured traits
+    using GWAS summary data
+  author: Hemani
+  doi: 10.1371/journal.pgen.1007081
+  journal-title: PLoS Genetics
+  volume: '13'
+  year: '2017'
+- article-title: Analysis for MR Base methods paper
+  author: Hemani
+  unstructured: Hemani G. 2018. Analysis for MR Base methods paper. GitHub. 56a955c.
+    https://github.com/explodecomputer/mr-base-methods-paper.
+  volume-title: GitHub
+  year: '2018'
+- article-title: 'Mendelian randomization in cardiometabolic disease: challenges in
+    evaluating causality'
+  author: Holmes
+  doi: 10.1038/nrcardio.2017.78
+  first-page: '577'
+  journal-title: Nature Reviews Cardiology
+  volume: '14'
+  year: '2017'
+- article-title: 'Retraction: A significant causal association between C-reactive
+    protein levels and schizophrenia'
+  author: Inoshita
+  doi: 10.1038/srep46947
+  journal-title: Scientific Reports
+  volume: '8'
+  year: '2018'
+- article-title: Efficient calculation for Multi-SNP genetic risk scores
+  author: Johnson
+  unstructured: Johnson T. 2012. Efficient calculation for Multi-SNP genetic risk
+    scores. American Society of Human Genetics Annual Meeting. http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.398.7674.
+  year: '2012'
+- article-title: Genome-Wide association analyses in 128,266 individuals identifies
+    new morningness and sleep duration loci
+  author: Jones
+  doi: 10.1371/journal.pgen.1006125
+  first-page: e1006125
+  journal-title: PLOS Genetics
+  volume: '12'
+  year: '2016'
+- article-title: Instrumental Variables Estimation with Some Invalid Instruments and
+    its Application to Mendelian
+  author: Kang
+  unstructured: Kang H, Zhang A, Cai TT, Small DS. 2014. Instrumental Variables Estimation
+    with Some Invalid Instruments and its Application to Mendelian. arXiv. https://arxiv.org/abs/1401.5755.
+  volume-title: arXiv
+  year: '2014'
+- article-title: Genome-wide study for circulating metabolites identifies 62 loci
+    and reveals novel systemic effects of LPA
+  author: Kettunen
+  doi: 10.1038/ncomms11122
+  journal-title: Nature Communications
+  volume: '7'
+  year: '2016'
+- article-title: 'Mendelian randomization: using genes as instruments for making causal
+    inferences in epidemiology'
+  author: Lawlor
+  doi: 10.1002/sim.3034
+  first-page: '1133'
+  journal-title: Statistics in Medicine
+  volume: '27'
+  year: '2008'
+- article-title: Triangulation in aetiological epidemiology
+  author: Lawlor
+  doi: 10.1093/ije/dyw314
+  first-page: '1866'
+  journal-title: International Journal of Epidemiology
+  volume: '45'
+  year: '2016'
+- article-title: 'GWASdb v2: an update database for human genetic variants identified
+    by genome-wide association studies'
+  author: Li
+  doi: 10.1093/nar/gkv1317
+  first-page: D869
+  journal-title: Nucleic Acids Research
+  volume: '44'
+  year: '2016'
+- article-title: 'MR-PheWAS: hypothesis prioritization among potential causal effects
+    of body mass index on many outcomes, using Mendelian randomization'
+  author: Millard
+  doi: 10.1038/srep16645
+  journal-title: Scientific Reports
+  volume: '5'
+  year: '2015'
+- article-title: 'Software Application Profile: PHESANT: a tool for performing automated
+    phenome scans in UK Biobank'
+  author: Millard
+  doi: 10.1093/ije/dyx204
+  journal-title: International Journal of Epidemiology
+  year: '2017'
+- article-title: Robust research needs many lines of evidence
+  author: Munafò
+  doi: 10.1038/d41586-018-01023-3
+  first-page: '399'
+  journal-title: Nature
+  volume: '553'
+  year: '2018'
+- article-title: 'JAM: A Scalable Bayesian Framework for Joint Analysis of Marginal
+    SNP Effects'
+  author: Newcombe
+  doi: 10.1002/gepi.21953
+  first-page: '188'
+  journal-title: Genetic Epidemiology
+  volume: '40'
+  year: '2016'
+- article-title: A comprehensive 1,000 Genomes-based genome-wide association meta-analysis
+    of coronary artery disease
+  author: Nikpay
+  doi: 10.1038/ng.3396
+  first-page: '1121'
+  journal-title: Nature Genetics
+  volume: '47'
+  year: '2015'
+- article-title: Dissecting the genetics of complex traits using summary association
+    statistics
+  author: Pasaniuc
+  doi: 10.1038/nrg.2016.142
+  first-page: '117'
+  journal-title: Nature Reviews Genetics
+  volume: '18'
+  year: '2017'
+- article-title: Detection and interpretation of shared genetic influences on 42 human
+    traits
+  author: Pickrell
+  doi: 10.1038/ng.3570
+  first-page: '709'
+  journal-title: Nature Genetics
+  volume: '48'
+  year: '2016'
+- article-title: 'Efficient design for Mendelian randomization studies: subsample
+    and 2-sample instrumental variable estimators'
+  author: Pierce
+  doi: 10.1093/aje/kwt084
+  first-page: '1177'
+  journal-title: American Journal of Epidemiology
+  volume: '178'
+  year: '2013'
+- article-title: 'Human longevity is influenced by many genetic variants: evidence
+    from 75,000 UK biobank participants'
+  author: Pilling
+  doi: 10.18632/aging.100930
+  first-page: '547'
+  journal-title: Aging
+  volume: '8'
+  year: '2016'
+- article-title: Mendelian randomization analysis identifies CpG sites as putative
+    mediators for genetic influences on cardiovascular disease risk
+  author: Richardson
+  doi: 10.1016/j.ajhg.2017.09.003
+  first-page: '590'
+  journal-title: The American Journal of Human Genetics
+  volume: '101'
+  year: '2017'
+- article-title: 'The genetic architecture of the human immune system: a bioresource
+    for autoimmunity and disease pathogenesis'
+  author: Roederer
+  doi: 10.1016/j.cell.2015.02.046
+  first-page: '387'
+  journal-title: Cell
+  volume: '161'
+  year: '2015'
+- article-title: 'Statins and risk of incident diabetes: a collaborative meta-analysis
+    of randomised statin trials'
+  author: Sattar
+  doi: 10.1016/S0140-6736(09)61965-6
+  first-page: '735'
+  journal-title: Lancet
+  volume: '375'
+  year: '2010'
+- article-title: 'PCSK9 genetic variants and risk of type 2 diabetes: a mendelian
+    randomisation study'
+  author: Schmidt
+  doi: 10.1016/S2213-8587(16)30396-5
+  first-page: '97'
+  journal-title: The Lancet Diabetes & Endocrinology
+  volume: '5'
+  year: '2017'
+- article-title: An atlas of genetic influences on human blood metabolites
+  author: Shin
+  doi: 10.1038/ng.2982
+  first-page: '543'
+  journal-title: Nature Genetics
+  volume: '46'
+  year: '2014'
+- article-title: 'Association Between Lowering LDL-C and Cardiovascular Risk Reduction
+    Among Different Therapeutic Interventions: A Systematic Review and Meta-analysis'
+  author: Silverman
+  doi: 10.1001/jama.2016.13985
+  first-page: '1289'
+  journal-title: JAMA
+  volume: '316'
+  year: '2016'
+- article-title: 'PhenoScanner: a database of human genotype-phenotype associations'
+  author: Staley
+  doi: 10.1093/bioinformatics/btw373
+  first-page: '3207'
+  journal-title: Bioinformatics
+  volume: '32'
+  year: '2016'
+- article-title: Recommendations for examining and interpreting funnel plot asymmetry
+    in meta-analyses of randomised controlled trials
+  author: Sterne
+  doi: 10.1136/bmj.d4002
+  journal-title: BMJ
+  volume: '343'
+  year: '2011'
+- article-title: Selecting instruments for Mendelian randomization in the wake of
+    genome-wide association studies
+  author: Swerdlow
+  doi: 10.1093/ije/dyw088
+  first-page: '1600'
+  journal-title: International Journal of Epidemiology
+  volume: '45'
+  year: '2016'
+- article-title: 'HMG-coenzyme A reductase inhibition, type 2 diabetes, and bodyweight:
+    evidence from genetic analysis and randomised trials'
+  author: Swerdlow
+  doi: 10.1016/S0140-6736(14)61183-1
+  first-page: '351'
+  journal-title: Lancet
+  volume: '385'
+  year: '2015'
+- article-title: Methodological challenges in mendelian randomization
+  author: VanderWeele
+  doi: 10.1097/EDE.0000000000000081
+  first-page: '427'
+  journal-title: Epidemiology
+  volume: '25'
+  year: '2014'
+- article-title: Detection of widespread horizontal pleiotropy in causal relationships
+    inferred from Mendelian randomization between complex traits and diseases
+  author: Verbanck
+  doi: 10.1038/s41588-018-0099-7
+  first-page: '693'
+  journal-title: Nature Genetics
+  year: '2018'
+- article-title: Five years of GWAS discovery
+  author: Visscher
+  doi: 10.1016/j.ajhg.2011.11.029
+  first-page: '7'
+  journal-title: The American Journal of Human Genetics
+  volume: '90'
+  year: '2012'
+- article-title: '10 Years of GWAS Discovery: Biology, Function, and Translation'
+  author: Visscher
+  doi: 10.1016/j.ajhg.2017.06.005
+  first-page: '5'
+  journal-title: The American Journal of Human Genetics
+  volume: '101'
+  year: '2017'
+- article-title: The NHGRI GWAS Catalog, a curated resource of SNP-trait associations
+  author: Welter
+  doi: 10.1093/nar/gkt1229
+  first-page: D1001
+  journal-title: Nucleic Acids Research
+  volume: '42'
+  year: '2014'
+- article-title: Association of Lipid Fractions With Risks for Coronary Artery Disease
+    and Diabetes
+  author: White
+  doi: 10.1001/jamacardio.2016.1884
+  first-page: '692'
+  journal-title: JAMA Cardiology
+  volume: '1'
+  year: '2016'
+- article-title: Discovery and refinement of loci associated with lipid levels
+  author: Willer
+  doi: 10.1038/ng.2797
+  first-page: '1274'
+  journal-title: Nature Genetics
+  volume: '45'
+  year: '2013'
+- article-title: Variants in the FTO and CDKAL1 loci have recessive effects on risk
+    of obesity and type 2 diabetes, respectively
+  author: Wood
+  doi: 10.1007/s00125-016-3908-5
+  first-page: '1214'
+  journal-title: Diabetologia
+  volume: '59'
+  year: '2016'
+- article-title: 'MendelianRandomization: an R package for performing Mendelian randomization
+    analyses using summarized data'
+  author: Yavorska
+  doi: 10.1093/ije/dyx034
+  first-page: '1734'
+  journal-title: International Journal of Epidemiology
+  volume: '46'
+  year: '2017'
+- article-title: Statistical inference in two-sample summary-data Mendelian randomization
+    using robust adjusted profile score
+  author: Zhao
+  unstructured: Zhao Q, Wang J, Hemani G, Bowden J, Small DS. 2018. Statistical inference
+    in two-sample summary-data Mendelian randomization using robust adjusted profile
+    score. arXiv. https://arxiv.org/abs/1801.09652.
+  volume-title: arXiv
+  year: '2018'
+- article-title: Recent developments in mendelian randomization studies
+  author: Zheng
+  doi: 10.1007/s40471-017-0128-6
+  first-page: '330'
+  journal-title: Current Epidemiology Reports
+  volume: '4'
+  year: '2017'
+- article-title: 'LD Hub: a centralized database and web interface to perform LD score
+    regression that maximizes the potential of summary level GWAS data for SNP heritability
+    and genetic correlation analysis'
+  author: Zheng
+  doi: 10.1093/bioinformatics/btw613
+  first-page: '272'
+  journal-title: Bioinformatics
+  volume: '33'
+  year: '2017'
+- article-title: Integration of summary data from GWAS and eQTL studies predicts complex
+    trait gene targets
+  author: Zhu
+  doi: 10.1038/ng.3538
+  first-page: '481'
+  journal-title: Nature genetics
+  volume: '48'
+  year: '2016'
+- article-title: 'Overcoming the winner''s curse: estimating penetrance parameters
+    from case-control data'
+  author: Zollner
+  doi: 10.1086/512821
+  first-page: '605'
+  journal-title: The American Journal of Human Genetics
+  volume: '80'
+  year: '2007'
+doc_url: https://elifesciences.org/articles/34408
+doi: 10.7554/elife.34408
+files: []
+journal: eLife
+language: en
+month: 5
+papis_id: 469602b3af872447a854a6ed544f1172
+publisher: eLife Sciences Publications, Ltd
+ref: TheMrBasePlaHemani2018
+time-added: 2023-12-19-14:14:04
+title: The MR-Base platform supports systematic causal inference across the human
+  phenome
+type: article
+url: http://dx.doi.org/10.7554/elife.34408
+volume: '7'
+year: 2018

@@ -1,0 +1,183 @@
+abstract: '<jats:p>Genome-wide association study (GWAS) summary statistics are a fundamental
+  resource for a variety of research applications <jats:sup>1–6</jats:sup>. Yet despite
+  their widespread utility, no common storage format has been widely adopted, hindering
+  tool development and data sharing, analysis and integration. Existing tabular formats
+  <jats:sup>7,8</jats:sup> often ambiguously or incompletely store information about
+  genetic variants and their associations, and also lack essential metadata increasing
+  the possibility of errors in data interpretation and post-GWAS analyses. Additionally,
+  data in these formats are typically not indexed, requiring the whole file to be
+  read which is computationally inefficient. To address these issues, we propose an
+  adaptation of the variant call format<jats:sup>9</jats:sup> (GWAS-VCF) and have
+  produced a suite of open-source tools for using this format in downstream analyses.
+  Simulation studies determine GWAS-VCF is 9-46x faster than tabular alternatives
+  when extracting variant(s) by genomic position. Our results demonstrate the GWAS-VCF
+  provides a robust and performant solution for sharing, analysis and integration
+  of GWAS data. We provide open access to over 10,000 complete GWAS summary datasets
+  converted to this format (available from: <jats:ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+  ext-link-type="uri" xlink:href="https://gwas.mrcieu.ac.uk">https://gwas.mrcieu.ac.uk</jats:ext-link>).</jats:p>'
+author: Lyon, Matthew and Andrews, Shea J and Elsworth, Ben and Gaunt, Tom R and Hemani,
+  Gibran and Marcora, Edoardo
+author_list:
+- affiliation: []
+  family: Lyon
+  given: Matthew
+- affiliation: []
+  family: Andrews
+  given: Shea J
+- affiliation: []
+  family: Elsworth
+  given: Ben
+- affiliation: []
+  family: Gaunt
+  given: Tom R
+- affiliation: []
+  family: Hemani
+  given: Gibran
+- affiliation: []
+  family: Marcora
+  given: Edoardo
+citations:
+- article-title: A review of post-GWAS prioritization approaches
+  first-page: '280'
+  journal-title: Front. Genet.
+  volume: '4'
+  year: '2013'
+- doi: 10.1038/ng.3404
+- doi: 10.1016/j.ajhg.2017.06.005
+- doi: 10.1093/ije/dyg070
+- doi: 10.1038/ng.3211
+- doi: 10.1038/ng.3941
+- doi: 10.1093/nar/gky1120
+- doi: 10.1038/ng.3538
+- doi: 10.1093/bioinformatics/btr330
+- doi: 10.1086/519795
+- doi: 10.1016/j.ajhg.2010.11.011
+- doi: 10.1038/ng.3190
+- doi: 10.1038/ng.2310
+- first-page: '1353'
+  journal-title: 'Gene expression Matrix eQTL: ultra fast eQTL analysis via large
+    matrix operations'
+  volume: '28'
+  year: '2012'
+- article-title: 'METAL: fast and efficient meta-analysis of genomewide association
+    scans'
+  doi: 10.1093/bioinformatics/btq340
+  first-page: '2190'
+  journal-title: Bioinforma. Appl. NOTE
+  volume: '26'
+  year: '2010'
+- doi: 10.1093/ije/dyx028
+- first-page: '1112'
+  journal-title: Databases and ontologies Modeling sample variables with an Experimental
+    Factor Ontology
+  volume: '26'
+  year: '2010'
+- doi: 10.1093/nar/gky1105
+- unstructured: 'Medical Subject Headings - Home Page. Available at: https://www.nlm.nih.gov/mesh/meshhome.html.
+    (Accessed: 16th April 2020)'
+- doi: 10.1093/nar/29.1.308
+  unstructured: 'Sherry, S. T. et al. dbSNP: the NCBI database of genetic variation.
+    Nucleic Acids Research 29, (2001).'
+- unstructured: 'bioinformed/vgraph: vgraph is a command line application and Python
+    library to compare genetic variants using variant graphs. “vgraph” utilizes a
+    graph representation of genomic variants in to precisely compare complex variants
+    that are refractory to comparison by conventional comparison methods. Available
+    at: https://github.com/bioinformed/vgraph. (Accessed: 5th May 2020)'
+- article-title: 'Tabix: fast retrieval of sequence features from generic TAB-delimited
+    files'
+  doi: 10.1093/bioinformatics/btq671
+  first-page: '718'
+  journal-title: Bioinforma. Appl. NOTE
+  volume: '27'
+  year: '2011'
+- unstructured: 'bioforensics/rsidx: Library for indexing VCF files for random access
+    searches by rsID. Available at: https://github.com/bioforensics/rsidx. (Accessed:
+    5th March 2020)'
+- doi: 10.1093/bioinformatics/btr509
+- doi: 10.1101/gr.107524.110
+- article-title: 'BEDTools: a flexible suite of utilities for comparing genomic features'
+  doi: 10.1093/bioinformatics/btq033
+  first-page: '841'
+  journal-title: Bioinforma. Appl. NOTE
+  volume: '26'
+  year: '2010'
+- doi: 10.1093/nar/gkw1133
+- doi: 10.1093/bioinformatics/btw018
+- doi: 10.1371/journal.pgen.1004722
+- doi: 10.1016/j.ajhg.2015.06.007
+- doi: 10.1093/bioinformatics/btw615
+- doi: 10.1534/genetics.114.167908
+- doi: 10.1002/gepi.21765
+- doi: 10.7554/eLife.34408
+  unstructured: Hemani, G. et al. The MR-base platform supports systematic causal
+    inference across the human phenome. Elife 7, (2018).
+- unstructured: 'jrs95/gassocplot: Regional association plotter for genetic and epigenetic
+    data. Available at: https://github.com/jrs95/gassocplot. (Accessed: 21st April
+    2020)'
+- doi: 10.1093/bioinformatics/btw613
+- doi: 10.1101/173682
+- doi: 10.1038/s41467-019-13889-6
+- doi: 10.7554/eLife.43657
+  unstructured: Richardson, T. G. , Harrison, S. , Hemani, G. & Smith, G. D. An atlas
+    of polygenic risk score associations to highlight putative causal relationships
+    across the human phenome. Elife 8, (2019).
+- unstructured: 'UK Biobank – Neale lab. Available at: http://www.nealelab.is/uk-biobank/.
+    (Accessed: 25th February 2020)'
+- article-title: The Sequence Alignment/Map format and SAMtools
+  doi: 10.1093/bioinformatics/btp352
+  first-page: '2078'
+  journal-title: Bioinforma. Appl. NOTE
+  volume: '25'
+  year: '2009'
+- first-page: '2076'
+  journal-title: 'Sequence analysis VariantAnnotation: a Bioconductor package for
+    exploration and annotation of genetic variants'
+  volume: '30'
+  year: '2014'
+- unstructured: 'Gentleman, R. C. et al. Open Access Bioconductor: open software development
+    for computational biology and bioinformatics. Genome Biology 5, (2004).'
+- doi: 10.1038/nmeth.3252
+- unstructured: 'Bioconductor - Home. Available at: https://www.bioconductor.org/.
+    (Accessed: 27th March 2020)'
+- unstructured: 'pysam-developers/pysam: Pysam is a Python module for reading and
+    manipulating SAM/BAM/VCF/BCF files. It’s a lightweight wrapper of the htslib C-API,
+    the same one that powers samtools, bcftools, and tabix. Available at: https://github.com/pysam-developers/pysam.
+    (Accessed: 10th March 2020)'
+- unstructured: 'IEU GWAS database. Available at: https://gwas.mrcieu.ac.uk/. (Accessed:
+    10th March 2020)'
+- unstructured: 'broadinstitute/picard: A set of command line tools (in Java) for
+    manipulating high-throughput sequencing (HTS) data and formats such as SAM/BAM/CRAM
+    and VCF. Available at: https://github.com/broadinstitute/picard. (Accessed: 25th
+    February 2020)'
+- unstructured: 'GenomicsDB/GenomicsDB: Highly performant data storage in C++ for
+    importing, querying and transforming variant data with Java/Spark. Used in gatk4.
+    Available at: https://github.com/GenomicsDB/GenomicsDB. (Accessed: 25th February
+    2020)'
+- article-title: Van Der. GATK4 + WDL + Cromwell
+  first-page: '4'
+  journal-title: F1000Research
+  volume: '6'
+  year: '2017'
+- article-title: A standardized framework for representation of ancestry data in genomics
+    studies, with application to the NHGRI-EBI GWAS Catalog
+  doi: 10.1186/s13059-018-1396-2
+  first-page: '21'
+  journal-title: Genome Biol.
+  volume: '19'
+  year: '2018'
+- doi: 10.1002/humu.22981
+- doi: 10.1093/bioinformatics/btz856
+- doi: 10.5281/ZENODO.3572974
+doc_url: https://syndication.highwire.org/content/doi/10.1101/2020.05.29.115824
+doi: 10.1101/2020.05.29.115824
+files: []
+month: 5
+papis_id: e967faef07c1aa95c3b41b13e0d52934
+publisher: Cold Spring Harbor Laboratory
+ref: TheVariantCalLyon2020
+time-added: 2023-12-19-14:14:32
+title: The variant call format provides efficient and robust storage of GWAS summary
+  statistics
+type: misc
+url: http://dx.doi.org/10.1101/2020.05.29.115824
+year: 2020
