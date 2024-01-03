@@ -1,0 +1,217 @@
+abstract: "<jats:title>Abstract</jats:title>\n               <jats:p>SwissTargetPrediction\
+  \ is a web tool, on-line since 2014, that aims to predict the most probable protein\
+  \ targets of small molecules. Predictions are based on the similarity principle,\
+  \ through reverse screening. Here, we describe the 2019 version, which represents\
+  \ a major update in terms of underlying data, backend and web interface. The bioactivity\
+  \ data were updated, the model retrained and similarity thresholds redefined. In\
+  \ the new version, the predictions are performed by searching for similar molecules,\
+  \ in 2D and 3D, within a larger collection of 376 342 compounds known to be experimentally\
+  \ active on an extended set of 3068 macromolecular targets. An efficient backend\
+  \ implementation allows to speed up the process that returns results for a druglike\
+  \ molecule on human proteins in 15–20 s. The refreshed web interface enhances user\
+  \ experience with new features for easy input and improved analysis. Interoperability\
+  \ capacity enables straightforward submission of any input or output molecule to\
+  \ other on-line computer-aided drug design tools, developed by the SIB Swiss Institute\
+  \ of Bioinformatics. High levels of predictive performance were maintained despite\
+  \ more extended biological and chemical spaces to be explored, e.g. achieving at\
+  \ least one correct human target in the top 15 predictions for &gt;70% of external\
+  \ compounds. The new SwissTargetPrediction is available free of charge (www.swisstargetprediction.ch).</jats:p>"
+author: Daina, Antoine and Michielin, Olivier and Zoete, Vincent
+author_list:
+- affiliation:
+  - name: Molecular Modeling Group, SIB Swiss Institute of Bioinformatics, University
+      of Lausanne, Quartier UNIL-Sorge, Bâtiment Amphipôle, CH-1015 Lausanne, Switzerland
+  family: Daina
+  given: Antoine
+- affiliation:
+  - name: Molecular Modeling Group, SIB Swiss Institute of Bioinformatics, University
+      of Lausanne, Quartier UNIL-Sorge, Bâtiment Amphipôle, CH-1015 Lausanne, Switzerland
+  - name: Department of Oncology, University Hospital of Lausanne, Ludwig Cancer Research
+      – Lausanne Branch, CH-1011 Lausanne, Switzerland
+  family: Michielin
+  given: Olivier
+- affiliation:
+  - name: Molecular Modeling Group, SIB Swiss Institute of Bioinformatics, University
+      of Lausanne, Quartier UNIL-Sorge, Bâtiment Amphipôle, CH-1015 Lausanne, Switzerland
+  - name: Department of Fundamental Oncology, University of Lausanne, Ludwig Cancer
+      Research – Lausanne Branch, Route de la Corniche 9A, CH-1066 Epalinges, Switzerland
+  family: Zoete
+  given: Vincent
+citations:
+- article-title: In silico target prediction for small molecules
+  author: Byrne
+  doi: 10.1007/978-1-4939-8891-4_16
+  first-page: '273'
+  journal-title: Methods Mol. Biol.
+  volume: '1888'
+  year: '2019'
+- article-title: 'Computational polypharmacology: a new paradigm for drug discovery'
+  author: Chaudhari
+  doi: 10.1080/17460441.2017.1280024
+  first-page: '279'
+  journal-title: Expert Opin. Drug Discov.
+  volume: '12'
+  year: '2017'
+- article-title: 'In silico methods to address polypharmacology: current status, applications
+    and future perspectives'
+  author: Lavecchia
+  doi: 10.1016/j.drudis.2015.12.007
+  first-page: '288'
+  journal-title: Drug Discov. Today
+  volume: '21'
+  year: '2016'
+- article-title: Tools for in silico target fishing
+  author: Cereto-Massagué
+  doi: 10.1016/j.ymeth.2014.09.006
+  first-page: '98'
+  journal-title: Methods
+  volume: '71'
+  year: '2015'
+- article-title: 'Similarity-based machine learning methods for predicting drug-target
+    interactions: a brief review'
+  author: Ding
+  doi: 10.1093/bib/bbt056
+  first-page: '734'
+  journal-title: Brief. Bioinformatics
+  volume: '15'
+  year: '2014'
+- article-title: A comparison of some measures for the determination of inter-molecular
+    structural similarity measures of inter-molecular Structural Similarity
+  author: Willett
+  doi: 10.1002/qsar.19860050105
+  first-page: '18'
+  journal-title: Quant. Struct.-Act. Relat.
+  volume: '5'
+  year: '1986'
+- article-title: 'Molecular similarity: a basis for designing drug screening programs'
+  author: Johnson
+  first-page: '167'
+  journal-title: Prog. Clin. Biol. Res.
+  volume: '291'
+  year: '1989'
+- article-title: Shaping the interaction landscape of bioactive molecules
+  author: Gfeller
+  doi: 10.1093/bioinformatics/btt540
+  first-page: '3073'
+  journal-title: Bioinformatics
+  volume: '29'
+  year: '2013'
+- article-title: 'OpenBabel: An open chemical toolbox'
+  author: O’Boyle
+  doi: 10.1186/1758-2946-3-33
+  first-page: '33'
+  journal-title: J. Cheminform.
+  volume: '3'
+  year: '2011'
+- article-title: 'ElectroShape: fast molecular similarity calculations incorporating
+    shape, chirality and electrostatics'
+  author: Armstrong
+  doi: 10.1007/s10822-010-9374-0
+  first-page: '789'
+  journal-title: J. Comput. Aided Mol. Des.
+  volume: '24'
+  year: '2010'
+- article-title: 'Improving the accuracy of ultrafast ligand-based screening: incorporating
+    lipophilicity into ElectroShape as an extra dimension'
+  author: Armstrong
+  doi: 10.1007/s10822-011-9463-8
+  first-page: '785'
+  journal-title: J. Comput. Aided Mol. Des.
+  volume: '25'
+  year: '2011'
+- article-title: 'SwissTargetPrediction: a web server for target prediction of bioactive
+    small molecules'
+  author: Gfeller
+  doi: 10.1093/nar/gku293
+  first-page: W32
+  journal-title: Nucleic Acids Res.
+  volume: '42'
+  year: '2014'
+- article-title: Protein homology reveals new targets for bioactive small molecules
+  author: Gfeller
+  doi: 10.1093/bioinformatics/btv214
+  first-page: '2721'
+  journal-title: Bioinformatics
+  volume: '31'
+  year: '2015'
+- article-title: The ChEMBL database in 2017
+  author: Gaulton
+  doi: 10.1093/nar/gkw1074
+  first-page: D945
+  journal-title: Nucleic Acids Res.
+  volume: '45'
+  year: '2017'
+- article-title: 'ChEMBL: towards direct deposition of bioassay data'
+  author: Mendez
+  doi: 10.1093/nar/gky1075
+  first-page: D930
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2019'
+- article-title: SwissDock, a protein-small molecule docking web service based on
+    EADock DSS
+  author: Grosdidier
+  doi: 10.1093/nar/gkr366
+  first-page: W270
+  journal-title: Nucleic Acids Res.
+  volume: '39'
+  year: '2011'
+- article-title: 'SwissParam: a fast force field generation tool for small organic
+    molecules'
+  author: Zoete
+  doi: 10.1002/jcc.21816
+  first-page: '2359'
+  journal-title: J. Comput. Chem.
+  volume: '32'
+  year: '2011'
+- article-title: 'SwissSidechain: a molecular and structural database of non-natural
+    sidechains'
+  author: Gfeller
+  doi: 10.1093/nar/gks991
+  first-page: D327
+  journal-title: Nucleic Acids Res.
+  volume: '41'
+  year: '2013'
+- article-title: 'SwissBioisostere: a database of molecular replacements for ligand
+    design'
+  author: Wirth
+  doi: 10.1093/nar/gks1059
+  first-page: D1137
+  journal-title: Nucleic Acids Res.
+  volume: '41'
+  year: '2013'
+- article-title: 'SwissADME: a free web tool to evaluate pharmacokinetics, drug-likeness
+    and medicinal chemistry friendliness of small molecules'
+  author: Daina
+  doi: 10.1038/srep42717
+  first-page: '42717'
+  journal-title: Sci. Rep.
+  volume: '7'
+  year: '2017'
+- article-title: 'SwissSimilarity: a web tool for low to ultra high throughput ligand-based
+    virtual screening'
+  author: Zoete
+  doi: 10.1021/acs.jcim.6b00174
+  first-page: '1399'
+  journal-title: J. Chem. Inf. Comput. Sci.
+  volume: '56'
+  year: '2016'
+doc_url: http://academic.oup.com/nar/article-pdf/47/W1/W357/28880175/gkz382.pdf
+doi: 10.1093/nar/gkz382
+files:
+- swisstargetpreddaina2019.pdf
+issue: W1
+journal: Nucleic Acids Research
+language: en
+month: 7
+pages: W357--W364
+papis_id: 53893c42ef6f8b3522e5e21fd422a232
+publisher: Oxford University Press (OUP)
+ref: SwisstargetpredDaina2019
+time-added: 2024-01-03-12:01:56
+title: 'SwissTargetPrediction: updated data and new features for efficient prediction
+  of protein targets of small molecules'
+type: article
+url: http://dx.doi.org/10.1093/nar/gkz382
+volume: '47'
+year: 2019
