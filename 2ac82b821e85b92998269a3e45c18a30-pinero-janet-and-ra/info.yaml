@@ -1,0 +1,326 @@
+abstract: "<jats:title>Abstract</jats:title>\n               <jats:p>One of the most\
+  \ pressing challenges in genomic medicine is to understand the role played by genetic\
+  \ variation in health and disease. Thanks to the exploration of genomic variants\
+  \ at large scale, hundreds of thousands of disease-associated loci have been uncovered.\
+  \ However, the identification of variants of clinical relevance is a significant\
+  \ challenge that requires comprehensive interrogation of previous knowledge and\
+  \ linkage to new experimental results. To assist in this complex task, we created\
+  \ DisGeNET (http://www.disgenet.org/), a knowledge management platform integrating\
+  \ and standardizing data about disease associated genes and variants from multiple\
+  \ sources, including the scientific literature. DisGeNET covers the full spectrum\
+  \ of human diseases as well as normal and abnormal traits. The current release covers\
+  \ more than 24 000 diseases and traits, 17 000 genes and 117 000 genomic variants.\
+  \ The latest developments of DisGeNET include new sources of data, novel data attributes\
+  \ and prioritization metrics, a redesigned web interface and recently launched APIs.\
+  \ Thanks to the data standardization, the combination of expert curated information\
+  \ with data automatically mined from the scientific literature, and a suite of tools\
+  \ for accessing its publicly available data, DisGeNET is an interoperable resource\
+  \ supporting a variety of applications in genomic medicine and drug R&amp;D.</jats:p>"
+author: Piñero, Janet and Ramírez-Anguita, Juan Manuel and Saüch-Pitarch, Josep and
+  Ronzano, Francesco and Centeno, Emilio and Sanz, Ferran and Furlong, Laura I
+author_list:
+- affiliation:
+  - name: Research Programme on Biomedical Informatics (GRIB), Hospital del Mar Medical
+      Research Institute (IMIM), Department of Experimental and Health Sciences, Pompeu
+      Fabra University (UPF), Barcelona, Spain
+  family: Piñero
+  given: Janet
+- affiliation:
+  - name: Research Programme on Biomedical Informatics (GRIB), Hospital del Mar Medical
+      Research Institute (IMIM), Department of Experimental and Health Sciences, Pompeu
+      Fabra University (UPF), Barcelona, Spain
+  family: Ramírez-Anguita
+  given: Juan Manuel
+- affiliation:
+  - name: Research Programme on Biomedical Informatics (GRIB), Hospital del Mar Medical
+      Research Institute (IMIM), Department of Experimental and Health Sciences, Pompeu
+      Fabra University (UPF), Barcelona, Spain
+  family: Saüch-Pitarch
+  given: Josep
+- affiliation:
+  - name: Research Programme on Biomedical Informatics (GRIB), Hospital del Mar Medical
+      Research Institute (IMIM), Department of Experimental and Health Sciences, Pompeu
+      Fabra University (UPF), Barcelona, Spain
+  family: Ronzano
+  given: Francesco
+- affiliation:
+  - name: Research Programme on Biomedical Informatics (GRIB), Hospital del Mar Medical
+      Research Institute (IMIM), Department of Experimental and Health Sciences, Pompeu
+      Fabra University (UPF), Barcelona, Spain
+  family: Centeno
+  given: Emilio
+- affiliation:
+  - name: Research Programme on Biomedical Informatics (GRIB), Hospital del Mar Medical
+      Research Institute (IMIM), Department of Experimental and Health Sciences, Pompeu
+      Fabra University (UPF), Barcelona, Spain
+  family: Sanz
+  given: Ferran
+- affiliation:
+  - name: Research Programme on Biomedical Informatics (GRIB), Hospital del Mar Medical
+      Research Institute (IMIM), Department of Experimental and Health Sciences, Pompeu
+      Fabra University (UPF), Barcelona, Spain
+  family: Furlong
+  given: Laura I
+citations:
+- article-title: 'Settling the score: variant prioritization and Mendelian disease'
+  author: Eilbeck
+  doi: 10.1038/nrg.2017.52
+  first-page: '599'
+  journal-title: Nat. Rev. Genet.
+  volume: '18'
+  year: '2017'
+- article-title: 'ClinVar: improving access to variant interpretations and supporting
+    evidence'
+  author: Landrum
+  doi: 10.1093/nar/gkx1153
+  first-page: D1062
+  journal-title: Nucleic Acids Res.
+  volume: '46'
+  year: '2018'
+- article-title: ClinGen — The Clinical Genome Resource
+  author: Rehm
+  doi: 10.1056/NEJMsr1406261
+  first-page: '2235'
+  journal-title: N. Engl. J. Med.
+  volume: '372'
+  year: '2015'
+- article-title: 'Representation of rare diseases in health information systems: the
+    orphanet approach to serve a wide range of end users'
+  author: Rath
+  doi: 10.1002/humu.22078
+  first-page: '803'
+  journal-title: Hum. Mutat.
+  volume: '33'
+  year: '2012'
+- article-title: 'OMIM.org: leveraging knowledge across phenotype–gene relationships'
+  author: Amberger
+  doi: 10.1093/nar/gky1151
+  first-page: D1038
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2019'
+- article-title: 'DisGeNET: a Cytoscape plugin to visualize, integrate, search and
+    analyze gene-disease networks'
+  author: Bauer-Mehren
+  doi: 10.1093/bioinformatics/btq538
+  first-page: '2924'
+  journal-title: Bioinformatics
+  volume: '26'
+  year: '2010'
+- article-title: 'DisGeNET: a discovery platform for the dynamical exploration of
+    human diseases and their genes'
+  author: Piñero
+  doi: 10.1093/database/bav028
+  first-page: bav028
+  journal-title: Database
+  volume: '2015'
+  year: '2015'
+- article-title: 'DisGeNET-RDF: harnessing the innovative power of the Semantic Web
+    to explore the genetic basis of diseases'
+  author: Queralt-Rosinach
+  doi: 10.1093/bioinformatics/btw214
+  first-page: '2236'
+  journal-title: Bioinformatics
+  volume: '32'
+  year: '2016'
+- article-title: Publishing DisGeNET as nanopublications
+  author: Queralt-Rosinach
+  doi: 10.3233/SW-150189
+  first-page: '519'
+  journal-title: Semant. Web
+  volume: '7'
+  year: '2016'
+- article-title: 'DisGeNET: A comprehensive platform integrating information on human
+    disease-associated genes and variants'
+  author: Piñero
+  doi: 10.1093/nar/gkw943
+  first-page: D833
+  journal-title: Nucleic Acids Res.
+  volume: '45'
+  year: '2017'
+- article-title: 'UniProt: a worldwide hub of protein knowledge'
+  author: UniProt Consortium
+  doi: 10.1093/nar/gky1049
+  first-page: D506
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2019'
+- article-title: Mouse Genome Database (MGD) 2019
+  author: Bult
+  doi: 10.1093/nar/gky1056
+  first-page: D801
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2019'
+- article-title: 'The Rat Genome Database 2015: genomic, phenotypic and environmental
+    variations and disease'
+  author: Shimoyama
+  doi: 10.1093/nar/gku1026
+  first-page: D743
+  journal-title: Nucleic Acids Res.
+  volume: '43'
+  year: '2015'
+- article-title: 'Extraction of relations between genes and diseases from text and
+    large-scale data analysis: Implications for translational research'
+  author: Bravo
+  doi: 10.1186/s12859-015-0472-9
+  first-page: '55'
+  journal-title: BMC Bioinformatics
+  volume: '16'
+  year: '2015'
+- article-title: SETH detects and normalizes genetic variants in text
+  author: Thomas
+  doi: 10.1093/bioinformatics/btw234
+  first-page: '2883'
+  journal-title: Bioinformatics
+  volume: '32'
+  year: '2016'
+- article-title: 'The Unified Medical Language System (UMLS): integrating biomedical
+    terminology'
+  author: Bodenreider
+  doi: 10.1093/nar/gkh061
+  first-page: 267D
+  journal-title: Nucleic Acids Res.
+  volume: '32'
+  year: '2004'
+- article-title: 'Human Disease Ontology 2018 update: classification, content and
+    workflow expansion'
+  author: Schriml
+  doi: 10.1093/nar/gky1032
+  first-page: D955
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2019'
+- article-title: Expansion of the Human Phenotype Ontology (HPO) knowledge base and
+    resources
+  author: Köhler
+  doi: 10.1093/nar/gky1105
+  first-page: D1018
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2019'
+- article-title: Variation across 141,456 human exomes and genomes reveals the spectrum
+    of loss-of-function intolerance across human protein-coding genes
+  author: Karczewski
+  doi: 10.1101/531210
+  year: '2019'
+- article-title: The Ensembl variant effect predictor
+  author: McLaren
+  doi: 10.1186/s13059-016-0974-4
+  first-page: '122'
+  journal-title: Genome Biol.
+  volume: '17'
+  year: '2016'
+- article-title: The NHGRI-EBI GWAS Catalog of published genome-wide association studies,
+    targeted arrays and summary statistics 2019
+  author: Buniello
+  doi: 10.1093/nar/gky1120
+  first-page: D1005
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2019'
+- article-title: 'GWASdb v2: an update database for human genetic variants identified
+    by genome-wide association studies'
+  author: Li
+  doi: 10.1093/nar/gkv1317
+  first-page: D869
+  journal-title: Nucleic Acids Res.
+  volume: '44'
+  year: '2016'
+- article-title: 'Evaluating the clinical validity of gene-disease associations: an
+    evidence-based framework developed by the clinical genome resource'
+  author: Strande
+  doi: 10.1016/j.ajhg.2017.04.015
+  first-page: '895'
+  journal-title: Am. J. Hum. Genet.
+  volume: '100'
+  year: '2017'
+- article-title: Text mining and expert curation to develop a database on psychiatric
+    diseases and their genes
+  author: Gutiérrez-Sacristán
+  doi: 10.1093/database/bax043
+  first-page: bax043
+  journal-title: Database
+  volume: '2017'
+  year: '2017'
+- article-title: The Semanticscience Integrated Ontology (SIO) for biomedical research
+    and knowledge discovery
+  author: Dumontier
+  doi: 10.1186/2041-1480-5-14
+  first-page: '14'
+  journal-title: J. Biomed. Semantics
+  volume: '5'
+  year: '2014'
+- article-title: Daily treatment with SMTC1100, a novel small molecule utrophin upregulator,
+    dramatically reduces the dystrophic symptoms in the mdx mouse
+  author: Tinsley
+  doi: 10.1371/journal.pone.0019189
+  first-page: e19189
+  journal-title: PLoS One
+  volume: '6'
+  year: '2011'
+- article-title: 'Spell Checking Nature: Versatility of CRISPR/Cas9 for developing
+    treatments for inherited disorders'
+  author: Wojtal
+  doi: 10.1016/j.ajhg.2015.11.012
+  first-page: '90'
+  journal-title: Am. J. Hum. Genet.
+  volume: '98'
+  year: '2016'
+- article-title: 'WikiPathways: a multifaceted pathway database bridging metabolomics
+    to other omics research'
+  author: Slenter
+  doi: 10.1093/nar/gkx1064
+  first-page: D661
+  journal-title: Nucleic Acids Res.
+  volume: '46'
+  year: '2018'
+- article-title: Genome-wide association analyses identify 143 risk variants and putative
+    regulatory mechanisms for type 2 diabetes
+  author: Xue
+  doi: 10.1038/s41467-018-04951-w
+  first-page: '2941'
+  journal-title: Nat. Commun.
+  volume: '9'
+  year: '2018'
+- article-title: The T allele of rs7903146 TCF7L2 is associated with impaired insulinotropic
+    action of incretin hormones, reduced 24 h profiles of plasma insulin and glucagon,
+    and increased hepatic glucose production in young healthy men
+  author: Pilgaard
+  doi: 10.1007/s00125-009-1307-x
+  first-page: '1298'
+  journal-title: Diabetologia
+  volume: '52'
+  year: '2009'
+- article-title: TCF7L2 variant rs7903146 affects the risk of type 2 diabetes by modulating
+    incretin action
+  author: Villareal
+  doi: 10.2337/db09-1169
+  first-page: '479'
+  journal-title: Diabetes
+  volume: '59'
+  year: '2010'
+- article-title: Carriers of the TCF7L2 rs7903146 TT genotype have elevated levels
+    of plasma glucose, serum proinsulin and plasma gastric inhibitory polypeptide
+    (GIP) during a meal test
+  author: Gjesing
+  doi: 10.1007/s00125-010-1940-4
+  first-page: '103'
+  journal-title: Diabetologia
+  volume: '54'
+  year: '2011'
+doc_url: http://academic.oup.com/nar/advance-article-pdf/doi/10.1093/nar/gkz1021/30347033/gkz1021.pdf
+doi: 10.1093/nar/gkz1021
+files:
+- thedisgenetknpinero2019.pdf
+journal: Nucleic Acids Research
+language: en
+month: 11
+papis_id: 0ccfb6e2d9662b8c67acc08c2c13dd9c
+publisher: Oxford University Press (OUP)
+ref: TheDisgenetKnPinero2019
+time-added: 2024-01-04-17:04:00
+title: 'The DisGeNET knowledge platform for disease genomics: 2019 update'
+type: article
+url: http://dx.doi.org/10.1093/nar/gkz1021
+year: 2019
