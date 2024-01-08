@@ -1,0 +1,31 @@
+author: Christoffer, Charles and Chen, Siyang and Bharadwaj, Vijay and Aderinwale,
+  Tunde and Kumar, Vidhur and Hormati, Matin and Kihara, Daisuke
+author_list:
+- family: Christoffer
+  given: Charles
+- family: Chen
+  given: Siyang
+- family: Bharadwaj
+  given: Vijay
+- family: Aderinwale
+  given: Tunde
+- family: Kumar
+  given: Vidhur
+- family: Hormati
+  given: Matin
+- family: Kihara
+  given: Daisuke
+doi: 10.1093/nar/gkab336
+files: []
+issn: 0305-1048
+issue: W1
+journal: Nucleic acids research
+pages: W359--W365
+papis_id: 4560763243f92efa04735b06a15e9c4e
+pmid: '33963854'
+ref: LzerdWebserverChrist2021
+time-added: 2024-01-08-15:55:51
+title: LZerD webserver for pairwise and multiple protein-protein docking
+type: article
+volume: '49'
+year: 2021
