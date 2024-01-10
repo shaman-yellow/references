@@ -1,0 +1,32 @@
+author: Weng, Gaoqi and Wang, Ercheng and Wang, Zhe and Liu, Hui and Zhu, Feng and
+  Li, Dan and Hou, Tingjun
+author_list:
+- family: Weng
+  given: Gaoqi
+- family: Wang
+  given: Ercheng
+- family: Wang
+  given: Zhe
+- family: Liu
+  given: Hui
+- family: Zhu
+  given: Feng
+- family: Li
+  given: Dan
+- family: Hou
+  given: Tingjun
+doi: 10.1093/nar/gkz397
+files: []
+issn: 0305-1048
+issue: W1
+journal: Nucleic acids research
+pages: W322--W330
+papis_id: 9f7e8cbc3d2e0fa071e02ab8870de960
+pmid: '31106357'
+ref: HawkdockAWebWeng2019
+time-added: 2024-01-10-10:30:47
+title: 'HawkDock: a web server to predict and analyze the protein-protein complex
+  based on computational docking and MM/GBSA'
+type: article
+volume: '47'
+year: 2019
