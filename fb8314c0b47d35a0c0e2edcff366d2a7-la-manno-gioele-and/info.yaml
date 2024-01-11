@@ -1,0 +1,278 @@
+author: La Manno, Gioele and Soldatov, Ruslan and Zeisel, Amit and Braun, Emelie and
+  Hochgerner, Hannah and Petukhov, Viktor and Lidschreiber, Katja and Kastriti, Maria
+  E. and Lönnerberg, Peter and Furlan, Alessandro and Fan, Jean and Borm, Lars E.
+  and Liu, Zehua and van Bruggen, David and Guo, Jimin and He, Xiaoling and Barker,
+  Roger and Sundström, Erik and Castelo-Branco, Gonçalo and Cramer, Patrick and Adameyko,
+  Igor and Linnarsson, Sten and Kharchenko, Peter V.
+author_list:
+- affiliation: []
+  family: La Manno
+  given: Gioele
+- affiliation: []
+  family: Soldatov
+  given: Ruslan
+- affiliation: []
+  family: Zeisel
+  given: Amit
+- affiliation: []
+  family: Braun
+  given: Emelie
+- affiliation: []
+  family: Hochgerner
+  given: Hannah
+- affiliation: []
+  family: Petukhov
+  given: Viktor
+- affiliation: []
+  family: Lidschreiber
+  given: Katja
+- affiliation: []
+  family: Kastriti
+  given: Maria E.
+- affiliation: []
+  family: Lönnerberg
+  given: Peter
+- affiliation: []
+  family: Furlan
+  given: Alessandro
+- affiliation: []
+  family: Fan
+  given: Jean
+- affiliation: []
+  family: Borm
+  given: Lars E.
+- affiliation: []
+  family: Liu
+  given: Zehua
+- affiliation: []
+  family: van Bruggen
+  given: David
+- affiliation: []
+  family: Guo
+  given: Jimin
+- affiliation: []
+  family: He
+  given: Xiaoling
+- affiliation: []
+  family: Barker
+  given: Roger
+- affiliation: []
+  family: Sundström
+  given: Erik
+- affiliation: []
+  family: Castelo-Branco
+  given: Gonçalo
+- affiliation: []
+  family: Cramer
+  given: Patrick
+- affiliation: []
+  family: Adameyko
+  given: Igor
+- affiliation: []
+  family: Linnarsson
+  given: Sten
+- affiliation: []
+  family: Kharchenko
+  given: Peter V.
+citations:
+- author: S Linnarsson
+  doi: 10.1186/s13059-016-0960-x
+  journal-title: Genome Biol.
+  unstructured: 'Linnarsson, S. & Teichmann, S. A. Single-cell genomics: coming of
+    age. Genome Biol. 17, 97 (2016).'
+  volume: '17'
+  year: '2016'
+- author: A Zeisel
+  doi: 10.1038/msb.2011.62
+  first-page: '529'
+  journal-title: Mol. Syst. Biol.
+  unstructured: Zeisel, A. et al. Coupled pre-mRNA and mRNA dynamics unveil operational
+    strategies underlying transcriptional responses to stimuli. Mol. Syst. Biol. 7,
+    529 (2011).
+  volume: '7'
+  year: '2011'
+- author: JM Gray
+  doi: 10.1371/journal.pone.0089673
+  journal-title: PLoS One
+  unstructured: 'Gray, J. M. et al. SnapShot-Seq: a method for extracting genome-wide,
+    in vivo mRNA dynamics from a single total RNA sample. PLoS ONE 9, e89673 (2014).'
+  volume: '9'
+  year: '2014'
+- author: D Gaidatzis
+  doi: 10.1038/nbt.3269
+  first-page: '722'
+  journal-title: Nat. Biotechnol.
+  unstructured: Gaidatzis, D., Burger, L., Florescu, M. & Stadler, M. B. Analysis
+    of intronic and exonic reads in RNA-seq data characterizes transcriptional and
+    post-transcriptional regulation. Nat. Biotechnol. 33, 722–729 (2015).
+  volume: '33'
+  year: '2015'
+- author: S Picelli
+  doi: 10.1038/nmeth.2639
+  first-page: '1096'
+  journal-title: Nat. Methods
+  unstructured: Picelli, S. et al. Smart-seq2 for sensitive full-length transcriptome
+    profiling in single cells. Nat. Methods 10, 1096–1098 (2013).
+  volume: '10'
+  year: '2013'
+- author: S Islam
+  doi: 10.1038/nmeth.2772
+  first-page: '163'
+  journal-title: Nat. Methods
+  unstructured: Islam, S. et al. Quantitative single-cell RNA-seq with unique molecular
+    identifiers. Nat. Methods 11, 163–166 (2013).
+  volume: '11'
+  year: '2013'
+- author: AMM Klein
+  doi: 10.1016/j.cell.2015.04.044
+  first-page: '1187'
+  journal-title: Cell
+  unstructured: Klein, A. M. M. et al. Droplet barcoding for single-cell transcriptomics
+    applied to embryonic stem cells. Cell 161, 1187–1201 (2015).
+  volume: '161'
+  year: '2015'
+- author: GXY Zheng
+  doi: 10.1038/ncomms14049
+  journal-title: Nat. Commun.
+  unstructured: Zheng, G. X. Y. et al. Massively parallel digital transcriptional
+    profiling of single cells. Nat. Commun. 8, 14049 (2017).
+  volume: '8'
+  year: '2017'
+- author: B Schwalb
+  doi: 10.1126/science.aad9841
+  first-page: '1225'
+  journal-title: Science
+  unstructured: Schwalb, B. et al. TT-seq maps the human transient transcriptome.
+    Science 352, 1225–1228 (2017).
+  volume: '352'
+  year: '2017'
+- author: S Islam
+  doi: 10.1101/gr.110882.110
+  first-page: '1160'
+  journal-title: Genome Res.
+  unstructured: Islam, S. et al. Characterization of the single-cell transcriptional
+    landscape by highly multiplex RNA-seq. Genome Res. 21, 1160–1167 (2011).
+  volume: '21'
+  year: '2011'
+- unstructured: "The Tabula Muris Consortium, Quake, S. R., Wyss-Coray, T., & Darmanis,\
+    \ S. Single-cell transcriptomic characterization of 20 organs and tissues from\
+    \ individual mice creates a Tabula Muris. Preprint at \n                    https://biorxiv.org/content/early/2018/03/29/237446\n\
+    \                    \n                   (2018)."
+- author: C Vollmers
+  doi: 10.1016/j.cmet.2012.11.004
+  first-page: '833'
+  journal-title: Cell Metab.
+  unstructured: Vollmers, C. et al. Circadian oscillations of protein-coding and regulatory
+    RNAs in a highly dynamic mammalian liver epigenome. Cell Metab. 16, 833–845 (2012).
+  volume: '16'
+  year: '2012'
+- author: A Furlan
+  doi: 10.1126/science.aal3753
+  journal-title: Science
+  unstructured: Furlan, A. et al. Multipotent peripheral glial cells generate neuroendocrine
+    cells of the adrenal medulla. Science 357, eaal3753 (2017).
+  volume: '357'
+  year: '2017'
+- author: A Kriegstein
+  doi: 10.1146/annurev.neuro.051508.135600
+  first-page: '149'
+  journal-title: Annu. Rev. Neurosci.
+  unstructured: Kriegstein, A. & Alvarez-Buylla, A. The glial nature of embryonic
+    and adult neural stem cells. Annu. Rev. Neurosci. 32, 149–184 (2009).
+  volume: '32'
+  year: '2009'
+- author: P Malatesta
+  doi: 10.1016/S0896-6273(03)00116-8
+  first-page: '751'
+  journal-title: Neuron
+  unstructured: 'Malatesta, P. et al. Neuronal or glial progeny: regional differences
+    in radial glia fate. Neuron 37, 751–764 (2003).'
+  volume: '37'
+  year: '2003'
+- author: RJ Johnston
+  doi: 10.1146/annurev-cellbio-100109-104113
+  first-page: '689'
+  journal-title: Annu. Rev. Cell Dev. Biol.
+  unstructured: Johnston, R. J. & Desplan, C. Stochastic mechanisms of cell fate specification
+    that yield random or robust outcomes. Annu. Rev. Cell Dev. Biol. 26, 689–719 (2010).
+  volume: '26'
+  year: '2010'
+- author: T Iwano
+  doi: 10.1242/dev.080002
+  first-page: '3051'
+  journal-title: Development
+  unstructured: Iwano, T., Masuda, A., Kiyonari, H., Enomoto, H. & Matsuzaki, F. Prox1
+    postmitotically defines dentate gyrus cells by specifying granule cell identity
+    over CA3 pyramidal cell fate in the hippocampus. Development 139, 3051–3062 (2012).
+  volume: '139'
+  year: '2012'
+- author: M Plass
+  doi: 10.1126/science.aaq1723
+  journal-title: Science
+  unstructured: Plass, M. et al. Prox1 postmitotically defines dentate gyrus cells
+    by specifying granule cell identity over CA3 pyramidal cell fate in the hippocampus.
+    Science 360, eaaq1723 (2018).
+  volume: '360'
+  year: '2018'
+- author: V Petukhov
+  doi: 10.1186/s13059-018-1449-6
+  journal-title: Genome Biol.
+  unstructured: 'Petukhov, V. et al. dropEst: pipeline for accurate estimation of
+    molecular counts in droplet-based single-cell RNA-seq experiments. Genome Biol.
+    19, 78 (2018).'
+  volume: '19'
+  year: '2018'
+- unstructured: "Zeisel, A. et al. Molecular architecture of the mouse nervous system.\
+    \ Preprint at \n                    https://biorxiv.org/content/early/2018/04/06/294918\n\
+    \                    \n                   (2018)."
+- author: S Hrvatin
+  doi: 10.1038/s41593-017-0029-5
+  first-page: '120'
+  journal-title: Nat. Neurosci.
+  unstructured: Hrvatin, S. et al. Single-cell analysis of experience-dependent transcriptomic
+    states in the mouse visual cortex. Nat. Neurosci. 21, 120–129 (2018).
+  volume: '21'
+  year: '2018'
+- author: H Hochgerner
+  doi: 10.1038/s41593-017-0056-2
+  first-page: '290'
+  journal-title: Nat. Neurosci.
+  unstructured: "Haber, A. L. et al. A single-cell survey of the small intestinal\
+    \ epithelium. Nature \n                           551, 333–339 (2017)."
+  volume: '21'
+  year: '2018'
+- author: AL Haber
+  doi: 10.1038/nature24489
+  first-page: '333'
+  journal-title: Nature
+  unstructured: "Hochgerner, H., Zeisel, A., Lönnerberg, P. & Linnarsson, S. Conserved\
+    \ properties of dentate gyrus neurogenesis across postnatal development revealed\
+    \ by single-cell RNA sequencing. Nat. Neurosci. \n                           21,\
+    \ 290–299 (2018)."
+  volume: '551'
+  year: '2017'
+- author: ES Lein
+  doi: 10.1038/nature05453
+  first-page: '168'
+  journal-title: Nature
+  unstructured: Lein, E. S. et al. Genome-wide atlas of gene expression in the adult
+    mouse brain. Nature 445, 168–176 (2007).
+  volume: '445'
+  year: '2007'
+doc_url: http://www.nature.com/articles/s41586-018-0414-6.pdf
+doi: 10.1038/s41586-018-0414-6
+files: []
+issue: '7719'
+journal: Nature
+language: en
+month: 8
+pages: 494--498
+papis_id: 370a9d8f0a54329a1c6ad0b87e3dd4d5
+publisher: Springer Science and Business Media LLC
+ref: RnaVelocityOfLaMan2018
+time-added: 2024-01-11-10:05:59
+title: RNA velocity of single cells
+type: article
+url: http://dx.doi.org/10.1038/s41586-018-0414-6
+volume: '560'
+year: 2018
