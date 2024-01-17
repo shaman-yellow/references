@@ -1,0 +1,22 @@
+author: Ng, Sherwin S. S. and Lu, Yunpeng
+author_list:
+- family: Ng
+  given: Sherwin S. S.
+- family: Lu
+  given: Yunpeng
+doi: 10.1021/acs.jcim.3c00554
+files:
+- evaluatingthengsh2023-a.pdf
+issue: '16'
+journal: Journal of Chemical Information and Modeling
+month: '8'
+page: 5035-5044
+papis_id: 912780df41ef27370e4c9831f94abfc6
+publisher: American Chemical Society (ACS)
+ref: EvaluatingTheNgSh2023
+title: Evaluating the Use of Graph Neural Networks and Transfer Learning for Oral
+  Bioavailability Prediction
+type: article
+url: http://dx.doi.org/10.1021/acs.jcim.3c00554
+volume: '63'
+year: '2023'
