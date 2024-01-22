@@ -1,0 +1,30 @@
+author: Gilson, Michael K and Liu, Tiqing and Baitaluk, Michael and Nicola, George
+  and Hwang, Linda and Chong, Jenny
+author_list:
+- family: Gilson
+  given: Michael K
+- family: Liu
+  given: Tiqing
+- family: Baitaluk
+  given: Michael
+- family: Nicola
+  given: George
+- family: Hwang
+  given: Linda
+- family: Chong
+  given: Jenny
+doi: 10.1093/nar/gkv1072
+files: []
+issn: 0305-1048
+issue: D1
+journal: Nucleic acids research
+pages: D1045--D1053
+papis_id: 52dacaebd06b55c1d521b69b7aac6ae4
+pmid: '26481362'
+ref: BindingdbIn20Gilson2016
+time-added: 2024-01-21-17:34:48
+title: 'BindingDB in 2015: A public database for medicinal chemistry, computational
+  chemistry and systems pharmacology'
+type: article
+volume: '44'
+year: 2016
