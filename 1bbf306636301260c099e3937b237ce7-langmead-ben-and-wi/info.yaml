@@ -1,0 +1,300 @@
+abstract: "<jats:title>Abstract</jats:title>\n               <jats:sec>\n        \
+  \          <jats:title>Motivation</jats:title>\n                  <jats:p>General-purpose\
+  \ processors can now contain many dozens of processor cores and support hundreds\
+  \ of simultaneous threads of execution. To make best use of these threads, genomics\
+  \ software must contend with new and subtle computer architecture issues. We discuss\
+  \ some of these and propose methods for improving thread scaling in tools that analyze\
+  \ each read independently, such as read aligners.</jats:p>\n               </jats:sec>\n\
+  \               <jats:sec>\n                  <jats:title>Results</jats:title>\n\
+  \                  <jats:p>We implement these methods in new versions of Bowtie,\
+  \ Bowtie 2 and HISAT. We greatly improve thread scaling in many scenarios, including\
+  \ on the recent Intel Xeon Phi architecture. We also highlight how bottlenecks are\
+  \ exacerbated by variable-record-length file formats like FASTQ and suggest changes\
+  \ that enable superior scaling.</jats:p>\n               </jats:sec>\n         \
+  \      <jats:sec>\n                  <jats:title>Availability and implementation</jats:title>\n\
+  \                  <jats:p>Experiments for this study: https://github.com/BenLangmead/bowtie-scaling.</jats:p>\n\
+  \               </jats:sec>\n               <jats:sec>\n                  <jats:title>Bowtie</jats:title>\n\
+  \                  <jats:p>http://bowtie-bio.sourceforge.net .</jats:p>\n      \
+  \         </jats:sec>\n               <jats:sec>\n                  <jats:title>Bowtie\
+  \ 2</jats:title>\n                  <jats:p>http://bowtie-bio.sourceforge.net/bowtie2\
+  \ .</jats:p>\n               </jats:sec>\n               <jats:sec>\n          \
+  \        <jats:title>HISAT</jats:title>\n                  <jats:p>http://www.ccb.jhu.edu/software/hisat</jats:p>\n\
+  \               </jats:sec>\n               <jats:sec>\n                  <jats:title>Supplementary\
+  \ information</jats:title>\n                  <jats:p>Supplementary data are available\
+  \ at Bioinformatics online.</jats:p>\n               </jats:sec>"
+author: Langmead, Ben and Wilks, Christopher and Antonescu, Valentin and Charles,
+  Rone
+author_list:
+- affiliation:
+  - name: Department of Computer Science, Johns Hopkins University, Baltimore, MD,
+      USA
+  - name: Center for Computational Biology, Johns Hopkins University, Baltimore, MD,
+      USA
+  family: Langmead
+  given: Ben
+- affiliation:
+  - name: Department of Computer Science, Johns Hopkins University, Baltimore, MD,
+      USA
+  - name: Center for Computational Biology, Johns Hopkins University, Baltimore, MD,
+      USA
+  family: Wilks
+  given: Christopher
+- affiliation:
+  - name: Department of Computer Science, Johns Hopkins University, Baltimore, MD,
+      USA
+  family: Antonescu
+  given: Valentin
+- affiliation:
+  - name: Department of Computer Science, Johns Hopkins University, Baltimore, MD,
+      USA
+  family: Charles
+  given: Rone
+citations:
+- author: Aldinucci
+  first-page: '528'
+  volume-title: Programming Multi-Core and Many-Core Computing Systems, Parallel and
+    Distributed Computing
+  year: '2017'
+- article-title: The performance of spin lock alternatives for shared-money multiprocessors
+  author: Anderson
+  doi: 10.1109/71.80120
+  first-page: '6'
+  journal-title: IEEE Trans Parallel Distributed Systems
+  volume: '1'
+  year: '1990'
+- article-title: A global reference for human genetic variation
+  author: Auton
+  doi: 10.1038/nature15393
+  first-page: '68'
+  journal-title: Nature
+  volume: '526'
+  year: '2015'
+- author: Blumofe
+  doi: 10.1145/209936.209958
+  volume-title: 'Cilk: An Efficient Multithreaded Runtime System'
+  year: '1995'
+- article-title: 'Trimmomatic: a flexible trimmer for illumina sequence data'
+  author: Bolger
+  first-page: '170'
+  journal-title: Bioinformatics
+  year: '2014'
+- article-title: Near-optimal probabilistic RNA-seq quantification
+  author: Bray
+  doi: 10.1038/nbt.3519
+  first-page: '525.'
+  journal-title: Nature Biotechnology
+  volume: '34'
+  year: '2016'
+- article-title: Scalability techniques for practical synchronization primitives
+  author: Bueso
+  doi: 10.1145/2693193.2698990
+  first-page: '40'
+  journal-title: Queue
+  volume: '12'
+  year: '2014'
+- article-title: Extending reference assembly models
+  author: Church
+  doi: 10.1186/s13059-015-0587-3
+  first-page: '13.'
+  journal-title: Genome Biol
+  volume: '16'
+  year: '2015'
+- article-title: The Sanger FASTQ file format for sequences with quality scores, and
+    the Solexa/Illumina FASTQ variants
+  author: Cock
+  doi: 10.1093/nar/gkp1137
+  first-page: '1767'
+  journal-title: Nucleic Acids Res
+  volume: '38'
+  year: '2010'
+- article-title: 'Lock cohorting: a general technique for designing numa locks'
+  author: Dice
+  doi: 10.1145/2686884
+  first-page: '1.'
+  journal-title: ACM Trans. Parallel Comput
+  volume: '1'
+  year: '2015'
+- article-title: A reference data set of 5.4 million phased human variants validated
+    by genetic inheritance from sequencing a three-generation 17-member pedigree
+  author: Eberle
+  doi: 10.1101/gr.210500.116
+  first-page: '157'
+  journal-title: Genome Res
+  volume: '27'
+  year: '2017'
+- author: Herzeel
+  doi: 10.1007/978-3-642-55195-6_21
+  first-page: '227'
+  volume-title: Parallel Processing and Applied Mathematics
+  year: '2014'
+- author: Jeffers
+  volume-title: 'Intel Xeon Phi Processor High Performance Programming: Knights Landing
+    Edition'
+  year: '2016'
+- article-title: 'Quake: quality-aware detection and correction of sequencing errors'
+  author: Kelley
+  doi: 10.1186/gb-2010-11-11-r116
+  first-page: R116.
+  journal-title: Genome Biol
+  volume: '11'
+  year: '2010'
+- article-title: 'Hisat: a fast spliced aligner with low memory requirements'
+  author: Kim
+  doi: 10.1038/nmeth.3317
+  first-page: '357'
+  journal-title: Nature Methods
+  volume: '12'
+  year: '2015'
+- article-title: Fast gapped-read alignment with bowtie 2
+  author: Langmead
+  doi: 10.1038/nmeth.1923
+  first-page: '357'
+  journal-title: Nature Methods
+  volume: '9'
+  year: '2012'
+- article-title: Ultrafast and memory-efficient alignment of short dna sequences to
+    the human genome
+  author: Langmead
+  doi: 10.1186/gb-2009-10-3-r25
+  first-page: R25.
+  journal-title: Genome Biol
+  volume: '10'
+  year: '2009'
+- article-title: A performance comparison of data and memory allocation strategies
+    for sequence aligners on numa architectures
+  author: Lenis
+  doi: 10.1007/s10586-017-1015-0
+  first-page: '1909'
+  journal-title: Cluster Comput
+  volume: '20'
+  year: '2017'
+- article-title: 'Tabix: fast retrieval of sequence features from generic tab-delimited
+    files'
+  author: Li
+  doi: 10.1093/bioinformatics/btq671
+  first-page: '718'
+  journal-title: Bioinformatics
+  volume: '27'
+  year: '2011'
+- article-title: Aligning sequence reads, clone sequences and assembly contigs with
+    bwa-mem
+  author: Li
+  first-page: '3997'
+  journal-title: arXiv Preprint arXiv
+  volume: '1303'
+  year: '2013'
+- article-title: The Sequence Alignment/Map format and SAMtools
+  author: Li
+  doi: 10.1093/bioinformatics/btp352
+  first-page: '2078'
+  journal-title: Bioinformatics
+  volume: '25'
+  year: '2009'
+- article-title: 'The gem mapper: fast, accurate and versatile alignment by filtration'
+  author: Marco-Sola
+  doi: 10.1038/nmeth.2221
+  first-page: '1185'
+  journal-title: Nature Methods
+  volume: '9'
+  year: '2012'
+- article-title: Synchronization without contention
+  author: Mellor-Crummey
+  doi: 10.1145/106973.106999
+  first-page: '269'
+  journal-title: ACM SIGPLAN Notices
+  volume: '26'
+  year: '1991'
+- author: Misale
+  first-page: '578'
+  year: '2014'
+- article-title: 'Sequence alignment tools: one parallel pattern to rule them all?'
+  author: Misale
+  doi: 10.1155/2014/539410
+  first-page: '1'
+  journal-title: BioMed Research International
+  volume: '2014'
+  year: '2014'
+- author: Nichols
+  volume-title: 'Pthreads Programming: A POSIX Standard for Better Multiprocessing'
+  year: '1996'
+- author: Radovic
+  year: '2003'
+- author: Reinders
+  volume-title: 'Intel Threading Building Blocks: Outfitting C++ for Multi-Core Processor
+    Parallelism'
+  year: '2007'
+- article-title: Extremely low-coverage whole genome sequencing in South Asians captures
+    population genomics information
+  author: Rustagi
+  doi: 10.1186/s12864-017-3767-6
+  first-page: '396.'
+  journal-title: BMC Genomics
+  volume: '18'
+  year: '2017'
+- article-title: Metagenomic microbial community profiling using unique clade-specific
+    marker genes
+  author: Segata
+  doi: 10.1038/nmeth.2066
+  first-page: '811'
+  journal-title: Nature Methods
+  volume: '9'
+  year: '2012'
+- author: Sodani
+  year: '2015'
+- article-title: 'Lighter: fast and memory-efficient sequencing error correction without
+    counting'
+  author: Song
+  doi: 10.1186/s13059-014-0509-9
+  first-page: '509.'
+  journal-title: Genome Biol
+  volume: '15'
+  year: '2014'
+- article-title: 'Rapmap: a rapid, sensitive and accurate tool for mapping rna-seq
+    reads to transcriptomes'
+  author: Srivastava
+  doi: 10.1093/bioinformatics/btw277
+  first-page: i192
+  journal-title: Bioinformatics
+  volume: '32'
+  year: '2016'
+- author: Valero-Lara
+  year: '2016'
+- article-title: The chips are down for moore’s law
+  author: Waldrop
+  doi: 10.1038/530144a
+  first-page: '144.'
+  journal-title: Nature News
+  volume: '530'
+  year: '2016'
+- article-title: 'Kraken: ultrafast metagenomic sequence classification using exact
+    alignments'
+  author: Wood
+  doi: 10.1186/gb-2014-15-3-r46
+  first-page: R46.
+  journal-title: Genome Biol
+  volume: '15'
+  year: '2014'
+- article-title: Faster and more accurate sequence alignment with snap
+  author: Zaharia
+  first-page: '5572'
+  journal-title: arXiv Preprint arXiv
+  volume: '1111'
+  year: '2011'
+doc_url: https://academic.oup.com/bioinformatics/article-pdf/35/3/421/48965413/bioinformatics_35_3_421.pdf
+doi: 10.1093/bioinformatics/bty648
+files:
+- scalingreadallangme2019.pdf
+issue: '3'
+journal: Bioinformatics
+language: en
+month: 2
+pages: 421--432
+papis_id: 6db61a514950a055b83e40200d194299
+publisher: Oxford University Press (OUP)
+ref: ScalingReadAlLangme2019
+time-added: 2024-01-23-15:34:36
+title: Scaling read aligners to hundreds of threads on general-purpose processors
+type: article
+url: http://dx.doi.org/10.1093/bioinformatics/bty648
+volume: '35'
+year: 2019

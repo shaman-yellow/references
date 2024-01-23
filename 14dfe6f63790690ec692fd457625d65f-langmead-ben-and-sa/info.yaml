@@ -1,0 +1,111 @@
+author: Langmead, Ben and Salzberg, Steven L
+author_list:
+- affiliation: []
+  family: Langmead
+  given: Ben
+- affiliation: []
+  family: Salzberg
+  given: Steven L
+citations:
+- author: A McKenna
+  doi: 10.1101/gr.107524.110
+  first-page: '1297'
+  journal-title: Genome Res.
+  unstructured: McKenna, A. et al. Genome Res. 20, 1297–1303 (2010).
+  volume: '20'
+  year: '2010'
+- author: C Trapnell
+  doi: 10.1038/nbt.1621
+  first-page: '511'
+  journal-title: Nat. Biotechnol.
+  unstructured: Trapnell, C. et al. Nat. Biotechnol. 28, 511–515 (2010).
+  volume: '28'
+  year: '2010'
+- author: B Langmead
+  doi: 10.1186/gb-2010-11-8-r83
+  first-page: R83
+  journal-title: Genome Biol.
+  unstructured: Langmead, B., Hansen, K.D. & Leek, J.T. Genome Biol. 11, R83 (2010).
+  volume: '11'
+  year: '2010'
+- author: H Li
+  doi: 10.1093/bib/bbq015
+  first-page: '473'
+  journal-title: Brief. Bioinform.
+  unstructured: Li, H. & Homer, N. Brief. Bioinform. 11, 473–483 (2010).
+  volume: '11'
+  year: '2010'
+- unstructured: Ferragina, P. & Manzini, G. Proc. 41st Annual Symposium on Foundations
+    of Computer Science 390–398 (IEEE Comput. Soc.; 2000).
+- author: B Langmead
+  doi: 10.1186/gb-2009-10-3-r25
+  first-page: R25
+  journal-title: Genome Biol.
+  unstructured: Langmead, B., Trapnell, C., Pop, M. & Salzberg, S.L. Genome Biol.
+    10, R25 (2009).
+  volume: '10'
+  year: '2009'
+- unstructured: Lam, T. et al. IEEE International Conference on Bioinformatics and
+    Biomedicine 31–36 (2009).
+- author: H Li
+  doi: 10.1093/bioinformatics/btp324
+  first-page: '1754'
+  journal-title: Bioinformatics
+  unstructured: Li, H. & Durbin, R. Bioinformatics 25, 1754–1760 (2009).
+  volume: '25'
+  year: '2009'
+- author: H Li
+  doi: 10.1093/bioinformatics/btp698
+  first-page: '589'
+  journal-title: Bioinformatics
+  unstructured: Li, H. & Durbin, R. Bioinformatics 26, 589–595 (2010).
+  volume: '26'
+  year: '2010'
+- author: R Li
+  doi: 10.1093/bioinformatics/btp336
+  first-page: '1966'
+  journal-title: Bioinformatics
+  unstructured: Li, R. et al. Bioinformatics 25, 1966–1967 (2009).
+  volume: '25'
+  year: '2009'
+- author: SS Ajay
+  doi: 10.1101/gr.123638.111
+  first-page: '1498'
+  journal-title: Genome Res.
+  unstructured: Ajay, S.S., Parker, S.C., Ozel Abaan, H., Fuentes Fajardo, K.V. &
+    Margulies, E.H. Genome Res. 21, 1498–1505 (2010).
+  volume: '21'
+  year: '2010'
+- doi: 10.1038/nature09534
+  unstructured: 1000 Genomes Project Consortium. Nature 467, 1061–1073 (2010).
+- author: JM Rothberg
+  doi: 10.1038/nature10242
+  first-page: '348'
+  journal-title: Nature
+  unstructured: Rothberg, J.M. et al. Nature 475, 348–352 (2011).
+  volume: '475'
+  year: '2011'
+- author: H Li
+  doi: 10.1093/bioinformatics/btp352
+  first-page: '2078'
+  journal-title: Bioinformatics
+  unstructured: Li, H. et al. Bioinformatics 25, 2078–2079 (2009).
+  volume: '25'
+  year: '2009'
+doc_url: http://www.nature.com/articles/nmeth.1923.pdf
+doi: 10.1038/nmeth.1923
+files: []
+issue: '4'
+journal: Nature Methods
+language: en
+month: 4
+pages: 357--359
+papis_id: d8ffae344a4e4e5bd0f985c8556a0a05
+publisher: Springer Science and Business Media LLC
+ref: FastGappedReaLangme2012
+time-added: 2024-01-23-15:35:15
+title: Fast gapped-read alignment with Bowtie 2
+type: article
+url: http://dx.doi.org/10.1038/nmeth.1923
+volume: '9'
+year: 2012
