@@ -1,0 +1,23 @@
+author: Xie, Bingbing and Jiang, Qin and Mora, Antonio and Li, Xuri
+author_list:
+- family: Xie
+  given: Bingbing
+- family: Jiang
+  given: Qin
+- family: Mora
+  given: Antonio
+- family: Li
+  given: Xuri
+doi: 10.1016/j.csbj.2021.10.027
+files: []
+issn: 2001-0370
+journal: Computational and structural biotechnology journal
+pages: 5874--5887
+papis_id: affaac282b70f19168cc26645b835917
+pmid: '34815832'
+ref: AutomaticCellXieB2021
+time-added: 2024-02-04-09:48:30
+title: Automatic cell type identification methods for single-cell RNA sequencing
+type: article
+volume: '19'
+year: 2021
