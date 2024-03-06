@@ -1,0 +1,22 @@
+author: Geeleher, Paul and Cox, Nancy and Huang, R Stephanie
+author_list:
+- family: Geeleher
+  given: Paul
+- family: Cox
+  given: Nancy
+- family: Huang
+  given: R Stephanie
+doi: 10.1371/journal.pone.0107468
+files: []
+issn: 1932-6203
+issue: '9'
+journal: PloS one
+papis_id: df337bffefbdb5caa936953e31f0d919
+pmid: '25229481'
+ref: PrropheticAnGeeleh2014
+time-added: 2024-03-06-17:29:54
+title: 'pRRophetic: an R package for prediction of clinical chemotherapeutic response
+  from tumor gene expression levels'
+type: article
+volume: '9'
+year: 2014
