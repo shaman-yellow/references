@@ -1,0 +1,113 @@
+author: Roelands, Jessica and Kuppen, Peter J K and Ahmed, Eiman I and Mall, Raghvendra
+  and Masoodi, Tariq and Singh, Parul and Monaco, Gianni and Raynaud, Christophe and
+  de Miranda, Noel F C C and Ferraro, Luigi and Carneiro-Lobo, Tatiana C and Syed,
+  Najeeb and Rawat, Arun and Awad, Amany and Decock, Julie and Mifsud, William and
+  Miller, Lance D and Sherif, Shimaa and Mohamed, Mahmoud G and Rinchai, Darawan and
+  Van den Eynde, Marc and Sayaman, Rosalyn W and Ziv, Elad and Bertucci, Francois
+  and Petkar, Mahir Abdulla and Lorenz, Stephan and Mathew, Lisa Sara and Wang, Kun
+  and Murugesan, Selvasankar and Chaussabel, Damien and Vahrmeijer, Alexander L and
+  Wang, Ena and Ceccarelli, Anna and Fakhro, Khalid A and Zoppoli, Gabriele and Ballestrero,
+  Alberto and Tollenaar, Rob A E M and Marincola, Francesco M and Galon, Jérôme and
+  Khodor, Souhaila Al and Ceccarelli, Michele and Hendrickx, Wouter and Bedognetti,
+  Davide
+author_list:
+- family: Roelands
+  given: Jessica
+- family: Kuppen
+  given: Peter J K
+- family: Ahmed
+  given: Eiman I
+- family: Mall
+  given: Raghvendra
+- family: Masoodi
+  given: Tariq
+- family: Singh
+  given: Parul
+- family: Monaco
+  given: Gianni
+- family: Raynaud
+  given: Christophe
+- family: de Miranda
+  given: Noel F C C
+- family: Ferraro
+  given: Luigi
+- family: Carneiro-Lobo
+  given: Tatiana C
+- family: Syed
+  given: Najeeb
+- family: Rawat
+  given: Arun
+- family: Awad
+  given: Amany
+- family: Decock
+  given: Julie
+- family: Mifsud
+  given: William
+- family: Miller
+  given: Lance D
+- family: Sherif
+  given: Shimaa
+- family: Mohamed
+  given: Mahmoud G
+- family: Rinchai
+  given: Darawan
+- family: Van den Eynde
+  given: Marc
+- family: Sayaman
+  given: Rosalyn W
+- family: Ziv
+  given: Elad
+- family: Bertucci
+  given: Francois
+- family: Petkar
+  given: Mahir Abdulla
+- family: Lorenz
+  given: Stephan
+- family: Mathew
+  given: Lisa Sara
+- family: Wang
+  given: Kun
+- family: Murugesan
+  given: Selvasankar
+- family: Chaussabel
+  given: Damien
+- family: Vahrmeijer
+  given: Alexander L
+- family: Wang
+  given: Ena
+- family: Ceccarelli
+  given: Anna
+- family: Fakhro
+  given: Khalid A
+- family: Zoppoli
+  given: Gabriele
+- family: Ballestrero
+  given: Alberto
+- family: Tollenaar
+  given: Rob A E M
+- family: Marincola
+  given: Francesco M
+- family: Galon
+  given: Jérôme
+- family: Khodor
+  given: Souhaila Al
+- family: Ceccarelli
+  given: Michele
+- family: Hendrickx
+  given: Wouter
+- family: Bedognetti
+  given: Davide
+doi: 10.1038/s41591-023-02324-5
+files: []
+issn: 1078-8956
+issue: '5'
+journal: Nature medicine
+pages: 1273--1286
+papis_id: 8903e499e98117e3cbdeb3ac06c96584
+pmid: '37202560'
+ref: AnIntegratedTRoelan2023
+time-added: 2024-03-13-11:49:39
+title: An integrated tumor, immune and microbiome atlas of colon cancer
+type: article
+volume: '29'
+year: 2023
