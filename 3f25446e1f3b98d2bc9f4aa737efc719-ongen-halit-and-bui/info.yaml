@@ -1,0 +1,27 @@
+author: Ongen, Halit and Buil, Alfonso and Brown, Andrew Anand and Dermitzakis, Emmanouil
+  T and Delaneau, Olivier
+author_list:
+- family: Ongen
+  given: Halit
+- family: Buil
+  given: Alfonso
+- family: Brown
+  given: Andrew Anand
+- family: Dermitzakis
+  given: Emmanouil T
+- family: Delaneau
+  given: Olivier
+doi: 10.1093/bioinformatics/btv722
+files: []
+issn: 1367-4803
+issue: '10'
+journal: Bioinformatics (Oxford, England)
+pages: 1479--1485
+papis_id: 28fac360bce884948b207518cffb0f07
+pmid: '26708335'
+ref: FastAndEfficiOngen2016
+time-added: 2023-11-07-10:31:18
+title: Fast and efficient QTL mapper for thousands of molecular phenotypes
+type: article
+volume: '32'
+year: 2016

@@ -1,0 +1,41 @@
+author: Becht, Etienne and Giraldo, Nicolas A. and Lacroix, Laetitia and Buttard,
+  Bénédicte and Elarouci, Nabila and Petitprez, Florent and Selves, Janick and Laurent-Puig,
+  Pierre and Sautès-Fridman, Catherine and Fridman, Wolf H. and de Reyniès, Aurélien
+author_list:
+- family: Becht
+  given: Etienne
+- family: Giraldo
+  given: Nicolas A.
+- family: Lacroix
+  given: Laetitia
+- family: Buttard
+  given: Bénédicte
+- family: Elarouci
+  given: Nabila
+- family: Petitprez
+  given: Florent
+- family: Selves
+  given: Janick
+- family: Laurent-Puig
+  given: Pierre
+- family: Sautès-Fridman
+  given: Catherine
+- family: Fridman
+  given: Wolf H.
+- family: de Reyniès
+  given: Aurélien
+doi: 10.1186/s13059-016-1070-5
+files:
+- estimatingthebecht2016-a.pdf
+issue: '1'
+journal: Genome Biology
+month: '10'
+papis_id: 39505687bc256f9f33be7a09db19f0ab
+publisher: Springer Science and Business Media LLC
+ref: EstimatingTheBecht2016
+title: Estimating the population abundance of tissue-infiltrating immune and stromal
+  cell populations using gene expression
+type: article
+url: http://dx.doi.org/10.1186/s13059-016-1070-5
+volume: '17'
+year: '2016'

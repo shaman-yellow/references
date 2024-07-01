@@ -1,0 +1,42 @@
+author: Dührkop, Kai and Fleischauer, Markus and Ludwig, Marcus and Aksenov, Alexander
+  A. and Melnik, Alexey V. and Meusel, Marvin and Dorrestein, Pieter C. and Rousu,
+  Juho and Böcker, Sebastian
+author_list:
+- family: Dührkop
+  given: Kai
+- family: Fleischauer
+  given: Markus
+- family: Ludwig
+  given: Marcus
+- family: Aksenov
+  given: Alexander A.
+- family: Melnik
+  given: Alexey V.
+- family: Meusel
+  given: Marvin
+- family: Dorrestein
+  given: Pieter C.
+- family: Rousu
+  given: Juho
+- family: Böcker
+  given: Sebastian
+doi: 10.1038/s41592-019-0344-8
+file: /mnt/data/wizard/Zotero/storage/D8BP426Q/Dührkop et al. - 2019 - SIRIUS 4 a
+  rapid tool for turning tandem mass spe.pdf
+files:
+- sirius4arapduhrko2019-a.pdf
+issn: 1548-7091, 1548-7105
+journal: Nature Methods
+langid: english
+month: April
+number: '4'
+pages: 299--302
+papis_id: 8c6dabcd755f124645b2b59c0d4f89ec
+ref: Sirius4ARapDuhrko2019
+shorttitle: '{{SIRIUS}} 4'
+title: 'SIRIUS 4: A Rapid Tool for Turning Tandem Mass Spectra into Metabolite Structure
+  Information'
+type: article
+urldate: '2021-11-14'
+volume: '16'
+year: '2019'

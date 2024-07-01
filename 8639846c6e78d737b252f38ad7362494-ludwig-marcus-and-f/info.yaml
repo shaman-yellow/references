@@ -1,0 +1,30 @@
+address: '{New York, NY}'
+author: Ludwig, Marcus and Fleischauer, Markus and Dührkop, Kai and Hoffmann, Martin
+  A. and Böcker, Sebastian
+author_list:
+- family: Ludwig
+  given: Marcus
+- family: Fleischauer
+  given: Markus
+- family: Dührkop
+  given: Kai
+- family: Hoffmann
+  given: Martin A.
+- family: Böcker
+  given: Sebastian
+booktitle: Computational {{Methods}} and {{Data Analysis}} for {{Metabolomics}}
+doi: 10.1007/978-1-0716-0239-3_11
+editor: Li, Shuzhao
+files: []
+isbn: 978-1-07-160238-6 978-1-07-160239-3
+langid: english
+pages: 185--207
+papis_id: 650f80730a4b4b2baf8ce82388ca70e1
+publisher: '{Springer US}'
+ref: DeNovoMoleculLudwig2020
+title: De Novo Molecular Formula Annotation and Structure Elucidation Using SIRIUS
+  4
+type: incollection
+urldate: '2021-11-14'
+volume: '2104'
+year: '2020'

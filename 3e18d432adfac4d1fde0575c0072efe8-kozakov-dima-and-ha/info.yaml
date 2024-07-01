@@ -1,0 +1,33 @@
+author: Kozakov, Dima and Hall, David R and Xia, Bing and Porter, Kathryn A and Padhorny,
+  Dzmitry and Yueh, Christine and Beglov, Dmitri and Vajda, Sandor
+author_list:
+- family: Kozakov
+  given: Dima
+- family: Hall
+  given: David R
+- family: Xia
+  given: Bing
+- family: Porter
+  given: Kathryn A
+- family: Padhorny
+  given: Dzmitry
+- family: Yueh
+  given: Christine
+- family: Beglov
+  given: Dmitri
+- family: Vajda
+  given: Sandor
+doi: 10.1038/nprot.2016.169
+files: []
+issn: 1750-2799
+issue: '2'
+journal: Nature protocols
+pages: 255--278
+papis_id: 6226a2cb35d110ded851ab23f2cc154b
+pmid: '28079879'
+ref: TheClusproWebKozako2017
+time-added: 2024-04-19-15:33:34
+title: The ClusPro web server for protein-protein docking
+type: article
+volume: '12'
+year: 2017

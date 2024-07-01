@@ -1,0 +1,79 @@
+abstract: Marine microbes are known to degrade hydrocarbons; however, microbes inhabiting
+  deep-sea sediments remain largely unexplored. Previous studies into the classical  pathways
+  of marine microbial metabolism reveal diverse chemistries; however,  metabolic profiling
+  of marine microbes cultured with hydrocarbons is limited. In  this study, taxonomic
+  (amplicon sequencing) profiles of two environmental  deep-sea sediments ({$>$}1,200
+  m deep) were obtained, along with taxonomic and  metabolomic (mass spectrometry-based
+  metabolomics) profiles of microbes harbored  in deep-sea sediments cultured with
+  hydrocarbons as the sole energy source.  Samples were collected from the Gulf of
+  M\'exico (GM) and cultured for 28\,days  using simple (toluene, benzene, hexadecane,
+  and naphthalene) and complex  (petroleum API 40) hydrocarbon mixtures as the sole
+  energy sources. The sediment  samples harbored diverse microbial communities predominantly
+  classified into  Woeseiaceae and Kiloniellaceae families, whereas Pseudomonadaceae
+  and  Enterobacteriaceae families prevailed after sediments were cultured with  hydrocarbons.
+  Chemical profiling of microbial metabolomes revealed diverse  chemical groups belonging
+  primarily to the lipids and lipid-like molecules  superclass, as well as the organoheterocyclic
+  compound superclass (ClassyFire  annotation). Metabolomic data and prediction of
+  functional profiles indicated an  increase in aromatic and alkane degradation in
+  samples cultured with  hydrocarbons. Previously unreported metabolites, identified
+  as intermediates in  the degradation of hydrocarbons, were annotated as hydroxylated
+  polyunsaturated  fatty acids and carboxylated benzene derivatives. In summary, this
+  study used  mass spectrometry-based metabolomics coupled to chemoinformatics to
+  demonstrate  how microbes from deep-sea sediments could be cultured in the presence
+  of  hydrocarbons. This study also highlights how this experimental approach can
+  be  used to increase the understanding of hydrocarbon degradation by deep-sea  sediment
+  microbes.IMPORTANCE High-throughput technologies and emerging  informatics tools
+  have significantly advanced knowledge of hydrocarbon metabolism  by marine microbes.
+  However, research into microbes inhabiting deep-sea sediments  ({$>$}1,000 m) is
+  limited compared to those found in shallow waters. In this study, a  nontargeted
+  and nonclassical approach was used to examine the diversity of  bacterial taxa and
+  the metabolic profiles of hydrocarbon-degrading deep-sea  microbes. In conclusion,
+  this study used metabolomics and chemoinformatics to  demonstrate that microbes
+  from deep-sea sediment origin thrive in the presence of  toxic and difficult-to-metabolize
+  hydrocarbons. Notably, this study provides  evidence of previously unreported metabolites
+  and the global chemical repertoire  associated with the metabolism of hydrocarbons
+  by deep-sea microbes.
+author: Moreno-Ulloa, Aldo and Sicairos Diaz, Victoria and Tejeda-Mora, Javier A.
+  and Macias Contreras, Marla I. and Castillo, Fernando Díaz and Guerrero, Abraham
+  and Gonzalez Sanchez, Ricardo and Mendoza-Porras, Omar and Vazquez Duhalt, Rafael
+  and Licea-Navarro, Alexei
+author_list:
+- family: Moreno-Ulloa
+  given: Aldo
+- family: Sicairos Diaz
+  given: Victoria
+- family: Tejeda-Mora
+  given: Javier A.
+- family: Macias Contreras
+  given: Marla I.
+- family: Castillo
+  given: Fernando Díaz
+- family: Guerrero
+  given: Abraham
+- family: Gonzalez Sanchez
+  given: Ricardo
+- family: Mendoza-Porras
+  given: Omar
+- family: Vazquez Duhalt
+  given: Rafael
+- family: Licea-Navarro
+  given: Alexei
+copyright: Copyright \textcopyright{} 2020 Moreno-Ulloa et al.
+doi: 10.1128/mSystems.00824-20
+files: []
+issn: 2379-5077
+journal: mSystems
+keywords: 16S rRNA,deep-sea microbes,hydrocarbon degradation,marine bacteria,mass
+  spectrometry,metabolomics
+langid: english
+month: November
+number: '6'
+papis_id: 3492bfe653c5b355ffba046e31a4243b
+pmcid: PMC7657597
+pmid: '33172970'
+ref: ChemicalProfilMoreno2020
+title: Chemical Profiling Provides Insights into the Metabolic Machinery of Hydrocarbon-Degrading
+  Deep-Sea Microbes.
+type: article
+volume: '5'
+year: '2020'

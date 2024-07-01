@@ -1,0 +1,41 @@
+author: Wang, Xiaofan and Tsai, Tsungcheng and Deng, Feilong and Wei, Xiaoyuan and
+  Chai, Jianmin and Knapp, Joshua and Apple, Jason and Maxwell, Charles V. and Lee,
+  Jung Ae and Li, Ying and Zhao, Jiangchao
+author_list:
+- family: Wang
+  given: Xiaofan
+- family: Tsai
+  given: Tsungcheng
+- family: Deng
+  given: Feilong
+- family: Wei
+  given: Xiaoyuan
+- family: Chai
+  given: Jianmin
+- family: Knapp
+  given: Joshua
+- family: Apple
+  given: Jason
+- family: Maxwell
+  given: Charles V.
+- family: Lee
+  given: Jung Ae
+- family: Li
+  given: Ying
+- family: Zhao
+  given: Jiangchao
+doi: 10.1186/s40168-019-0721-7
+files:
+- longitudinalinwang2019-a.pdf
+issue: '1'
+journal: Microbiome
+month: '7'
+papis_id: a0dda3b061c1ea2409fda21c98d666a2
+publisher: Springer Science and Business Media LLC
+ref: LongitudinalInWang2019
+title: Longitudinal investigation of the swine gut microbiome from birth to market
+  reveals stage and growth performance associated bacteria
+type: article
+url: http://dx.doi.org/10.1186/s40168-019-0721-7
+volume: '7'
+year: '2019'

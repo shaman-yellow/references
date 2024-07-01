@@ -1,0 +1,32 @@
+author: Brouard, Céline and Shen, Huibin and Dührkop, Kai and d'Alché-Buc, Florence
+  and Böcker, Sebastian and Rousu, Juho
+author_list:
+- family: Brouard
+  given: Céline
+- family: Shen
+  given: Huibin
+- family: Dührkop
+  given: Kai
+- family: d'Alché-Buc
+  given: Florence
+- family: Böcker
+  given: Sebastian
+- family: Rousu
+  given: Juho
+doi: 10.1093/bioinformatics/btw246
+file: /mnt/data/wizard/Zotero/storage/MZJQGKLU/Brouard et al. - 2016 - Fast metabolite
+  identification with Input Output K.pdf
+files: []
+issn: 1367-4803, 1460-2059
+journal: Bioinformatics
+langid: english
+month: June
+number: '12'
+pages: i28-i36
+papis_id: 2914c345a3e8ce23eed8d07792a446f6
+ref: FastMetaboliteBrouar2016
+title: Fast Metabolite Identification with Input Output Kernel Regression
+type: article
+urldate: '2022-04-28'
+volume: '32'
+year: '2016'

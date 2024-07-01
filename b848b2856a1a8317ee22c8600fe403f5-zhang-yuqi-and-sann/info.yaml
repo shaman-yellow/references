@@ -1,0 +1,20 @@
+author: Zhang, Yuqi and Sanner, Michel F
+author_list:
+- family: Zhang
+  given: Yuqi
+- family: Sanner
+  given: Michel F
+doi: 10.1021/acs.jctc.9b00557
+files: []
+issn: 1549-9618
+issue: '10'
+journal: Journal of chemical theory and computation
+pages: 5161--5168
+papis_id: 679e34135656a0e08075e5a0860d23b0
+pmid: '31505931'
+ref: DockingFlexiblZhang2019
+time-added: 2024-02-05-12:00:12
+title: Docking Flexible Cyclic Peptides with <i>AutoDock CrankPep</i>
+type: article
+volume: '15'
+year: 2019

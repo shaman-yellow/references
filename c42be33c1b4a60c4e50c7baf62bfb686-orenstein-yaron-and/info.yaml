@@ -1,0 +1,24 @@
+author: Orenstein, Yaron and Wang, Yuhao and Berger, Bonnie
+author_list:
+- family: Orenstein
+  given: Yaron
+- family: Wang
+  given: Yuhao
+- family: Berger
+  given: Bonnie
+doi: 10.1093/bioinformatics/btw259
+files:
+- rckaccurateaorenst2016-a.pdf
+issue: '12'
+journal: Bioinformatics
+month: '6'
+page: i351-i359
+papis_id: c3a8cdf8e3a1dd3ec2548e04c850545c
+publisher: Oxford University Press (OUP)
+ref: RckAccurateAOrenst2016
+title: 'RCK: accurate and efficient inference of sequence- and structure-based protein–RNA
+  binding models from RNAcompete data'
+type: article
+url: http://dx.doi.org/10.1093/bioinformatics/btw259
+volume: '32'
+year: '2016'

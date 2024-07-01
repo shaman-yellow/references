@@ -1,0 +1,34 @@
+author: Zhou, Nan and Yuan, Xiaoqing and Du, Qingsong and Zhang, Zhiyu and Shi, Xiaolei
+  and Bao, Jinku and Ning, Yuping and Peng, Li
+author_list:
+- family: Zhou
+  given: Nan
+- family: Yuan
+  given: Xiaoqing
+- family: Du
+  given: Qingsong
+- family: Zhang
+  given: Zhiyu
+- family: Shi
+  given: Xiaolei
+- family: Bao
+  given: Jinku
+- family: Ning
+  given: Yuping
+- family: Peng
+  given: Li
+doi: 10.1093/nar/gkac935
+files: []
+issn: 0305-1048
+issue: D1
+journal: Nucleic acids research
+pages: D571--D582
+papis_id: d2497bed4b1f8ee853480620365a0fa8
+pmid: '36305834'
+ref: FerrdbV2UpdaZhou2023
+time-added: 2023-10-24-17:39:40
+title: 'FerrDb V2: update of the manually curated database of ferroptosis regulators
+  and ferroptosis-disease associations'
+type: article
+volume: '51'
+year: 2023

@@ -1,0 +1,58 @@
+abstract: It is well documented that patients affected by rheumatoid arthritis (RA)
+  have distinct susceptibility to the different biologic DMARDs available on the market,
+  probably because of the many facets of the disease. Monocytes are deeply involved
+  in the pathogenesis of RA and we therefore evaluated and compared the transcriptomic
+  profile of monocytes isolated from patients on treatment with methotrexate alone
+  or in combination with tocilizumab, anti-TNF{$\alpha$} or abatacept and from healthy
+  donors. Whole-genome transcriptomics yielded a list of regulated genes by Rank Product
+  statistics and DAVID was then used for functional annotation enrichment analysis.
+  Last, data were validated by qRT-PCR. Abatacept, tocilizumab and anti-TNFa cohorts
+  were separately compared with methotrexate, leading to the identification of 78,
+  6, and 436 differentially expressed genes, respectively. The upper-most ranked genes
+  were related to inflammatory processes and immune responses. Such an approach draws
+  the genomic profile of monocytes in treated RA patients and lays the basis for finding
+  gene signature for tailored therapeutic choices.
+author: Talmon, Maria and Percio, Marcella and Obeng, Joyce Afrakoma and Ruffinatti,
+  Federico A. and Sola, Daniele and Sainaghi, Pier Paolo and Bellis, Emanuela and
+  Cusinato, Stefano and Ianniello, Aurora and Fresu, Luigia G.
+author_list:
+- family: Talmon
+  given: Maria
+- family: Percio
+  given: Marcella
+- family: Obeng
+  given: Joyce Afrakoma
+- family: Ruffinatti
+  given: Federico A.
+- family: Sola
+  given: Daniele
+- family: Sainaghi
+  given: Pier Paolo
+- family: Bellis
+  given: Emanuela
+- family: Cusinato
+  given: Stefano
+- family: Ianniello
+  given: Aurora
+- family: Fresu
+  given: Luigia G.
+doi: 10.1371/journal.pone.0282564
+file: /mnt/data/wizard/Zotero/storage/PH9XEA7P/Talmon et al. - 2023 - Transcriptomic
+  profile comparison of monocytes fro.pdf
+files: []
+issn: 1932-6203
+journal: PloS One
+keywords: Abatacept,{Arthritis, Rheumatoid},Humans,Methotrexate,Monocytes,Transcriptome,Tumor
+  Necrosis Factor Inhibitors
+langid: english
+number: '3'
+pages: e0282564
+papis_id: c8b141c425ed0d850543275a16115d45
+pmcid: PMC9987802
+pmid: '36877690'
+ref: TranscriptomicTalmon2023
+title: Transcriptomic Profile Comparison of Monocytes from Rheumatoid Arthritis Patients
+  in Treatment with Methotrexate, Anti-TNFa, Abatacept or Tocilizumab
+type: article
+volume: '18'
+year: '2023'

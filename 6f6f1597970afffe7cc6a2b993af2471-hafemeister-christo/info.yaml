@@ -1,0 +1,21 @@
+author: Hafemeister, Christoph and Satija, Rahul
+author_list:
+- family: Hafemeister
+  given: Christoph
+- family: Satija
+  given: Rahul
+doi: 10.1186/s13059-019-1874-1
+files:
+- normalizationahafeme2019-a.pdf
+issue: '1'
+journal: Genome Biology
+month: '12'
+papis_id: 5205eea087bd2afd4184c5c21be1d7bb
+publisher: Springer Science and Business Media LLC
+ref: NormalizationAHafeme2019
+title: Normalization and variance stabilization of single-cell RNA-seq data using
+  regularized negative binomial regression
+type: article
+url: http://dx.doi.org/10.1186/s13059-019-1874-1
+volume: '20'
+year: '2019'

@@ -1,0 +1,29 @@
+author: Peters, Timothy J and Buckley, Michael J and Chen, Yunshun and Smyth, Gordon
+  K and Goodnow, Christopher C and Clark, Susan J
+author_list:
+- family: Peters
+  given: Timothy J
+- family: Buckley
+  given: Michael J
+- family: Chen
+  given: Yunshun
+- family: Smyth
+  given: Gordon K
+- family: Goodnow
+  given: Christopher C
+- family: Clark
+  given: Susan J
+doi: 10.1093/nar/gkab637
+files: []
+issn: 0305-1048
+issue: '19'
+journal: Nucleic acids research
+papis_id: e52f82e4daf86554dbfdf3977d4704f5
+pmid: '34320181'
+ref: CallingDifferePeters2021
+time-added: 2024-05-23-14:27:44
+title: Calling differentially methylated regions from whole genome bisulphite sequencing
+  with DMRcate
+type: article
+volume: '49'
+year: 2021

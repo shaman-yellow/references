@@ -1,0 +1,30 @@
+author: Mutinda, Faith Wavinya and Liew, Kongmeng and Yada, Shuntaro and Wakamiya,
+  Shoko and Aramaki, Eiji
+author_list:
+- family: Mutinda
+  given: Faith Wavinya
+- family: Liew
+  given: Kongmeng
+- family: Yada
+  given: Shuntaro
+- family: Wakamiya
+  given: Shoko
+- family: Aramaki
+  given: Eiji
+doi: 10.1186/s12911-022-01897-4
+files:
+- automaticdatamutind2022-a.pdf
+- automaticdatamutind2022-b.pdf
+- automaticdatamutind2022-c.pdf
+issue: '1'
+journal: BMC Medical Informatics and Decision Making
+month: '6'
+papis_id: 9ed65cf8f5dbf771d37b67c3f665e51a
+publisher: Springer Science and Business Media LLC
+ref: AutomaticDataMutind2022
+title: 'Automatic data extraction to support meta-analysis statistical analysis: a
+  case study on breast cancer'
+type: article
+url: http://dx.doi.org/10.1186/s12911-022-01897-4
+volume: '22'
+year: '2022'

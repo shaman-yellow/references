@@ -1,0 +1,21 @@
+author: Ravindranath, Pradeep Anand and Sanner, Michel F
+author_list:
+- family: Ravindranath
+  given: Pradeep Anand
+- family: Sanner
+  given: Michel F
+doi: 10.1093/bioinformatics/btw367
+files: []
+issn: 1367-4803
+issue: '20'
+journal: Bioinformatics (Oxford, England)
+pages: 3142--3149
+papis_id: 098842589af712f647f2a02e22167a0d
+pmid: '27354702'
+ref: AutositeAnAuRavind2016
+time-added: 2024-02-01-11:14:59
+title: 'AutoSite: an automated approach for pseudo-ligands prediction-from ligand-binding
+  sites identification to predicting key ligand atoms'
+type: article
+volume: '32'
+year: 2016

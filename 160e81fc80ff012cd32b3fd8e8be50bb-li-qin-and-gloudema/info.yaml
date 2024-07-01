@@ -1,0 +1,755 @@
+author: Li, Qin and Gloudemans, Michael J. and Geisinger, Jonathan M. and Fan, Boming
+  and Aguet, François and Sun, Tao and Ramaswami, Gokul and Li, Yang I. and Ma, Jin-Biao
+  and Pritchard, Jonathan K. and Montgomery, Stephen B. and Li, Jin Billy
+author_list:
+- affiliation: []
+  family: Li
+  given: Qin
+- affiliation: []
+  family: Gloudemans
+  given: Michael J.
+- affiliation: []
+  family: Geisinger
+  given: Jonathan M.
+- affiliation: []
+  family: Fan
+  given: Boming
+- affiliation: []
+  family: Aguet
+  given: François
+- affiliation: []
+  family: Sun
+  given: Tao
+- affiliation: []
+  family: Ramaswami
+  given: Gokul
+- affiliation: []
+  family: Li
+  given: Yang I.
+- affiliation: []
+  family: Ma
+  given: Jin-Biao
+- affiliation: []
+  family: Pritchard
+  given: Jonathan K.
+- affiliation: []
+  family: Montgomery
+  given: Stephen B.
+- affiliation: []
+  family: Li
+  given: Jin Billy
+citations:
+- author: FW Albert
+  doi: 10.1038/nrg3891
+  first-page: '197'
+  journal-title: Nat. Rev. Genet.
+  unstructured: Albert, F. W. & Kruglyak, L. The role of regulatory variation in complex
+    traits and disease. Nat. Rev. Genet. 16, 197–212 (2015).
+  volume: '16'
+  year: '2015'
+- author: GTEx Consortium.
+  doi: 10.1126/science.aaz1776
+  first-page: '1318'
+  journal-title: Science
+  unstructured: GTEx Consortium. The GTEx Consortium atlas of genetic regulatory effects
+    across human tissues. Science 369, 1318–1330 (2020).
+  volume: '369'
+  year: '2020'
+- author: S Chun
+  doi: 10.1038/ng.3795
+  first-page: '600'
+  journal-title: Nat. Genet.
+  unstructured: Chun, S. et al. Limited statistical evidence for shared genetic effects
+    of eQTLs and autoimmune-disease-associated loci in three major immune-cell types.
+    Nat. Genet. 49, 600–605 (2017).
+  volume: '49'
+  year: '2017'
+- author: BD Umans
+  doi: 10.1016/j.tig.2020.08.009
+  first-page: '109'
+  journal-title: Trends Genet.
+  unstructured: Umans, B. D., Battle, A. & Gilad, Y. Where are the disease-associated
+    eQTLs? Trends Genet. 37, 109–124 (2021).
+  volume: '37'
+  year: '2021'
+- author: K Nishikura
+  doi: 10.1146/annurev-biochem-060208-105251
+  first-page: '321'
+  journal-title: Annu. Rev. Biochem.
+  unstructured: Nishikura, K. Functions and regulation of RNA editing by ADAR deaminases.
+    Annu. Rev. Biochem. 79, 321–349 (2010).
+  volume: '79'
+  year: '2010'
+- author: GI Rice
+  doi: 10.1038/ng.2414
+  first-page: '1243'
+  journal-title: Nat. Genet.
+  unstructured: Rice, G. I. et al. Mutations in ADAR1 cause Aicardi–Goutieres syndrome
+    associated with a type I interferon signature. Nat. Genet. 44, 1243–1248 (2012).
+  volume: '44'
+  year: '2012'
+- author: NM Mannion
+  doi: 10.1016/j.celrep.2014.10.041
+  first-page: '1482'
+  journal-title: Cell Rep.
+  unstructured: Mannion, N. M. et al. The RNA-editing enzyme ADAR1 controls innate
+    immune responses to RNA. Cell Rep. 9, 1482–1494 (2014).
+  volume: '9'
+  year: '2014'
+- author: BJ Liddicoat
+  doi: 10.1126/science.aac7049
+  first-page: '1115'
+  journal-title: Science
+  unstructured: Liddicoat, B. J. et al. RNA editing by ADAR1 prevents MDA5 sensing
+    of endogenous dsRNA as nonself. Science 349, 1115–1120 (2015).
+  volume: '349'
+  year: '2015'
+- author: K Pestal
+  doi: 10.1016/j.immuni.2015.11.001
+  first-page: '933'
+  journal-title: Immunity
+  unstructured: Pestal, K. et al. Isoforms of RNA-editing enzyme ADAR1 independently
+    control nucleic acid sensor MDA5-driven autoimmunity and multi-organ development.
+    Immunity 43, 933–944 (2015).
+  volume: '43'
+  year: '2015'
+- author: E Eisenberg
+  doi: 10.1038/s41576-018-0006-1
+  first-page: '473'
+  journal-title: Nat. Rev. Genet.
+  unstructured: Eisenberg, E. & Levanon, E. Y. A-to-I RNA editing—immune protector
+    and transcriptome diversifier. Nat. Rev. Genet. 19, 473–490 (2018).
+  volume: '19'
+  year: '2018'
+- author: CE Samuel
+  doi: 10.1074/jbc.TM118.004166
+  first-page: '1710'
+  journal-title: J. Biol. Chem.
+  unstructured: Samuel, C. E. Adenosine deaminase acting on RNA (ADAR1), a suppressor
+    of double-stranded RNA-triggered innate immune responses. J. Biol. Chem. 294,
+    1710–1720 (2019).
+  volume: '294'
+  year: '2019'
+- author: YI Li
+  doi: 10.1126/science.aad9417
+  first-page: '600'
+  journal-title: Science
+  unstructured: Li, Y. I. et al. RNA splicing is a primary link between genetic variation
+    and disease. Science 352, 600–604 (2016).
+  volume: '352'
+  year: '2016'
+- author: N Jonkhout
+  doi: 10.1261/rna.063503.117
+  first-page: '1754'
+  journal-title: RNA
+  unstructured: Jonkhout, N. et al. The RNA modification landscape in human disease.
+    RNA 23, 1754–1769 (2017).
+  volume: '23'
+  year: '2017'
+- author: CR Walkley
+  doi: 10.1186/s13059-017-1347-3
+  journal-title: Genome Biol.
+  unstructured: 'Walkley, C. R. & Li, J. B. Rewriting the transcriptome: adenosine-to-inosine
+    RNA editing by ADARs. Genome Biol. 18, 205 (2017).'
+  volume: '18'
+  year: '2017'
+- author: G Ramaswami
+  doi: 10.1016/j.ymeth.2016.05.011
+  first-page: '42'
+  journal-title: Methods
+  unstructured: 'Ramaswami, G. & Li, J. B. Identification of human RNA editing sites:
+    a historical perspective. Methods 107, 42–47 (2016).'
+  volume: '107'
+  year: '2016'
+- author: G Ramaswami
+  doi: 10.1038/nmeth.1982
+  first-page: '579'
+  journal-title: Nat. Methods
+  unstructured: Ramaswami, G. et al. Accurate identification of human Alu and non-Alu
+    RNA editing sites. Nat. Methods 9, 579–581 (2012).
+  volume: '9'
+  year: '2012'
+- author: MH Tan
+  doi: 10.1038/nature24041
+  first-page: '249'
+  journal-title: Nature
+  unstructured: Tan, M. H. et al. Dynamic landscape and regulation of RNA editing
+    in mammals. Nature 550, 249–254 (2017).
+  volume: '550'
+  year: '2017'
+- author: HT Porath
+  doi: 10.1186/s13059-017-1315-y
+  journal-title: Genome Biol.
+  unstructured: Porath, H. T., Knisbacher, B. A., Eisenberg, E. & Levanon, E. Y. Massive
+    A-to-I RNA editing is common across the metazoa and correlates with dsRNA abundance.
+    Genome Biol. 18, 185 (2017).
+  volume: '18'
+  year: '2017'
+- author: AM Chalk
+  doi: 10.1186/s13059-019-1873-2
+  journal-title: Genome Biol.
+  unstructured: Chalk, A. M., Taylor, S., Heraud-Farlow, J. E. & Walkley, C. R. The
+    majority of A-to-I RNA editing is not required for mammalian homeostasis. Genome
+    Biol. 20, 268 (2019).
+  volume: '20'
+  year: '2019'
+- author: GI Rice
+  doi: 10.1038/ng.2933
+  first-page: '503'
+  journal-title: Nat. Genet.
+  unstructured: Rice, G. I. et al. Gain-of-function mutations in IFIH1 cause a spectrum
+    of human disease phenotypes associated with upregulated type I interferon signaling.
+    Nat. Genet. 46, 503–509 (2014).
+  volume: '46'
+  year: '2014'
+- author: S Nejentsev
+  doi: 10.1126/science.1167728
+  first-page: '387'
+  journal-title: Science
+  unstructured: Nejentsev, S., Walker, N., Riches, D., Egholm, M. & Todd, J. A. Rare
+    variants of IFIH1, a gene implicated in antiviral responses, protect against type
+    1 diabetes. Science 324, 387–389 (2009).
+  volume: '324'
+  year: '2009'
+- author: CA Emdin
+  doi: 10.1038/s41467-018-03911-8
+  journal-title: Nat. Commun.
+  unstructured: Emdin, C. A. et al. Analysis of predicted loss-of-function variants
+    in UK Biobank identifies variants protective for disease. Nat. Commun. 9, 1613
+    (2018).
+  volume: '9'
+  year: '2018'
+- author: Y Li
+  doi: 10.1038/jid.2010.214
+  first-page: '2768'
+  journal-title: J. Invest. Dermatol.
+  unstructured: Li, Y. et al. Carriers of rare missense variants in IFIH1 are protected
+    from psoriasis. J. Invest. Dermatol. 130, 2768–2772 (2010).
+  volume: '130'
+  year: '2010'
+- author: H Huang
+  doi: 10.1038/nature22969
+  first-page: '173'
+  journal-title: Nature
+  unstructured: Huang, H. et al. Fine-mapping inflammatory bowel disease loci to single-variant
+    resolution. Nature 547, 173–178 (2017).
+  volume: '547'
+  year: '2017'
+- author: Y Jin
+  doi: 10.1016/j.jid.2016.09.021
+  first-page: '522'
+  journal-title: J. Invest. Dermatol.
+  unstructured: Jin, Y., Andersen, G. H. L., Santorico, S. A. & Spritz, R. A. Multiple
+    functional variants of IFIH1, a gene involved in triggering innate immune responses,
+    protect against vitiligo. J. Invest. Dermatol. 137, 522–524 (2017).
+  volume: '137'
+  year: '2017'
+- author: BB Sun
+  doi: 10.1038/s41586-022-04394-w
+  first-page: '95'
+  journal-title: Nature
+  unstructured: Sun, B. B. et al. Genetic associations of protein-coding variants
+    in human disease. Nature 603, 95–102 (2022).
+  volume: '603'
+  year: '2022'
+- author: L Shallev
+  doi: 10.1261/rna.064659.117
+  first-page: '828'
+  journal-title: RNA
+  unstructured: Shallev, L. et al. Decreased A-to-I RNA editing as a source of keratinocytes'
+    dsRNA in psoriasis. RNA 24, 828–840 (2018).
+  volume: '24'
+  year: '2018'
+- author: NI Vlachogiannis
+  doi: 10.1016/j.jaut.2019.102329
+  first-page: '102329'
+  journal-title: J. Autoimmun.
+  unstructured: Vlachogiannis, N. I. et al. Increased adenosine-to-inosine RNA editing
+    in rheumatoid arthritis. J. Autoimmun. 106, 102329 (2020).
+  volume: '106'
+  year: '2020'
+- author: SH Roth
+  doi: 10.1016/j.celrep.2018.03.036
+  first-page: '50'
+  journal-title: Cell Rep.
+  unstructured: Roth, S. H. et al. Increased RNA editing may provide a source for
+    autoantigens in systemic lupus erythematosus. Cell Rep. 23, 50–57 (2018).
+  volume: '23'
+  year: '2018'
+- author: JT Tossberg
+  doi: 10.4049/jimmunol.2000384
+  first-page: '2606'
+  journal-title: J. Immunol.
+  unstructured: Tossberg, J. T., Heinrich, R. M., Farley, V. M., Crooke, P. S. 3rd
+    & Aune, T. M. Adenosine-to-inosine RNA editing of Alu double-stranded (ds)RNAs
+    is markedly decreased in multiple sclerosis and unedited Alu dsRNAs are potent
+    activators of proinflammatory transcriptional responses. J. Immunol. 205, 2606–2617
+    (2020).
+  volume: '205'
+  year: '2020'
+- author: A Belkadi
+  doi: 10.1038/s41431-020-0688-7
+  first-page: '1753'
+  journal-title: Eur. J. Hum. Genet.
+  unstructured: Belkadi, A. et al. Identification of genetic variants controlling
+    RNA editing and their effect on RNA structure stabilization. Eur. J. Hum. Genet.
+    28, 1753–1762 (2020).
+  volume: '28'
+  year: '2020'
+- author: H Ruan
+  doi: 10.1093/nar/gkab810
+  first-page: D1231
+  journal-title: Nucleic Acids Res.
+  unstructured: 'Ruan, H. et al. GPEdit: the genetic and pharmacogenomic landscape
+    of A-to-I RNA editing in cancers. Nucleic Acids Res. 50, D1231–D1237 (2022).'
+  volume: '50'
+  year: '2022'
+- author: MS Breen
+  doi: 10.1038/s41593-019-0463-7
+  first-page: '1402'
+  journal-title: Nat. Neurosci.
+  unstructured: Breen, M. S. et al. Global landscape and genetic regulation of RNA
+    editing in cortical samples from individuals with schizophrenia. Nat. Neurosci.
+    22, 1402–1412 (2019).
+  volume: '22'
+  year: '2019'
+- author: E Park
+  doi: 10.1186/s13059-021-02287-1
+  journal-title: Genome Biol.
+  unstructured: Park, E., Jiang, Y., Hao, L., Hui, J. & Xing, Y. Genetic variation
+    and microRNA targeting of A-to-I RNA editing fine tune human tissue transcriptomes.
+    Genome Biol. 22, 77 (2021).
+  volume: '22'
+  year: '2021'
+- author: O Franzen
+  doi: 10.7717/peerj.4466
+  first-page: e4466
+  journal-title: PeerJ
+  unstructured: Franzen, O. et al. Global analysis of A-to-I RNA editing reveals association
+    with common disease variants. PeerJ 6, e4466 (2018).
+  volume: '6'
+  year: '2018'
+- author: E Park
+  doi: 10.1186/s13059-017-1270-7
+  journal-title: Genome Biol.
+  unstructured: Park, E. et al. Population and allelic variation of A-to-I RNA editing
+    in human transcriptomes. Genome Biol. 18, 143 (2017).
+  volume: '18'
+  year: '2017'
+- author: NA Wijetunga
+  doi: 10.1038/ncomms6195
+  journal-title: Nat. Commun.
+  unstructured: Wijetunga, N. A. et al. The meta-epigenomic structure of purified
+    human stem cell populations is defined at cis-regulatory sequences. Nat. Commun.
+    5, 5195 (2014).
+  volume: '5'
+  year: '2014'
+- author: P Baeza-Centurion
+  doi: 10.1016/j.cell.2018.12.010
+  first-page: '549'
+  journal-title: Cell
+  unstructured: Baeza-Centurion, P., Minana, B., Schmiedel, J. M., Valcarcel, J. &
+    Lehner, B. Combinatorial genetics reveals a scaling law for the effects of mutations
+    on splicing. Cell 176, 549–563.e23 (2019).
+  volume: '176'
+  year: '2019'
+- author: H Ongen
+  doi: 10.1093/bioinformatics/btv722
+  first-page: '1479'
+  journal-title: Bioinformatics
+  unstructured: Ongen, H., Buil, A., Brown, A. A., Dermitzakis, E. T. & Delaneau,
+    O. Fast and efficient QTL mapper for thousands of molecular phenotypes. Bioinformatics
+    32, 1479–1485 (2016).
+  volume: '32'
+  year: '2016'
+- author: SM Urbut
+  doi: 10.1038/s41588-018-0268-8
+  first-page: '187'
+  journal-title: Nat. Genet.
+  unstructured: Urbut, S. M., Wang, G., Carbonetto, P. & Stephens, M. Flexible statistical
+    methods for estimating and testing effects in genomic studies with multiple conditions.
+    Nat. Genet. 51, 187–195 (2019).
+  volume: '51'
+  year: '2019'
+- author: MM Matthews
+  doi: 10.1038/nsmb.3203
+  first-page: '426'
+  journal-title: Nat. Struct. Mol. Biol.
+  unstructured: Matthews, M. M. et al. Structures of human ADAR2 bound to dsRNA reveal
+    base-flipping mechanism and basis for site selectivity. Nat. Struct. Mol. Biol.
+    23, 426–433 (2016).
+  volume: '23'
+  year: '2016'
+- author: F Hormozdiari
+  doi: 10.1038/s41588-018-0148-2
+  first-page: '1041'
+  journal-title: Nat. Genet.
+  unstructured: Hormozdiari, F. et al. Leveraging molecular quantitative trait loci
+    to understand the genetic architecture of diseases and complex traits. Nat. Genet.
+    50, 1041–1047 (2018).
+  volume: '50'
+  year: '2018'
+- author: HK Finucane
+  doi: 10.1038/ng.3404
+  first-page: '1228'
+  journal-title: Nat. Genet.
+  unstructured: Finucane, H. K. et al. Partitioning heritability by functional annotation
+    using genome-wide association summary statistics. Nat. Genet. 47, 1228–1235 (2015).
+  volume: '47'
+  year: '2015'
+- author: M Navab
+  doi: 10.2337/db09-0538
+  first-page: '2711'
+  journal-title: Diabetes
+  unstructured: Navab, M., Anantharamaiah, G. M., Reddy, S. T., Van Lenten, B. J.
+    & Fogelman, A. M. HDL as a biomarker, potential therapeutic target, and therapy.
+    Diabetes 58, 2711–2717 (2009).
+  volume: '58'
+  year: '2009'
+- author: M Zeisbrich
+  doi: 10.1136/annrheumdis-2017-212647
+  first-page: '1053'
+  journal-title: Ann. Rheum. Dis.
+  unstructured: Zeisbrich, M. et al. Hypermetabolic macrophages in rheumatoid arthritis
+    and coronary artery disease due to glycogen synthase kinase 3b inactivation. Ann.
+    Rheum. Dis. 77, 1053–1062 (2018).
+  volume: '77'
+  year: '2018'
+- author: MK Misra
+  doi: 10.1111/imm.12869
+  first-page: '399'
+  journal-title: Immunology
+  unstructured: Misra, M. K., Damotte, V. & Hollenbach, J. A. The immunogenetics of
+    neurological disease. Immunology 153, 399–414 (2018).
+  volume: '153'
+  year: '2018'
+- author: CF Suciu
+  doi: 10.1016/j.autrev.2017.11.028
+  first-page: '366'
+  journal-title: Autoimmun. Rev.
+  unstructured: 'Suciu, C. F. et al. Oxidized low density lipoproteins: the bridge
+    between atherosclerosis and autoimmunity. Possible implications in accelerated
+    atherosclerosis and for immune intervention in autoimmune rheumatic disorders.
+    Autoimmun. Rev. 17, 366–375 (2018).'
+  volume: '17'
+  year: '2018'
+- author: DW Yao
+  doi: 10.1038/s41588-020-0625-2
+  first-page: '626'
+  journal-title: Nat. Genet.
+  unstructured: Yao, D. W., O'Connor, L. J., Price, A. L. & Gusev, A. Quantifying
+    genetic effects on disease mediated by assayed gene expression levels. Nat. Genet.
+    52, 626–633 (2020).
+  volume: '52'
+  year: '2020'
+- author: RW Sayaman
+  doi: 10.1016/j.immuni.2021.01.011
+  first-page: '367'
+  journal-title: Immunity
+  unstructured: Sayaman, R. W. et al. Germline genetic contribution to the immune
+    landscape of cancer. Immunity 54, 367–386.e8 (2021).
+  volume: '54'
+  year: '2021'
+- author: L Bazak
+  doi: 10.1101/gr.164749.113
+  first-page: '365'
+  journal-title: Genome Res.
+  unstructured: Bazak, L. et al. A-to-I RNA editing occurs at over a hundred million
+    genomic sites, located in a majority of human genes. Genome Res. 24, 365–376 (2014).
+  volume: '24'
+  year: '2014'
+- author: MA Faghihi
+  doi: 10.1038/nrm2738
+  first-page: '637'
+  journal-title: Nat. Rev. Mol. Cell Biol.
+  unstructured: Faghihi, M. A. & Wahlestedt, C. Regulatory roles of natural antisense
+    transcripts. Nat. Rev. Mol. Cell Biol. 10, 637–643 (2009).
+  volume: '10'
+  year: '2009'
+- author: AG Dias Junior
+  doi: 10.1016/j.tim.2018.08.007
+  first-page: '75'
+  journal-title: Trends Microbiol.
+  unstructured: 'Dias Junior, A. G., Sampaio, N. G. & Rehwinkel, J. A balancing act:
+    MDA5 in antiviral immunity and autoinflammation. Trends Microbiol. 27, 75–85 (2019).'
+  volume: '27'
+  year: '2019'
+- author: B Wu
+  doi: 10.1016/j.cell.2012.11.048
+  first-page: '276'
+  journal-title: Cell
+  unstructured: Wu, B. et al. Structural basis for dsRNA recognition, filament formation,
+    and antiviral signal activation by MDA5. Cell 152, 276–289 (2013).
+  volume: '152'
+  year: '2013'
+- author: P Li
+  doi: 10.1093/nar/gkaa880
+  first-page: D183
+  journal-title: Nucleic Acids Res.
+  unstructured: 'Li, P., Zhou, X., Xu, K. & Zhang, Q. C. RASP: an atlas of transcriptome-wide
+    RNA secondary structure probing data. Nucleic Acids Res. 49, D183–D191 (2021).'
+  volume: '49'
+  year: '2021'
+- author: W Zhao
+  doi: 10.1093/nar/gkab702
+  first-page: D287
+  journal-title: Nucleic Acids Res.
+  unstructured: 'Zhao, W. et al. POSTAR3: an updated platform for exploring post-transcriptional
+    regulation coordinated by RNA-binding proteins. Nucleic Acids Res. 50, D287–D294
+    (2022).'
+  volume: '50'
+  year: '2022'
+- author: YA Reshef
+  doi: 10.1038/s41588-018-0196-7
+  first-page: '1483'
+  journal-title: Nat. Genet.
+  unstructured: Reshef, Y. A. et al. Detecting genome-wide directional effects of
+    transcription factor binding on polygenic disease risk. Nat. Genet. 50, 1483–1493
+    (2018).
+  volume: '50'
+  year: '2018'
+- author: JB Patterson
+  doi: 10.1128/MCB.15.10.5376
+  first-page: '5376'
+  journal-title: Mol. Cell. Biol.
+  unstructured: 'Patterson, J. B. & Samuel, C. E. Expression and regulation by interferon
+    of a double-stranded-RNA-specific adenosine deaminase from human cells: evidence
+    for two forms of the deaminase. Mol. Cell. Biol. 15, 5376–5388 (1995).'
+  volume: '15'
+  year: '1995'
+- author: JE Heraud-Farlow
+  doi: 10.1007/s00109-016-1416-1
+  first-page: '1095'
+  journal-title: J. Mol. Med.
+  unstructured: Heraud-Farlow, J. E. & Walkley, C. R. The role of RNA editing by ADAR1
+    in prevention of innate immune sensing of self-RNA. J. Mol. Med. 94, 1095–1102
+    (2016).
+  volume: '94'
+  year: '2016'
+- author: Y Guo
+  doi: 10.4049/jimmunol.1601988
+  first-page: '4490'
+  journal-title: J. Immunol.
+  unstructured: Guo, Y. et al. CD40L-dependent pathway is active at various stages
+    of rheumatoid arthritis disease progression. J. Immunol. 198, 4490–4501 (2017).
+  volume: '198'
+  year: '2017'
+- author: ML Elkjaer
+  doi: 10.1186/s40478-019-0855-7
+  first-page: '205'
+  journal-title: Acta Neuropathol. Commun.
+  unstructured: Elkjaer, M. L. et al. Molecular signature of different lesion types
+    in the brain white matter of patients with progressive multiple sclerosis. Acta
+    Neuropathol. Commun. 7, 205 (2019).
+  volume: '7'
+  year: '2019'
+- author: M Tokuyama
+  doi: 10.1073/pnas.1814589115
+  first-page: '12565'
+  journal-title: Proc. Natl Acad. Sci. USA
+  unstructured: Tokuyama, M. et al. ERVmap analysis reveals genome-wide transcription
+    of human endogenous retroviruses. Proc. Natl Acad. Sci. USA 115, 12565–12572 (2018).
+  volume: '115'
+  year: '2018'
+- author: K Numata
+  doi: 10.1016/j.gene.2006.12.005
+  first-page: '134'
+  journal-title: Gene
+  unstructured: Numata, K. et al. Comparative analysis of cis-encoded antisense RNAs
+    in eukaryotes. Gene 392, 134–141 (2007).
+  volume: '392'
+  year: '2007'
+- author: G Ramaswami
+  doi: 10.1093/nar/gkt996
+  first-page: D109
+  journal-title: Nucleic Acids Res.
+  unstructured: 'Ramaswami, G. & Li, J. B. RADAR: a rigorously annotated database
+    of A-to-I RNA editing. Nucleic Acids Res. 42, D109–D113 (2014).'
+  volume: '42'
+  year: '2014'
+- author: R Zhang
+  doi: 10.1038/nmeth.2736
+  first-page: '51'
+  journal-title: Nat. Methods
+  unstructured: Zhang, R. et al. Quantifying RNA allelic ratios by microfluidic multiplex
+    PCR and sequencing. Nat. Methods 11, 51–54 (2014).
+  volume: '11'
+  year: '2014'
+- author: G Ramaswami
+  doi: 10.1038/ncomms9194
+  journal-title: Nat. Commun.
+  unstructured: Ramaswami, G. et al. Genetic mapping uncovers cis-regulatory landscape
+    of RNA editing. Nat. Commun. 6, 8194 (2015).
+  volume: '6'
+  year: '2015'
+- author: SS Tran
+  doi: 10.1038/s41593-018-0287-x
+  first-page: '25'
+  journal-title: Nat. Neurosci.
+  unstructured: Tran, S. S. et al. Widespread RNA editing dysregulation in brains
+    from autistic individuals. Nat. Neurosci. 22, 25–36 (2019).
+  volume: '22'
+  year: '2019'
+- author: JD Storey
+  doi: 10.1073/pnas.1530509100
+  first-page: '9440'
+  journal-title: Proc. Natl Acad. Sci. USA
+  unstructured: Storey, J. D. & Tibshirani, R. Statistical significance for genomewide
+    studies. Proc. Natl Acad. Sci. USA 100, 9440–9445 (2003).
+  volume: '100'
+  year: '2003'
+- author: A Frankish
+  doi: 10.1093/nar/gky955
+  first-page: D766
+  journal-title: Nucleic Acids Res.
+  unstructured: Frankish, A. et al. GENCODE reference annotation for the human and
+    mouse genomes. Nucleic Acids Res. 47, D766–D773 (2019).
+  volume: '47'
+  year: '2019'
+- author: JH Bahn
+  doi: 10.1038/ncomms7355
+  journal-title: Nat. Commun.
+  unstructured: Bahn, J. H. et al. Genomic analysis of ADAR1 binding and its involvement
+    in multiple RNA processing pathways. Nat. Commun. 6, 6355 (2015).
+  volume: '6'
+  year: '2015'
+- author: A Dobin
+  doi: 10.1093/bioinformatics/bts635
+  first-page: '15'
+  journal-title: Bioinformatics
+  unstructured: 'Dobin, A. et al. STAR: ultrafast universal RNA-seq aligner. Bioinformatics
+    29, 15–21 (2013).'
+  volume: '29'
+  year: '2013'
+- author: SF Altschul
+  doi: 10.1016/S0022-2836(05)80360-2
+  first-page: '403'
+  journal-title: J. Mol. Biol.
+  unstructured: Altschul, S. F., Gish, W., Miller, W., Myers, E. W. & Lipman, D. J.
+    Basic local alignment search tool. J. Mol. Biol. 215, 403–410 (1990).
+  volume: '215'
+  year: '1990'
+- author: MK Konkel
+  first-page: '2608'
+  journal-title: Genome Biol. Evol.
+  unstructured: Konkel, M. K. et al. Sequence analysis and characterization of active
+    human Alu subfamilies based on the 1000 Genomes Pilot Project. Genome Biol. Evol.
+    7, 2608–2622 (2015).
+  volume: '7'
+  year: '2015'
+- author: JM Eggington
+  doi: 10.1038/ncomms1324
+  journal-title: Nat. Commun.
+  unstructured: Eggington, J. M., Greene, T. & Bass, B. L. Predicting sites of ADAR
+    editing in double-stranded RNA. Nat. Commun. 2, 319 (2011).
+  volume: '2'
+  year: '2011'
+- author: O Wagih
+  doi: 10.1093/bioinformatics/btx469
+  first-page: '3645'
+  journal-title: Bioinformatics
+  unstructured: 'Wagih, O. ggseqlogo: A versatile R package for drawing sequence logos.
+    Bioinformatics 33, 3645–3647 (2017).'
+  volume: '33'
+  year: '2017'
+- author: S Tian
+  doi: 10.1017/S0033583516000020
+  first-page: e7
+  journal-title: Q. Rev. Biophys.
+  unstructured: Tian, S. & Das, R. RNA structure through multidimensional chemical
+    mapping. Q. Rev. Biophys. 49, e7 (2016).
+  volume: '49'
+  year: '2016'
+- author: P Danaee
+  doi: 10.1093/nar/gky285
+  first-page: '5381'
+  journal-title: Nucleic Acids Res.
+  unstructured: 'Danaee, P. et al. bpRNA: large-scale automated annotation and analysis
+    of RNA secondary structure. Nucleic Acids Res. 46, 5381–5394 (2018).'
+  volume: '46'
+  year: '2018'
+- author: S Purcell
+  doi: 10.1086/519795
+  first-page: '559'
+  journal-title: Am. J. Hum. Genet.
+  unstructured: 'Purcell, S. et al. PLINK: a tool set for whole-genome association
+    and population-based linkage analyses. Am. J. Hum. Genet. 81, 559–575 (2007).'
+  volume: '81'
+  year: '2007'
+- author: TH Pers
+  doi: 10.1093/bioinformatics/btu655
+  first-page: '418'
+  journal-title: Bioinformatics
+  unstructured: 'Pers, T. H., Timshel, P. & Hirschhorn, J. N. SNPsnap: a web-based
+    tool for identification and annotation of matched SNPs. Bioinformatics 31, 418–420
+    (2015).'
+  volume: '31'
+  year: '2015'
+- author: S Gazal
+  doi: 10.1038/ng.3954
+  first-page: '1421'
+  journal-title: Nat. Genet.
+  unstructured: Gazal, S. et al. Linkage disequilibrium-dependent architecture of
+    human complex traits shows action of negative selection. Nat. Genet. 49, 1421–1427
+    (2017).
+  volume: '49'
+  year: '2017'
+- author: GI Rice
+  doi: 10.1007/s10875-016-0359-1
+  first-page: '123'
+  journal-title: J. Clin. Immunol.
+  unstructured: Rice, G. I. et al. Assessment of type I interferon signaling in pediatric
+    inflammatory disease. J. Clin. Immunol. 37, 123–132 (2017).
+  volume: '37'
+  year: '2017'
+- author: C Giambartolomei
+  doi: 10.1371/journal.pgen.1004383
+  first-page: e1004383
+  journal-title: PLoS Genet.
+  unstructured: Giambartolomei, C. et al. Bayesian test for colocalisation between
+    pairs of genetic association studies using summary statistics. PLoS Genet. 10,
+    e1004383 (2014).
+  volume: '10'
+  year: '2014'
+- author: OA Balbin
+  doi: 10.1101/gr.180596.114
+  first-page: '1068'
+  journal-title: Genome Res.
+  unstructured: Balbin, O. A. et al. The landscape of antisense gene expression in
+    human cancers. Genome Res. 25, 1068–1079 (2015).
+  volume: '25'
+  year: '2015'
+- author: R Lorenz
+  doi: 10.1186/1748-7188-6-26
+  first-page: '26'
+  journal-title: Algorithms Mol. Biol.
+  unstructured: Lorenz, R. et al. ViennaRNA package 2.0. Algorithms Mol. Biol. 6,
+    26 (2011).
+  volume: '6'
+  year: '2011'
+- author: F Zhang
+  doi: 10.1093/bioinformatics/btx473
+  first-page: '3538'
+  journal-title: Bioinformatics
+  unstructured: 'Zhang, F., Lu, Y., Yan, S., Xing, Q. & Tian, W. SPRINT: an SNP-free
+    toolkit for identifying RNA editing sites. Bioinformatics 33, 3538–3548 (2017).'
+  volume: '33'
+  year: '2017'
+doc_url: https://www.nature.com/articles/s41586-022-05052-x.pdf
+doi: 10.1038/s41586-022-05052-x
+files:
+- rnaeditingundliqi2022-a.pdf
+issue: '7923'
+journal: Nature
+language: en
+month: 8
+pages: 569--577
+papis_id: 49796b265f3eacf9bd72c08130c848de
+publisher: Springer Science and Business Media LLC
+ref: RnaEditingUndLiQi2022
+time-added: 2023-11-03-16:54:36
+title: RNA editing underlies genetic risk of common inflammatory diseases
+type: article
+url: http://dx.doi.org/10.1038/s41586-022-05052-x
+volume: '608'
+year: 2022

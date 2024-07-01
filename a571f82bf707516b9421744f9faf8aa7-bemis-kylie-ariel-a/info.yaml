@@ -1,0 +1,260 @@
+author: Bemis, Kylie Ariel and Föll, Melanie Christine and Guo, Dan and Lakkimsetty,
+  Sai Srikanth and Vitek, Olga
+author_list:
+- affiliation: []
+  family: Bemis
+  given: Kylie Ariel
+- affiliation: []
+  family: Föll
+  given: Melanie Christine
+- affiliation: []
+  family: Guo
+  given: Dan
+- affiliation: []
+  family: Lakkimsetty
+  given: Sai Srikanth
+- affiliation: []
+  family: Vitek
+  given: Olga
+citations:
+- author: B Spengler
+  doi: 10.1021/ac504543v
+  first-page: '64'
+  journal-title: Anal. Chem.
+  unstructured: Spengler, B. Mass spectrometry imaging of biomolecular information.
+    Anal. Chem. 87, 64–82 (2015).
+  volume: '87'
+  year: '2015'
+- author: R Weiskirchen
+  doi: 10.1186/s13321-019-0338-7
+  journal-title: J. Cheminform.
+  unstructured: 'Weiskirchen, R., Weiskirchen, S., Kim, P. & Winkler, R. Software
+    solutions for evaluation and visualization of laser ablation inductively coupled
+    plasma mass spectrometry imaging (LA-ICP-MSI) data: a short overview. J. Cheminform.
+    11, 16 (2019).'
+  volume: '11'
+  year: '2019'
+- author: I Klinkert
+  doi: 10.1016/j.ijms.2013.12.012
+  first-page: '40'
+  journal-title: Int. J. Mass Spectrom.
+  unstructured: Klinkert, I., Chughtai, K., Ellis, S. R. & Heeren, R. M. A. Methods
+    for full resolution data exploration and visualization for large 2D and 3D mass
+    spectrometry imaging datasets. Int. J. Mass Spectrom. 362, 40–47 (2014).
+  volume: '362'
+  year: '2014'
+- author: P Källback
+  doi: 10.1016/j.jprot.2012.07.034
+  first-page: '4941'
+  journal-title: J. Proteom.
+  unstructured: Källback, P., Shariatgorji, M., Nilsson, A. & Andrén, P. E. Novel
+    mass spectrometry imaging software assisting labeled normalization and quantitation
+    of drugs and neuropeptides directly in tissue sections. J. Proteom. 75, 4941–4951
+    (2012).
+  volume: '75'
+  year: '2012'
+- author: G Robichaud
+  doi: 10.1007/s13361-013-0607-z
+  first-page: '718'
+  journal-title: J. Am. Soc. Mass Spectrom.
+  unstructured: 'Robichaud, G., Garrard, K. P., Barry, J. A. & Muddiman, D. C. MSiReader:
+    an open-source interface to view and analyze high resolving power MS imaging files
+    on Matlab platform. J. Am. Soc. Mass Spectrom. 24, 718–721 (2013).'
+  volume: '24'
+  year: '2013'
+- author: AM Race
+  doi: 10.1021/acs.analchem.6b01643
+  first-page: '9451'
+  journal-title: Anal. Chem.
+  unstructured: 'Race, A. M. et al. SpectralAnalysis: software for the masses. Anal.
+    Chem. 88, 9451–9458 (2016).'
+  volume: '88'
+  year: '2016'
+- author: P Ràfols
+  doi: 10.1093/bioinformatics/btx182
+  first-page: '2427'
+  journal-title: Bioinformatics
+  unstructured: 'Ràfols, P. et al. RMSI: an R package for MS imaging data handling
+    and visualization. Bioinformatics 33, 2427–2428 (2017).'
+  volume: '33'
+  year: '2017'
+- author: K Veselkov
+  doi: 10.1038/s41598-018-22499-z
+  first-page: '4053'
+  journal-title: Sci. Rep.
+  unstructured: 'Veselkov, K. et al. BASIS: high-performance bioinformatics platform
+    for processing of large-scale mass spectrometry imaging data in chemically augmented
+    histology. Sci. Rep. 8, 4053 (2018).'
+  volume: '8'
+  year: '2018'
+- author: J Cordes
+  doi: 10.1093/gigascience/giab049
+  journal-title: GigaScience
+  unstructured: Cordes, J. et al. M2aia—interactive, fast, and memory-efficient analysis
+    of 2D and 3D multi-modal mass spectrometry imaging data. GigaScience 10, giab049
+    (2021).
+  volume: '10'
+  year: '2021'
+- author: G Guo
+  doi: 10.1038/s41467-021-23461-w
+  journal-title: Nat. Commun.
+  unstructured: Guo, G. et al. Automated annotation and visualisation of high-resolution
+    spatial proteomic mass spectrometry imaging data using HIT-MAP. Nat. Commun. 12,
+    3241 (2021).
+  volume: '12'
+  year: '2021'
+- author: NJ Bond
+  doi: 10.1007/s11306-017-1252-5
+  journal-title: Metabolomics
+  unstructured: 'Bond, N. J., Koulman, A., Griffin, J. L. & Hall, Z. massPix: an R
+    package for annotation and interpretation of mass spectrometry imaging data for
+    lipidomics. Metabolomics 13, 128 (2017).'
+  volume: '13'
+  year: '2017'
+- author: GT Luu
+  doi: 10.1021/jasms.0c00039
+  first-page: '1313'
+  journal-title: J. Am. Soc. Mass Spectrom.
+  unstructured: Luu, G. T., Condren, A. R., Kahl, L. J., Dietrich, L. E. P. & Sanchez,
+    L. M. Evaluation of data analysis platforms and compatibility with MALDI-TOF imaging
+    mass spectrometry data sets. J. Am. Soc. Mass Spectrom. 31, 1313–1320 (2020).
+  volume: '31'
+  year: '2020'
+- author: KD Bemis
+  doi: 10.1093/bioinformatics/btv146
+  first-page: '2418'
+  journal-title: Bioinformatics
+  unstructured: 'Bemis, K. D. et al. Cardinal: an R package for statistical analysis
+    of mass spectrometry-based imaging experiments. Bioinformatics 31, 2418–2420 (2015).'
+  volume: '31'
+  year: '2015'
+- doi: 10.1016/j.ijms.2018.07.006
+  unstructured: Bemis, K. A. et al. Statistical detection of differentially abundant
+    ions in mass spectrometry-based imaging experiments with complex designs. Int.
+    J. Mass Spectrom. 437, 49–57 (2019).
+- author: D Guo
+  doi: 10.1093/bioinformatics/btz345
+  first-page: i208
+  journal-title: Bioinformatics
+  unstructured: Guo, D., Bemis, K., Rawlins, C., Agar, J. & Vitek, O. Unsupervised
+    segmentation of mass spectrometric ion images characterizes morphology of tissues.
+    Bioinformatics 35, i208–i217 (2019).
+  volume: '35'
+  year: '2019'
+- author: D Guo
+  doi: 10.1093/bioinformatics/btaa436
+  first-page: i300
+  journal-title: Bioinformatics
+  unstructured: Guo, D. et al. Deep multiple instance learning classifies subtissue
+    locations in mass spectrometry images from tissue-level annotations. Bioinformatics
+    36, i300–i308 (2020).
+  volume: '36'
+  year: '2020'
+- author: JA Vizcaíno
+  doi: 10.1093/nar/gkv1145
+  first-page: D447
+  journal-title: Nucleic Acids Res.
+  unstructured: Vizcaíno, J. A. et al. 2016 update of the PRIDE database and its related
+    tools. Nucleic Acids Res. 44, D447–D456 (2016).
+  volume: '44'
+  year: '2016'
+- author: A Römpp
+  doi: 10.1002/anie.200905559
+  first-page: '3834'
+  journal-title: Angew. Chem. Int. Ed.
+  unstructured: 'Römpp, A. et al. Histology by mass spectrometry: label-free tissue
+    characterization obtained from high-accuracy bioanalytical imaging. Angew. Chem.
+    Int. Ed. 49, 3834–3838 (2010).'
+  volume: '49'
+  year: '2010'
+- doi: 10.1074/mcp.RA118.000980
+  unstructured: Erich, K. et al. Spatial distribution of endogenous tissue protease
+    activity in gastric carcinoma mapped by MALDI mass spectrometry imaging. Mol.
+    Cell. Proteomics 49, 151–161 (2018).
+- author: MC Föll
+  doi: 10.1186/s12014-022-09347-z
+  first-page: '8'
+  journal-title: Clin. Proteom.
+  unstructured: 'Föll, M. C. et al. Moving translational mass spectrometry imaging
+    towards transparent and reproducible data analyses: a case study of an urothelial
+    cancer cohort analyzed in the Galaxy framework. Clin. Proteom. 19, 8 (2022).'
+  volume: '19'
+  year: '2022'
+- author: M Choi
+  doi: 10.1038/s41592-020-0955-0
+  first-page: '981'
+  journal-title: Nat. Methods
+  unstructured: 'Choi, M. et al. MassIVE.quant: a community resource of quantitative
+    mass spectrometry–based proteomics datasets. Nat. Methods 17, 981–984 (2020).'
+  volume: '17'
+  year: '2020'
+- author: KD Bemis
+  doi: 10.1074/mcp.O115.053918
+  first-page: '1761'
+  journal-title: Mol. Cell. Proteom.
+  unstructured: Bemis, K. D. et al. Probabilistic segmentation of mass spectrometry
+    (MS) images helps select important ions and characterize confidence in the resulting
+    segments. Mol. Cell. Proteom. 15, 1761–1772 (2016).
+  volume: '15'
+  year: '2016'
+- author: RC Gentleman
+  doi: 10.1186/gb-2004-5-10-r80
+  journal-title: Genome Biol.
+  unstructured: 'Gentleman, R. C. et al. Bioconductor: open software development for
+    computational biology and bioinformatics. Genome Biol. 5, R80 (2004).'
+  volume: '5'
+  year: '2004'
+- author: B Grüning
+  doi: 10.1038/s41592-018-0046-7
+  first-page: '475'
+  journal-title: Nat. Methods
+  unstructured: 'Grüning, B. et al. Bioconda: sustainable and comprehensive software
+    distribution for the life sciences. Nat. Methods 15, 475–476 (2018).'
+  volume: '15'
+  year: '2018'
+- author: F da Veiga Leprevost
+  doi: 10.1093/bioinformatics/btx192
+  first-page: '2580'
+  journal-title: Bioinformatics
+  unstructured: 'da Veiga Leprevost, F. et al. BioContainers: an open-source and community-driven
+    framework for software standardization. Bioinformatics 33, 2580–2582 (2017).'
+  volume: '33'
+  year: '2017'
+- doi: 10.1093/nar/gkac610
+  unstructured: 'Galaxy Community. The Galaxy platform for accessible, reproducible
+    and collaborative biomedical analyses: 2022 update. Nucleic Acids Res. 50, W345–W351
+    (2022).'
+- author: MC Föll
+  doi: 10.1093/gigascience/giz143
+  journal-title: GigaScience
+  unstructured: Föll, M. C. et al. Accessible and reproducible mass spectrometry imaging
+    data analysis in Galaxy. GigaScience 8, giz143 (2019).
+  volume: '8'
+  year: '2019'
+- author: NH Patterson
+  doi: 10.1093/bioinformatics/bty780
+  first-page: '1261'
+  journal-title: Bioinformatics
+  unstructured: Patterson, N. H., Yang, E., Kranjec, E.-A. & Chaurand, P. Co-registration
+    and analysis of multiple imaging mass spectrometry datasets targeting different
+    analytes. Bioinformatics 35, 1261–1262 (2019).
+  volume: '35'
+  year: '2019'
+doc_url: https://www.nature.com/articles/s41592-023-02070-z.pdf
+doi: 10.1038/s41592-023-02070-z
+files: []
+issue: '12'
+journal: Nature Methods
+language: en
+month: 12
+pages: 1883--1886
+papis_id: 804e602eee260c7ee68be1ee9a6c1118
+publisher: Springer Science and Business Media LLC
+ref: CardinalV3ABemis2023
+time-added: 2024-06-04-17:25:03
+title: 'Cardinal v.3: a versatile open-source software for mass spectrometry imaging
+  analysis'
+type: article
+url: http://dx.doi.org/10.1038/s41592-023-02070-z
+volume: '20'
+year: 2023

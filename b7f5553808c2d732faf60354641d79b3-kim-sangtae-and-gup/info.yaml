@@ -1,0 +1,43 @@
+abstract: A key problem in computational proteomics is distinguishing between correct
+  and false peptide identifications. We argue that evaluating the error rates of peptide
+  identifications is not unlike computing generating functions in combinatorics. We
+  show that the generating functions and their derivatives ( spectral energy and spectral
+  probability) represent new features of tandem mass spectra that, similarly to Delta-scores,
+  significantly improve peptide identifications. Furthermore, the spectral probability
+  provides a rigorous solution to the problem of computing statistical significance
+  of spectral identifications. The spectral energy/probability approach improves the
+  sensitivity-specificity tradeoff of existing MS/MS search tools, addresses the notoriously
+  difficult problem of "one-hit-wonders" in mass spectrometry, and often eliminates
+  the need for decoy database searches. We therefore argue that the generating function
+  approach has the potential to increase the number of peptide identifications in
+  MS/MS searches.
+author: Kim, Sangtae and Gupta, Nitin and Pevzner, Pavel A.
+author_list:
+- family: Kim
+  given: Sangtae
+- family: Gupta
+  given: Nitin
+- family: Pevzner
+  given: Pavel A.
+doi: 10.1021/pr8001244
+file: /mnt/data/wizard/Zotero/storage/EA3WGT56/Kim et al. - 2008 - Spectral probabilities
+  and generating functions of.pdf
+files: []
+issn: 1535-3893
+journal: Journal of Proteome Research
+keywords: Bacterial Proteins,{Data Interpretation, Statistical},{Databases, Factual},Peptides,Probability,Proteomics,Shewanella,Tandem
+  Mass Spectrometry
+langid: english
+month: August
+number: '8'
+pages: 3354--3363
+papis_id: c7993daa19885ec8983dacdcaafc0ebe
+pmcid: PMC2689316
+pmid: '18597511'
+ref: SpectralProbabKimS2008
+shorttitle: Spectral Probabilities and Generating Functions of Tandem Mass Spectra
+title: 'Spectral Probabilities and Generating Functions of Tandem Mass Spectra: A
+  Strike against Decoy Databases'
+type: article
+volume: '7'
+year: '2008'

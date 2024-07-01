@@ -1,0 +1,1065 @@
+author: Gordon, David J. and Resio, Benjamin and Pellman, David
+author_list:
+- affiliation: []
+  family: Gordon
+  given: David J.
+- affiliation: []
+  family: Resio
+  given: Benjamin
+- affiliation: []
+  family: Pellman
+  given: David
+citations:
+- author: F Mitelman
+  doi: 10.1038/nrc2091
+  first-page: '233'
+  journal-title: Nature Rev. Cancer
+  unstructured: Mitelman, F., Johansson, B. & Mertens, F. The impact of translocations
+    and gene fusions on cancer causation. Nature Rev. Cancer 7, 233–245 (2007).
+  volume: '7'
+  year: '2007'
+- author: RM Ricke
+  doi: 10.1016/j.tig.2008.07.002
+  first-page: '457'
+  journal-title: Trends Genet.
+  unstructured: 'Ricke, R. M., van Ree, J. H. & van Deursen, J. M. Whole chromosome
+    instability and cancer: a complex relationship. Trends Genet. 24, 457–466 (2008).'
+  volume: '24'
+  year: '2008'
+- author: MR Teixeira
+  doi: 10.1016/j.semcancer.2004.09.006
+  first-page: '3'
+  journal-title: Semin. Cancer Biol.
+  unstructured: 'Teixeira, M. R. & Heim, S. Multiple numerical chromosome aberrations
+    in cancer: what are their causes and what are their consequences? Semin. Cancer
+    Biol. 15, 3–12 (2005).'
+  volume: '15'
+  year: '2005'
+- author: JM Schvartzman
+  doi: 10.1038/nrc2781
+  first-page: '102'
+  journal-title: Nature Rev. Cancer
+  unstructured: 'Schvartzman, J. M., Sotillo, R. & Benezra, R. Mitotic chromosomal
+    instability and cancer: mouse modelling of the human disease. Nature Rev. Cancer
+    10, 102–115 (2010).'
+  volume: '10'
+  year: '2010'
+- author: S Hanks
+  doi: 10.1038/ng1449
+  first-page: '1159'
+  journal-title: Nature Genet.
+  unstructured: Hanks, S. et al. Constitutional aneuploidy and cancer predisposition
+    caused by biallelic mutations in BUB1B. Nature Genet. 36, 1159–1161 (2004).
+  volume: '36'
+  year: '2004'
+- author: SL Thompson
+  doi: 10.1007/s10577-010-9179-y
+  first-page: '433'
+  journal-title: Chromosome Res.
+  unstructured: Thompson, S. L. & Compton, D. A. Chromosomes and cancer cells. Chromosome
+    Res. 19, 433–444 (2011).
+  volume: '19'
+  year: '2011'
+- author: SL Thompson
+  doi: 10.1016/j.cub.2010.01.034
+  first-page: R285
+  journal-title: Curr. Biol.
+  unstructured: Thompson, S. L., Bakhoum, S. F. & Compton, D. A. Mechanisms of chromosomal
+    instability. Curr. Biol. 20, R285–R295 (2010).
+  volume: '20'
+  year: '2010'
+- author: NS Chandhok
+  doi: 10.1016/j.gde.2008.12.004
+  first-page: '74'
+  journal-title: Curr. Opin. Genet. Dev.
+  unstructured: 'Chandhok, N. S. & Pellman, D. A little CIN may cost a lot: revisiting
+    aneuploidy and cancer. Curr. Opin. Genet. Dev. 19, 74–81 (2009).'
+  volume: '19'
+  year: '2009'
+- author: R Beroukhim
+  doi: 10.1038/nature08822
+  first-page: '899'
+  journal-title: Nature
+  unstructured: Beroukhim, R. et al. The landscape of somatic copy-number alteration
+    across human cancers. Nature 463, 899–905 (2010). This study shows that one-quarter
+    of the genome of a typical cancer cell is affected by either whole-arm or whole-chromosome
+    somatic copy number alterations.
+  volume: '463'
+  year: '2010'
+- unstructured: Mitelman, F., Johannson, B. & Mertens, F. Mitelman Database of Chromosome
+    Aberrations in Cancer [online] , (2012).
+- author: M Ozery-Flato
+  doi: 10.1186/gb-2011-12-6-r61
+  first-page: R61
+  journal-title: Genome Biol.
+  unstructured: Ozery-Flato, M., Linhart, C., Trakhtenbrot, L., Izraeli, S. & Shamir,
+    R. Large-scale analysis of chromosomal aberrations in cancer karyotypes reveals
+    two distinct paths to aneuploidy. Genome Biol. 12, R61 (2011).
+  volume: '12'
+  year: '2011'
+- author: DR Barnard
+  first-page: '5'
+  journal-title: Leukemia
+  unstructured: 'Barnard, D. R. et al. Morphologic, immunologic, and cytogenetic classification
+    of acute myeloid leukemia and myelodysplastic syndrome in childhood: a report
+    from the Childrens Cancer Group. Leukemia 10, 5–12 (1996).'
+  volume: '10'
+  year: '1996'
+- author: D Maurici
+  doi: 10.1016/S0165-4608(97)00028-9
+  first-page: '106'
+  journal-title: Cancer Genet. Cytogenet.
+  unstructured: Maurici, D. et al. Frequency and implications of chromosome 8 and
+    12 gains in Ewing sarcoma. Cancer Genet. Cytogenet. 100, 106–110 (1998).
+  volume: '100'
+  year: '1998'
+- author: H Qi
+  doi: 10.1016/S0165-4608(96)00170-7
+  first-page: '147'
+  journal-title: Cancer Genet. Cytogenet.
+  unstructured: Qi, H. et al. Trisomies 8 and 20 in desmoid tumors. Cancer Genet.
+    Cytogenet. 92, 147–149 (1996).
+  volume: '92'
+  year: '1996'
+- author: DR Barnard
+  doi: 10.1182/blood.V100.2.427
+  first-page: '427'
+  journal-title: Blood
+  unstructured: 'Barnard, D. R. et al. Acute myeloid leukemia and myelodysplastic
+    syndrome in children treated for cancer: comparison with primary presentation.
+    Blood 100, 427–434 (2002).'
+  volume: '100'
+  year: '2002'
+- author: K Paulsson
+  doi: 10.1016/j.patbio.2006.04.007
+  first-page: '37'
+  journal-title: Pathol. Biol.
+  unstructured: Paulsson, K. & Johansson, B. Trisomy 8 as the sole chromosomal aberration
+    in acute myeloid leukemia and myelodysplastic syndromes. Pathol. Biol. 55, 37–48
+    (2007).
+  volume: '55'
+  year: '2007'
+- author: SL Thompson
+  doi: 10.1083/jcb.200712029
+  first-page: '665'
+  journal-title: J. Cell Biol.
+  unstructured: Thompson, S. L. & Compton, D. A. Examining the link between chromosomal
+    instability and aneuploidy in human cells. J. Cell Biol. 180, 665–672 (2008).
+  volume: '180'
+  year: '2008'
+- author: D Cimini
+  doi: 10.1093/mutage/14.6.563
+  first-page: '563'
+  journal-title: Mutagenesis
+  unstructured: Cimini, D., Tanzarella, C. & Degrassi, F. Differences in malsegregation
+    rates obtained by scoring ana-telophases or binucleate cells. Mutagenesis 14,
+    563–568 (1999).
+  volume: '14'
+  year: '1999'
+- author: DA Compton
+  doi: 10.1016/j.ceb.2010.08.007
+  first-page: '109'
+  journal-title: Curr. Opin. Cell Biol.
+  unstructured: Compton, D. A. Mechanisms of aneuploidy. Curr. Opin. Cell Biol. 23,
+    109–113 (2011).
+  volume: '23'
+  year: '2011'
+- author: D Cimini
+  first-page: '32'
+  journal-title: Biochim. Biophys. Acta
+  unstructured: Cimini, D. Merotelic kinetochore orientation, aneuploidy, and cancer.
+    Biochim. Biophys. Acta 1786, 32–40 (2008).
+  volume: '1786'
+  year: '2008'
+- author: D Cimini
+  doi: 10.1083/jcb.153.3.517
+  first-page: '517'
+  journal-title: J. Cell Biol.
+  unstructured: Cimini, D. et al. Merotelic kinetochore orientation is a major mechanism
+    of aneuploidy in mitotic mammalian tissue cells. J. Cell Biol. 153, 517–527 (2001).
+  volume: '153'
+  year: '2001'
+- author: J Gregan
+  doi: 10.1016/j.tcb.2011.01.003
+  first-page: '374'
+  journal-title: Trends Cell Biol.
+  unstructured: 'Gregan, J., Polakova, S., Zhang, L., Tolic´-Nørrelykke, I. M. & Cimini,
+    D. Merotelic kinetochore attachment: causes and effects. Trends Cell Biol. 21,
+    374–381 (2011).'
+  volume: '21'
+  year: '2011'
+- author: NJ Ganem
+  doi: 10.1038/nature08136
+  first-page: '278'
+  journal-title: Nature
+  unstructured: Ganem, N. J., Godinho, S. A. & Pellman, D. A mechanism linking extra
+    centrosomes to chromosomal instability. Nature 460, 278–282 (2009). This study
+    provides a mechanistic link between extra centrosomes and CIN by demonstrating
+    that supernumerary centrosomes increase the frequency of merotelic attachments
+    and chromosome segregation errors.
+  volume: '460'
+  year: '2009'
+- author: WT Silkworth
+  doi: 10.1371/journal.pone.0006564
+  first-page: e6564
+  journal-title: PLoS ONE
+  unstructured: Silkworth, W. T., Nardi, I. K., Scholl, L. M. & Cimini, D. Multipolar
+    spindle pole coalescence is a major source of kinetochore mis-attachment and chromosome
+    mis-segregation in cancer cells. PLoS ONE 4, e6564 (2009).
+  volume: '4'
+  year: '2009'
+- author: SF Bakhoum
+  doi: 10.1016/j.cub.2009.09.055
+  first-page: '1937'
+  journal-title: Curr. Biol.
+  unstructured: Bakhoum, S. F., Genovese, G. & Compton, D. A. Deviant kinetochore
+    microtubule dynamics underlie chromosomal instability. Curr. Biol. 19, 1937–1942
+    (2009).
+  volume: '19'
+  year: '2009'
+- author: K Tada
+  doi: 10.1038/nature10179
+  first-page: '477'
+  journal-title: Nature
+  unstructured: Tada, K., Susumu, H., Sakuno, T. & Watanabe, Y. Condensin association
+    with histone H2A shapes mitotic chromosomes. Nature 474, 477–483 (2011).
+  volume: '474'
+  year: '2011'
+- author: KD Corbett
+  doi: 10.1016/j.cell.2010.07.017
+  first-page: '556'
+  journal-title: Cell
+  unstructured: Corbett, K. D. et al. The monopolin complex crosslinks kinetochore
+    components to regulate chromosome-microtubule attachments. Cell 142, 556–567 (2010).
+  volume: '142'
+  year: '2010'
+- author: SF Bakhoum
+  doi: 10.1038/ncb1809
+  first-page: '27'
+  journal-title: Nature Cell Biol.
+  unstructured: Bakhoum, S. F., Thompson, S. L., Manning, A. L. & Compton, D. A. Genome
+    stability is ensured by temporal control of kinetochore-microtubule dynamics.
+    Nature Cell Biol. 11, 27–35 (2009).
+  volume: '11'
+  year: '2009'
+- author: EA Nigg
+  doi: 10.1002/ijc.22245
+  first-page: '2717'
+  journal-title: Int. J. Cancer
+  unstructured: Nigg, E. A. Origins and consequences of centrosome aberrations in
+    human cancers. Int. J. Cancer 119, 2717–2723 (2006).
+  volume: '119'
+  year: '2006'
+- author: GA Pihan
+  first-page: '3974'
+  journal-title: Cancer Res.
+  unstructured: Pihan, G. A. et al. Centrosome defects and genetic instability in
+    malignant tumors. Cancer Res. 58, 3974–3985 (1998).
+  volume: '58'
+  year: '1998'
+- author: GA Pihan
+  first-page: '1398'
+  journal-title: Cancer Res.
+  unstructured: Pihan, G. A., Wallace, J., Zhou, Y. & Doxsey, S. J. Centrosome abnormalities
+    and chromosome instability occur together in pre-invasive carcinomas. Cancer Res.
+    63, 1398–1404 (2003).
+  volume: '63'
+  year: '2003'
+- author: EA Nigg
+  doi: 10.1038/nrc924
+  first-page: '815'
+  journal-title: Nature Rev. Cancer
+  unstructured: 'Nigg, E. A. Centrosome aberrations: cause or consequence of cancer
+    progression? Nature Rev. Cancer 2, 815–825 (2002).'
+  volume: '2'
+  year: '2002'
+- author: T Boveri
+  unstructured: Boveri, T. The Origin of Malignant Tumors (Waverly Press, Baltimore,
+    Maryland, 1929).
+  volume-title: The Origin of Malignant Tumors
+  year: '1929'
+- author: AJ Holland
+  doi: 10.1038/nrm2718
+  first-page: '478'
+  journal-title: Nature Rev. Mol. Cell Biol.
+  unstructured: 'Holland, A. J. & Cleveland, D. W. Boveri revisited: chromosomal instability,
+    aneuploidy and tumorigenesis. Nature Rev. Mol. Cell Biol. 10, 478–487 (2009).'
+  volume: '10'
+  year: '2009'
+- author: BR Brinkley
+  doi: 10.1016/S0962-8924(00)01872-9
+  first-page: '18'
+  journal-title: Trends Cell Biol.
+  unstructured: 'Brinkley, B. R. Managing the centrosome numbers game: from chaos
+    to stability in cancer cell division. Trends Cell Biol. 11, 18–21 (2001).'
+  volume: '11'
+  year: '2001'
+- author: D Ring
+  doi: 10.1083/jcb.94.3.549
+  first-page: '549'
+  journal-title: J. Cell Biol.
+  unstructured: Ring, D., Hubble, R. & Kirschner, M. Mitosis in a cell with multiple
+    centrioles. J. Cell Biol. 94, 549–556 (1982).
+  volume: '94'
+  year: '1982'
+- author: C Lengauer
+  doi: 10.1038/386623a0
+  first-page: '623'
+  journal-title: Nature
+  unstructured: Lengauer, C., Kinzler, K. W. & Vogelstein, B. Genetic instability
+    in colorectal cancers. Nature 386, 623–627 (1997).
+  volume: '386'
+  year: '1997'
+- author: H Rajagopalan
+  doi: 10.1038/nrc1165
+  first-page: '695'
+  journal-title: Nature Rev. Cancer
+  unstructured: Rajagopalan, H., Nowak, M. A., Vogelstein, B. & Lengauer, C. The significance
+    of unstable chromosomes in colorectal cancer. Nature Rev. Cancer 3, 695–701 (2003).
+  volume: '3'
+  year: '2003'
+- author: DP Cahill
+  doi: 10.1006/geno.1999.5831
+  first-page: '181'
+  journal-title: Genomics
+  unstructured: Cahill, D. P. et al. Characterization of MAD2B and other mitotic spindle
+    checkpoint genes. Genomics 58, 181–187 (1999).
+  volume: '58'
+  year: '1999'
+- author: N Haruki
+  doi: 10.1016/S0304-3835(00)00675-3
+  first-page: '201'
+  journal-title: Cancer Lett.
+  unstructured: Haruki, N. et al. Molecular analysis of the mitotic checkpoint genes
+    BUB1, BUBR1 and BUB3 in human lung cancers. Cancer Lett. 162, 201–205 (2001).
+  volume: '162'
+  year: '2001'
+- author: KA Myrie
+  doi: 10.1016/S0304-3835(00)00340-2
+  first-page: '193'
+  journal-title: Cancer Lett.
+  unstructured: Myrie, K. A., Percy, M. J., Azim, J. N., Neeley, C. K. & Petty, E.
+    M. Mutation and expression analysis of human BUB1 and BUB1B in aneuploid breast
+    cancer cell lines. Cancer Lett. 152, 193–199 (2000).
+  volume: '152'
+  year: '2000'
+- author: GJ Kops
+  doi: 10.1038/nrc1714
+  first-page: '773'
+  journal-title: Nature Rev. Cancer
+  unstructured: 'Kops, G. J., Weaver, B. A. & Cleveland, D. W. On the road to cancer:
+    aneuploidy and the mitotic checkpoint. Nature Rev. Cancer 5, 773–785 (2005).'
+  volume: '5'
+  year: '2005'
+- author: Z Wang
+  doi: 10.1158/0008-5472.CAN-04-0587
+  first-page: '2998'
+  journal-title: Cancer Res.
+  unstructured: Wang, Z. et al. Three classes of genes mutated in colorectal cancers
+    with chromosomal instability. Cancer Res. 64, 2998–3001 (2004).
+  volume: '64'
+  year: '2004'
+- author: KE Gascoigne
+  doi: 10.1016/j.ccr.2008.07.002
+  first-page: '111'
+  journal-title: Cancer Cell
+  unstructured: Gascoigne, K. E. & Taylor, S. S. Cancer cells display profound intra-
+    and interline variation following prolonged exposure to antimitotic drugs. Cancer
+    Cell 14, 111–122 (2008).
+  volume: '14'
+  year: '2008'
+- author: A Tighe
+  doi: 10.1093/embo-reports/kve127
+  first-page: '609'
+  journal-title: EMBO Rep.
+  unstructured: Tighe, A., Johnson, V. L., Albertella, M. & Taylor, S. S. Aneuploid
+    colon cancer cells have a robust spindle checkpoint. EMBO Rep. 2, 609–614 (2001).
+  volume: '2'
+  year: '2001'
+- author: M Haruta
+  doi: 10.1002/mc.20412
+  first-page: '660'
+  journal-title: Mol. Carcinog.
+  unstructured: Haruta, M. et al. Combined BubR1 protein down-regulation and RASSF1A
+    hypermethylation in Wilms tumors with diverse cytogenetic changes. Mol. Carcinog.
+    47, 660–666 (2008).
+  volume: '47'
+  year: '2008'
+- author: HY Park
+  doi: 10.1038/emm.2007.22
+  first-page: '195'
+  journal-title: Exp. Mol. Med.
+  unstructured: Park, H. Y. et al. Differential promoter methylation may be a key
+    molecular mechanism in regulating BubR1 expression in cancer cells. Exp. Mol.
+    Med. 39, 195–204 (2007).
+  volume: '39'
+  year: '2007'
+- author: DO Morgan
+  unstructured: 'Morgan, D. O. The Cell Cycle: Principles of Control (Sinauer Associates,
+    Sunderland, Maryland, 2007).'
+  volume-title: 'The Cell Cycle: Principles of Control'
+  year: '2007'
+- author: A Musacchio
+  doi: 10.1038/nrm2163
+  first-page: '379'
+  journal-title: Nature Rev. Mol. Cell Biol.
+  unstructured: Musacchio, A. & Salmon, E. D. The spindle-assembly checkpoint in space
+    and time. Nature Rev. Mol. Cell Biol. 8, 379–393 (2007).
+  volume: '8'
+  year: '2007'
+- author: TD Barber
+  doi: 10.1073/pnas.0712384105
+  first-page: '3443'
+  journal-title: Proc. Natl Acad. Sci. USA
+  unstructured: Barber, T. D. et al. Chromatid cohesion defects may underlie chromosome
+    instability in human colorectal cancers. Proc. Natl Acad. Sci. USA 105, 3443–3448
+    (2008).
+  volume: '105'
+  year: '2008'
+- author: DA Solomon
+  doi: 10.1126/science.1203619
+  first-page: '1039'
+  journal-title: Science
+  unstructured: Solomon, D. A. et al. Mutational inactivation of STAG2 causes aneuploidy
+    in human cancer. Science 333, 1039–1043 (2011).
+  volume: '333'
+  year: '2011'
+- author: D Dorsett
+  doi: 10.1016/j.gde.2011.01.018
+  first-page: '199'
+  journal-title: Curr. Opin. Genet. Dev.
+  unstructured: 'Dorsett, D. Cohesin: genomic insights into controlling gene transcription
+    and development. Curr. Opin. Genet. Dev. 21, 199–206 (2011).'
+  volume: '21'
+  year: '2011'
+- author: EM Torres
+  doi: 10.1534/genetics.108.090878
+  first-page: '737'
+  journal-title: Genetics
+  unstructured: 'Torres, E. M., Williams, B. R. & Amon, A. Aneuploidy: cells losing
+    their balance. Genetics 179, 737–746 (2008).'
+  volume: '179'
+  year: '2008'
+- author: EM Torres
+  doi: 10.1126/science.1142210
+  first-page: '916'
+  journal-title: Science
+  unstructured: Torres, E. M. et al. Effects of aneuploidy on cellular physiology
+    and cell division in haploid yeast. Science 317, 916–924 (2007). This study uses
+    a chromosome transfer strategy and selectable markers to generate isogenic aneuploid
+    yeast strains with a single extra chromosome.
+  volume: '317'
+  year: '2007'
+- author: JM Sheltzer
+  doi: 10.1126/science.1206412
+  first-page: '1026'
+  journal-title: Science
+  unstructured: Sheltzer, J. M. et al. Aneuploidy drives genomic instability in yeast.
+    Science 333, 1026–1030 (2011). This study shows that aneuploidy in yeast can generate
+    genomic instability, including increased chromosome loss, mutation rate and defective
+    DNA damage repair.
+  volume: '333'
+  year: '2011'
+- author: O Niwa
+  doi: 10.1002/yea.1411
+  first-page: '937'
+  journal-title: Yeast
+  unstructured: Niwa, O., Tange, Y. & Kurabayashi, A. Growth arrest and chromosome
+    instability in aneuploid yeast. Yeast 23, 937–950 (2006).
+  volume: '23'
+  year: '2006'
+- author: BR Williams
+  doi: 10.1126/science.1160058
+  first-page: '703'
+  journal-title: Science
+  unstructured: Williams, B. R. et al. Aneuploidy affects proliferation and spontaneous
+    immortalization in mammalian cells. Science 322, 703–709 (2008). This study establishes
+    and characterizes isogenic MEF cell lines that are trisomic for chromosomes 1,
+    13, 16 or 19 using balanced Robertsonian translocations.
+  volume: '322'
+  year: '2008'
+- author: SA Rasmussen
+  doi: 10.1542/peds.111.4.777
+  first-page: '777'
+  journal-title: Pediatrics
+  unstructured: Rasmussen, S. A., Wong, L. Y., Yang, Q., May, K. M. & Friedman, J.
+    M. Population-based analyses of mortality in trisomy 13 and trisomy 18. Pediatrics
+    111, 777–784 (2003).
+  volume: '111'
+  year: '2003'
+- author: DJ Segal
+  doi: 10.1002/jcp.1040830112
+  first-page: '85'
+  journal-title: J. Cell Physiol.
+  unstructured: Segal, D. J. & McCoy, E. E. Studies on Down's syndrome in tissue culture.
+    I. Growth rates and protein contents of fibroblast cultures. J. Cell Physiol.
+    83, 85–90 (1974).
+  volume: '83'
+  year: '1974'
+- author: AI Taylor
+  doi: 10.1038/2191028a0
+  first-page: '1028'
+  journal-title: Nature
+  unstructured: Taylor, A. I. Cell selection in vivo in normal-G trisomic mosaics.
+    Nature 219, 1028–1030 (1968).
+  volume: '219'
+  year: '1968'
+- author: YB Yurov
+  doi: 10.1371/journal.pone.0000558
+  first-page: e558
+  journal-title: PLoS ONE
+  unstructured: Yurov, Y. B. et al. Aneuploidy and confined chromosomal mosaicism
+    in the developing human brain. PLoS ONE 2, e558 (2007).
+  volume: '2'
+  year: '2007'
+- author: YB Yurov
+  doi: 10.1369/jhc.4A6430.2005
+  first-page: '385'
+  journal-title: J. Histochem. Cytochem.
+  unstructured: Yurov, Y. B. et al. The variation of aneuploidy frequency in the developing
+    and adult human brain revealed by an interphase FISH study. J. Histochem. Cytochem.
+    53, 385–390 (2005).
+  volume: '53'
+  year: '2005'
+- author: AP Gasch
+  doi: 10.1091/mbc.11.12.4241
+  first-page: '4241'
+  journal-title: Mol. Biol. Cell
+  unstructured: Gasch, A. P. et al. Genomic expression programs in the response of
+    yeast cells to environmental changes. Mol. Biol. Cell 11, 4241–4257 (2000).
+  volume: '11'
+  year: '2000'
+- author: N Pavelka
+  doi: 10.1038/nature09529
+  first-page: '321'
+  journal-title: Nature
+  unstructured: Pavelka, N. et al. Aneuploidy confers quantitative proteome changes
+    and phenotypic variation in budding yeast. Nature 468, 321–325 (2010). This study
+    describes the induction of meiosis in yeast strains with an odd ploidy (3N or
+    5N) to produce isogenic aneuploid strains.
+  volume: '468'
+  year: '2010'
+- author: TT ElBaradi
+  doi: 10.1007/BF00405095
+  first-page: '733'
+  journal-title: Curr. Genet.
+  unstructured: ElBaradi, T. T., van der Sande, C. A., Mager, W. H., Raue, H. A. &
+    Planta, R. J. The cellular level of yeast ribosomal protein L25 is controlled
+    principally by rapid degradation of excess protein. Curr. Genet. 10, 733–739 (1986).
+  volume: '10'
+  year: '1986'
+- author: E Maicas
+  doi: 10.1128/MCB.8.1.169
+  first-page: '169'
+  journal-title: Mol. Cell. Biol.
+  unstructured: Maicas, E., Pluthero, F. G. & Friesen, J. D. The accumulation of three
+    yeast ribosomal proteins under conditions of excess mRNA is determined primarily
+    by fast protein decay. Mol. Cell. Biol. 8, 169–175 (1988).
+  volume: '8'
+  year: '1988'
+- author: EM Torres
+  doi: 10.1016/j.cell.2010.08.038
+  first-page: '71'
+  journal-title: Cell
+  unstructured: Torres, E. M. et al. Identification of aneuploidy-tolerating mutations.
+    Cell 143, 71–83 (2010).
+  volume: '143'
+  year: '2010'
+- author: TS Collier
+  doi: 10.1002/rcm.5151
+  first-page: '2524'
+  journal-title: Rapid Commun. Mass Spectrom.
+  unstructured: Collier, T. S. et al. Comparison of stable-isotope labeling with amino
+    acids in cell culture and spectral counting for relative quantification of protein
+    expression. Rapid Commun. Mass Spectrom. 25, 2524–2532 (2011).
+  volume: '25'
+  year: '2011'
+- author: TS Collier
+  doi: 10.1021/ac101978b
+  first-page: '8696'
+  journal-title: Anal. Chem.
+  unstructured: Collier, T. S. et al. Direct comparison of stable isotope labeling
+    by amino acids in cell culture and spectral counting for quantitative proteomics.
+    Anal. Chem. 82, 8696–8702 (2010).
+  volume: '82'
+  year: '2010'
+- author: J St. Charles
+  doi: 10.1534/genetics.110.121533
+  first-page: '537'
+  journal-title: Genetics
+  unstructured: St. Charles, J., Hamilton, M. L. & Petes, T. D. Meiotic chromosome
+    segregation in triploid strains of Saccharomyces cerevisiae. Genetics 186, 537–550
+    (2010).
+  volume: '186'
+  year: '2010'
+- author: Z Storchova
+  doi: 10.1038/nature05178
+  first-page: '541'
+  journal-title: Nature
+  unstructured: Storchova, Z. et al. Genome-wide genetic analysis of polyploidy in
+    yeast. Nature 443, 541–547 (2006).
+  volume: '443'
+  year: '2006'
+- author: NJ Ganem
+  doi: 10.1016/j.gde.2007.02.011
+  first-page: '157'
+  journal-title: Curr. Opin. Genet. Dev.
+  unstructured: Ganem, N. J., Storchova, Z. & Pellman, D. Tetraploidy, aneuploidy
+    and cancer. Curr. Opin. Genet. Dev. 17, 157–162 (2007).
+  volume: '17'
+  year: '2007'
+- author: SL Thompson
+  doi: 10.1083/jcb.200905057
+  first-page: '369'
+  journal-title: J. Cell Biol.
+  unstructured: Thompson, S. L. & Compton, D. A. Proliferation of aneuploid human
+    cells is limited by a p53-dependent mechanism. J. Cell Biol. 188, 369–381 (2010).
+  volume: '188'
+  year: '2010'
+- author: R Tomasini
+  doi: 10.1016/j.tcb.2008.03.003
+  first-page: '244'
+  journal-title: Trends Cell Biol.
+  unstructured: Tomasini, R., Mak, T. W. & Melino, G. The impact of p53 and p73 on
+    aneuploidy and cancer. Trends Cell Biol. 18, 244–252 (2008).
+  volume: '18'
+  year: '2008'
+- author: F Bunz
+  first-page: '1129'
+  journal-title: Cancer Res.
+  unstructured: Bunz, F. et al. Targeted inactivation of p53 in human cells does not
+    result in aneuploidy. Cancer Res. 62, 1129–1133 (2002).
+  volume: '62'
+  year: '2002'
+- author: MA Kingsbury
+  doi: 10.1073/pnas.0408171102
+  first-page: '6143'
+  journal-title: Proc. Natl Acad. Sci. USA
+  unstructured: Kingsbury, M. A. et al. Aneuploid neurons are functionally active
+    and integrated into brain circuitry. Proc. Natl Acad. Sci. USA 102, 6143–6147
+    (2005).
+  volume: '102'
+  year: '2005'
+- author: SK Rehen
+  doi: 10.1073/pnas.231487398
+  first-page: '13361'
+  journal-title: Proc. Natl Acad. Sci. USA
+  unstructured: Rehen, S. K. et al. Chromosomal variation in neurons of the developing
+    and adult mammalian nervous system. Proc. Natl Acad. Sci. USA 98, 13361–13366
+    (2001).
+  volume: '98'
+  year: '2001'
+- author: M Li
+  doi: 10.1073/pnas.1005960107
+  first-page: '14188'
+  journal-title: Proc. Natl Acad. Sci. USA
+  unstructured: Li, M. et al. The ATM–p53 pathway suppresses aneuploidy-induced tumorigenesis.
+    Proc. Natl Acad. Sci. USA 107, 14188–14193 (2010).
+  volume: '107'
+  year: '2010'
+- author: Z Guo
+  doi: 10.1126/science.1192912
+  first-page: '517'
+  journal-title: Science
+  unstructured: Guo, Z., Kozlov, S., Lavin, M. F., Person, M. D. & Paull, T. T. ATM
+    activation by oxidative stress. Science 330, 517–521 (2010).
+  volume: '330'
+  year: '2010'
+- author: BA Weaver
+  doi: 10.1016/j.ccr.2006.12.003
+  first-page: '25'
+  journal-title: Cancer Cell
+  unstructured: Weaver, B. A., Silk, A. D., Montagna, C., Verdier-Pinard, P. & Cleveland,
+    D. W. Aneuploidy acts both oncogenically and as a tumor suppressor. Cancer Cell
+    11, 25–36 (2007).
+  volume: '11'
+  year: '2007'
+- author: BA Weaver
+  doi: 10.1083/jcb.200905098
+  first-page: '935'
+  journal-title: J. Cell Biol.
+  unstructured: Weaver, B. A. & Cleveland, D. W. The role of aneuploidy in promoting
+    and suppressing tumors. J. Cell Biol. 185, 935–937 (2009).
+  volume: '185'
+  year: '2009'
+- author: BA Weaver
+  doi: 10.1016/j.ccr.2008.11.011
+  first-page: '431'
+  journal-title: Cancer Cell
+  unstructured: Weaver, B. A. & Cleveland, D. W. The aneuploidy paradox in cell growth
+    and tumorigenesis. Cancer Cell 14, 431–433 (2008).
+  volume: '14'
+  year: '2008'
+- author: AL Manning
+  doi: 10.1101/gad.1917310
+  first-page: '1364'
+  journal-title: Genes Dev.
+  unstructured: Manning, A. L., Longworth, M. S. & Dyson, N. J. Loss of pRB causes
+    centromere dysfunction and chromosomal instability. Genes Dev. 24, 1364–1376 (2010).
+  volume: '24'
+  year: '2010'
+- author: L Zheng
+  doi: 10.1016/S0065-230X(02)85002-3
+  first-page: '13'
+  journal-title: Adv. Cancer Res.
+  unstructured: Zheng, L. & Lee, W. H. Retinoblastoma tumor suppressor and genome
+    stability. Adv. Cancer Res. 85, 13–50 (2002).
+  volume: '85'
+  year: '2002'
+- author: ES Knudsen
+  first-page: '749'
+  journal-title: Curr. Mol. Med.
+  unstructured: Knudsen, E. S., Sexton, C. R. & Mayhew, C. N. Role of the retinoblastoma
+    tumor suppressor in the maintenance of genome integrity. Curr. Mol. Med. 6, 749–757
+    (2006).
+  volume: '6'
+  year: '2006'
+- author: AL Manning
+  doi: 10.1016/j.tcb.2011.05.003
+  first-page: '433'
+  journal-title: Trends Cell Biol.
+  unstructured: Manning, A. L. & Dyson, N. J. pRB, a tumor suppressor with a stabilizing
+    presence. Trends Cell Biol. 21, 433–441 (2011).
+  volume: '21'
+  year: '2011'
+- author: CH Coschi
+  doi: 10.1101/gad.1917610
+  first-page: '1351'
+  journal-title: Genes Dev.
+  unstructured: Coschi, C. H. et al. Mitotic chromosome condensation mediated by the
+    retinoblastoma protein is tumor-suppressive. Genes Dev. 24, 1351–1363 (2010).
+  volume: '24'
+  year: '2010'
+- author: T van Harn
+  doi: 10.1101/gad.580710
+  first-page: '1377'
+  journal-title: Genes Dev.
+  unstructured: van Harn, T. et al. Loss of Rb proteins causes genomic instability
+    in the absence of mitogenic signaling. Genes Dev. 24, 1377–1388 (2010).
+  volume: '24'
+  year: '2010'
+- author: JM Schvartzman
+  doi: 10.1016/j.ccr.2011.04.017
+  first-page: '701'
+  journal-title: Cancer Cell
+  unstructured: Schvartzman, J. M., Duijf, P. H., Sotillo, R., Coker, C. & Benezra,
+    R. Mad2 is a critical mediator of the chromosome instability observed upon Rb
+    and p53 pathway inhibition. Cancer Cell 19, 701–714 (2011). This study shows that
+    the overexpression of the mitotic checkpoint protein MAD2 is required for the
+    CIN that results from the inhibition of the RB and p53 pathways, two pathways
+    that are frequently inactivated in human cancer.
+  volume: '19'
+  year: '2011'
+- author: R Sotillo
+  doi: 10.1016/j.ccr.2006.10.019
+  first-page: '9'
+  journal-title: Cancer Cell
+  unstructured: Sotillo, R. et al. Mad2 overexpression promotes aneuploidy and tumorigenesis
+    in mice. Cancer Cell 11, 9–23 (2007).
+  volume: '11'
+  year: '2007'
+- author: N Pavelka
+  doi: 10.1016/j.ceb.2010.06.003
+  first-page: '809'
+  journal-title: Curr. Opin. Cell Biol.
+  unstructured: 'Pavelka, N., Rancati, G. & Li, R. Dr Jekyll and Mr Hyde: role of
+    aneuploidy in cellular adaptation and cancer. Curr. Opin. Cell Biol. 22, 809–815
+    (2010).'
+  volume: '22'
+  year: '2010'
+- author: G Rancati
+  doi: 10.1016/j.cell.2008.09.039
+  first-page: '879'
+  journal-title: Cell
+  unstructured: Rancati, G. et al. Aneuploidy underlies rapid adaptive evolution of
+    yeast cells deprived of a conserved cytokinesis motor. Cell 135, 879–893 (2008).
+    This work demonstrates the beneficial and synergistic effects of small changes
+    in gene expression owing to aneuploidy in yeast with defects in cytokinesis.
+  volume: '135'
+  year: '2008'
+- author: AB Bianchi
+  doi: 10.1073/pnas.87.17.6902
+  first-page: '6902'
+  journal-title: Proc. Natl Acad. Sci. USA
+  unstructured: Bianchi, A. B., Aldaz, C. M. & Conti, C. J. Nonrandom duplication
+    of the chromosome bearing a mutated Ha-ras-1 allele in mouse skin tumors. Proc.
+    Natl Acad. Sci. USA 87, 6902–6906 (1990).
+  volume: '87'
+  year: '1990'
+- author: Z Zhuang
+  doi: 10.1038/1727
+  first-page: '66'
+  journal-title: Nature Genet.
+  unstructured: Zhuang, Z. et al. Trisomy 7-harbouring non-random duplication of the
+    mutant MET allele in hereditary papillary renal carcinomas. Nature Genet. 20,
+    66–69 (1998).
+  volume: '20'
+  year: '1998'
+- author: J Fischer
+  doi: 10.1038/sj.onc.1201983
+  first-page: '733'
+  journal-title: Oncogene
+  unstructured: Fischer, J. et al. Duplication and overexpression of the mutant allele
+    of the MET proto-oncogene in multiple hereditary papillary renal cell tumours.
+    Oncogene 17, 733–739 (1998).
+  volume: '17'
+  year: '1998'
+- author: A Beghini
+  doi: 10.1016/S0165-4608(99)00221-6
+  first-page: '26'
+  journal-title: Cancer Genet. Cytogenet.
+  unstructured: Beghini, A. et al. Trisomy 4 leading to duplication of a mutated KIT
+    allele in acute myeloid leukemia with mast cell involvement. Cancer Genet. Cytogenet.
+    119, 26–31 (2000).
+  volume: '119'
+  year: '2000'
+- author: SE Langabeer
+  doi: 10.1038/sj.leu.2403066
+  first-page: '1915'
+  journal-title: Leukemia
+  unstructured: 'Langabeer, S. E., Beghini, A. & Larizza, L. AML with t(8;21) and
+    trisomy 4: possible involvement of c-kit? Leukemia 17, 1915; author reply 1915–1916
+    (2003).'
+  volume: '17'
+  year: '2003'
+- author: R Sotillo
+  doi: 10.1038/nature08803
+  first-page: '436'
+  journal-title: Nature
+  unstructured: Sotillo, R., Schvartzman, J. M., Socci, N. D. & Benezra, R. Mad2-induced
+    chromosome instability leads to lung tumour relapse after oncogene withdrawal.
+    Nature 464, 436–440 (2010). This study shows that KRAS-driven tumours that develop
+    CIN and aneuploidy owing to transient MAD2 overexpression recur at a markedly
+    elevated rate after the withdrawal of the KRAS oncogene.
+  volume: '464'
+  year: '2010'
+- author: S Malinge
+  doi: 10.1182/blood-2008-11-163501
+  first-page: '2619'
+  journal-title: Blood
+  unstructured: Malinge, S., Izraeli, S. & Crispino, J. D. Insights into the manifestations,
+    outcomes and mechanisms of leukemogenesis in Down syndrome. Blood 113, 2619–2628
+    (2009).
+  volume: '113'
+  year: '2009'
+- author: KH Baek
+  doi: 10.1038/nature08062
+  first-page: '1126'
+  journal-title: Nature
+  unstructured: Baek, K. H. et al. Down's syndrome suppression of tumour growth and
+    the role of the calcineurin inhibitor DSCR1. Nature 459, 1126–1130 (2009).
+  volume: '459'
+  year: '2009'
+- author: AP Ng
+  doi: 10.1182/blood-2009-09-242107
+  first-page: '3966'
+  journal-title: Blood
+  unstructured: Ng, A. P. et al. Trisomy of Erg is required for myeloproliferation
+    in a mouse model of Down syndrome. Blood 115, 3966–3969 (2010).
+  volume: '115'
+  year: '2010'
+- author: K Baetz
+  doi: 10.4161/cc.5.6.2583
+  first-page: '592'
+  journal-title: Cell Cycle
+  unstructured: Baetz, K., Measday, V. & Andrews, B. Revealing hidden relationships
+    among yeast genes involved in chromosome segregation using systematic synthetic
+    lethal and synthetic dosage lethal screens. Cell Cycle 5, 592–595 (2006).
+  volume: '5'
+  year: '2006'
+- author: V Measday
+  doi: 10.1073/pnas.0503504102
+  first-page: '13956'
+  journal-title: Proc. Natl Acad. Sci. USA
+  unstructured: Measday, V. et al. Systematic yeast synthetic lethal and synthetic
+    dosage lethal screens identify genes required for chromosome segregation. Proc.
+    Natl Acad. Sci. USA 102, 13956–13961 (2005).
+  volume: '102'
+  year: '2005'
+- author: H Lin
+  doi: 10.1083/jcb.200108119
+  first-page: '1173'
+  journal-title: J. Cell Biol.
+  unstructured: Lin, H. et al. Polyploids require Bik1 for kinetochore–microtubule
+    attachment. J. Cell Biol. 155, 1173–1184 (2001).
+  volume: '155'
+  year: '2001'
+- author: A Kramer
+  doi: 10.1016/j.molonc.2011.05.003
+  first-page: '324'
+  journal-title: Mol. Oncol.
+  unstructured: 'Kramer, A., Maier, B. & Bartek, J. Centrosome clustering and chromosomal
+    (in) stability: A matter of life and death. Mol. Oncol. 5, 324–335 (2011).'
+  volume: '5'
+  year: '2011'
+- author: M Kwon
+  doi: 10.1101/gad.1700908
+  first-page: '2189'
+  journal-title: Genes Dev.
+  unstructured: Kwon, M. et al. Mechanisms to suppress multipolar divisions in cancer
+    cells with extra centrosomes. Genes Dev. 22, 2189–2203 (2008). In this study,
+    a genome-wide siRNA screen was used to identify new mechanisms by which cells
+    suppress multipolar divisions.
+  volume: '22'
+  year: '2008'
+- author: YC Tang
+  doi: 10.1016/j.cell.2011.01.017
+  first-page: '499'
+  journal-title: Cell
+  unstructured: Tang, Y. C., Williams, B. R., Siegel, J. J. & Amon, A. Identification
+    of aneuploidy-selective antiproliferation compounds. Cell 144, 499–512 (2011).
+    This study identifies drugs with aneuploidy-specific lethality.
+  volume: '144'
+  year: '2011'
+- author: WJ Chng
+  doi: 10.1158/0008-5472.CAN-06-4046
+  first-page: '2982'
+  journal-title: Cancer Res.
+  unstructured: Chng, W. J. et al. Molecular dissection of hyperdiploid multiple myeloma
+    by gene expression profiling. Cancer Res. 67, 2982–2989 (2007).
+  volume: '67'
+  year: '2007'
+- author: MV Mateos
+  doi: 10.1182/blood-2011-04-345801
+  first-page: '4547'
+  journal-title: Blood
+  unstructured: Mateos, M. V. et al. Outcome according to cytogenetic abnormalities
+    and DNA ploidy in myeloma patients receiving short induction with weekly bortezomib
+    followed by maintenace. Blood 118, 4547–4553 (2011).
+  volume: '118'
+  year: '2011'
+- author: SZ Usmani
+  doi: 10.2174/156652409788488757
+  first-page: '654'
+  journal-title: Curr. Mol. Med.
+  unstructured: Usmani, S. Z., Bona, R. & Li, Z. 17 AAG for HSP90 inhibition in cancer—from
+    bench to bedside. Curr. Mol. Med. 9, 654–664 (2009).
+  volume: '9'
+  year: '2009'
+- author: JW Taub
+  doi: 10.1002/pbc.20092
+  first-page: '33'
+  journal-title: Pediatr. Blood Cancer
+  unstructured: Taub, J. W. & Ge, Y. Down syndrome, drug metabolism and chromosome
+    21. Pediatr. Blood Cancer 44, 33–39 (2005).
+  volume: '44'
+  year: '2005'
+- author: L Zhang
+  first-page: '2169'
+  journal-title: Clin. Cancer Res.
+  unstructured: 'Zhang, L. et al. Reduced folate carrier gene expression in childhood
+    acute lymphoblastic leukemia: relationship to immunophenotype and ploidy. Clin.
+    Cancer Res. 4, 2169–2177 (1998).'
+  volume: '4'
+  year: '1998'
+- author: VM Belkov
+  doi: 10.1182/blood.V93.5.1643
+  first-page: '1643'
+  journal-title: Blood
+  unstructured: 'Belkov, V. M. et al. Reduced folate carrier expression in acute lymphoblastic
+    leukemia: a mechanism for ploidy but not lineage differences in methotrexate accumulation.
+    Blood 93, 1643–1650 (1999).'
+  volume: '93'
+  year: '1999'
+- author: KJ Meaburn
+  doi: 10.1007/s00412-005-0014-8
+  first-page: '263'
+  journal-title: Chromosoma
+  unstructured: 'Meaburn, K. J., Parris, C. N. & Bridger, J. M. The manipulation of
+    chromosomes by mankind: the uses of microcell-mediated chromosome transfer. Chromosoma
+    114, 263–274 (2005).'
+  volume: '114'
+  year: '2005'
+- author: AM Doherty
+  doi: 10.1007/s00335-003-4002-0
+  first-page: '583'
+  journal-title: Mamm. Genome
+  unstructured: 'Doherty, A. M. & Fisher, E. M. Microcell-mediated chromosome transfer
+    (MMCT): small cells with huge potential. Mamm. Genome 14, 583–592 (2003).'
+  volume: '14'
+  year: '2003'
+- author: MB Upender
+  doi: 10.1158/0008-5472.CAN-04-0474
+  first-page: '6941'
+  journal-title: Cancer Res.
+  unstructured: Upender, M. B. et al. Chromosome transfer induced aneuploidy results
+    in complex dysregulation of the cellular transcriptome in immortalized and cancer
+    cells. Cancer Res. 64, 6941–6949 (2004).
+  volume: '64'
+  year: '2004'
+- author: TR Hughes
+  doi: 10.1038/77116
+  first-page: '333'
+  journal-title: Nature Genet.
+  unstructured: Hughes, T. R. et al. Widespread aneuploidy revealed by DNA microarray
+    expression profiling. Nature Genet. 25, 333–337 (2000).
+  volume: '25'
+  year: '2000'
+- author: A Selmecki
+  doi: 10.1126/science.1128242
+  first-page: '367'
+  journal-title: Science
+  unstructured: Selmecki, A., Forche, A. & Berman, J. Aneuploidy and isochromosome
+    formation in drug-resistant Candida albicans. Science 313, 367–370 (2006). This
+    study demonstrates that that the in vivo acquisition of extra copies of an isochromosome
+    by Candida albicans confers resistance to fluconazole through the action of two
+    specific genes in a copy-number-dependent manner.
+  volume: '313'
+  year: '2006'
+- author: A Selmecki
+  doi: 10.1111/j.1365-2958.2008.06176.x
+  first-page: '624'
+  journal-title: Mol. Microbiol.
+  unstructured: Selmecki, A., Gerami-Nejad, M., Paulson, C., Forche, A. & Berman,
+    J. An isochromosome confers drug resistance in vivo by amplification of two genes,
+    ERG11 and TAC1. Mol. Microbiol. 68, 624–641 (2008).
+  volume: '68'
+  year: '2008'
+- author: P Duesberg
+  first-page: '4887'
+  journal-title: Anticancer Res.
+  unstructured: Duesberg, P. et al. How aneuploidy may cause cancer and genetic instability.
+    Anticancer Res. 19, 4887–4906 (1999).
+  volume: '19'
+  year: '1999'
+- author: P Duesberg
+  doi: 10.1159/000092963
+  first-page: '16'
+  journal-title: Contrib. Microbiol.
+  unstructured: 'Duesberg, P., Li, R., Fabarius, A. & Hehlmann, R. Aneuploidy and
+    cancer: from correlation to causation. Contrib. Microbiol. 13, 16–44 (2006).'
+  volume: '13'
+  year: '2006'
+- author: X Su
+  doi: 10.1016/j.molcel.2011.06.027
+  first-page: '751'
+  journal-title: Mol. Cell
+  unstructured: Su, X. et al. Mechanism underlying the dual-mode regulation of microtubule
+    dynamics by Kip/3kinesin-8. Mol. Cell 43, 751–763 (2011).
+  volume: '43'
+  year: '2011'
+- author: T Fujiwara
+  doi: 10.1038/nature04217
+  first-page: '1043'
+  journal-title: Nature
+  unstructured: Fujiwara, T. et al. Cytokinesis failure generating tetraploids promotes
+    tumorigenesis in p53-null cells. Nature 437, 1043–1047 (2005).
+  volume: '437'
+  year: '2005'
+doc_url: http://www.nature.com/articles/nrg3123.pdf
+doi: 10.1038/nrg3123
+files: []
+issue: '3'
+journal: Nature Reviews Genetics
+language: en
+month: 3
+pages: 189--203
+papis_id: 46b06a09f0c10611d100e3ff3780661d
+publisher: Springer Science and Business Media LLC
+ref: CausesAndConsGordon2012
+time-added: 2023-10-13-11:16:09
+title: Causes and consequences of aneuploidy in cancer
+type: article
+url: http://dx.doi.org/10.1038/nrg3123
+volume: '13'
+year: 2012

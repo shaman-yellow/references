@@ -1,0 +1,12 @@
+address: '{Vienna, Austria}'
+author: Team, R Core
+author_list:
+- family: Team
+  given: R Core
+files: []
+organization: '{R Foundation for Statistical Computing}'
+papis_id: b4047fb80b4b9d2f4914651363ef9a11
+ref: RALanguageATeam2021
+title: 'R: A Language and Environment for Statistical Computing'
+type: Manual
+year: '2021'

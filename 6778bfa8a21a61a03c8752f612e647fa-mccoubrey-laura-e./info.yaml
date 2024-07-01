@@ -1,0 +1,28 @@
+author: McCoubrey, Laura E. and Elbadawi, Moe and Orlu, Mine and Gaisford, Simon and
+  Basit, Abdul W.
+author_list:
+- family: McCoubrey
+  given: Laura E.
+- family: Elbadawi
+  given: Moe
+- family: Orlu
+  given: Mine
+- family: Gaisford
+  given: Simon
+- family: Basit
+  given: Abdul W.
+doi: 10.3390/pharmaceutics13071026
+files:
+- machinelearninmccoub2021-a.pdf
+issue: '7'
+journal: Pharmaceutics
+month: '7'
+page: '1026'
+papis_id: 56ca3b9d7ccbe9a3a44a9b2af0cc6aa9
+publisher: MDPI AG
+ref: MachineLearninMccoub2021
+title: Machine Learning Uncovers Adverse Drug Effects on Intestinal Bacteria
+type: article
+url: http://dx.doi.org/10.3390/pharmaceutics13071026
+volume: '13'
+year: '2021'

@@ -1,0 +1,21 @@
+address: '{Santa Fe, New Mexico}'
+author: Böcker, Sebastian and Lipták, Zsuzsanna
+author_list:
+- family: Böcker
+  given: Sebastian
+- family: Lipták
+  given: Zsuzsanna
+booktitle: Proceedings of the 2005 {{ACM}} Symposium on {{Applied}} Computing  - {{SAC}}
+  '05
+doi: 10.1145/1066677.1066715
+files: []
+isbn: 978-1-58113-964-8
+langid: english
+pages: '151'
+papis_id: 2ee79d09e727143ffb7a0502424cd95a
+publisher: '{ACM Press}'
+ref: EfficientMassBocker2005
+title: Efficient Mass Decomposition
+type: inproceedings
+urldate: '2021-11-15'
+year: '2005'

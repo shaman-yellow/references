@@ -1,0 +1,59 @@
+abstract: Abstract                        Metabolomics has started to embrace computational
+  approaches for chemical interpretation of large data sets. Yet, metabolite annotation
+  remains a key challenge. Recently, molecular networking and MS2LDA emerged as molecular
+  mining tools that find molecular families and substructures in mass spectrometry
+  fragmentation data. Moreover,             in silico             annotation tools
+  obtain and rank candidate molecules for fragmentation spectra. Ideally, all structural
+  information obtained and inferred from these computational tools could be combined
+  to increase the resulting chemical insight one can obtain from a data set. However,
+  integration is currently hampered as each tool has its own output format and efficient
+  matching of data across these tools is lacking. Here, we introduce MolNetEnhancer,
+  a workflow that combines the outputs from molecular networking, MS2LDA,             in
+  silico             annotation tools (such as Network Annotation Propagation or DEREPLICATOR)
+  and the automated chemical classification through ClassyFire to provide a more comprehensive
+  chemical overview of metabolomics data whilst at the same time illuminating structural
+  details for each fragmentation spectrum. We present examples from four plant and
+  bacterial case studies and show how MolNetEnhancer enables the chemical annotation,
+  visualization, and discovery of the subtle substructural diversity within molecular
+  families. We conclude that MolNetEnhancer is a useful tool that greatly assists
+  the metabolomics researcher in deciphering the metabolome through combination of
+  multiple independent             in silico             pipelines.
+author: Ernst, Madeleine and Kang, Kyo Bin and Caraballo-Rodríguez, Andrés Mauricio
+  and Nothias, Louis-Felix and Wandy, Joe and Wang, Mingxun and Rogers, Simon and
+  Medema, Marnix H. and Dorrestein, Pieter C. and van der Hooft, Justin J.J.
+author_list:
+- family: Ernst
+  given: Madeleine
+- family: Kang
+  given: Kyo Bin
+- family: Caraballo-Rodríguez
+  given: Andrés Mauricio
+- family: Nothias
+  given: Louis-Felix
+- family: Wandy
+  given: Joe
+- family: Wang
+  given: Mingxun
+- family: Rogers
+  given: Simon
+- family: Medema
+  given: Marnix H.
+- family: Dorrestein
+  given: Pieter C.
+- family: van der Hooft
+  given: Justin J.J.
+doi: 10.1101/654459
+file: /mnt/data/wizard/Zotero/storage/CLW6IAW5/Ernst et al. - 2019 - MolNetEnhancer
+  enhanced molecular networks by int.pdf
+files: []
+institution: '{Biochemistry}'
+langid: english
+month: May
+papis_id: 4c006c0a926694e68442fbaef5a5f8bc
+ref: MolnetenhancerErnst2019
+shorttitle: '{{MolNetEnhancer}}'
+title: 'MolNetEnhancer: Enhanced Molecular Networks by Integrating Metabolome Mining
+  and Annotation Tools'
+type: Preprint
+urldate: '2021-11-14'
+year: '2019'

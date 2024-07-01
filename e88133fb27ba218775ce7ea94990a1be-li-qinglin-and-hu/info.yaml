@@ -1,0 +1,53 @@
+abstract: Cornus officinalis Sieb et. Zucc and Paeonia lactiflora Pall. have exhibited
+  favorable therapeutic effects against rheumatoid arthritis (RA), but the specific
+  mechanisms of their active compounds remain unclear. The aim of this study was to
+  comprehensively analyze the therapeutic mechanisms of selected active compounds
+  in Cornus officinalis (loganin, ursolic acid, and morroniside) and Paeonia lactiflora
+  (paeoniflorin and albiflorin) via network pharmacology. The pharmacological properties
+  of the five active compounds were evaluated and their potential target genes were
+  identified by database screening. Gene Ontology and Kyoto Encyclopedia of Genes
+  and Genomes functional analysis were performed to determine the enriched molecular
+  pathways associated with the active compounds. Using network pharmacology tools,
+  eight genes (IL1{$\beta$}, VEGFA, STAT3, TP53, IL6, TNF, FOS, and LGALS3) were identified
+  as common targets between RA and the five active compounds. Molecular docking simulation
+  revealed the compound-target relationship between the five active compounds and
+  three selected targets from the eight common ones (LGALS3, STAT3, and VEGFA). The
+  compound-target relationships were subsequently validated via preliminary               in
+  vivo               experiments in a rat model of collagen-induced arthritis. Rats
+  subjected to collagen-induced arthritis showed increased protein expression of LGALS3,
+  STAT3, and VEGFA in synovial tissues. However, treatment using Cornus officinalis
+  or/and Paeonia lactiflora, as well as their most drug-like active compounds (ursolic
+  acid or/and paeoniflorin, respectively, identified based on pharmacological properties),
+  attenuated the expression of these three targets, as previously predicted. Collectively,
+  network pharmacology allowed the pharmacological and molecular roles of Cornus officinalis
+  and Paeonia lactiflora to be systematically revealed, further establishing them
+  as important candidate drugs in the treatment and management of RA.
+author: Li, Qinglin and Hu, Shaoqi and Huang, Lichuang and Zhang, Jida and Cao, Gang
+author_list:
+- family: Li
+  given: Qinglin
+- family: Hu
+  given: Shaoqi
+- family: Huang
+  given: Lichuang
+- family: Zhang
+  given: Jida
+- family: Cao
+  given: Gang
+doi: 10.3389/fphar.2021.648037
+file: /mnt/data/wizard/Zotero/storage/BBBPFQM6/Li et al. - 2021 - Evaluating the Therapeutic
+  Mechanisms of Selected .pdf
+files: []
+issn: 1663-9812
+journal: Frontiers in Pharmacology
+month: April
+pages: '648037'
+papis_id: 545c5f2ef0eba6ea4d859a2496862b2a
+ref: EvaluatingTheLiQi2021
+title: Evaluating the Therapeutic Mechanisms of Selected Active Compounds in Cornus
+  Officinalis and Paeonia Lactiflora in Rheumatoid Arthritis via Network Pharmacology
+  Analysis
+type: article
+urldate: '2023-03-20'
+volume: '12'
+year: '2021'

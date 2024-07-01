@@ -1,0 +1,16 @@
+address: '{Boca Raton, Florida}'
+author: Xie, Yihui and Allaire, J.J. and Grolemund, Garrett
+author_list:
+- family: Xie
+  given: Yihui
+- family: Allaire
+  given: J.J.
+- family: Grolemund
+  given: Garrett
+files: []
+papis_id: 1712dcebf5f1754e0daa96b641bdd443
+publisher: '{Chapman and Hall/CRC}'
+ref: RMarkdownTheXieY2018
+title: 'R Markdown: The Definitive Guide'
+type: book
+year: '2018'

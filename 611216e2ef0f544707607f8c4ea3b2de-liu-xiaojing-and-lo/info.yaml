@@ -1,0 +1,38 @@
+abstract: Metabolomics generates a profile of small molecules that are derived from
+  cellular metabolism and can directly reflect the outcome of complex networks of
+  biochemical reactions, thus providing insights into multiple aspects of cellular
+  physiology. Technological advances have enabled rapid and increasingly expansive
+  data acquisition with samples as small as single cells; however, substantial challenges
+  in the field remain. In this primer we provide an overview of metabolomics, especially
+  mass spectrometry (MS)-based metabolomics, which uses liquid chromatography (LC)
+  for separation, and discuss its utilities and limitations. We identify and discuss
+  several areas at the frontier of metabolomics. Our goal is to give the reader a
+  sense of what might be accomplished when conducting a metabolomics experiment, now
+  and in the near future.
+author: Liu, Xiaojing and Locasale, Jason W.
+author_list:
+- family: Liu
+  given: Xiaojing
+- family: Locasale
+  given: Jason W.
+doi: 10.1016/j.tibs.2017.01.004
+file: /mnt/data/wizard/Zotero/storage/QXB22Z6X/Liu and Locasale - 2017 - Metabolomics
+  A Primer.pdf
+files: []
+issn: 0968-0004
+journal: Trends in Biochemical Sciences
+keywords: Animals,{Chromatography, Liquid},Humans,mass spectrometry,Mass Spectrometry,metabolic
+  biology,metabolic network,Metabolomics,quantitative biology
+langid: english
+month: April
+number: '4'
+pages: 274--284
+papis_id: dc6a75b20bd85b660ed0b77c00d3326f
+pmcid: PMC5376220
+pmid: '28196646'
+ref: MetabolomicsALiuX2017
+shorttitle: Metabolomics
+title: 'Metabolomics: A Primer'
+type: article
+volume: '42'
+year: '2017'

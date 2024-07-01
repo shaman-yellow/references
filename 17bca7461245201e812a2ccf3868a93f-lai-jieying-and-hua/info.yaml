@@ -1,0 +1,69 @@
+abstract: We present a deep clustering-based MS data visualization strategy (MCnebula),
+  integrated with the influential open-source automatic MS annotation platform SIRIUS
+  and               in vivo               and               in vitro               methods,
+  to screen and validate potential lead compounds from natural products.                        ,                             Natural
+  products have been a key source of drug lead discovery. However, their identification
+  has long been a challenge even with the state-of-the-art analysis technologies like
+  high-resolution mass spectrometry (MS) due to their complexity. Emerging               in
+  silico               chemical structure prediction tools have provided time-saving
+  and highly efficient approaches for identification of these complex samples. Nevertheless,
+  the interpretation of these MS annotations into key supporting evidence towards
+  specific questions is still a bottleneck in medicinal and biological fields. Here
+  we present a deep clustering-based MS data visualization strategy (MCnebula), integrated
+  with the influential open-source automatic MS annotation platform SIRIUS and               in
+  vivo               and               in vitro               methods, to screen and
+  validate potential lead compounds from natural products. MCnebula could provide
+  multi-layer clustering profiles with chemical ontologies and comparative analysis
+  of differential treatments. Plantaginis Semen (PS) is commonly used for treating
+  kidney disease and usually stir-fried with salt water to enhance its anti-renal
+  fibrosis effect, but the reason behind this remains unclear. Taking PS as an example,
+  we comprehensively identified and compared the raw and processed PS extracts with
+  SIRIUS-MCnebula, and screened potential anti-renal fibrotic lead compounds using
+  weighted fold change analysis. Eighty-nine components were identified in PS with
+  isoacteoside, calceolarioside B, 2{${'}$}-acetylacteoside, and plantainoside D being
+  screened and validated to treat renal fibrosis. The novel developed mass spectral
+  data visualization strategy combined with biological function investigation and
+  validation workflow could not only accelerate the discovery of lead compounds from
+  medicinal natural products, but also shed new light on the traditional processing
+  theory.
+author: Lai, Jieying and Huang, Lichuang and Bao, Yini and Wang, Lu and Lyu, Qiang
+  and Kuang, Haodan and Wang, Kuilong and Sang, Xianan and Yang, Qiao and Shan, Qiyuan
+  and Cao, Gang
+author_list:
+- family: Lai
+  given: Jieying
+- family: Huang
+  given: Lichuang
+- family: Bao
+  given: Yini
+- family: Wang
+  given: Lu
+- family: Lyu
+  given: Qiang
+- family: Kuang
+  given: Haodan
+- family: Wang
+  given: Kuilong
+- family: Sang
+  given: Xianan
+- family: Yang
+  given: Qiao
+- family: Shan
+  given: Qiyuan
+- family: Cao
+  given: Gang
+doi: 10.1039/D2AN01185A
+files: []
+issn: 0003-2654, 1364-5528
+journal: Analyst
+langid: english
+number: '21'
+pages: 4739--4751
+papis_id: 88f7cf01231cafb6b249f098ab9eacd7
+ref: ADeepClusteriLaiJ2022
+title: A Deep Clustering-Based Mass Spectral Data Visualization Strategy for Anti-Renal
+  Fibrotic Lead Compound Identification from Natural Products
+type: article
+urldate: '2023-03-14'
+volume: '147'
+year: '2022'

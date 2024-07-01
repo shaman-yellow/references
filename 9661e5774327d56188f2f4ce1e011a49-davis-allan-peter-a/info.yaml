@@ -1,0 +1,29 @@
+author: Davis, Allan Peter and Wiegers, Thomas C and Johnson, Robin J and Sciaky,
+  Daniela and Wiegers, Jolene and Mattingly, Carolyn J
+author_list:
+- family: Davis
+  given: Allan Peter
+- family: Wiegers
+  given: Thomas C
+- family: Johnson
+  given: Robin J
+- family: Sciaky
+  given: Daniela
+- family: Wiegers
+  given: Jolene
+- family: Mattingly
+  given: Carolyn J
+doi: 10.1093/nar/gkac833
+files: []
+issn: 0305-1048
+issue: D1
+journal: Nucleic acids research
+pages: D1257--D1262
+papis_id: 2ac2b3d4a89a0a693522870b9d3a5c53
+pmid: '36169237'
+ref: ComparativeToxDavis2023
+time-added: 2024-03-28-17:06:07
+title: 'Comparative Toxicogenomics Database (CTD): update 2023'
+type: article
+volume: '51'
+year: 2023

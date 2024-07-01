@@ -1,0 +1,72 @@
+abstract: Significance             Molecular patient stratification and disease subtyping
+  are ongoing and high-impact problems that rely on the identification of characteristic
+  molecular signatures. Current computational methods show high sensitivity to custom
+  parameterization, which leads to inconsistent performance on different molecular
+  data. Our new method, MoSBi (molecular signature identification using biclustering),
+  1) enables so far unmatched high performance for stratification and subtyping across
+  datasets of various different biomolecules, 2) provides a scalable solution for
+  visualizing the results and their correspondence to clinical factors, and 3) has
+  immediate practical relevance through its automatic workflow where individual selection,
+  parameterization, screening, and visualization of biclustering algorithms is not
+  required. MoSBi is a major step forward with a high impact for clinical and wet-lab
+  researchers.           ,              The improving access to increasing amounts
+  of biomedical data provides completely new chances for advanced patient stratification
+  and disease subtyping strategies. This requires computational tools that produce
+  uniformly robust results across highly heterogeneous molecular data. Unsupervised
+  machine learning methodologies are able to discover de novo patterns in such data.
+  Biclustering is especially suited by simultaneously identifying sample groups and
+  corresponding feature sets across heterogeneous omics data. The performance of available
+  biclustering algorithms heavily depends on individual parameterization and varies
+  with their application. Here, we developed MoSBi (molecular signature identification
+  using biclustering), an automated multialgorithm ensemble approach that integrates
+  results utilizing an error model-supported similarity network. We systematically
+  evaluated the performance of 11 available and established biclustering algorithms
+  together with MoSBi. For this, we used transcriptomics, proteomics, and metabolomics
+  data, as well as synthetic datasets covering various data properties. Profiting
+  from multialgorithm integration, MoSBi identified robust group and disease-specific
+  signatures across all scenarios, overcoming single algorithm specificities. Furthermore,
+  we developed a scalable network-based visualization of bicluster communities that
+  supports biological hypothesis generation. MoSBi is available as an R package and
+  web service to make automated biclustering analysis accessible for application in
+  molecular sample stratification.
+author: Rose, Tim Daniel and Bechtler, Thibault and Ciora, Octavia-Andreea and Anh
+  Lilian Le, Kim and Molnar, Florian and Köhler, Nikolai and Baumbach, Jan and Röttger,
+  Richard and Pauling, Josch Konstantin
+author_list:
+- family: Rose
+  given: Tim Daniel
+- family: Bechtler
+  given: Thibault
+- family: Ciora
+  given: Octavia-Andreea
+- family: Anh Lilian Le
+  given: Kim
+- family: Molnar
+  given: Florian
+- family: Köhler
+  given: Nikolai
+- family: Baumbach
+  given: Jan
+- family: Röttger
+  given: Richard
+- family: Pauling
+  given: Josch Konstantin
+doi: 10.1073/pnas.2118210119
+file: /mnt/data/wizard/Zotero/storage/4VCJZBJV/Rose et al. - 2022 - MoSBi Automated
+  signature mining for molecular st.pdf;/mnt/data/wizard/Zotero/storage/X7ASV25K/Rose
+  et al. - 2022 - MoSBi Automated signature mining for molecular st.pdf
+files: []
+issn: 0027-8424, 1091-6490
+journal: Proceedings of the National Academy of Sciences
+langid: english
+month: April
+number: '16'
+pages: e2118210119
+papis_id: 10524e1f30524a3f40d1a8bcc6495073
+ref: MosbiAutomateRose2022
+shorttitle: '{{MoSBi}}'
+title: 'MoSBi: Automated Signature Mining for Molecular Stratification and Subtyping'
+type: article
+urldate: '2022-08-05'
+volume: '119'
+year: '2022'

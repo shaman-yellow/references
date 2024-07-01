@@ -1,0 +1,682 @@
+abstract: <jats:p>Circular RNAs (circRNAs) are known to act as important regulators
+  of the microRNA (miRNA) activity. Yet, computational resources to identify miRNA:circRNA
+  interactions are mostly limited to already annotated circRNAs or affected by high
+  rates of false positive predictions. To overcome these limitations, we developed
+  Circr, a computational tool for the prediction of associations between circRNAs
+  and miRNAs. Circr combines three publicly available algorithms for <jats:italic>de
+  novo</jats:italic> prediction of miRNA binding sites on target sequences (miRanda,
+  RNAhybrid, and TargetScan) and annotates each identified miRNA:target pairs with
+  experimentally validated miRNA:RNA interactions and binding sites for Argonaute
+  proteins derived from either ChIPseq or CLIPseq data. The combination of multiple
+  tools for the identification of a single miRNA recognition site with experimental
+  data allows to efficiently prioritize candidate miRNA:circRNA interactions for functional
+  studies in different organisms. Circr can use its internal annotation database or
+  custom annotation tables to enhance the identification of novel and not previously
+  annotated miRNA:circRNA sites in virtually any species. Circr is written in Python
+  3.6 and is released under the GNU GPL3.0 License at <jats:ext-link>https://github.com/bicciatolab/Circr</jats:ext-link>.</jats:p>
+author: Dori, Martina and Caroli, Jimmy and Forcato, Mattia
+author_list:
+- affiliation: []
+  family: Dori
+  given: Martina
+- affiliation: []
+  family: Caroli
+  given: Jimmy
+- affiliation: []
+  family: Forcato
+  given: Mattia
+citations:
+- article-title: Predicting Effective microRNA Target Sites in Mammalian mRNAs
+  author: Agarwal
+  doi: 10.7554/eLife.05005
+  journal-title: Elife
+  volume: '4'
+  year: '2015'
+- article-title: circRNA Biogenesis Competes with Pre-mRNA Splicing
+  author: Ashwal-Fluss
+  doi: 10.1016/j.molcel.2014.08.019
+  first-page: '55'
+  journal-title: Mol. Cel
+  volume: '56'
+  year: '2014'
+- article-title: Genome-wide Analysis of miRNA-mRNA Interactions in Marrow Stromal
+    Cells
+  author: Balakrishnan
+  doi: 10.1002/stem.1531
+  first-page: '662'
+  journal-title: Stem Cells
+  volume: '32'
+  year: '2014'
+- article-title: 'TargetMiner: microRNA Target Prediction with Systematic Identification
+    of Tissue-specific Negative Examples'
+  author: Bandyopadhyay
+  doi: 10.1093/bioinformatics/btp503
+  first-page: '2625'
+  journal-title: Bioinformatics
+  volume: '25'
+  year: '2009'
+- article-title: 'Circular RNAs: Analysis, Expression and Potential Functions'
+  author: Barrett
+  doi: 10.1242/dev.128074
+  first-page: '1838'
+  journal-title: Development
+  volume: '143'
+  year: '2016'
+- article-title: 'MicroRNAs: Target Recognition and Regulatory Functions'
+  author: Bartel
+  doi: 10.1016/j.cell.2009.01.002
+  first-page: '215'
+  journal-title: Cell
+  volume: '136'
+  year: '2009'
+- article-title: Defining a microRNA-mRNA Interaction Map for Calcineurin Inhibitor
+    Induced Nephrotoxicity
+  author: Benway
+  doi: 10.1111/ajt.14503
+  first-page: '796'
+  journal-title: Am. J. Transplant
+  volume: '18'
+  year: '2018'
+- article-title: Genetic Evidence Equating SRY and the Testis-Determining Factor
+  author: Berta
+  doi: 10.1038/348448a0
+  first-page: '448'
+  journal-title: Nature
+  volume: '348'
+  year: '1990'
+- article-title: 'The microRNA.Org Resource: Targets and Expression'
+  author: Betel
+  doi: 10.1093/nar/gkm995
+  first-page: D149
+  journal-title: Nucleic Acids Res.
+  volume: '36'
+  year: '2008'
+- article-title: Transcriptome-wide Discovery of microRNA Binding Sites in Human Brain
+  author: Boudreau
+  doi: 10.1016/j.neuron.2013.10.062
+  first-page: '294'
+  journal-title: Neuron
+  volume: '81'
+  year: '2014'
+- article-title: Circular Transcripts of the Testis-Determining Gene Sry in Adult
+    Mouse Testis
+  author: Capel
+  doi: 10.1016/0092-8674(93)90279-y
+  first-page: '1019'
+  journal-title: Cell
+  volume: '73'
+  year: '1993'
+- article-title: 'CircNet 2.0: an Updated Database for Exploring Circular RNA Regulatory
+    Networks in Cancers'
+  author: Chen
+  doi: 10.1093/nar/gkab1036
+  first-page: D93
+  journal-title: Nucleic Acids Res.
+  volume: '50'
+  year: '2021'
+- article-title: Argonaute HITS-CLIP Decodes microRNA-mRNA Interaction Maps
+  author: Chi
+  doi: 10.1038/nature08170
+  first-page: '479'
+  journal-title: Nature
+  volume: '460'
+  year: '2009'
+- article-title: Argonaute CLIP-Seq Reveals miRNA Targetome Diversity across Tissue
+    Types
+  author: Clark
+  doi: 10.1038/srep05947
+  first-page: '5947'
+  journal-title: Sci. Rep.
+  volume: '4'
+  year: '2014'
+- article-title: The RNA Binding Protein Quaking Regulates Formation of circRNAs
+  author: Conn
+  doi: 10.1016/j.cell.2015.02.014
+  first-page: '1125'
+  journal-title: Cell
+  volume: '160'
+  year: '2015'
+- article-title: An Integrated Encyclopedia of DNA Elements in the Human Genome
+  author: Consortium
+  doi: 10.1038/nature11247
+  first-page: '57'
+  journal-title: Nature
+  volume: '489'
+  year: '2012'
+- article-title: 'ComiR: Combinatorial microRNA Target Prediction Tool'
+  author: Coronnello
+  doi: 10.1093/nar/gkt379
+  first-page: W159
+  journal-title: Nucleic Acids Res.
+  volume: '41'
+  year: '2013'
+- article-title: Integration of Bioinformatic Predictions and Experimental Data to
+    Identify circRNA-miRNA Associations
+  author: Dori
+  doi: 10.3390/genes10090642
+  journal-title: Genes (Basel)
+  volume: '10'
+  year: '2019'
+- article-title: Sequence and Expression Levels of Circular RNAs in Progenitor Cell
+    Types during Mouse Corticogenesis
+  author: Dori
+  doi: 10.26508/lsa.201900354
+  journal-title: Life Sci. Alliance
+  volume: '2'
+  year: '2019'
+- article-title: 'CircInteractome: A Web Tool for Exploring Circular RNAs and Their
+    Interacting Proteins and microRNAs'
+  author: Dudekula
+  doi: 10.1080/15476286.2015.1128065
+  first-page: '34'
+  journal-title: RNA Biol.
+  volume: '13'
+  year: '2016'
+- article-title: MicroRNA Targets in Drosophila
+  author: Enright
+  doi: 10.1186/gb-2003-5-1-r1
+  first-page: R1
+  journal-title: Genome Biol.
+  volume: '5'
+  year: '2003'
+- article-title: Widespread Context Dependency of microRNA-Mediated Regulation
+  author: Erhard
+  doi: 10.1101/gr.166702.113
+  first-page: '906'
+  journal-title: Genome Res.
+  volume: '24'
+  year: '2014'
+- article-title: Post-transcriptional Gene Regulation by MicroRNA-194 Promotes Neuroendocrine
+    Transdifferentiation in Prostate Cancer
+  author: Fernandes
+  doi: 10.1016/j.celrep.2020.108585
+  first-page: '108585'
+  journal-title: Cell Rep
+  volume: '34'
+  year: '2021'
+- article-title: 'Circ2Traits: a Comprehensive Database for Circular RNA Potentially
+    Associated with Disease and Traits'
+  author: Ghosal
+  doi: 10.3389/fgene.2013.00283
+  first-page: '283'
+  journal-title: Front. Genet.
+  volume: '4'
+  year: '2013'
+- article-title: Improvements to the HITS-CLIP Protocol Eliminate Widespread Mispriming
+    Artifacts
+  author: Gillen
+  doi: 10.1186/s12864-016-2675-5
+  first-page: '338'
+  journal-title: BMC Genomics
+  volume: '17'
+  year: '2016'
+- article-title: 'circBase: a Database for Circular RNAs'
+  author: Glažar
+  doi: 10.1261/rna.043687.113
+  first-page: '1666'
+  journal-title: Rna
+  volume: '20'
+  year: '2014'
+- article-title: Unambiguous Identification of miRNA:target Site Interactions by Different
+    Types of Ligation Reactions
+  author: Grosswendt
+  doi: 10.1016/j.molcel.2014.03.049
+  first-page: '1042'
+  journal-title: Mol. Cel
+  volume: '54'
+  year: '2014'
+- article-title: Transcriptome-wide Identification of RNA-Binding Protein and microRNA
+    Target Sites by PAR-CLIP
+  author: Hafner
+  doi: 10.1016/j.cell.2010.03.009
+  first-page: '129'
+  journal-title: Cell
+  volume: '141'
+  year: '2010'
+- article-title: An RNA-Directed Nuclease Mediates post-transcriptional Gene Silencing
+    in Drosophila Cells
+  author: Hammond
+  doi: 10.1038/35005107
+  first-page: '293'
+  journal-title: Nature
+  volume: '404'
+  year: '2000'
+- article-title: Natural RNA Circles Function as Efficient microRNA Sponges
+  author: Hansen
+  doi: 10.1038/nature11993
+  first-page: '384'
+  journal-title: Nature
+  volume: '495'
+  year: ''
+- article-title: Circular RNA and miR-7 in Cancer
+  author: Hansen
+  doi: 10.1158/0008-5472.Can-13-1568
+  first-page: '5609'
+  journal-title: Cancer Res.
+  volume: '73'
+  year: ''
+- article-title: miRNA-Dependent Gene Silencing Involving Ago2-Mediated Cleavage of
+    a Circular Antisense RNA
+  author: Hansen
+  doi: 10.1038/emboj.2011.359
+  first-page: '4414'
+  journal-title: Embo j
+  volume: '30'
+  year: '2011'
+- article-title: Mapping the Human miRNA Interactome by CLASH Reveals Frequent Noncanonical
+    Binding
+  author: Helwak
+  doi: 10.1016/j.cell.2013.03.043
+  first-page: '654'
+  journal-title: Cell
+  volume: '153'
+  year: '2013'
+- article-title: Ensembl 2021
+  author: Howe
+  doi: 10.1093/nar/gkaa942
+  first-page: D884
+  journal-title: Nucleic Acids Res.
+  volume: '49'
+  year: '2021'
+- article-title: 'miRTar: an Integrated System for Identifying miRNA-Target Interactions
+    in Human'
+  author: Hsu
+  doi: 10.1186/1471-2105-12-300
+  first-page: '300'
+  journal-title: BMC Bioinformatics
+  volume: '12'
+  year: '2011'
+- article-title: 'miRTarBase 2020: Updates to the Experimentally Validated microRNA-Target
+    Interaction Database'
+  author: Huang
+  doi: 10.1093/nar/gkz896
+  first-page: D148
+  journal-title: Nucleic Acids Res.
+  volume: '48'
+  year: '2020'
+- article-title: The Emerging Role of Circular RNAs in Transcriptome Regulation
+  author: Huang
+  doi: 10.1016/j.ygeno.2017.06.005
+  first-page: '401'
+  journal-title: Genomics
+  volume: '109'
+  year: '2017'
+- article-title: Ago1 Interacts with RNA Polymerase II and Binds to the Promoters
+    of Actively Transcribed Genes in Human Cancer Cells
+  author: Huang
+  doi: 10.1371/journal.pgen.1003821
+  first-page: e1003821
+  journal-title: Plos Genet.
+  volume: '9'
+  year: '2013'
+- article-title: A microRNA in a Multiple-Turnover RNAi Enzyme Complex
+  author: Hutvágner
+  doi: 10.1126/science.1073827
+  first-page: '2056'
+  journal-title: Science
+  volume: '297'
+  year: '2002'
+- article-title: Analysis of Intron Sequences Reveals Hallmarks of Circular RNA Biogenesis
+    in Animals
+  author: Ivanov
+  doi: 10.1016/j.celrep.2014.12.019
+  first-page: '170'
+  journal-title: Cel Rep
+  volume: '10'
+  year: '2015'
+- article-title: Analysis of Human ES Cell Differentiation Establishes that the Dominant
+    Isoforms of the lncRNAs RMST and FIRRE Are Circular
+  author: Izuogu
+  doi: 10.1186/s12864-018-4660-7
+  first-page: '276'
+  journal-title: BMC Genomics
+  volume: '19'
+  year: '2018'
+- article-title: 'Circular RNA; a New Biomarker for Breast Cancer: A Systematic Review'
+  author: Jahani
+  doi: 10.1002/jcp.29558
+  first-page: '5501'
+  journal-title: J. Cel Physiol
+  volume: '235'
+  year: '2020'
+- article-title: Circular RNAs Are Abundant, Conserved, and Associated with ALU Repeats
+  author: Jeck
+  doi: 10.1261/rna.035667.112
+  first-page: '141'
+  journal-title: Rna
+  volume: '19'
+  year: '2013'
+- article-title: In Vivo and Transcriptome-wide Identification of RNA Binding Protein
+    Target Sites
+  author: Jungkamp
+  doi: 10.1016/j.molcel.2011.11.009
+  first-page: '828'
+  journal-title: Mol. Cel
+  volume: '44'
+  year: '2011'
+- article-title: 'DIANA-TarBase V8: a Decade-Long Collection of Experimentally Supported
+    miRNA-Gene Interactions'
+  author: Karagkouni
+  doi: 10.1093/nar/gkx1141
+  first-page: D239
+  journal-title: Nucleic Acids Res.
+  volume: '46'
+  year: '2018'
+- article-title: The Human Genome Browser at UCSC
+  author: Kent
+  doi: 10.1101/gr.229102
+  first-page: '996'
+  journal-title: Genome Res.
+  volume: '12'
+  year: '2002'
+- article-title: The Role of Site Accessibility in microRNA Target Recognition
+  author: Kertesz
+  doi: 10.1038/ng2135
+  first-page: '1278'
+  journal-title: Nat. Genet.
+  volume: '39'
+  year: '2007'
+- article-title: AGO CLIP Reveals an Activated Network for Acute Regulation of Brain
+    Glutamate Homeostasis in Ischemic Stroke
+  author: Kobayashi
+  doi: 10.1016/j.celrep.2019.06.075
+  first-page: '979'
+  journal-title: Cel Rep
+  volume: '28'
+  year: '2019'
+- article-title: 'miRBase: from microRNA Sequences to Function'
+  author: Kozomara
+  doi: 10.1093/nar/gky1141
+  first-page: D155
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2019'
+- article-title: 'Circular RNAs: Diversity of Form and Function'
+  author: Lasda
+  doi: 10.1261/rna.047126.114
+  first-page: '1829'
+  journal-title: Rna
+  volume: '20'
+  year: '2014'
+- article-title: Genome-wide Identification of Ago2 Binding Sites from Mouse Embryonic
+    Stem Cells with and without Mature microRNAs
+  author: Leung
+  doi: 10.1038/nsmb.1991
+  first-page: '237'
+  journal-title: Nat. Struct. Mol. Biol.
+  volume: '18'
+  year: '2011'
+- article-title: 'starBase v2.0: Decoding miRNA-ceRNA, miRNA-ncRNA and Protein-RNA
+    Interaction Networks from Large-Scale CLIP-Seq Data'
+  author: Li
+  doi: 10.1093/nar/gkt1248
+  first-page: D92
+  journal-title: Nucleic Acids Res.
+  volume: '42'
+  year: '2014'
+- article-title: Using Circular RNA as a Novel Type of Biomarker in the Screening
+    of Gastric Cancer
+  author: Li
+  doi: 10.1016/j.cca.2015.02.018
+  first-page: '132'
+  journal-title: Clin. Chim. Acta
+  volume: '444'
+  year: '2015'
+- article-title: 'CircNet: a Database of Circular RNAs Derived from Transcriptome
+    Sequencing Data'
+  author: Liu
+  doi: 10.1093/nar/gkv940
+  first-page: D209
+  journal-title: Nucleic Acids Res.
+  volume: '44'
+  year: '2016'
+- article-title: Argonaute CLIP Defines a Deregulated miR-122-Bound Transcriptome
+    that Correlates with Patient Survival in Human Liver Cancer
+  author: Luna
+  doi: 10.1016/j.molcel.2017.06.025
+  first-page: '400'
+  journal-title: Mol. Cel
+  volume: '67'
+  year: '2017'
+- article-title: Hepatitis C Virus RNA Functionally Sequesters miR-122
+  author: Luna
+  doi: 10.1016/j.cell.2015.02.025
+  first-page: '1099'
+  journal-title: Cell
+  volume: '160'
+  year: '2015'
+- article-title: The Emerging Role and Clinical Implication of Human Exonic Circular
+    RNA
+  author: Lyu
+  doi: 10.1080/15476286.2016.1227904
+  first-page: '1000'
+  journal-title: RNA Biol.
+  volume: '14'
+  year: '2017'
+- article-title: Circular RNAs Are a Large Class of Animal RNAs with Regulatory Potency
+  author: Memczak
+  doi: 10.1038/nature11928
+  first-page: '333'
+  journal-title: Nature
+  volume: '495'
+  year: '2013'
+- article-title: Identification and Characterization of Circular RNAs as a New Class
+    of Putative Biomarkers in Human Blood
+  author: Memczak
+  doi: 10.1371/journal.pone.0141214
+  first-page: e0141214
+  journal-title: PLoS One
+  volume: '10'
+  year: '2015'
+- article-title: miRNA-target Chimeras Reveal miRNA 3'-end Pairing as a Major Determinant
+    of Argonaute Target Specificity
+  author: Moore
+  doi: 10.1038/ncomms9864
+  first-page: '8864'
+  journal-title: Nat. Commun.
+  volume: '6'
+  year: '2015'
+- article-title: RNAi-Independent Role for Argonaute2 in CTCF/CP190 Chromatin Insulator
+    Function
+  author: Moshkovich
+  doi: 10.1101/gad.16651211
+  first-page: '1686'
+  journal-title: Genes Dev.
+  volume: '25'
+  year: '2011'
+- article-title: Regulation of Cell-type-specific Transcriptomes by microRNA Networks
+    during Human Brain Development
+  author: Nowakowski
+  doi: 10.1038/s41593-018-0265-3
+  first-page: '1784'
+  journal-title: Nat. Neurosci.
+  volume: '21'
+  year: '2018'
+- article-title: Circular RNAs Act as miRNA Sponges
+  author: Panda
+  doi: 10.1007/978-981-13-1426-1_6
+  first-page: '67'
+  journal-title: Adv. Exp. Med. Biol.
+  volume: '1087'
+  year: '2018'
+- article-title: HITS-CLIP Reveals Key Regulators of Nuclear Receptor Signaling in
+    Breast Cancer
+  author: Pillai
+  doi: 10.1007/s10549-014-3004-9
+  first-page: '85'
+  journal-title: Breast Cancer Res. Treat.
+  volume: '146'
+  year: '2014'
+- article-title: Epitranscriptomic Profiling across Cell Types Reveals Associations
+    between APOBEC1-Mediated RNA Editing, Gene Expression Outcomes, and Cellular Function
+  author: Rayon-Estrada
+  doi: 10.1073/pnas.1714227114
+  first-page: '13296'
+  journal-title: Proc. Natl. Acad. Sci. U S A.
+  volume: '114'
+  year: '2017'
+- article-title: Fast and Effective Prediction of microRNA/target Duplexes
+  author: Rehmsmeier
+  doi: 10.1261/rna.5248604
+  first-page: '1507'
+  journal-title: Rna
+  volume: '10'
+  year: '2004'
+- article-title: 'STarMirDB: A Database of microRNA Binding Sites'
+  author: Rennie
+  doi: 10.1080/15476286.2016.1182279
+  first-page: '554'
+  journal-title: RNA Biol.
+  volume: '13'
+  year: '2016'
+- article-title: 'STarMir: a Web Server for Prediction of microRNA Binding Sites'
+  author: Rennie
+  doi: 10.1093/nar/gku376
+  first-page: W114
+  journal-title: Nucleic Acids Res.
+  volume: '42'
+  year: '2014'
+- article-title: A Variety of Dicer Substrates in Human and C. elegans
+  author: Rybak-Wolf
+  doi: 10.1016/j.cell.2014.10.040
+  first-page: '1153'
+  journal-title: Cell
+  volume: '159'
+  year: '2014'
+- article-title: Circular RNAs in the Mammalian Brain Are Highly Abundant, Conserved,
+    and Dynamically Expressed
+  author: Rybak-Wolf
+  doi: 10.1016/j.molcel.2015.03.027
+  first-page: '870'
+  journal-title: Mol. Cel
+  volume: '58'
+  year: '2015'
+- article-title: Circular RNAs Are the Predominant Transcript Isoform from Hundreds
+    of Human Genes in Diverse Cell Types
+  author: Salzman
+  doi: 10.1371/journal.pone.0030733
+  first-page: e30733
+  journal-title: PLoS One
+  volume: '7'
+  year: '2012'
+- article-title: Argonaute-miRNA Complexes Silence Target mRNAs in the Nucleus of
+    Mammalian Stem Cells
+  author: Sarshad
+  doi: 10.1016/j.molcel.2018.07.020
+  first-page: 1040-e8
+  journal-title: Mol. Cel
+  volume: '71'
+  year: '2018'
+- article-title: Exon Circularization Requires Canonical Splice Signals
+  author: Starke
+  doi: 10.1016/j.celrep.2014.12.002
+  first-page: '103'
+  journal-title: Cel Rep
+  volume: '10'
+  year: '2015'
+- article-title: A Highly Conserved Circular RNA Is Required to Keep Neural Cells
+    in a Progenitor State in the Mammalian Brain
+  author: Suenkel
+  doi: 10.1016/j.celrep.2020.01.083
+  first-page: '2170'
+  journal-title: Cel Rep
+  volume: '30'
+  year: '2020'
+- article-title: Characterization of RNase R-Digested Cellular RNA Source that Consists
+    of Lariat and Circular RNAs from Pre-mRNA Splicing
+  author: Suzuki
+  doi: 10.1093/nar/gkl151
+  first-page: e63
+  journal-title: Nucleic Acids Res.
+  volume: '34'
+  year: '2006'
+- article-title: 'MicroTar: Predicting microRNA Targets from RNA Duplexes'
+  author: Thadani
+  doi: 10.1186/1471-2105-7-s5-s20
+  first-page: S20
+  journal-title: BMC Bioinformatics
+  year: '2006'
+- article-title: 'The circRNA-microRNA Code: Emerging Implications for Cancer Diagnosis
+    and Treatment'
+  author: Verduci
+  doi: 10.1002/1878-0261.12468
+  first-page: '669'
+  journal-title: Mol. Oncol.
+  volume: '13'
+  year: '2019'
+- article-title: Substrate Recognition and Catalysis by the Exoribonuclease RNase
+    R
+  author: Vincent
+  doi: 10.1074/jbc.M606744200
+  first-page: '29769'
+  journal-title: J. Biol. Chem.
+  volume: '281'
+  year: '2006'
+- article-title: 'Circular RNAs in Body Fluids as Cancer Biomarkers: the New Frontier
+    of Liquid Biopsies'
+  author: Wang
+  doi: 10.1186/s12943-020-01298-z
+  first-page: '13'
+  journal-title: Mol. Cancer
+  volume: '20'
+  year: '2021'
+- article-title: Efficient Backsplicing Produces Translatable Circular mRNAs
+  author: Wang
+  doi: 10.1261/rna.048272.114
+  first-page: '172'
+  journal-title: Rna
+  volume: '21'
+  year: '2015'
+- article-title: Pervasive Chromatin-RNA Binding Protein Interactions Enable RNA-Based
+    Regulation of Transcription
+  author: Xiao
+  doi: 10.1016/j.cell.2019.06.001
+  first-page: '107'
+  journal-title: Cell
+  volume: '178'
+  year: '2019'
+- article-title: Regulation of Gene Expression by miR-144/451 during Mouse Erythropoiesis
+  author: Xu
+  doi: 10.1182/blood.2018854604
+  first-page: '2518'
+  journal-title: Blood
+  volume: '133'
+  year: '2019'
+- article-title: 'starBase: a Database for Exploring microRNA-mRNA Interaction Maps
+    from Argonaute CLIP-Seq and Degradome-Seq Data'
+  author: Yang
+  doi: 10.1093/nar/gkq1056
+  first-page: D202
+  journal-title: Nucleic Acids Res.
+  volume: '39'
+  year: '2011'
+- article-title: The Circular RNA circBIRC6 Participates in the Molecular Circuitry
+    Controlling Human Pluripotency
+  author: Yu
+  doi: 10.1038/s41467-017-01216-w
+  first-page: '1149'
+  journal-title: Nat. Commun.
+  volume: '8'
+  year: '2017'
+- article-title: Diverse Alternative Back-Splicing and Alternative Splicing Landscape
+    of Circular RNAs
+  author: Zhang
+  doi: 10.1101/gr.202895.115
+  first-page: '1277'
+  journal-title: Genome Res.
+  volume: '26'
+  year: '2016'
+doc_url: https://www.frontiersin.org/articles/10.3389/fbinf.2022.852834/full
+doi: 10.3389/fbinf.2022.852834
+files: []
+journal: Frontiers in Bioinformatics
+month: 3
+papis_id: 4a69b71b15f7e5285f8fbbb0c1641283
+publisher: Frontiers Media SA
+ref: CircrAComputDori2022
+time-added: 2023-12-15-09:28:07
+title: Circr, a Computational Tool to Identify miRNA:circRNA Associations
+type: article
+url: http://dx.doi.org/10.3389/fbinf.2022.852834
+volume: '2'
+year: 2022

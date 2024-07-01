@@ -1,0 +1,37 @@
+author: Gong, Wentao and Pan, Xiangchun and Xu, Dantong and Ji, Guanyu and Wang, Yifei
+  and Tian, Yuhan and Cai, Jiali and Li, Jiaqi and Zhang, Zhe and Yuan, Xiaolong
+author_list:
+- family: Gong
+  given: Wentao
+- family: Pan
+  given: Xiangchun
+- family: Xu
+  given: Dantong
+- family: Ji
+  given: Guanyu
+- family: Wang
+  given: Yifei
+- family: Tian
+  given: Yuhan
+- family: Cai
+  given: Jiali
+- family: Li
+  given: Jiaqi
+- family: Zhang
+  given: Zhe
+- family: Yuan
+  given: Xiaolong
+doi: 10.1016/j.csbj.2022.08.051
+files: []
+issn: 2001-0370
+journal: Computational and structural biotechnology journal
+pages: 4704--4716
+papis_id: dd3e39c5ba729778367d5903a7345b4d
+pmid: '36147684'
+ref: BenchmarkingDnGong2022
+time-added: 2024-04-01-16:50:25
+title: Benchmarking DNA methylation analysis of 14 alignment algorithms for whole
+  genome bisulfite sequencing in mammals
+type: article
+volume: '20'
+year: 2022

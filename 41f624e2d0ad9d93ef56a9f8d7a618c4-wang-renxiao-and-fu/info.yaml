@@ -1,0 +1,24 @@
+author: Wang, Renxiao and Fu, Ying and Lai, Luhua
+author_list:
+- family: Wang
+  given: Renxiao
+- family: Fu
+  given: Ying
+- family: Lai
+  given: Luhua
+doi: 10.1021/ci960169p
+file: /home/wizard/Documents/xlogp.pdf
+files: []
+issn: 0095-2338
+journal: Journal of Chemical Information and Computer Sciences
+langid: english
+month: May
+number: '3'
+pages: 615--621
+papis_id: fdff54dce90f885a183cb1bf21b29e4e
+ref: ANewAtomAddiWang1997
+title: A New Atom-Additive Method for Calculating Partition Coefficients
+type: article
+urldate: '2022-03-21'
+volume: '37'
+year: '1997'

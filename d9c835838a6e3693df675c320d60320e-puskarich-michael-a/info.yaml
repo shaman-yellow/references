@@ -1,0 +1,59 @@
+abstract: 'INTRODUCTION: Sepsis-induced metabolic disturbances include hyperlactatemia,
+  disruption of glycolysis, protein catabolism, and altered fatty acid metabolism.
+  It may also lower serum L-carnitine that supports the use of L-carnitine supplementation
+  as a treatment to ameliorate several of these metabolic consequences. METHODS: To
+  further understand the association between L-carnitine-induced changes in serum
+  acylcarnitines, fatty acid metabolism and survival, serum samples from (T0), 12{$\mkern1mu$}hfollowing
+  completion (T24) of L-carnitine (n{$\mkern1mu$}={$\mkern1mu$}16) or placebo (n{$\mkern1mu$}={$\mkern1mu$}15)
+  administration, and 48{$\mkern1mu$}h (T48) after enrollment from patients with septic
+  shock enrolled in a randomized control trial were assayed for acylcarnitines, free
+  fatty acids, and insulin. Data were analyzed comparing 1-year survivors and nonsurvivors
+  within treatment groups. RESULTS: Mortality was 8 of 16 (50\%) and 12 of 15 (80\%)
+  at 1 year for L-carnitine and placebo-treated patients, respectively. Free carnitine,
+  C2, C3, and C8 acylcarnitines were higher among nonsurvivors at enrollment. L-Carnitine
+  treatment increased levels of all measured acylcarnitines; an effect that was sustained
+  for at least 36{$\mkern1mu$}h following completion of the infusion and was more
+  prominent among nonsurvivors. Several fatty acids followed a similar, though less
+  consistent pattern. Glucose, lactate, and insulin levels did not differ based on
+  survival or treatment arm. CONCLUSIONS: In human patients with septic shock, L-Carnitine
+  supplementation increases a broad range of acylcarnitine concentrations that persist
+  after cessation of infusion, demonstrating both immediate and sustained effects
+  on the serum metabolome. Nonsurvivors demonstrate a distinct metabolic response
+  to L-carnitine compared with survivors, which may indicate preexisting or more profound
+  metabolic derangement that constrains any beneficial response to treatment.'
+author: Puskarich, Michael A. and Evans, Charles R. and Karnovsky, Alla and Das, Arun
+  K. and Jones, Alan E. and Stringer, Kathleen A.
+author_list:
+- family: Puskarich
+  given: Michael A.
+- family: Evans
+  given: Charles R.
+- family: Karnovsky
+  given: Alla
+- family: Das
+  given: Arun K.
+- family: Jones
+  given: Alan E.
+- family: Stringer
+  given: Kathleen A.
+doi: 10.1097/SHK.0000000000000997
+file: /mnt/data/wizard/Zotero/storage/RDP9HEXR/Puskarich et al. - 2018 - Septic Shock
+  Nonsurvivors Have Persistently Elevat.pdf
+files: []
+issn: 1540-0514
+journal: Shock (Augusta, Ga.)
+keywords: Aged,Carnitine,Fatty Acids,Female,Humans,Insulin,Magnetic Resonance Spectroscopy,Male,Middle
+  Aged,{Shock, Septic}
+langid: english
+month: April
+number: '4'
+pages: 412--419
+papis_id: 3db36a508b3e0e5c1c9d83935fa83975
+pmcid: PMC5847421
+pmid: '29384504'
+ref: SepticShockNoPuskar2018
+title: Septic Shock Nonsurvivors Have Persistently Elevated Acylcarnitines Following
+  Carnitine Supplementation
+type: article
+volume: '49'
+year: '2018'

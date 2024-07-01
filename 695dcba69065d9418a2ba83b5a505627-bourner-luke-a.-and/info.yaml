@@ -1,0 +1,63 @@
+abstract: The aryl hydrocarbon receptor nuclear translocator (ARNT) is a transcription
+  factor present in immune cells as a long and short isoform, referred to as isoforms
+  1 and 3, respectively. However, investigation into potential ARNT isoform\textendash
+  specific immune functions is lacking despite the well-established heterodimerization
+  requirement of ARNT with, and for the activity of, the aryl hydrocarbon receptor
+  (AhR), a critical mediator of immune homeostasis. Here, using global and targeted
+  transcriptomics analyses, we show that the relative ARNT isoform 1:3 ratio in human
+  T cell lymphoma cells dictates the amplitude and direction of AhR target gene regulation.
+  Specifically, shifting the ARNT isoform 1:3 ratio lower by suppressing isoform 1
+  enhances, or higher by suppressing isoform 3 abrogates, AhR responsiveness to ligand
+  activation through preprograming a cellular genetic background that directs explicit
+  gene expression patterns. Moreover, the fluctuations in gene expression patterns
+  that accompany a decrease or increase in the ARNT isoform 1:3 ratio are associated
+  with inflammation or immunosuppression, respectively. Molecular studies identified
+  the unique casein kinase 2 (CK2) phosphorylation site within isoform 1 as an essential
+  parameter to the mechanism of ARNT isoform\textendash specific regulation of AhR
+  signaling. Notably, CK2-mediated phosphorylation of ARNT isoform 1 is dependent
+  on ligand-induced AhR nuclear translocation and is required for optimal AhR target
+  gene regulation. These observations reveal ARNT as a central modulator of AhR activity
+  predicated on the status of the ARNT isoform ratio and suggest that ARNT-based therapies
+  are a viable option for tuning the immune system to target immune disorders.
+author: Bourner, Luke A. and Muro, Israel and Cooper, Amy M. and Choudhury, Barun
+  K. and Bailey, Aaron O. and Russell, William K. and Khanipov, Kamil and Golovko,
+  George and Wright, Casey W.
+author_list:
+- family: Bourner
+  given: Luke A.
+- family: Muro
+  given: Israel
+- family: Cooper
+  given: Amy M.
+- family: Choudhury
+  given: Barun K.
+- family: Bailey
+  given: Aaron O.
+- family: Russell
+  given: William K.
+- family: Khanipov
+  given: Kamil
+- family: Golovko
+  given: George
+- family: Wright
+  given: Casey W.
+doi: 10.1073/pnas.2114336119
+files: []
+issn: 1091-6490
+journal: Proceedings of the National Academy of Sciences of the United States of America
+keywords: AhR,ARNT,Aryl Hydrocarbon Receptor Nuclear Translocator,Basic Helix-Loop-Helix
+  Transcription Factors,Humans,immunomodulation,isoform,Ligands,Neoplasms,Phosphorylation,Protein
+  Isoforms,{Receptors, Aryl Hydrocarbon},T-Lymphocytes
+langid: english
+month: March
+number: '12'
+pages: e2114336119
+papis_id: 0fb2b1f5b4e5aa15b24c9b68100b6b85
+pmcid: PMC8944900
+pmid: '35290121'
+ref: AhrPromotesPhBourne2022
+title: AhR Promotes Phosphorylation of ARNT Isoform 1 in Human T Cell Malignancies
+  as a Switch for Optimal AhR Activity
+type: article
+volume: '119'
+year: '2022'

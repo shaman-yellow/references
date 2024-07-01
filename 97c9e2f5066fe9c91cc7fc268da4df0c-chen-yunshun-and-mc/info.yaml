@@ -1,0 +1,22 @@
+author: Chen, Yunshun and McCarthy, Davis and Ritchie, Matthew and Robinson, Mark
+  and Smyth, Gordon
+author_list:
+- family: Chen
+  given: Yunshun
+- family: McCarthy
+  given: Davis
+- family: Ritchie
+  given: Matthew
+- family: Robinson
+  given: Mark
+- family: Smyth
+  given: Gordon
+file: /mnt/data/wizard/Zotero/storage/8BY2CYZP/Chen et al. - edgeR differential analysis
+  of sequence read coun.pdf
+files: []
+langid: english
+pages: '119'
+papis_id: 58e6fe306abf3220281d8994a44bd705
+ref: EdgerDifferenChen
+title: 'edgeR: Differential Analysis of Sequence Read Count Data  User''s Guide'
+type: article

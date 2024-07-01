@@ -1,0 +1,30 @@
+author: Langmead, Ben and Trapnell, Cole and Pop, Mihai and Salzberg, Steven L
+author_list:
+- affiliation: []
+  family: Langmead
+  given: Ben
+- affiliation: []
+  family: Trapnell
+  given: Cole
+- affiliation: []
+  family: Pop
+  given: Mihai
+- affiliation: []
+  family: Salzberg
+  given: Steven L
+doi: 10.1186/gb-2009-10-3-r25
+files: []
+issue: '3'
+journal: Genome Biology
+language: en
+pages: R25
+papis_id: 8e485ddd5fc328392ce81db368798789
+publisher: Springer Science and Business Media LLC
+ref: UltrafastAndMLangme2009
+time-added: 2024-01-23-15:35:54
+title: Ultrafast and memory-efficient alignment of short DNA sequences to the human
+  genome
+type: article
+url: http://dx.doi.org/10.1186/gb-2009-10-3-r25
+volume: '10'
+year: 2009

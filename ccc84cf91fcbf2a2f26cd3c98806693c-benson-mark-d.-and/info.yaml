@@ -1,0 +1,929 @@
+author: Benson, Mark D. and Eisman, Aaron S. and Tahir, Usman A. and Katz, Daniel
+  H. and Deng, Shuliang and Ngo, Debby and Robbins, Jeremy M. and Hofmann, Alissa
+  and Shi, Xu and Zheng, Shuning and Keyes, Michelle and Yu, Zhi and Gao, Yan and
+  Farrell, Laurie and Shen, Dongxiao and Chen, Zsu-Zsu and Cruz, Daniel E. and Sims,
+  Mario and Correa, Adolfo and Tracy, Russell P. and Durda, Peter and Taylor, Kent
+  D. and Liu, Yongmei and Johnson, W. Craig and Guo, Xiuqing and Yao, Jie and Chen,
+  Yii-Der Ida and Manichaikul, Ani W. and Jain, Deepti and Yang, Qiong and Bouchard,
+  Claude and Sarzynski, Mark A. and Rich, Stephen S. and Rotter, Jerome I. and Wang,
+  Thomas J. and Wilson, James G. and Clish, Clary B. and Sarkar, Indra Neil and Natarajan,
+  Pradeep and Gerszten, Robert E.
+author_list:
+- affiliation: []
+  family: Benson
+  given: Mark D.
+- affiliation: []
+  family: Eisman
+  given: Aaron S.
+- affiliation: []
+  family: Tahir
+  given: Usman A.
+- affiliation: []
+  family: Katz
+  given: Daniel H.
+- affiliation: []
+  family: Deng
+  given: Shuliang
+- affiliation: []
+  family: Ngo
+  given: Debby
+- affiliation: []
+  family: Robbins
+  given: Jeremy M.
+- affiliation: []
+  family: Hofmann
+  given: Alissa
+- affiliation: []
+  family: Shi
+  given: Xu
+- affiliation: []
+  family: Zheng
+  given: Shuning
+- affiliation: []
+  family: Keyes
+  given: Michelle
+- affiliation: []
+  family: Yu
+  given: Zhi
+- affiliation: []
+  family: Gao
+  given: Yan
+- affiliation: []
+  family: Farrell
+  given: Laurie
+- affiliation: []
+  family: Shen
+  given: Dongxiao
+- affiliation: []
+  family: Chen
+  given: Zsu-Zsu
+- affiliation: []
+  family: Cruz
+  given: Daniel E.
+- affiliation: []
+  family: Sims
+  given: Mario
+- affiliation: []
+  family: Correa
+  given: Adolfo
+- affiliation: []
+  family: Tracy
+  given: Russell P.
+- affiliation: []
+  family: Durda
+  given: Peter
+- affiliation: []
+  family: Taylor
+  given: Kent D.
+- affiliation: []
+  family: Liu
+  given: Yongmei
+- affiliation: []
+  family: Johnson
+  given: W. Craig
+- affiliation: []
+  family: Guo
+  given: Xiuqing
+- affiliation: []
+  family: Yao
+  given: Jie
+- affiliation: []
+  family: Chen
+  given: Yii-Der Ida
+- affiliation: []
+  family: Manichaikul
+  given: Ani W.
+- affiliation: []
+  family: Jain
+  given: Deepti
+- affiliation: []
+  family: Yang
+  given: Qiong
+- affiliation: []
+  family: Bouchard
+  given: Claude
+- affiliation: []
+  family: Sarzynski
+  given: Mark A.
+- affiliation: []
+  family: Rich
+  given: Stephen S.
+- affiliation: []
+  family: Rotter
+  given: Jerome I.
+- affiliation: []
+  family: Wang
+  given: Thomas J.
+- affiliation: []
+  family: Wilson
+  given: James G.
+- affiliation: []
+  family: Clish
+  given: Clary B.
+- affiliation: []
+  family: Sarkar
+  given: Indra Neil
+- affiliation: []
+  family: Natarajan
+  given: Pradeep
+- affiliation: []
+  family: Gerszten
+  given: Robert E.
+citations:
+- article-title: 'Genetics meets metabolomics: a genome-wide association study of
+    metabolite profiles in human serum'
+  author: Gieger
+  doi: 10.1371/journal.pgen.1000282
+  first-page: e1000282
+  journal-title: PLoS Genet.
+  volume: '4'
+  year: '2008'
+- article-title: A genome-wide perspective of genetic variation in human metabolism
+  author: Illig
+  doi: 10.1038/ng.507
+  first-page: '137'
+  journal-title: Nat. Genet.
+  volume: '42'
+  year: '2010'
+- article-title: Human metabolic individuality in biomedical and pharmaceutical research
+  author: Suhre
+  doi: 10.1038/nature10354
+  first-page: '54'
+  journal-title: Nature
+  volume: '477'
+  year: '2011'
+- article-title: Genome-wide association study identifies multiple loci influencing
+    human serum metabolite levels
+  author: Kettunen
+  doi: 10.1038/ng.1073
+  first-page: '269'
+  journal-title: Nat. Genet.
+  volume: '44'
+  year: '2012'
+- article-title: A genome-wide association study of the human metabolome in a community-based
+    cohort
+  author: Rhee
+  doi: 10.1016/j.cmet.2013.06.013
+  first-page: '130'
+  journal-title: Cell Metab.
+  volume: '18'
+  year: '2013'
+- article-title: An atlas of genetic influences on human blood metabolites
+  author: Shin
+  doi: 10.1038/ng.2982
+  first-page: '543'
+  journal-title: Nat. Genet.
+  volume: '46'
+  year: '2014'
+- article-title: An exome array study of the plasma metabolome
+  author: Rhee
+  doi: 10.1038/ncomms12360
+  first-page: '12360'
+  journal-title: Nat. Commun.
+  volume: '7'
+  year: '2016'
+- article-title: Whole-genome sequencing identifies common-to-rare variants associated
+    with human blood metabolites
+  author: Long
+  doi: 10.1038/ng.3809
+  first-page: '568'
+  journal-title: Nat. Genet.
+  volume: '49'
+  year: '2017'
+- article-title: Whole-exome sequencing identifies common and rare variant metabolic
+    QTLs in a Middle Eastern population
+  author: Yousri
+  doi: 10.1038/s41467-017-01972-9
+  first-page: '333'
+  journal-title: Nat. Commun.
+  volume: '9'
+  year: '2018'
+- article-title: A cross-platform approach identifies genetic regulators of human
+    metabolism and health
+  author: Lotta
+  doi: 10.1038/s41588-020-00751-5
+  first-page: '54'
+  journal-title: Nat. Genet.
+  volume: '53'
+  year: '2021'
+- article-title: Whole genome association study of the plasma metabolome identifies
+    metabolites linked to cardiometabolic disease in Black individuals
+  author: Tahir
+  doi: 10.1038/s41467-022-32275-3
+  first-page: '4923'
+  journal-title: Nat. Commun.
+  volume: '13'
+  year: '2022'
+- article-title: Genome-wide association studies of metabolites in Finnish men identify
+    disease-relevant loci
+  author: Yin
+  doi: 10.1038/s41467-022-29143-5
+  first-page: '1644'
+  journal-title: Nat. Commun.
+  volume: '13'
+  year: '2022'
+- article-title: Identification of cis-regulatory variation influencing protein abundance
+    levels in human plasma
+  author: Lourdusamy
+  doi: 10.1093/hmg/dds186
+  first-page: '3719'
+  journal-title: Hum. Mol. Genet.
+  volume: '21'
+  year: '2012'
+- article-title: Connecting genetic risk to disease end points through the human blood
+    plasma proteome
+  author: Suhre
+  doi: 10.1038/ncomms14357
+  first-page: '14357'
+  journal-title: Nat. Commun.
+  volume: '8'
+  year: '2017'
+- article-title: Genetic architecture of the cardiovascular risk proteome
+  author: Benson
+  doi: 10.1161/CIRCULATIONAHA.117.029536
+  first-page: '1158'
+  journal-title: Circulation
+  volume: '137'
+  year: '2018'
+- article-title: High-throughput characterization of blood serum proteomics of IBD
+    patients with respect to aging and genetic factors
+  author: Di Narzo
+  doi: 10.1371/journal.pgen.1006565
+  first-page: e1006565
+  journal-title: PLoS Genet.
+  volume: '13'
+  year: '2017'
+- article-title: Mapping of 79 loci for 83 plasma protein biomarkers in cardiovascular
+    disease
+  author: Folkersen
+  doi: 10.1371/journal.pgen.1006706
+  first-page: e1006706
+  journal-title: PLoS Genet.
+  volume: '13'
+  year: '2017'
+- article-title: Genomic atlas of the human plasma proteome
+  author: Sun
+  doi: 10.1038/s41586-018-0175-2
+  first-page: '73'
+  journal-title: Nature
+  volume: '558'
+  year: '2018'
+- article-title: Co-regulatory networks of human serum proteins link genetics to disease
+  author: Emilsson
+  doi: 10.1126/science.aaq1327
+  first-page: '769'
+  journal-title: Science
+  volume: '361'
+  year: '2018'
+- article-title: Genome-wide mapping of plasma protein QTLs identifies putatively
+    causal genes and pathways for cardiovascular disease
+  author: Yao
+  doi: 10.1038/s41467-018-05512-x
+  first-page: '3268'
+  journal-title: Nat. Commun.
+  volume: '9'
+  year: '2018'
+- article-title: Genomic and drug target evaluation of 90 cardiovascular proteins
+    in 30,931 individuals
+  author: Folkersen
+  doi: 10.1038/s42255-020-00287-2
+  first-page: '1135'
+  journal-title: Nat. Metab.
+  volume: '2'
+  year: '2020'
+- article-title: Genetic architecture of host proteins involved in SARS-CoV-2 infection
+  author: Pietzner
+  doi: 10.1038/s41467-020-19996-z
+  first-page: '6397'
+  journal-title: Nat. Commun.
+  volume: '11'
+  year: '2020'
+- article-title: Mapping the serum proteome to neurological diseases using whole genome
+    sequencing
+  author: Png
+  doi: 10.1038/s41467-021-27387-1
+  first-page: '7042'
+  journal-title: Nat. Commun.
+  volume: '12'
+  year: '2021'
+- article-title: Large-scale integration of the plasma proteome with genetics and
+    disease
+  author: Ferkingstad
+  doi: 10.1038/s41588-021-00978-w
+  first-page: '1712'
+  journal-title: Nat. Genet.
+  volume: '53'
+  year: '2021'
+- article-title: Mapping the proteo-genomic convergence of human diseases
+  author: Pietzner
+  doi: 10.1126/science.abj1541
+  first-page: eabj1541
+  journal-title: Science
+  volume: '374'
+  year: '2021'
+- article-title: Next generation plasma proteome profiling to monitor health and disease
+  author: Zhong
+  doi: 10.1038/s41467-021-22767-z
+  first-page: '2493'
+  journal-title: Nat. Commun.
+  volume: '12'
+  year: '2021'
+- article-title: Whole genome sequence analysis of the plasma proteome in Black adults
+    provides novel insights into cardiovascular disease
+  author: Katz
+  doi: 10.1161/CIRCULATIONAHA.121.055117
+  first-page: '357'
+  journal-title: Circulation
+  volume: '145'
+  year: '2022'
+- article-title: A genome-wide association study of serum proteins reveals shared
+    loci with common diseases
+  author: Gudjonsson
+  doi: 10.1038/s41467-021-27850-z
+  first-page: '480'
+  journal-title: Nat. Commun.
+  volume: '13'
+  year: '2022'
+- article-title: 'Coagulation factor XII genetic variation, ex vivo thrombin generation,
+    and stroke risk in the elderly: results from the Cardiovascular Health Study'
+  author: Olson
+  doi: 10.1111/jth.13111
+  first-page: '1867'
+  journal-title: J. Thromb. Haemost.
+  volume: '13'
+  year: '2015'
+- article-title: Metabolomic quantitative trait loci (mQTL) mapping implicates the
+    ubiquitin proteasome system in cardiovascular disease pathogenesis
+  author: Kraus
+  doi: 10.1371/journal.pgen.1005553
+  first-page: e1005553
+  journal-title: PLoS Genet.
+  volume: '11'
+  year: '2015'
+- article-title: 'Associations between common and rare exonic genetic variants and
+    serum levels of 20 cardiovascular-related proteins: the Tromsø study'
+  author: Solomon
+  doi: 10.1161/CIRCGENETICS.115.001327
+  first-page: '375'
+  journal-title: Circ. Cardiovasc. Genet.
+  volume: '9'
+  year: '2016'
+- article-title: Protein quantitative trait locus study in obesity during weight-loss
+    identifies a leptin regulator
+  author: Carayol
+  doi: 10.1038/s41467-017-02182-z
+  first-page: '2084'
+  journal-title: Nat. Commun.
+  volume: '8'
+  year: '2017'
+- article-title: Definition of a novel growth factor-dependent signal cascade for
+    the suppression of bile acid biosynthesis
+  author: Holt
+  doi: 10.1101/gad.1083503
+  first-page: '1581'
+  journal-title: Genes Dev.
+  volume: '17'
+  year: '2003'
+- article-title: PGC-1alpha-responsive genes involved in oxidative phosphorylation
+    are coordinately downregulated in human diabetes
+  author: Mootha
+  doi: 10.1038/ng1180
+  first-page: '267'
+  journal-title: Nat. Genet.
+  volume: '34'
+  year: '2003'
+- article-title: 'Gene set enrichment analysis: a knowledge-based approach for interpreting
+    genome-wide expression profiles'
+  author: Subramanian
+  doi: 10.1073/pnas.0506580102
+  first-page: '15545'
+  journal-title: Proc. Natl. Acad. Sci. USA
+  volume: '102'
+  year: '2005'
+- article-title: 'Binding of sulfosuccinimidyl fatty acids to adipocyte membrane proteins:
+    isolation and amino-terminal sequence of an 88-kD protein implicated in transport
+    of long-chain fatty acids'
+  author: Harmon
+  doi: 10.1007/BF00231876
+  first-page: '43'
+  journal-title: J. Membr. Biol.
+  volume: '133'
+  year: '1993'
+- article-title: Muscle-specific overexpression of FAT/CD36 enhances fatty acid oxidation
+    by contracting muscle, reduces plasma triglycerides and fatty acids, and increases
+    plasma glucose and insulin
+  author: Ibrahimi
+  doi: 10.1074/jbc.274.38.26761
+  first-page: '26761'
+  journal-title: J. Biol. Chem.
+  volume: '274'
+  year: '1999'
+- article-title: Defective uptake and utilization of long chain fatty acids in muscle
+    and adipose tissues of CD36 knockout mice
+  author: Coburn
+  doi: 10.1074/jbc.M003826200
+  first-page: '32523'
+  journal-title: J. Biol. Chem.
+  volume: '275'
+  year: '2000'
+- article-title: Human CD36 deficiency is associated with elevation in low-density
+    lipoprotein-cholesterol
+  author: Yanai
+  doi: 10.1002/1096-8628(20000814)93:4<299::AID-AJMG9>3.0.CO;2-7
+  first-page: '299'
+  journal-title: Am. J. Med. Genet.
+  volume: '93'
+  year: '2000'
+- article-title: Polymorphism rs1761667 in the CD36 gene is associated to changes
+    in fatty acid metabolism and circulating endocannabinoid levels distinctively
+    in normal weight and obese subjects
+  author: Melis
+  doi: 10.3389/fphys.2017.01006
+  first-page: '1006'
+  journal-title: Front. Physiol.
+  volume: '8'
+  year: '2017'
+- article-title: Isolation of the thrombospondin membrane receptor
+  author: Asch
+  doi: 10.1172/JCI112918
+  first-page: '1054'
+  journal-title: J. Clin. Invest.
+  volume: '79'
+  year: '1987'
+- article-title: Macrophage-derived AIM is endocytosed into adipocytes and decreases
+    lipid droplets via inhibition of fatty acid synthase activity
+  author: Kurokawa
+  doi: 10.1016/j.cmet.2010.04.013
+  first-page: '479'
+  journal-title: Cell Metab.
+  volume: '11'
+  year: '2010'
+- article-title: The PeptideAtlas project
+  author: Desiere
+  doi: 10.1093/nar/gkj040
+  first-page: D655
+  journal-title: Nucleic Acids Res.
+  volume: '34'
+  year: '2006'
+- article-title: Secretion of adenylate kinase 1 is required for extracellular ATP
+    synthesis in C2C12 myotubes
+  author: Choo
+  doi: 10.3858/emm.2008.40.2.220
+  first-page: '220'
+  journal-title: Exp. Mol. Med.
+  volume: '40'
+  year: '2008'
+- article-title: 'A role for nucleotides in support of breast cancer angiogenesis:
+    heterologous receptor signalling'
+  author: Yokdang
+  doi: 10.1038/bjc.2011.134
+  first-page: '1628'
+  journal-title: Br. J. Cancer
+  volume: '104'
+  year: '2011'
+- article-title: 'Extracellular NME proteins: a player or a bystander?'
+  author: Romani
+  doi: 10.1038/labinvest.2017.102
+  first-page: '248'
+  journal-title: Lab. Invest.
+  volume: '98'
+  year: '2018'
+- article-title: Proteomic profiling reveals biomarkers and pathways in type 2 diabetes
+    risk
+  author: Ngo
+  doi: 10.1172/jci.insight.144392
+  journal-title: JCI Insight
+  volume: '6'
+  year: '2021'
+- article-title: 'Aminoacylase I deficiency: a novel inborn error of metabolism'
+  author: Van Coster
+  doi: 10.1016/j.bbrc.2005.10.126
+  first-page: '1322'
+  journal-title: Biochem. Biophys. Res. Commun.
+  volume: '338'
+  year: '2005'
+- article-title: Mutations in ACY1, the gene encoding aminoacylase 1, cause a novel
+    inborn error of metabolism
+  author: Sass
+  doi: 10.1086/500563
+  first-page: '401'
+  journal-title: Am. J. Hum. Genet.
+  volume: '78'
+  year: '2006'
+- article-title: Neurological findings in aminoacylase 1 deficiency
+  author: Sass
+  doi: 10.1212/01.wnl.0000264933.56204.e8
+  first-page: '2151'
+  journal-title: Neurology
+  volume: '68'
+  year: '2007'
+- article-title: ADAMTSL2 protein and a soluble biomarker signature identify at-risk
+    non-alcoholic steatohepatitis and fibrosis in adults with NAFLD
+  author: Corey
+  doi: 10.1016/j.jhep.2021.09.026
+  first-page: '25'
+  journal-title: J. Hepatol.
+  volume: '76'
+  year: '2022'
+- article-title: '‘Mendelian randomization’: can genetic epidemiology contribute to
+    understanding environmental determinants of disease?'
+  author: Smith
+  doi: 10.1093/ije/dyg070
+  first-page: '1'
+  journal-title: Int. J. Epidemiol.
+  volume: '32'
+  year: '2003'
+- article-title: Mendelian randomization analysis with multiple genetic variants using
+    summarized data
+  author: Burgess
+  doi: 10.1002/gepi.21758
+  first-page: '658'
+  journal-title: Genet. Epidemiol.
+  volume: '37'
+  year: '2013'
+- article-title: 'Mendelian randomization: genetic anchors for causal inference in
+    epidemiological studies'
+  author: Davey Smith
+  doi: 10.1093/hmg/ddu328
+  first-page: R89
+  journal-title: Hum. Mol. Genet.
+  volume: '23'
+  year: '2014'
+- author: Burgess
+  series-title: 'Mendelian Randomization: Methods for Using Genetic Variants in Causal
+    Estimation'
+  year: '2015'
+- article-title: Sensitivity analyses for robust causal inference from Mendelian randomization
+    analyses with multiple genetic variants
+  author: Burgess
+  doi: 10.1097/EDE.0000000000000559
+  first-page: '30'
+  journal-title: Epidemiology
+  volume: '28'
+  year: '2017'
+- article-title: Guidelines for performing Mendelian randomization investigations
+  author: Burgess
+  doi: 10.12688/wellcomeopenres.15555.1
+  first-page: '186'
+  journal-title: Wellcome Open Res.
+  volume: '4'
+  year: '2019'
+- article-title: Avoiding bias from weak instruments in Mendelian randomization studies
+  author: Burgess
+  doi: 10.1093/ije/dyr036
+  first-page: '755'
+  journal-title: Int. J. Epidemiol.
+  volume: '40'
+  year: '2011'
+- article-title: Detecting invalid instruments using L1-GMM
+  author: Han
+  doi: 10.1016/j.econlet.2008.09.004
+  first-page: '285'
+  journal-title: Econ. Lett.
+  volume: '101'
+  year: '2008'
+- article-title: Consistent estimation in Mendelian randomization with some invalid
+    instruments using a weighted median estimator
+  author: Bowden
+  doi: 10.1002/gepi.21965
+  first-page: '304'
+  journal-title: Genet. Epidemiol.
+  volume: '40'
+  year: '2016'
+- article-title: 'Mendelian randomization with invalid instruments: effect estimation
+    and bias detection through Egger regression'
+  author: Bowden
+  doi: 10.1093/ije/dyv080
+  first-page: '512'
+  journal-title: Int. J. Epidemiol.
+  volume: '44'
+  year: '2015'
+- article-title: 'Association between C reactive protein and coronary heart disease:
+    Mendelian randomisation analysis based on individual participant data'
+  author: Wensley
+  doi: 10.1136/bmj.d548
+  first-page: d548
+  journal-title: BMJ
+  volume: '342'
+  year: '2011'
+- article-title: 'Interleukin-6 receptor pathways in coronary heart disease: a collaborative
+    meta-analysis of 82 studies'
+  author: Sarwar
+  doi: 10.1016/S0140-6736(11)61931-4
+  first-page: '1205'
+  journal-title: Lancet
+  volume: '379'
+  year: '2012'
+- article-title: 'Vitamin D and risk of multiple sclerosis: a Mendelian randomization
+    study'
+  author: Mokry
+  doi: 10.1371/journal.pmed.1001866
+  first-page: e1001866.
+  journal-title: PLoS Med.
+  volume: '12'
+  year: '2015'
+- article-title: Marine omega-3 fatty acids prevent myocardial insulin resistance
+    and metabolic remodeling as induced experimentally by high insulin exposure
+  author: Franekova
+  doi: 10.1152/ajpcell.00073.2014
+  first-page: C297
+  journal-title: Am. J. Physiol. Cell Physiol.
+  volume: '308'
+  year: '2015'
+- article-title: 'Fatty acids in cell signaling: historical perspective and future
+    outlook'
+  author: Glatz
+  doi: 10.1016/j.plefa.2014.02.007
+  first-page: '57'
+  journal-title: Prostaglandins Leukot. Essent. Fatty Acids
+  volume: '92'
+  year: '2015'
+- article-title: Metabolomic analysis of coronary heart disease in an African American
+    cohort from the Jackson Heart Study
+  author: Cruz
+  doi: 10.1001/jamacardio.2021.4925
+  first-page: '184'
+  journal-title: JAMA Cardiol.
+  volume: '7'
+  year: '2022'
+- article-title: 'Metabolomic profiles and heart failure risk in Black adults: insights
+    from the Jackson Heart study'
+  author: Tahir
+  doi: 10.1161/CIRCHEARTFAILURE.120.007275
+  first-page: e007275
+  journal-title: Circ. Heart Fail.
+  volume: '14'
+  year: '2021'
+- article-title: PCSK9 induces CD36 degradation and affects long-chain fatty acid
+    uptake and triglyceride metabolism in adipocytes and in mouse liver
+  author: Demers
+  doi: 10.1161/ATVBAHA.115.306032
+  first-page: '2517'
+  journal-title: Arterioscler. Thromb. Vasc. Biol.
+  volume: '35'
+  year: '2015'
+- article-title: Nascent very low density lipoproteins from rat hepatocytic Golgi
+    fractions are enriched in phosphatidylethanolamine
+  author: Hamilton
+  doi: 10.1016/0006-291X(89)91635-5
+  first-page: '162'
+  journal-title: Biochem. Biophys. Res. Commun.
+  volume: '160'
+  year: '1989'
+- article-title: Isolation of very low density lipoprotein phospholipids enriched
+    in ethanolamine phospholipids from rats injected with Triton WR 1339
+  author: Agren
+  doi: 10.1016/j.bbalip.2005.02.001
+  first-page: '34'
+  journal-title: Biochim. Biophys. Acta
+  volume: '1734'
+  year: '2005'
+- article-title: Cathepsin B deficiency ameliorates liver lipid deposition, inflammatory
+    cell infiltration, and fibrosis after diet-induced nonalcoholic steatohepatitis
+  author: Fang
+  doi: 10.1016/j.trsl.2020.04.011
+  first-page: '28'
+  journal-title: Transl. Res.
+  volume: '222'
+  year: '2020'
+- article-title: Cathepsin B regulates hepatic lipid metabolism by cleaving liver
+    fatty acid-binding protein
+  author: Thibeaux
+  doi: 10.1074/jbc.M117.778365
+  first-page: '1910'
+  journal-title: J. Biol. Chem.
+  volume: '293'
+  year: '2018'
+- article-title: Cell surface adenylate kinase activity regulates the F(1)-ATPase/P2Y
+    (13)-mediated HDL endocytosis pathway on human hepatocytes
+  author: Fabre
+  doi: 10.1007/s00018-006-6325-y
+  first-page: '2829'
+  journal-title: Cell. Mol. Life Sci.
+  volume: '63'
+  year: '2006'
+- article-title: The evidence for two opposite, ATP-generating and ATP-consuming,
+    extracellular pathways on endothelial and lymphoid cells
+  author: Yegutkin
+  doi: 10.1042/bj20020439
+  first-page: '121'
+  journal-title: Biochem. J.
+  volume: '367'
+  year: '2002'
+- article-title: Soluble and membrane-bound adenylate kinase and nucleotidases augment
+    ATP-mediated inflammation in diabetic retinopathy eyes with vitreous hemorrhage
+  author: Zeiner
+  doi: 10.1007/s00109-018-01734-0
+  first-page: '341'
+  journal-title: J. Mol. Med. (Berl.)
+  volume: '97'
+  year: '2019'
+- article-title: The molecular basis of aminoacylase 1 deficiency
+  author: Sommer
+  doi: 10.1016/j.bbadis.2011.03.005
+  first-page: '685'
+  journal-title: Biochim. Biophys. Acta
+  volume: '1812'
+  year: '2011'
+- article-title: Free fatty-acid transport via CD36 drives β-oxidation-mediated hematopoietic
+    stem cell response to infection
+  author: Mistry
+  doi: 10.1038/s41467-021-27460-9
+  first-page: '7130'
+  journal-title: Nat. Commun.
+  volume: '12'
+  year: '2021'
+- article-title: Leukemic stem cells evade chemotherapy by metabolic adaptation to
+    an adipose tissue niche
+  author: Ye
+  doi: 10.1016/j.stem.2016.06.001
+  first-page: '23'
+  journal-title: Cell Stem Cell
+  volume: '19'
+  year: '2016'
+- article-title: Enhanced sarcolemmal FAT/CD36 content and triacylglycerol storage
+    in cardiac myocytes from obese zucker rats
+  author: Coort
+  doi: 10.2337/diabetes.53.7.1655
+  first-page: '1655'
+  journal-title: Diabetes
+  volume: '53'
+  year: '2004'
+- article-title: Fatty acid mobilization from adipose tissue is mediated by CD36 posttranslational
+    modifications and intracellular trafficking
+  author: Daquinag
+  doi: 10.1172/jci.insight.147057
+  journal-title: JCI Insight
+  volume: '6'
+  year: '2021'
+- article-title: A novel family of atherogenic oxidized phospholipids promotes macrophage
+    foam cell formation via the scavenger receptor CD36 and is enriched in atherosclerotic
+    lesions
+  author: Podrez
+  doi: 10.1074/jbc.M205924200
+  first-page: '38517'
+  journal-title: J. Biol. Chem.
+  volume: '277'
+  year: '2002'
+- article-title: Continued inhibition of atherosclerotic lesion development in long
+    term Western diet fed CD36o/apoEo mice
+  author: Guy
+  doi: 10.1016/j.atherosclerosis.2006.07.015
+  first-page: '123'
+  journal-title: Atherosclerosis
+  volume: '192'
+  year: '2007'
+- article-title: Protein markers of diabetes discovered in an African American cohort
+  author: Chen
+  doi: 10.2337/db22-0710
+  first-page: '532'
+  journal-title: Diabetes
+  volume: '72'
+  year: '2023'
+- article-title: Nontargeted and targeted metabolomic profiling reveals novel metabolite
+    biomarkers of incident diabetes in African Americans
+  author: Chen
+  doi: 10.2337/db22-0033
+  first-page: '2426'
+  journal-title: Diabetes
+  volume: '71'
+  year: '2022'
+- author: Bezanson
+  series-title: 'Julia: a fast dynamic language for technical computing'
+  year: '2012'
+- article-title: The HERITAGE family study. Aims, design, and measurement protocol
+  author: Bouchard
+  doi: 10.1249/00005768-199505000-00015
+  first-page: '721'
+  journal-title: Med. Sci. Sports Exerc.
+  volume: '27'
+  year: '1995'
+- article-title: 'Multi-ethnic study of atherosclerosis: objectives and design'
+  author: Bild
+  doi: 10.1093/aje/kwf113
+  first-page: '871'
+  journal-title: Am. J. Epidemiol.
+  volume: '156'
+  year: '2002'
+- article-title: Is high density lipoprotein cholesterol useful in diagnosis of metabolic
+    syndrome in native Africans with type 2 diabetes?
+  author: Isezuo
+  first-page: '6'
+  journal-title: Ethn. Dis.
+  volume: '15'
+  year: '2005'
+- article-title: Multiomic profiling in black and white populations reveals novel
+    candidate pathways in left ventricular hypertrophy and incident heart failure
+    specific to Black adults
+  author: Katz
+  doi: 10.1161/CIRCGEN.120.003191
+  first-page: e003191
+  journal-title: Circ. Genom. Precis. Med.
+  volume: '14'
+  year: '2021'
+- article-title: Aptamer-based proteomic profiling reveals novel candidate biomarkers
+    and pathways in cardiovascular disease
+  author: Ngo
+  doi: 10.1161/CIRCULATIONAHA.116.021803
+  first-page: '270'
+  journal-title: Circulation
+  volume: '134'
+  year: '2016'
+- article-title: Comparison of proteomic assessment methods in multiple cohort studies
+  author: Raffield
+  doi: 10.1002/pmic.201900278
+  first-page: e1900278
+  journal-title: Proteomics
+  volume: '20'
+  year: '2020'
+- article-title: Human plasma proteomic profiles indicative of cardiorespiratory fitness
+  author: Robbins
+  doi: 10.1038/s42255-021-00400-z
+  first-page: '786'
+  journal-title: Nat. Metab.
+  volume: '3'
+  year: '2021'
+- article-title: Association of dimethylguanidino valeric acid with partial resistance
+    to metabolic health benefits of regular exercise
+  author: Robbins
+  doi: 10.1001/jamacardio.2019.1573
+  first-page: '636'
+  journal-title: JAMA Cardiol.
+  volume: '4'
+  year: '2019'
+- article-title: 'D-dimer in African Americans: whole genome sequence analysis and
+    relationship to cardiovascular disease risk in the Jackson Heart study'
+  author: Raffield
+  doi: 10.1161/ATVBAHA.117.310073
+  first-page: '2220'
+  journal-title: Arterioscler. Thromb. Vasc. Biol.
+  volume: '37'
+  year: '2017'
+- author: Schwarzer
+  series-title: Meta-Analysis with R
+  year: '2015'
+- article-title: Advanced heat map and clustering analysis using heatmap3
+  author: Zhao
+  doi: 10.1155/2014/986048
+  first-page: '986048'
+  journal-title: BioMed Res. Int.
+  volume: '2014'
+  year: '2014'
+- article-title: 'RefMet: a reference nomenclature for metabolomics'
+  author: Fahy
+  doi: 10.1038/s41592-020-01009-y
+  first-page: '1173'
+  journal-title: Nat. Methods
+  volume: '17'
+  year: '2020'
+- article-title: 'Cubic exact solutions for the estimation of pairwise haplotype frequencies:
+    implications for linkage disequilibrium analyses and a web tool ‘CubeX’'
+  author: Gaunt
+  doi: 10.1186/1471-2105-8-428
+  first-page: '428'
+  journal-title: BMC Bioinformatics
+  volume: '8'
+  year: '2007'
+- article-title: 'Second-generation PLINK: rising to the challenge of larger and richer
+    datasets'
+  author: Chang
+  doi: 10.1186/s13742-015-0047-8
+  first-page: '7'
+  journal-title: GigaScience
+  volume: '4'
+  year: '2015'
+- unstructured: Purcell, S., and Chang, C. PLINK 1.9.
+- article-title: 'MendelianRandomization: an R package for performing Mendelian randomization
+    analyses using summarized data'
+  author: Yavorska
+  doi: 10.1093/ije/dyx034
+  first-page: '1734'
+  journal-title: Int. J. Epidemiol.
+  volume: '46'
+  year: '2017'
+- article-title: 'Bioconductor: open software development for computational biology
+    and bioinformatics'
+  author: Gentleman
+  doi: 10.1186/gb-2004-5-10-r80
+  first-page: R80
+  journal-title: Genome Biol.
+  volume: '5'
+  year: '2004'
+doi: 10.1016/j.cmet.2023.07.012
+files:
+- proteinmetabolbenson2023-a.pdf
+issue: '9'
+journal: Cell Metabolism
+language: en
+month: 9
+pages: 1646--1660.e3
+papis_id: 447d61cbae65c0a1a0b7250268712baf
+publisher: Elsevier BV
+ref: ProteinMetabolBenson2023
+time-added: 2024-01-26-17:16:10
+title: Protein-metabolite association studies identify novel proteomic determinants
+  of metabolite levels in human plasma
+type: article
+url: http://dx.doi.org/10.1016/j.cmet.2023.07.012
+volume: '35'
+year: 2023

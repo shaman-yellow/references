@@ -1,0 +1,174 @@
+abstract: "<jats:title>Abstract</jats:title>\n               <jats:sec>\n        \
+  \          <jats:title>Motivation</jats:title>\n                  <jats:p>Genome-wide\
+  \ association studies (GWAS) summary statistics have popularized and accelerated\
+  \ genetic research. However, a lack of standardization of the file formats used\
+  \ has proven problematic when running secondary analysis tools or performing meta-analysis\
+  \ studies.</jats:p>\n               </jats:sec>\n               <jats:sec>\n   \
+  \               <jats:title>Results</jats:title>\n                  <jats:p>To address\
+  \ this issue, we have developed MungeSumstats, a Bioconductor R package for the\
+  \ standardization and quality control of GWAS summary statistics. MungeSumstats\
+  \ can handle the most common summary statistic formats, including variant call format\
+  \ (VCF) producing a reformatted, standardized, tabular summary statistic file, VCF\
+  \ or R native data object.</jats:p>\n               </jats:sec>\n              \
+  \ <jats:sec>\n                  <jats:title>Availability and implementation</jats:title>\n\
+  \                  <jats:p>MungeSumstats is available on Bioconductor (v 3.13) and\
+  \ can also be found on Github at: https://neurogenomics.github.io/MungeSumstats.</jats:p>\n\
+  \               </jats:sec>\n               <jats:sec>\n                  <jats:title>Supplementary\
+  \ information</jats:title>\n                  <jats:p>Supplementary data are available\
+  \ at Bioinformatics online.</jats:p>\n               </jats:sec>"
+author: Murphy, Alan E and Schilder, Brian M and Skene, Nathan G
+author_list:
+- affiliation:
+  - name: UK Dementia Research Institute at Imperial College London , London W12 0BZ,
+      UK
+  - name: Department of Brain Sciences, Imperial College London , London W12 0BZ,
+      UK
+  family: Murphy
+  given: Alan E
+- affiliation:
+  - name: UK Dementia Research Institute at Imperial College London , London W12 0BZ,
+      UK
+  - name: Department of Brain Sciences, Imperial College London , London W12 0BZ,
+      UK
+  family: Schilder
+  given: Brian M
+- affiliation:
+  - name: UK Dementia Research Institute at Imperial College London , London W12 0BZ,
+      UK
+  - name: Department of Brain Sciences, Imperial College London , London W12 0BZ,
+      UK
+  family: Skene
+  given: Nathan G
+citations:
+- article-title: Polygenic risk modeling with latent trait-related genetic components
+  author: Aguirre
+  doi: 10.1038/s41431-021-00813-0
+  first-page: '1071'
+  journal-title: Eur. J. Hum. Genet
+  volume: '29'
+  year: '2021'
+- article-title: An atlas of genetic correlations across human diseases and traits
+  author: Bulik-Sullivan
+  doi: 10.1038/ng.3406
+  first-page: '1236'
+  journal-title: Nat. Genet
+  volume: '47'
+  year: '2015'
+- article-title: The NHGRI-EBI GWAS Catalog of published genome-wide association studies,
+    targeted arrays and summary statistics 2019
+  author: Buniello
+  doi: 10.1093/nar/gky1120
+  first-page: D1005
+  journal-title: Nucleic Acids Res
+  volume: '47'
+  year: '2019'
+- article-title: 'MAGMA: generalized gene-set analysis of GWAS data'
+  author: de Leeuw
+  doi: 10.1371/journal.pcbi.1004219
+  first-page: e1004219
+  journal-title: PLoS Comput. Biol
+  volume: '11'
+  year: '2015'
+- author: Dowle
+  year: '2021'
+- author: Gloudemans
+  year: '2021'
+- article-title: Genome-wide analysis of insomnia in 1,331,010 individuals identifies
+    new risk loci and functional pathways
+  author: Jansen
+  doi: 10.1038/s41588-018-0333-3
+  first-page: '394'
+  journal-title: Nat. Genet
+  volume: '51'
+  year: '2019'
+- article-title: Common and rare coding genetic variation underlying the electrocardiographic
+    PR interval
+  author: Lin
+  doi: 10.1161/CIRCGEN.117.002037
+  first-page: e002037
+  journal-title: Circ. Genomic Precis Med
+  volume: '11'
+  year: '2018'
+- article-title: The influence of X chromosome variants on trait neuroticism
+  author: Luciano
+  doi: 10.1038/s41380-019-0388-2
+  first-page: '483'
+  journal-title: Mol. Psychiatry
+  volume: '26'
+  year: '2021'
+- article-title: The variant call format provides efficient and robust storage of
+    GWAS summary statistics
+  author: Lyon
+  doi: 10.1186/s13059-020-02248-0
+  first-page: '32'
+  journal-title: Genome Biol
+  volume: '22'
+  year: '2021'
+- article-title: Genetic variation in CFH predicts phenytoin-induced maculopapular
+    exanthema in European-descent patients
+  author: McCormack
+  doi: 10.1212/WNL.0000000000004853
+  first-page: e332
+  journal-title: Neurology
+  volume: '90'
+  year: '2018'
+- author: Pagès
+  year: '2021'
+- article-title: 'PLINK: a tool set for whole-genome association and population-based
+    linkage analyses'
+  author: Purcell
+  doi: 10.1086/519795
+  first-page: '559'
+  journal-title: Am. J. Hum. Genet
+  volume: '81'
+  year: '2007'
+- article-title: Cerebral small vessel disease genomics and its implications across
+    the lifespan
+  author: Sargurupremraj
+  doi: 10.1038/s41467-020-19111-2
+  first-page: '6285'
+  journal-title: Nat. Commun
+  volume: '11'
+  year: '2020'
+- article-title: Components of genetic associations across 2,138 phenotypes in the
+    UK Biobank highlight adipocyte biology
+  author: Tanigawa
+  doi: 10.1038/s41467-019-11953-9
+  first-page: '4064'
+  journal-title: Nat. Commun
+  volume: '10'
+  year: '2019'
+- article-title: 'GCTA: a tool for genome-wide complex trait analysis'
+  author: Yang
+  doi: 10.1016/j.ajhg.2010.11.011
+  first-page: '76'
+  journal-title: Am J. Hum. Genet
+  volume: '88'
+  year: '2011'
+- article-title: Integration of summary data from GWAS and eQTL studies predicts complex
+    trait gene targets
+  author: Zhu
+  doi: 10.1038/ng.3538
+  first-page: '481'
+  journal-title: Nat. Genet
+  volume: '48'
+  year: '2016'
+doc_url: https://academic.oup.com/bioinformatics/article-pdf/37/23/4593/50579503/btab665.pdf
+doi: 10.1093/bioinformatics/btab665
+files:
+- mungesumstatsmurphy2021.pdf
+issue: '23'
+journal: Bioinformatics
+language: en
+month: 12
+pages: 4593--4596
+papis_id: 0c31533fcaa23bd45c7e83b6eb709eb9
+publisher: Oxford University Press (OUP)
+ref: MungesumstatsMurphy2021
+time-added: 2023-12-19-14:17:17
+title: 'MungeSumstats: a Bioconductor package for the standardization and quality
+  control of many GWAS summary statistics'
+type: article
+url: http://dx.doi.org/10.1093/bioinformatics/btab665
+volume: '37'
+year: 2021

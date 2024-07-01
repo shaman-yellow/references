@@ -1,0 +1,34 @@
+author: Chin, Chia-Hao and Chen, Shu-Hwa and Wu, Hsin-Hung and Ho, Chin-Wen and Ko,
+  Ming-Tat and Lin, Chung-Yen
+author_list:
+- family: Chin
+  given: Chia-Hao
+- family: Chen
+  given: Shu-Hwa
+- family: Wu
+  given: Hsin-Hung
+- family: Ho
+  given: Chin-Wen
+- family: Ko
+  given: Ming-Tat
+- family: Lin
+  given: Chung-Yen
+doi: 10.1186/1752-0509-8-S4-S11
+file: /mnt/data/wizard/Zotero/storage/YVK9772M/Chin et al. - 2014 - cytoHubba identifying
+  hub objects and sub-network.pdf
+files:
+- cytohubbaidenchin2014-a.pdf
+issn: 1752-0509
+journal: BMC Systems Biology
+langid: english
+month: December
+number: S4
+pages: S11
+papis_id: 86ee25896b40eca882d1f31205d43460
+ref: CytohubbaIdenChin2014
+shorttitle: '{{cytoHubba}}'
+title: 'cytoHubba: Identifying Hub Objects and Sub-Networks from Complex Interactome'
+type: article
+urldate: '2023-06-28'
+volume: '8'
+year: '2014'

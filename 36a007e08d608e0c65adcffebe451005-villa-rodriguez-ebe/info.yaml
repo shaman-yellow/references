@@ -1,0 +1,54 @@
+abstract: Bipolaris sorokiniana is an important biotic constraint for global wheat
+  production, causing spot blotch disease. In this work, we present a comprehensive  characterization
+  of the cell-free culture filtrate (CF) and precipitated fraction  (PF) of Bacillus
+  cabrialesii TE3(T) showing an effective inhibition of spot  blotch. Our results
+  indicated that CF produced by B. cabrialesii TE3(T) inhibits  the growth of B. sorokiniana
+  through stable metabolites (after autoclaving and  proteinase K treatment). Antifungal
+  metabolites in CF and PF were explored by an  integrated genomic-metabolomic approach.
+  Genome-mining revealed that strain  TE3(T) contains the biosynthetic potential to
+  produce wide spectrum antifungal  (surfactin, fengycin, and rhizocticin A) and antibacterial
+  metabolites  (bacillaene, bacilysin, bacillibactin, and subtilosin A), and through  bioactivity-guided
+  LC-ESI-MS/MS approach we determined that a lipopeptide complex  of surfactin and
+  fengycin homologs was responsible for antifungal activity  exhibited by B. cabrialesii
+  TE3(T) against the studied phytopathogen. In  addition, our results demonstrate
+  that i) a lipopeptide complex inhibits B.  sorokiniana by disrupting its cytoplasmatic
+  membrane and ii) reduced spot blotch  disease by 93 \%. These findings show the
+  potential application of metabolites  produced by strain TE3(T) against B. sorokiniana
+  and provide the first insight  into antifungal metabolites produced by the novel
+  Bacillus species, Bacillus  cabrialesii.
+address: '{Germany}'
+author: Villa-Rodriguez, Eber and Moreno-Ulloa, Aldo and Castro-Longoria, Ernestina
+  and Parra-Cota, Fannie I. and de Los Santos-Villalobos, Sergio
+author_list:
+- family: Villa-Rodriguez
+  given: Eber
+- family: Moreno-Ulloa
+  given: Aldo
+- family: Castro-Longoria
+  given: Ernestina
+- family: Parra-Cota
+  given: Fannie I.
+- family: de Los Santos-Villalobos
+  given: Sergio
+copyright: Copyright \textcopyright{} 2021 Elsevier GmbH. All rights reserved.
+doi: 10.1016/j.micres.2021.126826
+file: /mnt/data/wizard/Zotero/storage/PTX9MXJ8/Villa-Rodriguez et al. - 2021 - Integrated
+  omics approaches for deciphering antifu.pdf
+files: []
+issn: 1618-0623 0944-5013
+journal: Microbiological research
+keywords: '*Antifungal Agents/isolation \& purification/pharmacology,*Bacillus/chemistry/genetics,*Biotechnology/methods,*Bipolaris/drug
+  effects,*Triticum/microbiology,Antifungal,antiSMASH,BiG-SCAPE,Biocontrol,Lipopeptides,Lipopeptides/chemistry,Metabolome,MolNetEnhancer,Plant
+  Diseases/microbiology,Tandem Mass Spectrometry,Whole-genome sequencing'
+langid: english
+month: October
+pages: '126826'
+papis_id: 879a79f6d8d2406c17957701614891df
+pmid: '34298216'
+ref: IntegratedOmicVilla2021
+title: Integrated Omics Approaches for Deciphering Antifungal Metabolites Produced
+  by a Novel Bacillus Species, B. Cabrialesii TE3(T), against the Spot Blotch Disease
+  of  Wheat (Triticum Turgidum L. Subsp. Durum).
+type: article
+volume: '251'
+year: '2021'

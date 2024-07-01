@@ -1,0 +1,44 @@
+author: Aran, Dvir and Looney, Agnieszka P. and Liu, Leqian and Wu, Esther and Fong,
+  Valerie and Hsu, Austin and Chak, Suzanna and Naikawadi, Ram P. and Wolters, Paul
+  J. and Abate, Adam R. and Butte, Atul J. and Bhattacharya, Mallar
+author_list:
+- family: Aran
+  given: Dvir
+- family: Looney
+  given: Agnieszka P.
+- family: Liu
+  given: Leqian
+- family: Wu
+  given: Esther
+- family: Fong
+  given: Valerie
+- family: Hsu
+  given: Austin
+- family: Chak
+  given: Suzanna
+- family: Naikawadi
+  given: Ram P.
+- family: Wolters
+  given: Paul J.
+- family: Abate
+  given: Adam R.
+- family: Butte
+  given: Atul J.
+- family: Bhattacharya
+  given: Mallar
+doi: 10.1038/s41590-018-0276-y
+files:
+- referencebasedaran2019-a.pdf
+issue: '2'
+journal: Nature Immunology
+month: '1'
+page: 163-172
+papis_id: 7fd3fe974f66c6c015eb0320e6528bab
+publisher: Springer Science and Business Media LLC
+ref: ReferenceBasedAran2019
+title: Reference-based analysis of lung single-cell sequencing reveals a transitional
+  profibrotic macrophage
+type: article
+url: http://dx.doi.org/10.1038/s41590-018-0276-y
+volume: '20'
+year: '2019'

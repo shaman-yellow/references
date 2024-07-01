@@ -1,0 +1,534 @@
+abstract: "<jats:title>Abstract</jats:title>\n               <jats:p>Pharmacotranscriptomics\
+  \ has become a powerful approach for evaluating the therapeutic efficacy of drugs\
+  \ and discovering new drug targets. Recently, studies of traditional Chinese medicine\
+  \ (TCM) have increasingly turned to high-throughput transcriptomic screens for molecular\
+  \ effects of herbs/ingredients. And numerous studies have examined gene targets\
+  \ for herbs/ingredients, and link herbs/ingredients to various modern diseases.\
+  \ However, there is currently no systematic database organizing these data for TCM.\
+  \ Therefore, we built HERB, a high-throughput experiment- and reference-guided database\
+  \ of TCM, with its Chinese name as BenCaoZuJian. We re-analyzed 6164 gene expression\
+  \ profiles from 1037 high-throughput experiments evaluating TCM herbs/ingredients,\
+  \ and generated connections between TCM herbs/ingredients and 2837 modern drugs\
+  \ by mapping the comprehensive pharmacotranscriptomics dataset in HERB to CMap,\
+  \ the largest such dataset for modern drugs. Moreover, we manually curated 1241\
+  \ gene targets and 494 modern diseases for 473 herbs/ingredients from 1966 references\
+  \ published recently, and cross-referenced this novel information to databases containing\
+  \ such data for drugs. Together with database mining and statistical inference,\
+  \ we linked 12 933 targets and 28 212 diseases to 7263 herbs and 49 258 ingredients\
+  \ and provided six pairwise relationships among them in HERB. In summary, HERB will\
+  \ intensively support the modernization of TCM and guide rational modern drug discovery\
+  \ efforts. And it is accessible through http://herb.ac.cn/.</jats:p>"
+author: Fang, ShuangSang and Dong, Lei and Liu, Liu and Guo, JinCheng and Zhao, LianHe
+  and Zhang, JiaYuan and Bu, DeChao and Liu, XinKui and Huo, PeiPei and Cao, WanChen
+  and Dong, QiongYe and Wu, JiaRui and Zeng, Xiaoxi and Wu, Yang and Zhao, Yi
+author_list:
+- affiliation:
+  - name: Beijing University of Chinese Medicine, Chaoyang District, Beijing 100029,
+      China
+  family: Fang
+  given: ShuangSang
+- affiliation:
+  - name: Beijing University of Chinese Medicine, Chaoyang District, Beijing 100029,
+      China
+  family: Dong
+  given: Lei
+- affiliation:
+  - name: Beijing University of Chinese Medicine, Chaoyang District, Beijing 100029,
+      China
+  family: Liu
+  given: Liu
+- affiliation:
+  - name: Beijing University of Chinese Medicine, Chaoyang District, Beijing 100029,
+      China
+  family: Guo
+  given: JinCheng
+- affiliation:
+  - name: Key Laboratory of Intelligent Information Processing, Advanced Computer
+      Research Center, Institute of Computing Technology, Chinese Academy of Sciences,
+      Beijing 100190, China
+  family: Zhao
+  given: LianHe
+- affiliation:
+  - name: Beijing University of Chinese Medicine, Chaoyang District, Beijing 100029,
+      China
+  family: Zhang
+  given: JiaYuan
+- affiliation:
+  - name: Key Laboratory of Intelligent Information Processing, Advanced Computer
+      Research Center, Institute of Computing Technology, Chinese Academy of Sciences,
+      Beijing 100190, China
+  family: Bu
+  given: DeChao
+- affiliation:
+  - name: Beijing University of Chinese Medicine, Chaoyang District, Beijing 100029,
+      China
+  family: Liu
+  given: XinKui
+- affiliation:
+  - name: Key Laboratory of Intelligent Information Processing, Advanced Computer
+      Research Center, Institute of Computing Technology, Chinese Academy of Sciences,
+      Beijing 100190, China
+  family: Huo
+  given: PeiPei
+- affiliation:
+  - name: Beijing University of Chinese Medicine, Chaoyang District, Beijing 100029,
+      China
+  family: Cao
+  given: WanChen
+- affiliation:
+  - name: Key Laboratory of Intelligent Information Processing, Advanced Computer
+      Research Center, Institute of Computing Technology, Chinese Academy of Sciences,
+      Beijing 100190, China
+  family: Dong
+  given: QiongYe
+- affiliation:
+  - name: Beijing University of Chinese Medicine, Chaoyang District, Beijing 100029,
+      China
+  family: Wu
+  given: JiaRui
+- affiliation:
+  - name: West China Biomedical Big Data Center, Division of Nephrology, Kidney Research
+      Institute, West China Hospital of Sichuan University, Chengdu 610041, China
+  family: Zeng
+  given: Xiaoxi
+- affiliation:
+  - name: Key Laboratory of Intelligent Information Processing, Advanced Computer
+      Research Center, Institute of Computing Technology, Chinese Academy of Sciences,
+      Beijing 100190, China
+  family: Wu
+  given: Yang
+- affiliation:
+  - name: Beijing University of Chinese Medicine, Chaoyang District, Beijing 100029,
+      China
+  - name: Key Laboratory of Intelligent Information Processing, Advanced Computer
+      Research Center, Institute of Computing Technology, Chinese Academy of Sciences,
+      Beijing 100190, China
+  family: Zhao
+  given: Yi
+citations:
+- article-title: Extending the small-molecule similarity principle to all levels of
+    biology with the Chemical Checker
+  author: Duran-Frigola
+  doi: 10.1038/s41587-020-0502-7
+  first-page: '1087'
+  journal-title: Nat. Biotechnol.
+  volume: '38'
+  year: '2020'
+- article-title: 'In silico drug repositioning: from large-scale transcriptome data
+    to therapeutics'
+  author: Kwon
+  doi: 10.1007/s12272-019-01176-3
+  first-page: '879'
+  journal-title: Arch. Pharm. Res.
+  volume: '42'
+  year: '2019'
+- article-title: 'A Next Generation Connectivity Map: L1000 platform and the first
+    1,000,000 profiles'
+  author: Subramanian
+  doi: 10.1016/j.cell.2017.10.049
+  first-page: '1437'
+  journal-title: Cell
+  volume: '171'
+  year: '2017'
+- article-title: The gene expression omnibus database
+  author: Clough
+  doi: 10.1007/978-1-4939-3578-9_5
+  first-page: '93'
+  journal-title: Methods Mol. Biol.
+  volume: '1418'
+  year: '2016'
+- article-title: A review of connectivity map and computational approaches in pharmacogenomics
+  author: Musa
+  first-page: '506'
+  journal-title: Brief. Bioinform.
+  volume: '19'
+  year: '2018'
+- article-title: Treatment of obesity with celastrol
+  author: Liu
+  doi: 10.1016/j.cell.2015.05.011
+  first-page: '999'
+  journal-title: Cell
+  volume: '161'
+  year: '2015'
+- article-title: Withaferin A is a leptin sensitizer with strong antidiabetic properties
+    in mice
+  author: Lee
+  doi: 10.1038/nm.4145
+  first-page: '1023'
+  journal-title: Nat. Med.
+  volume: '22'
+  year: '2016'
+- article-title: A pharmacognostic and chemical study of ma huang (Ephedra vulgaris
+    var. helvetica). 1925
+  author: Chen
+  doi: 10.1331/JAPhA.2012.12519
+  first-page: '406'
+  journal-title: J. Am. Pharm. Assoc.
+  volume: '52'
+  year: '2012'
+- article-title: The discovery of artemisinin (qinghaosu) and gifts from Chinese medicine
+  author: Tu
+  doi: 10.1038/nm.2471
+  first-page: '1217'
+  journal-title: Nat. Med.
+  volume: '17'
+  year: '2011'
+- article-title: The re-emergence of natural products for drug discovery in the genomics
+    era
+  author: Harvey
+  doi: 10.1038/nrd4510
+  first-page: '111'
+  journal-title: Nat. Rev. Drug Discov.
+  volume: '14'
+  year: '2015'
+- article-title: 'ETCM: an encyclopaedia oftraditional Chinese medicine'
+  author: Xu
+  doi: 10.1093/nar/gky987
+  first-page: D976
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2019'
+- article-title: 'The gene expression profiles in response to 102 traditional Chinese
+    medicine (TCM) components: a general template for research on TCMs'
+  author: Lv
+  doi: 10.1038/s41598-017-00535-8
+  first-page: '352'
+  journal-title: Sci. Rep.
+  volume: '7'
+  year: '2017'
+- article-title: Curcumin effectively inhibits oncogenic NF-κB signaling and restrains
+    stemness features in liver cancer
+  author: Marquardt
+  doi: 10.1016/j.jhep.2015.04.018
+  first-page: '661'
+  journal-title: J. Hepatol.
+  volume: '63'
+  year: '2015'
+- article-title: Exploring the molecular mechanisms of Traditional Chinese Medicine
+    components using gene expression signatures and connectivity map
+  author: Yoo
+  doi: 10.1016/j.cmpb.2018.04.002
+  first-page: '33'
+  journal-title: Comput. Methods Programs Biomed.
+  volume: '174'
+  year: '2019'
+- article-title: 'HIT: linking herbal active ingredients to targets'
+  author: Ye
+  doi: 10.1093/nar/gkq1165
+  first-page: D1055
+  journal-title: Nucleic Acids Res.
+  volume: '39'
+  year: '2011'
+- article-title: 'TCMID: Traditional Chinese Medicine integrative database for herb
+    molecular mechanism analysis'
+  author: Xue
+  doi: 10.1093/nar/gks1100
+  first-page: D1089
+  journal-title: Nucleic Acids Res.
+  volume: '41'
+  year: '2013'
+- article-title: 'Therapeutic target database 2020: enriched resource for facilitating
+    research and early development of targeted therapeutics'
+  author: Wang
+  first-page: D1031
+  journal-title: Nucleic Acids Res.
+  volume: '48'
+  year: '2020'
+- article-title: 'The DisGeNET knowledge platform for disease genomics: 2019 update'
+  author: Pinero
+  first-page: D845
+  journal-title: Nucleic Acids Res.
+  volume: '48'
+  year: '2020'
+- article-title: Expansion of the Human Phenotype Ontology (HPO) knowledge base and
+    resources
+  author: Kohler
+  doi: 10.1093/nar/gky1105
+  first-page: D1018
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2019'
+- article-title: 'Disease Ontology: a backbone for disease semantic integration'
+  author: Schriml
+  doi: 10.1093/nar/gkr972
+  first-page: D940
+  journal-title: Nucleic Acids Res.
+  volume: '40'
+  year: '2012'
+- article-title: 'SymMap: an integrative database of traditional Chinese medicine
+    enhanced by symptom mapping'
+  author: Wu
+  doi: 10.1093/nar/gky1021
+  first-page: D1110
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2019'
+- article-title: 'TCMID 2.0: a comprehensive resource for TCM'
+  author: Huang
+  doi: 10.1093/nar/gkx1028
+  first-page: D1117
+  journal-title: Nucleic Acids Res.
+  volume: '46'
+  year: '2018'
+- article-title: 'TCMSP: a database of systems pharmacology for drug discovery from
+    herbal medicines'
+  author: Ru
+  doi: 10.1186/1758-2946-6-13
+  first-page: '13'
+  journal-title: J Cheminform
+  volume: '6'
+  year: '2014'
+- article-title: Database of traditional Chinese medicine and its application to studies
+    of mechanism and to prescription validation
+  author: Chen
+  doi: 10.1038/sj.bjp.0706945
+  first-page: '1092'
+  journal-title: Br. J. Pharmacol.
+  volume: '149'
+  year: '2006'
+- article-title: 'Exploration tools for drug discovery and beyond: applying SciFinder
+    to interdisciplinary research'
+  author: Haldeman
+  doi: 10.2174/1570163054064693
+  first-page: '69'
+  journal-title: Curr Drug Discov Technol
+  volume: '2'
+  year: '2005'
+- article-title: 'PubChem 2019 update: improved access to chemical data'
+  author: Kim
+  doi: 10.1093/nar/gky1033
+  first-page: D1102
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2018'
+- article-title: 'DrugBank 5.0: a major update to the DrugBank database for 2018'
+  author: Wishart
+  doi: 10.1093/nar/gkx1037
+  first-page: D1074
+  journal-title: Nucleic Acids Res.
+  volume: '46'
+  year: '2018'
+- article-title: Ncbi sra toolkit technology for next generation sequence data
+  author: Sherry
+  volume-title: Plant and Animal Genome XX Conference (January 14–18, 2012)
+  year: '2012'
+- article-title: 'STAR: ultrafast universal RNA-seq aligner'
+  author: Dobin
+  doi: 10.1093/bioinformatics/bts635
+  first-page: '15'
+  journal-title: Bioinformatics
+  volume: '29'
+  year: '2013'
+- article-title: 'featureCounts: an efficient general purpose program for assigning
+    sequence reads to genomic features'
+  author: Liao
+  doi: 10.1093/bioinformatics/btt656
+  first-page: '923'
+  journal-title: Bioinformatics
+  volume: '30'
+  year: '2014'
+- article-title: limma powers differential expression analyses for RNA-sequencing
+    and microarray studies
+  author: Ritchie
+  doi: 10.1093/nar/gkv007
+  first-page: e47
+  journal-title: Nucleic Acids Res.
+  volume: '43'
+  year: '2015'
+- article-title: A framework for oligonucleotide microarray preprocessing
+  author: Carvalho
+  doi: 10.1093/bioinformatics/btq431
+  first-page: '2363'
+  journal-title: Bioinformatics
+  volume: '26'
+  year: '2010'
+- article-title: 'clusterProfiler: an R package for comparing biological themes among
+    gene clusters'
+  author: Yu
+  doi: 10.1089/omi.2011.0118
+  first-page: '284'
+  journal-title: Omics
+  volume: '16'
+  year: '2012'
+- article-title: Questions and answers
+  author: Mosteller
+  doi: 10.1080/00031305.1948.10483415
+  first-page: '30'
+  journal-title: The American Statistician
+  volume: '2'
+  year: '1948'
+- article-title: Systematic integration of RNA-Seq statistical algorithms for accurate
+    detection of differential gene expression patterns
+  author: Moulos
+  doi: 10.1093/nar/gku1273
+  first-page: e25
+  journal-title: Nucleic Acids Res.
+  volume: '43'
+  year: '2014'
+- article-title: 'Controlling the false discovery rate: a practical and powerful approach
+    to multiple testing'
+  author: Benjamini
+  first-page: '289'
+  journal-title: J. R. Statal Soc.
+  volume: '57'
+  year: '1995'
+- article-title: 'The GeneCards suite: from gene data mining to disease genome sequence
+    analyses'
+  author: Stelzer
+  doi: 10.1002/cpbi.5
+  first-page: 1.30.31
+  journal-title: Curr. Protoc. Bioinformatics
+  volume: '54'
+  year: '2016'
+- article-title: Activation of PPARgamma/P53 signaling is required for curcumin to
+    induce hepatic stellate cell senescence
+  author: Jin
+  doi: 10.1038/cddis.2016.92
+  first-page: e2189
+  journal-title: Cell Death. Dis.
+  volume: '7'
+  year: '2016'
+- article-title: Resveratrol improves intrahepatic endothelial dysfunction and reduces
+    hepatic fibrosis and portal pressure in cirrhotic rats
+  author: Di Pascoli
+  doi: 10.1016/j.jhep.2012.12.012
+  first-page: '904'
+  journal-title: J. Hepatol.
+  volume: '58'
+  year: '2013'
+- article-title: Mitochondrial inhibitor sensitizes non-small-cell lung carcinoma
+    cells to TRAIL-induced apoptosis by reactive oxygen species and Bcl-X(L)/p53-mediated
+    amplification mechanisms
+  author: Shi
+  doi: 10.1038/cddis.2014.547
+  first-page: e1579
+  journal-title: Cell Death. Dis.
+  volume: '5'
+  year: '2014'
+- article-title: Melatonin enhances thapsigargin-induced apoptosis through reactive
+    oxygen species-mediated upregulation of CCAAT-enhancer-binding protein homologous
+    protein in human renal cancer cells
+  author: Min
+  doi: 10.1111/j.1600-079X.2012.00975.x
+  first-page: '99'
+  journal-title: J. Pineal Res.
+  volume: '53'
+  year: '2012'
+- article-title: Effective cancer immunotherapy by Ganoderma lucidum polysaccharide-gold
+    nanocomposites through dendritic cell activation and memory T cell response
+  author: Zhang
+  doi: 10.1016/j.carbpol.2018.10.028
+  first-page: '192'
+  journal-title: Carbohydr. Polym.
+  volume: '205'
+  year: '2019'
+- article-title: 'TCMIO: A comprehensive database of traditional chinese medicine
+    on immuno-oncology'
+  author: Liu
+  doi: 10.3389/fphar.2020.00439
+  first-page: '439'
+  journal-title: Front. Pharmacol.
+  volume: '11'
+  year: '2020'
+- article-title: Trends in the global immuno-oncology landscape
+  author: Tang
+  doi: 10.1038/nrd.2018.167
+  first-page: '783'
+  journal-title: Nat. Rev. Drug Discov.
+  volume: '17'
+  year: '2018'
+- article-title: Comprehensive analysis of the clinical immuno-oncology landscape
+  author: Tang
+  doi: 10.1093/annonc/mdx755
+  first-page: '84'
+  journal-title: Ann. Oncol.
+  volume: '29'
+  year: '2018'
+- article-title: Deubiquitination and Stabilization of PD-L1 by CSN5
+  author: Lim
+  doi: 10.1016/j.ccell.2016.10.010
+  first-page: '925'
+  journal-title: Cancer Cell
+  volume: '30'
+  year: '2016'
+- article-title: 'Modulation of the tumor microenvironment and inhibition of EGF/EGFR
+    pathway: novel anti-tumor mechanisms of Cannabidiol in breast cancer'
+  author: Elbaz
+  doi: 10.1016/j.molonc.2014.12.010
+  first-page: '906'
+  journal-title: Mol. Oncol.
+  volume: '9'
+  year: '2015'
+- article-title: 'YaTCM: Yet another traditional chinese medicine database for drug
+    discovery'
+  author: Li
+  doi: 10.1016/j.csbj.2018.11.002
+  first-page: '600'
+  journal-title: Comput. Struct. Biotechnol. J.
+  volume: '16'
+  year: '2018'
+- article-title: 'The Gene Ontology Resource: 20 years and still GOing strong'
+  author: The Gene Ontology Consortium
+  doi: 10.1093/nar/gky1055
+  first-page: D330
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2018'
+- article-title: New approach for understanding genome variations in KEGG
+  author: Kanehisa
+  doi: 10.1093/nar/gky962
+  first-page: D590
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2018'
+- article-title: Large-scale prediction of long non-coding RNA functions in a coding-non-coding
+    gene co-expression network
+  author: Liao
+  doi: 10.1093/nar/gkq1348
+  first-page: '3864'
+  journal-title: Nucleic Acids Res.
+  volume: '39'
+  year: '2011'
+- article-title: 'ncFANs: a web server for functional annotation of long non-coding
+    RNAs'
+  author: Liao
+  doi: 10.1093/nar/gkr432
+  first-page: W118
+  journal-title: Nucleic Acids Res.
+  volume: '39'
+  year: '2011'
+- article-title: 'NONCODEV5: a comprehensive annotation database for long non-coding
+    RNAs'
+  author: Fang
+  doi: 10.1093/nar/gkx1107
+  first-page: D308
+  journal-title: Nucleic Acids Res.
+  volume: '46'
+  year: '2018'
+- article-title: 'CNIT: a fast and accurate webtool for identifying protein-coding
+    and long non-coding transcripts based onintrinsic sequence composition'
+  author: Guo
+  doi: 10.1093/nar/gkz400
+  first-page: W516
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2019'
+doc_url: http://academic.oup.com/nar/article-pdf/49/D1/D1197/35364047/gkaa1063.pdf
+doi: 10.1093/nar/gkaa1063
+files:
+- herbahighthfang2021.pdf
+issue: D1
+journal: Nucleic Acids Research
+language: en
+month: 1
+pages: D1197--D1206
+papis_id: 41b068cee9111b3c2b49de608d4b292f
+publisher: Oxford University Press (OUP)
+ref: HerbAHighThFang2021
+time-added: 2023-10-18-11:19:28
+title: 'HERB: a high-throughput experiment- and reference-guided database of traditional
+  Chinese medicine'
+type: article
+url: http://dx.doi.org/10.1093/nar/gkaa1063
+volume: '49'
+year: 2021

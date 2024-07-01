@@ -1,0 +1,54 @@
+abstract: Abstract             Aberrant sterol lipid metabolism is associated with
+  physiological dysfunctions in the aging brain and aging-dependent disorders such
+  as neurodegenerative diseases. There is an unmet demand to comprehensively profile
+  sterol lipids spatially and temporally in different brain regions during aging.
+  Here, we develop an ion mobility-mass spectrometry based four-dimensional sterolomics
+  technology leveraged by a machine learning-empowered high-coverage library ({$>$}2000
+  sterol lipids) for accurate identification. We apply this four-dimensional technology
+  to profile the spatially resolved landscapes of sterol lipids in ten functional
+  regions of the mouse brain, and quantitatively uncover \textasciitilde 200 sterol
+  lipids uniquely distributed in specific regions with concentrations spanning up
+  to 8 orders of magnitude. Further spatial analysis pinpoints age-associated differences
+  in region-specific sterol lipid metabolism, revealing changes in the numbers of
+  altered sterol lipids, concentration variations, and age-dependent coregulation
+  networks. These findings will contribute to our understanding of abnormal sterol
+  lipid metabolism and its role in brain diseases.
+author: Li, Tongzhou and Yin, Yandong and Zhou, Zhiwei and Qiu, Jiaqian and Liu, Wenbin
+  and Zhang, Xueting and He, Kaiwen and Cai, Yuping and Zhu, Zheng-Jiang
+author_list:
+- family: Li
+  given: Tongzhou
+- family: Yin
+  given: Yandong
+- family: Zhou
+  given: Zhiwei
+- family: Qiu
+  given: Jiaqian
+- family: Liu
+  given: Wenbin
+- family: Zhang
+  given: Xueting
+- family: He
+  given: Kaiwen
+- family: Cai
+  given: Yuping
+- family: Zhu
+  given: Zheng-Jiang
+doi: 10.1038/s41467-021-24672-x
+file: /mnt/data/wizard/Zotero/storage/IFTAYV6T/Li et al. - 2021 - Ion mobility-based
+  sterolomics reveals spatially a.pdf
+files: []
+issn: 2041-1723
+journal: Nature Communications
+langid: english
+month: December
+number: '1'
+pages: '4343'
+papis_id: 073096b4f76f6bdf77c943541c851554
+ref: IonMobilityBaLiTo2021
+title: Ion Mobility-Based Sterolomics Reveals Spatially and Temporally Distinctive
+  Sterol Lipids in the Mouse Brain
+type: article
+urldate: '2022-07-18'
+volume: '12'
+year: '2021'

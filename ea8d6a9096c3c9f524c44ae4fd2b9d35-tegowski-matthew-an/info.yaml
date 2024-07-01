@@ -1,0 +1,355 @@
+author: Tegowski, Matthew and Flamand, Mathieu N. and Meyer, Kate D.
+author_list:
+- affiliation: []
+  family: Tegowski
+  given: Matthew
+- affiliation: []
+  family: Flamand
+  given: Mathieu N.
+- affiliation: []
+  family: Meyer
+  given: Kate D.
+citations:
+- article-title: Coordination of m6A mRNA methylation and gene transcription by ZFP217
+    regulates pluripotency and reprogramming
+  author: Aguilo
+  doi: 10.1016/j.stem.2015.09.005
+  first-page: '689'
+  journal-title: Cell Stem Cell
+  volume: '17'
+  year: '2015'
+- article-title: TET1 promotes growth of T-cell acute lymphoblastic leukemia and can
+    be antagonized via PARP inhibition
+  author: Bamezai
+  doi: 10.1038/s41375-020-0864-3
+  first-page: '389'
+  journal-title: Leukemia
+  volume: '35'
+  year: '2020'
+- article-title: Pan-cancer analyses reveal genomic features of FOXM1 overexpression
+    in cancer
+  author: Barger
+  doi: 10.3390/cancers11020251
+  first-page: '251'
+  journal-title: Cancers
+  volume: '11'
+  year: '2019'
+- article-title: M6A RNA modification controls cell fate transition in mammalian embryonic
+    stem cells
+  author: Batista
+  doi: 10.1016/j.stem.2014.09.019
+  first-page: '707'
+  journal-title: Cell Stem Cell
+  volume: '15'
+  year: '2014'
+- article-title: A novel RT-QPCR-based assay for the relative quantification of residue
+    specific m6A RNA methylation
+  author: Castellanos-Rubio
+  doi: 10.1038/s41598-019-40018-6
+  first-page: '4220'
+  journal-title: Sci. Rep.
+  volume: '9'
+  year: '2019'
+- article-title: 'STAR: ultrafast universal RNA-seq aligner'
+  author: Dobin
+  doi: 10.1093/bioinformatics/bts635
+  first-page: '15'
+  journal-title: Bioinformatics
+  volume: '29'
+  year: '2013'
+- article-title: Topology of the human and mouse m6A RNA methylomes revealed by m6A-seq
+  author: Dominissini
+  doi: 10.1038/nature11112
+  first-page: '201'
+  journal-title: Nature
+  volume: '485'
+  year: '2012'
+- article-title: Discovering motifs in ranked lists of DNA sequences
+  author: Eden
+  doi: 10.1371/journal.pcbi.0030039
+  first-page: e39
+  journal-title: PLoS Comput. Biol.
+  volume: '3'
+  year: '2007'
+- article-title: 'GOrilla: a tool for discovery and visualization of enriched GO terms
+    in ranked gene lists'
+  author: Eden
+  doi: 10.1186/1471-2105-10-48
+  first-page: '48'
+  journal-title: BMC Bioinformatics
+  volume: '10'
+  year: '2009'
+- article-title: Deciphering the “m6A code” via antibody-independent quantitative
+    profiling
+  author: Garcia-Campos
+  doi: 10.1016/j.cell.2019.06.013
+  first-page: '731'
+  journal-title: Cell
+  volume: '178'
+  year: '2019'
+- article-title: Simple combinations of lineage-determining transcription factors
+    Prime cis-regulatory elements required for macrophage and B cell identities
+  author: Heinz
+  doi: 10.1016/j.molcel.2010.05.004
+  first-page: '576'
+  journal-title: Mol. Cell
+  volume: '38'
+  year: '2010'
+- article-title: Histone H3 trimethylation at lysine 36 guides m6A RNA modification
+    co-transcriptionally
+  author: Huang
+  doi: 10.1038/s41586-019-1016-7
+  first-page: '414'
+  journal-title: Nature
+  volume: '567'
+  year: '2019'
+- article-title: The role of m6A modification in the biological functions and diseases
+  author: Jiang
+  doi: 10.1038/s41392-020-00450-x
+  first-page: '74'
+  journal-title: Signal Transduct. Target. Ther.
+  volume: '6'
+  year: '2021'
+- article-title: 'EditR: a method to quantify base editing from sanger sequencing'
+  author: Kluesner
+  doi: 10.1089/crispr.2018.0014
+  first-page: '239'
+  journal-title: CRISPR J.
+  volume: '1'
+  year: '2018'
+- article-title: The sequence alignment/Map format and SAMtools
+  author: Li
+  doi: 10.1093/bioinformatics/btp352
+  first-page: '2078'
+  journal-title: Bioinformatics
+  volume: '25'
+  year: '2009'
+- article-title: FTO plays an oncogenic role in acute myeloid leukemia as a N6-methyladenosine
+    RNA demethylase
+  author: Li
+  doi: 10.1016/j.ccell.2016.11.017
+  first-page: '127'
+  journal-title: Cancer Cell
+  volume: '31'
+  year: '2017'
+- article-title: 'featureCounts: an efficient general purpose program for assigning
+    sequence reads to genomic features'
+  author: Liao
+  doi: 10.1093/bioinformatics/btt656
+  first-page: '923'
+  journal-title: Bioinformatics
+  volume: '30'
+  year: '2014'
+- article-title: Dynamics of human and viral RNA methylation during Zika virus infection
+  author: Lichinchi
+  doi: 10.1016/j.chom.2016.10.002
+  first-page: '666'
+  journal-title: Cell Host Microbe
+  volume: '20'
+  year: '2016'
+- article-title: Single-nucleotide-resolution mapping of m6A and m6Am throughout the
+    transcriptome
+  author: Linder
+  doi: 10.1038/nmeth.3453
+  first-page: '767'
+  journal-title: Nat. Methods
+  volume: '12'
+  year: '2015'
+- article-title: m6A mRNA methylation regulates AKT activity to promote the proliferation
+    and tumorigenicity of endometrial cancer
+  author: Liu
+  doi: 10.1038/s41556-018-0174-4
+  first-page: '1074'
+  journal-title: Nat. Cell Biol.
+  volume: '20'
+  year: '2018'
+- article-title: Probing N6-methyladenosine RNA modification status at single nucleotide
+    resolution in mRNA and long noncoding RNA
+  author: Liu
+  doi: 10.1261/rna.041178.113
+  first-page: '1848'
+  journal-title: RNA
+  volume: '19'
+  year: '2013'
+- article-title: 'REPIC: a database for exploring the N6-methyladenosine methylome'
+  author: Liu
+  doi: 10.1186/s13059-020-02012-4
+  first-page: '100'
+  journal-title: Genome Biol.
+  volume: '21'
+  year: '2020'
+- article-title: Reconstructing cell cycle pseudo time-series via single-cell transcriptome
+    data
+  author: Liu
+  doi: 10.1038/s41467-017-00039-z
+  first-page: '22'
+  journal-title: Nat. Commun.
+  volume: '8'
+  year: '2017'
+- article-title: 'DART-seq: an antibody-free method for global m6A detection'
+  author: Meyer
+  doi: 10.1038/s41592-019-0570-0
+  first-page: '1275'
+  journal-title: Nat. Methods
+  volume: '16'
+  year: '2019'
+- article-title: Comprehensive analysis of mRNA methylation reveals enrichment in
+    3′ UTRs and near stop codons
+  author: Meyer
+  doi: 10.1016/j.cell.2012.05.003
+  first-page: '1635'
+  journal-title: Cell
+  volume: '149'
+  year: '2012'
+- article-title: M6A-LAIC-seq reveals the census and complexity of the m6A epitranscriptome
+  author: Molinie
+  doi: 10.1038/nmeth.3898
+  first-page: '692'
+  journal-title: Nat. Methods
+  volume: '13'
+  year: '2016'
+- article-title: 'MetaPlotR: a Perl/R pipeline for plotting metagenes of nucleotide
+    modifications and other transcriptomic sites'
+  author: Olarerin-George
+  doi: 10.1093/bioinformatics/btx002
+  first-page: '1563'
+  journal-title: Bioinformatics
+  volume: '33'
+  year: '2017'
+- article-title: 'The methylated constituents of L cell messenger RNA: evidence for
+    an unusual cluster at the 5′ terminus'
+  author: Perry
+  doi: 10.1016/0092-8674(75)90159-2
+  first-page: '387'
+  journal-title: Cell
+  volume: '4'
+  year: '1975'
+- article-title: Smart-seq2 for sensitive full-length transcriptome profiling in single
+    cells
+  author: Picelli
+  doi: 10.1038/nmeth.2639
+  first-page: '1096'
+  journal-title: Nat. Methods
+  volume: '10'
+  year: '2013'
+- article-title: Full-length RNA-seq from single cells using Smart-seq2
+  author: Picelli
+  doi: 10.1038/nprot.2014.006
+  first-page: '171'
+  journal-title: Nat. Protoc.
+  volume: '9'
+  year: '2014'
+- article-title: 'BEDTools: a flexible suite of utilities for comparing genomic features'
+  author: Quinlan
+  doi: 10.1093/bioinformatics/btq033
+  first-page: '841'
+  journal-title: Bioinformatics
+  volume: '26'
+  year: '2010'
+- article-title: Identification of RNA-binding protein targets with HyperTRIBE
+  author: Rahman
+  doi: 10.1038/s41596-018-0020-y
+  first-page: '1829'
+  journal-title: Nat. Protoc.
+  volume: '13'
+  year: '2018'
+- article-title: Flexbar 3.0 – SIMD and multicore parallelization
+  author: Roehr
+  doi: 10.1093/bioinformatics/btx330
+  first-page: '2941'
+  journal-title: Bioinformatics
+  volume: '33'
+  year: '2017'
+- article-title: Perturbation of m6A writers reveals two distinct classes of mRNA
+    methylation at internal and 5′ sites
+  author: Schwartz
+  doi: 10.1016/j.celrep.2014.05.048
+  first-page: '284'
+  journal-title: Cell Rep.
+  volume: '8'
+  year: '2014'
+- article-title: 'Where, when, and how: context-dependent functions of RNA methylation
+    writers, readers, and erasers'
+  author: Shi
+  doi: 10.1016/j.molcel.2019.04.025
+  first-page: '640'
+  journal-title: Mol. Cell
+  volume: '74'
+  year: '2019'
+- article-title: Transcription dynamics regulate poly (A) tails and expression of
+    the RNA degradation machinery to balance mRNA levels
+  author: Slobodin
+  doi: 10.1016/j.molcel.2020.03.022
+  first-page: '434'
+  journal-title: Mol. Cell
+  volume: '78'
+  year: '2020'
+- article-title: Comprehensive integration of single-cell data
+  author: Stuart
+  doi: 10.1016/j.cell.2019.05.031
+  first-page: '1888'
+  journal-title: Cell
+  volume: '177'
+  year: '2019'
+- article-title: 'RSeQC: quality control of RNA-seq experiments'
+  author: Wang
+  doi: 10.1093/bioinformatics/bts356
+  first-page: '2184'
+  journal-title: Bioinformatics
+  volume: '28'
+  year: '2012'
+- article-title: 'TopBP1: a BRCT-scaffold protein functioning in multiple cellular
+    pathways'
+  author: Wardlaw
+  doi: 10.1016/j.dnarep.2014.06.004
+  first-page: '165'
+  journal-title: DNA Repair (Amst)
+  volume: '22'
+  year: '2014'
+- article-title: METTL14 inhibits hematopoietic stem/progenitor differentiation and
+    promotes leukemogenesis via mRNA m6A modification
+  author: Weng
+  doi: 10.1016/j.stem.2017.11.016
+  first-page: '191'
+  journal-title: Cell Stem Cell
+  volume: '22'
+  year: '2018'
+- article-title: Temporal control of mammalian cortical neurogenesis by m6A methylation
+  author: Yoon
+  doi: 10.1016/j.cell.2017.09.003
+  first-page: '877'
+  journal-title: Cell
+  volume: '171'
+  year: '2017'
+- article-title: Reading, writing and erasing mRNA methylation
+  author: Zaccara
+  doi: 10.1038/s41580-019-0168-5
+  first-page: '608'
+  journal-title: Nat. Rev. Mol. Cell Biol.
+  volume: '20'
+  year: '2019'
+- article-title: m6A demethylase ALKBH5 maintains tumorigenicity of glioblastoma stem-like
+    cells by sustaining FOXM1 expression and cell proliferation program
+  author: Zhang
+  doi: 10.1016/j.ccell.2017.02.013
+  first-page: '591'
+  journal-title: Cancer Cell
+  volume: '31'
+  year: '2017'
+doi: 10.1016/j.molcel.2021.12.038
+files: []
+issue: '4'
+journal: Molecular Cell
+language: en
+month: 2
+pages: 868--878.e10
+papis_id: 4189f0b263fab53cab0260f973f2acd6
+publisher: Elsevier BV
+ref: ScdartSeqReveTegows2022
+time-added: 2023-11-02-10:39:26
+title: scDART-seq reveals distinct m6A signatures and mRNA methylation heterogeneity
+  in single cells
+type: article
+url: http://dx.doi.org/10.1016/j.molcel.2021.12.038
+volume: '82'
+year: 2022

@@ -1,0 +1,45 @@
+author: McGinnis, Christopher S. and Patterson, David M. and Winkler, Juliane and
+  Conrad, Daniel N. and Hein, Marco Y. and Srivastava, Vasudha and Hu, Jennifer L.
+  and Murrow, Lyndsay M. and Weissman, Jonathan S. and Werb, Zena and Chow, Eric D.
+  and Gartner, Zev J.
+author_list:
+- family: McGinnis
+  given: Christopher S.
+- family: Patterson
+  given: David M.
+- family: Winkler
+  given: Juliane
+- family: Conrad
+  given: Daniel N.
+- family: Hein
+  given: Marco Y.
+- family: Srivastava
+  given: Vasudha
+- family: Hu
+  given: Jennifer L.
+- family: Murrow
+  given: Lyndsay M.
+- family: Weissman
+  given: Jonathan S.
+- family: Werb
+  given: Zena
+- family: Chow
+  given: Eric D.
+- family: Gartner
+  given: Zev J.
+doi: 10.1038/s41592-019-0433-8
+files:
+- multiseqsampmcginn2019-a.pdf
+issue: '7'
+journal: Nature Methods
+month: '6'
+page: 619-626
+papis_id: 1808b69c6fb01b218581543330afb55a
+publisher: Springer Science and Business Media LLC
+ref: MultiSeqSampMcginn2019
+title: 'MULTI-seq: sample multiplexing for single-cell RNA sequencing using lipid-tagged
+  indices'
+type: article
+url: http://dx.doi.org/10.1038/s41592-019-0433-8
+volume: '16'
+year: '2019'

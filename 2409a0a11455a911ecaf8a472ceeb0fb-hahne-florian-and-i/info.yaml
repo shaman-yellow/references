@@ -1,0 +1,115 @@
+author: Hahne, Florian and Ivanek, Robert
+author_list:
+- affiliation: []
+  family: Hahne
+  given: Florian
+- affiliation: []
+  family: Ivanek
+  given: Robert
+citations:
+- author: M Lawrence
+  doi: 10.1093/bioinformatics/btp328
+  first-page: '1841'
+  journal-title: Bioinformatics
+  unstructured: "Lawrence M, Gentleman R, Carey V (2009) Rtracklayer: An r package\
+    \ for interfacing with genome browsers. Bioinformatics 25:1841–1842. doi:\n  \
+    \                  10.1093/bioinformatics/btp328"
+  volume: '25'
+  year: '2009'
+- unstructured: 'Durinck S, Bullard J. GenomeGraphs: plotting genomic information
+    from ensembl. R package version 1.30.0'
+- author: AN Brooks
+  doi: 10.1101/gr.108662.110
+  first-page: '193'
+  journal-title: Genome Res
+  unstructured: "Brooks AN, Yang L, Duff MO, Hansen KD, Park JW, Dudoit S, Brenner\
+    \ SE, Graveley BR (2011) Conservation of an rNA regulatory map between drosophila\
+    \ and mammals. Genome Res 21:193–202. doi:\n                    10.1101/gr.108662.110"
+  volume: '21'
+  year: '2011'
+- author: C Trapnell
+  doi: 10.1093/bioinformatics/btp120
+  first-page: '1105'
+  journal-title: Bioinformatics
+  unstructured: "Trapnell C, Pachter L, Salzberg SL (2009) TopHat: discovering splice\
+    \ junctions with rNA-seq. Bioinformatics 25:1105–1111. doi:\n                \
+    \    10.1093/bioinformatics/btp120"
+  volume: '25'
+  year: '2009'
+- unstructured: Ensembl (2011) Drosophila melanogaster genome version BDGP5.25.62
+- author: S Anders
+  doi: 10.1101/gr.133744.111
+  first-page: '2008'
+  journal-title: Genome Res
+  unstructured: "Anders S, Reyes A, Huber W (2012) Detecting differential usage of\
+    \ exons from rNA-seq data. Genome Res 22:2008–2017. doi:\n                   \
+    \ 10.1101/gr.133744.111"
+  volume: '22'
+  year: '2012'
+- author: F Cunningham
+  doi: 10.1093/nar/gku1010
+  first-page: D662
+  journal-title: Nucleic Acids Res
+  unstructured: "Cunningham F, Amode MR, Barrell D, Beal K,Billis K, Brent S, Carvalho-Silva\
+    \ D, Clapham P, Coates G, Fitzgerald S, Gil L, Girón CG, Gordon L, Hourlier T,\
+    \ Hunt SE, Janacek SH, Johnson N, Juettemann T, Kähäri AK, Keenan S, Martin FJ,\
+    \ Maurel T, McLaren W, Murphy DN, Nag R, Overduin B, Parker A, Patricio M, Perry\
+    \ E, Pignatelli M, Riat HS, Sheppard D, Taylor K, Thormann A, Vullo A, Wilder\
+    \ SP, Zadissa A, Aken BL, Birney E, Harrow J, Kinsella R, Muffato M, Ruffier M,\
+    \ Searle SM, Spudich G, Trevanion SJ, Yates A, Zerbino DR, Flicek P (2015) Ensembl\
+    \ 2015. Nucleic Acids Res 43:D662–D669. doi:\n                    10.1093/nar/gku1010"
+  volume: '43'
+  year: '2015'
+- author: WJ Kent
+  doi: 10.1101/gr.229102. Article published online before print in May 2002
+  first-page: '996'
+  journal-title: Genome Res
+  unstructured: "Kent WJ, Sugnet CW, Furey TS, Roskin KM, Pringle TH, Zahler AM, Haussler\
+    \ D (2002) The human genome browser at uCSC. Genome Res 12:996–1006. doi:\n  \
+    \                  10.1101/gr.229102"
+  volume: '12'
+  year: '2002'
+- author: JT Robinson
+  doi: 10.1038/nbt.1754
+  first-page: '24'
+  journal-title: Nat Biotech
+  unstructured: Robinson JT, Thorvaldsdottir H, Winckler W, Guttman M, Lander ES,
+    Getz G, Mesirov JP (2011) Integrative genomics viewer. Nat Biotech 29:24–26
+  volume: '29'
+  year: '2011'
+- unstructured: 'Chang W (2015) Shiny: web application framework for r'
+- unstructured: 'Allaire J, Cheng J, Xie Y, McPherson J, Chang W, Allen J, Wickham
+    H, Hyndman R (2015) Rmarkdown: dynamic documents for r'
+- author: F Leisch
+  doi: 10.1007/978-3-642-57489-4_89
+  first-page: '575'
+  unstructured: 'Leisch F (2002) Sweave: dynamic generation of statistical reports
+    using literate data analysis. In: Härdle W, Rönz B (eds) Compstat. Physica-Verlag
+    HD, Berlin, pp 575–580'
+  volume-title: Compstat
+  year: '2002'
+- author: Y Xie
+  isbn: http://id.crossref.org/isbn/9781466561595
+  isbn-type: print
+  unstructured: 'Xie Y (2014) Knitr: a comprehensive tool for reproducible research
+    in R. In: Stodden V, Leisch F, Peng RD (eds) Implementing reproducible computational
+    research. Chapman and Hall/CRC, Boca Raton. ISBN 978-1466561595'
+  volume-title: Implementing reproducible computational research
+  year: '2014'
+doc_url: http://link.springer.com/content/pdf/10.1007/978-1-4939-3578-9_16
+doi: 10.1007/978-1-4939-3578-9_16
+files: []
+isbn:
+- '9781493935765'
+- '9781493935789'
+journal: Methods in Molecular Biology
+month: 3
+pages: 335--351
+papis_id: 0d08ee8a17513c65d9997eb2368340ea
+publisher: Springer New York
+ref: VisualizingGenHahne2016
+time-added: 2024-05-23-14:26:04
+title: Visualizing Genomic Data Using Gviz and Bioconductor
+type: inbook
+url: http://dx.doi.org/10.1007/978-1-4939-3578-9_16
+year: 2016

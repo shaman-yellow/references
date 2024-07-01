@@ -1,0 +1,32 @@
+author: Aryee, Martin J and Jaffe, Andrew E and Corrada-Bravo, Hector and Ladd-Acosta,
+  Christine and Feinberg, Andrew P and Hansen, Kasper D and Irizarry, Rafael A
+author_list:
+- family: Aryee
+  given: Martin J
+- family: Jaffe
+  given: Andrew E
+- family: Corrada-Bravo
+  given: Hector
+- family: Ladd-Acosta
+  given: Christine
+- family: Feinberg
+  given: Andrew P
+- family: Hansen
+  given: Kasper D
+- family: Irizarry
+  given: Rafael A
+doi: 10.1093/bioinformatics/btu049
+files: []
+issn: 1367-4803
+issue: '10'
+journal: Bioinformatics (Oxford, England)
+pages: 1363--1369
+papis_id: 50075e4e734813cd3805a311edadeb0e
+pmid: '24478339'
+ref: MinfiAFlexibAryee2014
+time-added: 2024-05-23-14:23:06
+title: 'Minfi: a flexible and comprehensive Bioconductor package for the analysis
+  of Infinium DNA methylation microarrays'
+type: article
+volume: '30'
+year: 2014

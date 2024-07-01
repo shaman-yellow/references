@@ -1,0 +1,104 @@
+abstract: Disease progression prediction and therapeutic drug target discovery for
+  Coronavirus disease 2019 (COVID-19) are particularly important, as there is still
+  no effective strategy for severe COVID-19 patient treatment. Herein, we performed
+  multi-platform omics analysis of serial plasma and urine samples collected from
+  patients during the course of COVID-19. Integrative analyses of these omics data
+  revealed several potential therapeutic targets, such as ANXA1 and CLEC3B. Molecular
+  changes in plasma indicated dysregulation of macrophage and suppression of T cell
+  functions in severe patients compared to those in non-severe patients. Further,
+  we chose 25 important molecular signatures as potential biomarkers for the prediction
+  of disease severity. The prediction power was validated using corresponding urine
+  samples and plasma samples from new COVID-19 patient cohort, with AUC reached to
+  0.904 and 0.988, respectively. In conclusion, our omics data proposed not only potential
+  therapeutic targets, but also biomarkers for understanding the pathogenesis of severe
+  COVID-19.
+author: Li, Yuming and Hou, Guixue and Zhou, Haibo and Wang, Yanqun and Tun, Hein
+  Min and Zhu, Airu and Zhao, Jingxian and Xiao, Fei and Lin, Shanwen and Liu, Dongdong
+  and Zhou, Dunrong and Mai, Lang and Zhang, Lu and Zhang, Zhaoyong and Kuang, Lijun
+  and Guan, Jiao and Chen, Qiushi and Wen, Liyan and Zhang, Yanjun and Zhuo, Jianfen
+  and Li, Fang and Zhuang, Zhen and Chen, Zhao and Luo, Ling and Liu, Donglan and
+  Chen, Chunke and Gan, Mian and Zhong, Nanshan and Zhao, Jincun and Ren, Yan and
+  Xu, Yonghao
+author_list:
+- family: Li
+  given: Yuming
+- family: Hou
+  given: Guixue
+- family: Zhou
+  given: Haibo
+- family: Wang
+  given: Yanqun
+- family: Tun
+  given: Hein Min
+- family: Zhu
+  given: Airu
+- family: Zhao
+  given: Jingxian
+- family: Xiao
+  given: Fei
+- family: Lin
+  given: Shanwen
+- family: Liu
+  given: Dongdong
+- family: Zhou
+  given: Dunrong
+- family: Mai
+  given: Lang
+- family: Zhang
+  given: Lu
+- family: Zhang
+  given: Zhaoyong
+- family: Kuang
+  given: Lijun
+- family: Guan
+  given: Jiao
+- family: Chen
+  given: Qiushi
+- family: Wen
+  given: Liyan
+- family: Zhang
+  given: Yanjun
+- family: Zhuo
+  given: Jianfen
+- family: Li
+  given: Fang
+- family: Zhuang
+  given: Zhen
+- family: Chen
+  given: Zhao
+- family: Luo
+  given: Ling
+- family: Liu
+  given: Donglan
+- family: Chen
+  given: Chunke
+- family: Gan
+  given: Mian
+- family: Zhong
+  given: Nanshan
+- family: Zhao
+  given: Jincun
+- family: Ren
+  given: Yan
+- family: Xu
+  given: Yonghao
+doi: 10.1038/s41392-021-00508-4
+file: /mnt/data/wizard/Zotero/storage/Z9LYPRRG/Li et al. - 2021 - Multi-platform omics
+  analysis reveals molecular si.pdf
+files: []
+issn: 2059-3635
+journal: Signal Transduction and Targeted Therapy
+keywords: Biomarkers,COVID-19,Drug Discovery,Female,Humans,Lipidomics,Male,Proteomics,SARS-CoV-2
+langid: english
+month: April
+number: '1'
+pages: '155'
+papis_id: 9f597f7040c41b1cbe0b539b3c1da9fb
+pmcid: PMC8047575
+pmid: '33859163'
+ref: MultiPlatformLiYu2021
+title: Multi-Platform Omics Analysis Reveals Molecular Signature for COVID-19 Pathogenesis,
+  Prognosis and Drug Target Discovery
+type: article
+volume: '6'
+year: '2021'

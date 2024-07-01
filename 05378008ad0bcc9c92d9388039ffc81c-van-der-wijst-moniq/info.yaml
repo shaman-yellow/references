@@ -1,0 +1,32 @@
+author: van der Wijst, Monique G. P. and Brugge, Harm and de Vries, Dylan H. and Deelen,
+  Patrick and Swertz, Morris A. and Franke, Lude
+author_list:
+- family: van der Wijst
+  given: Monique G. P.
+- family: Brugge
+  given: Harm
+- family: de Vries
+  given: Dylan H.
+- family: Deelen
+  given: Patrick
+- family: Swertz
+  given: Morris A.
+- family: Franke
+  given: Lude
+doi: 10.1038/s41588-018-0089-9
+files:
+- singlecellrnavande2018-a.pdf
+- singlecellrnavande2018-b.pdf
+issue: '4'
+journal: Nature Genetics
+month: '4'
+page: 493-497
+papis_id: ce431a7bc482153989151787da3f2b40
+publisher: Springer Science and Business Media LLC
+ref: SingleCellRnaVanDe2018
+title: Single-cell RNA sequencing identifies celltype-specific cis-eQTLs and co-expression
+  QTLs
+type: article
+url: http://dx.doi.org/10.1038/s41588-018-0089-9
+volume: '50'
+year: '2018'

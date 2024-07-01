@@ -1,0 +1,27 @@
+author: Law, Charity W. and Alhamdoosh, Monther and Su, Shian and Smyth, Gordon K.
+  and Ritchie, Matthew E.
+author_list:
+- family: Law
+  given: Charity W.
+- family: Alhamdoosh
+  given: Monther
+- family: Su
+  given: Shian
+- family: Smyth
+  given: Gordon K.
+- family: Ritchie
+  given: Matthew E.
+doi: 10.12688/f1000research.9005.1
+files:
+- rnaseqanalysilawc2016-a.pdf
+journal: F1000Research
+month: '6'
+page: '1408'
+papis_id: c1f9f16deb820a71fdcbbae2bdb21114
+publisher: F1000 Research Ltd
+ref: RnaSeqAnalysiLawC2016
+title: RNA-seq analysis is easy as 1-2-3 with limma, Glimma and edgeR
+type: article
+url: http://dx.doi.org/10.12688/f1000research.9005.1
+volume: '5'
+year: '2016'

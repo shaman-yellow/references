@@ -1,0 +1,34 @@
+author: Nickel, Janette and Gohlke, Bjoern-Oliver and Erehman, Jevgeni and Banerjee,
+  Priyanka and Rong, Wen Wei and Goede, Andrean and Dunkel, Mathias and Preissner,
+  Robert
+author_list:
+- family: Nickel
+  given: Janette
+- family: Gohlke
+  given: Bjoern-Oliver
+- family: Erehman
+  given: Jevgeni
+- family: Banerjee
+  given: Priyanka
+- family: Rong
+  given: Wen Wei
+- family: Goede
+  given: Andrean
+- family: Dunkel
+  given: Mathias
+- family: Preissner
+  given: Robert
+doi: 10.1093/nar/gku477
+files: []
+issn: 0305-1048
+issue: Web Server issue
+journal: Nucleic acids research
+pages: W26--W31
+papis_id: 73f4fd5e2f8e280068734ca3cbe16c48
+pmid: '24878925'
+ref: SuperpredUpdaNickel2014
+time-added: 2024-01-15-13:51:23
+title: 'SuperPred: update on drug classification and target prediction'
+type: article
+volume: '42'
+year: 2014

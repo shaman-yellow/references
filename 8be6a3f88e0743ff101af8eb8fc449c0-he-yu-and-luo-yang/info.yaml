@@ -1,0 +1,33 @@
+author: He, Yu and Luo, Yang and Zhang, Dan and Wang, Xixi and Zhang, Peng and Li,
+  Haocheng and Ejaz, Samina and Liang, Shufang
+author_list:
+- family: He
+  given: Yu
+- family: Luo
+  given: Yang
+- family: Zhang
+  given: Dan
+- family: Wang
+  given: Xixi
+- family: Zhang
+  given: Peng
+- family: Li
+  given: Haocheng
+- family: Ejaz
+  given: Samina
+- family: Liang
+  given: Shufang
+files:
+- pgk1mediatedcheyu2019-a.pdf
+issn: 2156-6976
+issue: '11'
+journal: American journal of cancer research
+pages: 2280--2302
+papis_id: 99f4a88de3369cdcd2491d34b31aba36
+pmid: '31815035'
+ref: Pgk1MediatedCHeYu2019
+time-added: 2023-08-25-12:00:01
+title: PGK1-mediated cancer progression and drug resistance
+type: article
+volume: '9'
+year: 2019

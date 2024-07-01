@@ -1,0 +1,34 @@
+abstract: We introduce a novel Bayesian probabilistic peak detection algorithm for
+  liquid chromatography-mass spectroscopy (LC-MS). The final probabilistic result
+  allows the user to make a final decision about which points in a chromatogram are
+  affected by a chromatographic peak and which ones are only affected by noise. The
+  use of probabilities contrasts with the traditional method in which a binary answer
+  is given, relying on a threshold. By contrast, with the Bayesian peak detection
+  presented here, the values of probability can be further propagated into other preprocessing
+  steps, which will increase (or decrease) the importance of chromatographic regions
+  into the final results. The present work is based on the use of the statistical
+  overlap theory of component overlap from Davis and Giddings (Davis, J. M.; Giddings,
+  J. Anal. Chem. 1983, 55, 418-424) as prior probability in the Bayesian formulation.
+  The algorithm was tested on LC-MS Orbitrap data and was able to successfully distinguish
+  chemical noise from actual peaks without any data preprocessing.
+author: Woldegebriel, Michael and Vivó-Truyols, Gabriel
+author_list:
+- family: Woldegebriel
+  given: Michael
+- family: Vivó-Truyols
+  given: Gabriel
+doi: 10.1021/acs.analchem.5b01521
+files: []
+issn: 1520-6882
+journal: Analytical Chemistry
+langid: english
+month: July
+number: '14'
+pages: 7345--7355
+papis_id: fd1497acc9880dacec3acb8f1066bf41
+pmid: '26095981'
+ref: ProbabilisticMWoldeg2015
+title: Probabilistic Model for Untargeted Peak Detection in LC-MS Using Bayesian Statistics
+type: article
+volume: '87'
+year: '2015'

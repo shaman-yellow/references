@@ -1,0 +1,44 @@
+abstract: Empirical Bayes is a statistical approach for estimating a series of unknown
+  parameters from a series of associated data observations. It provides an effective
+  means to ``borrow strength'' from the ensemble of cases when making inference about
+  each individual case. Such methods are ideally suited to genomic applications where
+  data is collected for tens of thousands of genes simultaneously. Empirical Bayes
+  methods can however be less effective when highly exceptional cases are present.
+  This article proposes a practical solution whereby exceptional cases are identified
+  and the amount of ``learning'' from the ensemble appropriate for each case is assessed
+  on a case-specific basis. The approach is developed in detail for the problem of
+  estimating genewise variances from microarray data. In this context, the proposed
+  robust empirical Bayes procedure recognizes and protects against hyper-variable
+  genes. The new procedure improves statistical power for most genes in many microarray
+  data sets. Simulations show that the robust estimation procedure correctly controls
+  the type I error rate and does not increase the number of false discoveries when
+  no hyper-variable genes are present. In the presence of hyper-variable genes, the
+  robust method improves power to detect differential expression for the majority
+  of genes that are not outliers. The proposed robust method is applied to an example
+  microarray data set, on which it correctly identifies and downweights genes associated
+  with a hidden covariate and detects more genes likely to be scientifically relevant
+  to the experimental conditions. The new procedure is implemented in the limma software
+  package which is freely available from the Bioconductor repository.
+author: Phipson, Belinda and Lee, Stanley and Majewski, Ian J and Alexander, Warren
+  S and Smyth, Gordon K
+author_list:
+- family: Phipson
+  given: Belinda
+- family: Lee
+  given: Stanley
+- family: Majewski
+  given: Ian J
+- family: Alexander
+  given: Warren S
+- family: Smyth
+  given: Gordon K
+file: /mnt/data/wizard/Zotero/storage/TTZH4IFC/Phipson et al. - Empirical Bayes in
+  the presence of exceptional cas.pdf
+files: []
+langid: english
+pages: '18'
+papis_id: 151998fc82e098b8dd981ee03ba8f9a1
+ref: EmpiricalBayesPhipso
+title: Empirical Bayes in the Presence of Exceptional Cases, with Application to Microarray
+  Data
+type: article

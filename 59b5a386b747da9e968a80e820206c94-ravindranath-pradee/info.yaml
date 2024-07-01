@@ -1,0 +1,27 @@
+author: Ravindranath, Pradeep Anand and Forli, Stefano and Goodsell, David S and Olson,
+  Arthur J and Sanner, Michel F
+author_list:
+- family: Ravindranath
+  given: Pradeep Anand
+- family: Forli
+  given: Stefano
+- family: Goodsell
+  given: David S
+- family: Olson
+  given: Arthur J
+- family: Sanner
+  given: Michel F
+doi: 10.1371/journal.pcbi.1004586
+files: []
+issn: 1553-734X
+issue: '12'
+journal: PLoS computational biology
+papis_id: 954cda2564e43589c8f0d8391373f31f
+pmid: '26629955'
+ref: AutodockfrAdvRavind2015
+time-added: 2024-02-01-11:15:33
+title: 'AutoDockFR: Advances in Protein-Ligand Docking with Explicitly Specified Binding
+  Site Flexibility'
+type: article
+volume: '11'
+year: 2015

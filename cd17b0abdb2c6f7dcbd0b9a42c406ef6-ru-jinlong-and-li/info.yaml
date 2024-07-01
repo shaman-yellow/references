@@ -1,0 +1,44 @@
+author: Ru, Jinlong and Li, Peng and Wang, Jinan and Zhou, Wei and Li, Bohui and Huang,
+  Chao and Li, Pidong and Guo, Zihu and Tao, Weiyang and Yang, Yinfeng and Xu, Xue
+  and Li, Yan and Wang, Yonghua and Yang, Ling
+author_list:
+- family: Ru
+  given: Jinlong
+- family: Li
+  given: Peng
+- family: Wang
+  given: Jinan
+- family: Zhou
+  given: Wei
+- family: Li
+  given: Bohui
+- family: Huang
+  given: Chao
+- family: Li
+  given: Pidong
+- family: Guo
+  given: Zihu
+- family: Tao
+  given: Weiyang
+- family: Yang
+  given: Yinfeng
+- family: Xu
+  given: Xue
+- family: Li
+  given: Yan
+- family: Wang
+  given: Yonghua
+- family: Yang
+  given: Ling
+doi: 10.1186/1758-2946-6-13
+files: []
+issn: 1758-2946
+journal: Journal of cheminformatics
+papis_id: 4ae7aad44fbf42848251c2956ecdc6da
+pmid: '24735618'
+ref: TcmspADatabaRuJi2014
+time-added: 2023-12-26-14:00:48
+title: 'TCMSP: a database of systems pharmacology for drug discovery from herbal medicines'
+type: article
+volume: '6'
+year: 2014

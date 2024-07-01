@@ -1,0 +1,34 @@
+author: Bunne, Charlotte and Stark, Stefan G. and Gut, Gabriele and del Castillo,
+  Jacobo Sarabia and Levesque, Mitch and Lehmann, Kjong-Van and Pelkmans, Lucas and
+  Krause, Andreas and Rätsch, Gunnar
+author_list:
+- family: Bunne
+  given: Charlotte
+- family: Stark
+  given: Stefan G.
+- family: Gut
+  given: Gabriele
+- family: del Castillo
+  given: Jacobo Sarabia
+- family: Levesque
+  given: Mitch
+- family: Lehmann
+  given: Kjong-Van
+- family: Pelkmans
+  given: Lucas
+- family: Krause
+  given: Andreas
+- family: Rätsch
+  given: Gunnar
+doi: 10.1038/s41592-023-01969-x
+files:
+- learningsinglebunne2023-a.pdf
+journal: Nature Methods
+month: '9'
+papis_id: 39a15d7263df6b3ae3f23f8c453d08fe
+publisher: Springer Science and Business Media LLC
+ref: LearningSingleBunne2023
+title: Learning single-cell perturbation responses using neural optimal transport
+type: article
+url: http://dx.doi.org/10.1038/s41592-023-01969-x
+year: '2023'

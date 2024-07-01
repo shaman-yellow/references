@@ -1,0 +1,43 @@
+abstract: Optical chemical structure recognition from scientific publications is essential
+  for rediscovering a chemical structure. It is an extremely challenging problem,
+  and current rule-based and deep-learning methods cannot achieve satisfactory recognition
+  rates. Herein, we propose SwinOCSR, an end-to-end model based on a Swin Transformer.
+  This model uses the Swin Transformer as the backbone to extract image features and
+  introduces Transformer models to convert chemical information from publications
+  into DeepSMILES. A novel chemical structure dataset was constructed to train and
+  verify our method. Our proposed Swin Transformer-based model was extensively tested
+  against the backbone of existing publicly available deep learning methods. The experimental
+  results show that our model significantly outperforms the compared methods, demonstrating
+  the model's effectiveness. Moreover, we used a focal loss to address the token imbalance
+  problem in the text representation of the chemical structure diagram, and our model
+  achieved an accuracy of 98.58\%.
+author: Xu, Zhanpeng and Li, Jianhua and Yang, Zhaopeng and Li, Shiliang and Li, Honglin
+author_list:
+- family: Xu
+  given: Zhanpeng
+- family: Li
+  given: Jianhua
+- family: Yang
+  given: Zhaopeng
+- family: Li
+  given: Shiliang
+- family: Li
+  given: Honglin
+doi: 10.1186/s13321-022-00624-5
+file: /mnt/data/wizard/Zotero/storage/6TWPQEUF/Xu et al. - 2022 - SwinOCSR end-to-end
+  optical chemical structure re.pdf
+files: []
+issn: 1758-2946
+journal: Journal of Cheminformatics
+langid: english
+month: December
+number: '1'
+pages: '41'
+papis_id: 98b05ce9be7cc94d5dac87d834442feb
+ref: SwinocsrEndTXuZh2022
+shorttitle: '{{SwinOCSR}}'
+title: 'SwinOCSR: End-to-End Optical Chemical Structure Recognition Using a Swin Transformer'
+type: article
+urldate: '2022-07-14'
+volume: '14'
+year: '2022'

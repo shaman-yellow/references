@@ -1,0 +1,50 @@
+abstract: In the past decade, advances in liquid chromatography-mass spectrometry
+  (LC-MS) have revolutionized untargeted metabolomics analyses. By mining metabolomes
+  more deeply, researchers are now primed to uncover key metabolites and their associations
+  with diseases. The employment of untargeted metabolomics has led to new biomarker
+  discoveries and a better mechanistic understanding of diseases with applications
+  in precision medicine. However, many major pertinent challenges remain. First, compound
+  identification has been poor, and left an overwhelming number of unidentified peaks.
+  Second, partial, incomplete metabolomes persist due to factors such as limitations
+  in mass spectrometry data acquisition speeds, wide-range of metabolites concentrations,
+  and cellular/tissue/temporal-specific expression changes that confound our understanding
+  of metabolite perturbations. Third, to contextualize metabolites in pathways and
+  biology is difficult because many metabolites partake in multiple pathways, have
+  yet to be described species specificity, or possess unannotated or more-complex
+  functions that are not easily characterized through metabolomics analyses. From
+  a translational perspective, information related to novel metabolite biomarkers,
+  metabolic pathways, and drug targets might be sparser than they should be. Thankfully,
+  significant progress has been made and novel solutions are emerging, achieved through
+  sustained academic and industrial community efforts in terms of hardware, computational,
+  and experimental approaches. Given the rapidly growing utility of metabolomics,
+  this review will offer new perspectives, increase awareness of the major challenges
+  in LC-MS metabolomics that will significantly benefit the metabolomics community
+  and also the broader the biomedical community metabolomics aspire to serve.
+author: Cui, Liang and Lu, Haitao and Lee, Yie Hou
+author_list:
+- family: Cui
+  given: Liang
+- family: Lu
+  given: Haitao
+- family: Lee
+  given: Yie Hou
+doi: 10.1002/mas.21562
+file: /home/echo/Documents/cui2018.pdf
+files: []
+issn: 1098-2787
+journal: Mass Spectrometry Reviews
+keywords: Animals,Biomarkers,{Chromatography, Liquid},disease,Humans,liquid chromatography,mass
+  spectrometry,medicine,Metabolic Networks and Pathways,Metabolome,metabolomics,Metabolomics,Tandem
+  Mass Spectrometry,untargeted metabolomics
+langid: english
+month: November
+number: '6'
+pages: 772--792
+papis_id: ad0f208f88534fab4495e551509e67f0
+pmid: '29486047'
+ref: ChallengesAndCuiL2018
+title: Challenges and Emergent Solutions for LC-MS/MS Based Untargeted Metabolomics
+  in Diseases
+type: article
+volume: '37'
+year: '2018'

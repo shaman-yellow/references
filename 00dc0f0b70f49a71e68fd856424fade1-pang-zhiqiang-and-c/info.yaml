@@ -1,0 +1,18 @@
+author: Pang, Zhiqiang and Chong, Jasmine and Li, Shuzhao and Xia, Jianguo
+author_list:
+- family: Pang
+  given: Zhiqiang
+- family: Chong
+  given: Jasmine
+- family: Li
+  given: Shuzhao
+- family: Xia
+  given: Jianguo
+doi: 10.3390/metabo10050186
+files: []
+journal: Metabolites
+papis_id: b6b90500417b35f2b21cc53777069770
+ref: MetaboanalystrPang2020
+title: 'MetaboAnalystR 3.0: Toward an Optimized Workflow for Global Metabolomics'
+type: article
+year: '2020'

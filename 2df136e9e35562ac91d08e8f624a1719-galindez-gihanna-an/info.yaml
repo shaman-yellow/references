@@ -1,0 +1,1368 @@
+author: Galindez, Gihanna and Sadegh, Sepideh and Baumbach, Jan and Kacprowski, Tim
+  and List, Markus
+author_list:
+- affiliation: []
+  family: Galindez
+  given: Gihanna
+- affiliation: []
+  family: Sadegh
+  given: Sepideh
+- affiliation: []
+  family: Baumbach
+  given: Jan
+- affiliation: []
+  family: Kacprowski
+  given: Tim
+- affiliation: []
+  family: List
+  given: Markus
+citations:
+- article-title: 'The BioGRID interaction database: 2019 update'
+  author: Oughtred
+  doi: 10.1093/nar/gky1079
+  first-page: D529
+  journal-title: Nucleic Acids Res
+  volume: '47'
+  year: '2019'
+- article-title: 'The STRING database in 2021: customizable protein–protein networks,
+    and functional characterization of user-uploaded gene/measurement sets'
+  author: Szklarczyk
+  doi: 10.1093/nar/gkaa1074
+  first-page: D605
+  journal-title: Nucleic Acids Res
+  volume: '49'
+  year: '2020'
+- article-title: 'Learning from co-expression networks: possibilities and challenges'
+  author: Serin
+  doi: 10.3389/fpls.2016.00444
+  first-page: '444'
+  journal-title: Front Plant Sci
+  volume: '7'
+  year: '2016'
+- article-title: 'Understanding metabolic regulation at a systems level: metabolite
+    sensing, mathematical predictions, and model organisms'
+  author: Watson
+  doi: 10.1146/annurev-genet-112414-055257
+  first-page: '553'
+  journal-title: Annu Rev Genet
+  volume: '49'
+  year: '2015'
+- article-title: Reconstruction of cellular signalling networks and analysis of their
+    properties
+  author: Papin
+  doi: 10.1038/nrm1570
+  first-page: '99'
+  journal-title: Nat Rev Mol Cell Biol
+  volume: '6'
+  year: '2005'
+- article-title: Profiling cell signaling networks at single-cell resolution
+  author: Lun
+  doi: 10.1074/mcp.R119.001790
+  first-page: '744'
+  journal-title: Mol Cell Proteomics
+  volume: '19'
+  year: '2020'
+- article-title: 'Gene regulatory networks and their applications: understanding biological
+    and medical problems in terms of networks'
+  author: Emmert-Streib
+  doi: 10.3389/fcell.2014.00038
+  first-page: '38'
+  journal-title: Front Cell Dev Biol
+  volume: '2'
+  year: '2014'
+- article-title: Network approaches for modeling the effect of drugs and diseases
+  author: Rintala
+  doi: 10.1093/bib/bbac229
+  journal-title: Brief Bioinform
+  volume: '23'
+  year: '2022'
+- article-title: 'Network medicine: a network-based approach to human disease'
+  author: Barabási
+  doi: 10.1038/nrg2918
+  first-page: '56'
+  journal-title: Nat Rev Genet
+  volume: '12'
+  year: '2011'
+- article-title: A disease module in the interactome explains disease heterogeneity,
+    drug response and captures novel pathways and genes in asthma
+  author: Sharma
+  doi: 10.1093/hmg/ddv001
+  first-page: '3005'
+  journal-title: Hum Mol Genet
+  volume: '24'
+  year: '2015'
+- article-title: The human disease network
+  author: Goh
+  doi: 10.1073/pnas.0701361104
+  first-page: '8685'
+  journal-title: Proc Natl Acad Sci USA
+  volume: '104'
+  year: '2007'
+- article-title: Uncovering disease-disease relationships through the incomplete interactome
+  author: Menche
+  doi: 10.1126/science.1257601
+  journal-title: Science
+  volume: '347'
+  year: '2015'
+- article-title: 'Network pharmacology: the next paradigm in drug discovery'
+  author: Hopkins
+  doi: 10.1038/nchembio.118
+  first-page: '682'
+  journal-title: Nat Chem Biol
+  volume: '4'
+  year: '2008'
+- article-title: 'Network pharmacology: curing causal mechanisms instead of treating
+    symptoms'
+  author: Nogales
+  doi: 10.1016/j.tips.2021.11.004
+  first-page: '136'
+  journal-title: Trends Pharmacol Sci
+  volume: '43'
+  year: '2022'
+- article-title: 'Gene set enrichment analysis: a knowledge-based approach for interpreting
+    genome-wide expression profiles'
+  author: Subramanian
+  doi: 10.1073/pnas.0506580102
+  first-page: '15545'
+  journal-title: Proc Natl Acad Sci USA
+  volume: '102'
+  year: '2005'
+- article-title: Toward a gold standard for benchmarking gene set enrichment analysis
+  author: Geistlinger
+  journal-title: Brief Bioinform
+  year: '2020'
+- article-title: On the performance of de novo pathway enrichment
+  author: Batra
+  doi: 10.1038/s41540-017-0007-2
+  first-page: '6'
+  journal-title: NPJ Syst Biol Appl
+  volume: '3'
+  year: '2017'
+- article-title: 'SigMod: an exact and efficient method to identify a strongly interconnected
+    disease-associated module in a gene network'
+  author: Liu
+  doi: 10.1093/bioinformatics/btx004
+  first-page: '1536'
+  journal-title: Bioinformatics
+  volume: '33'
+  year: '2017'
+- unstructured: 'S.M. Inavolu, J. Renbarger, M. Radovich, IODNE: An integrated optimization
+    method for identifying the deregulated subnetwork for precision medicine in cancer
+    CPT 2017.〈https://ascpt.onlinelibrary.wiley.com/doi/abs/10.1002/psp4.12167%4010.1002/%28ISSN%292163-8306.Cancer〉.'
+- article-title: 'PCSF: an R-package for network-based interpretation of high-throughput
+    data'
+  author: Akhmedov
+  doi: 10.1371/journal.pcbi.1005694
+  journal-title: PLoS Comput Biol
+  volume: '13'
+  year: '2017'
+- article-title: Network-based interpretation of diverse high-throughput datasets
+    through the omics integrator software package
+  author: Tuncbag
+  doi: 10.1371/journal.pcbi.1004879
+  journal-title: PLoS Comput Biol
+  volume: '12'
+  year: '2016'
+- article-title: Network medicine for disease module identification and drug repurposing
+    with the NeDRex platform
+  author: Sadegh
+  doi: 10.1038/s41467-021-27138-2
+  first-page: '6848'
+  journal-title: Nat Commun
+  volume: '12'
+  year: '2021'
+- article-title: Robust disease module mining via enumeration of diverse prize-collecting
+    Steiner trees
+  author: Bernett
+  doi: 10.1093/bioinformatics/btab876
+  journal-title: Bioinformatics
+  year: '2022'
+- article-title: 'DOMINO: a novel algorithm for network-based identification of active
+    modules with reduced rate of false calls'
+  author: Levi
+  doi: 10.15252/msb.20209593
+  journal-title: Mol Syst Biol
+  volume: '17'
+  year: '2021'
+- article-title: Robust de novo pathway enrichment with KeyPathwayMiner 5
+  author: Alcaraz
+  doi: 10.12688/f1000research.9054.1
+  first-page: '1531'
+  journal-title: F1000Res
+  volume: '5'
+  year: '2016'
+- article-title: 'Modulediscoverer: Identification of regulatory modules in protein-protein
+    interaction networks'
+  author: Vlaic
+  doi: 10.1038/s41598-017-18370-2
+  journal-title: Sci Rep
+  volume: '8'
+  year: '2018'
+- article-title: 'NoMAS: a computational approach to find mutated subnetworks associated
+    with survival in genome-wide cancer studies'
+  author: Altieri
+  doi: 10.3389/fgene.2019.00265
+  first-page: '265'
+  journal-title: Front Genet
+  volume: '10'
+  year: '2019'
+- article-title: Network-based coverage of mutational profiles reveals cancer genes
+  author: Hristov
+  doi: 10.1016/j.cels.2017.09.003
+  first-page: '221'
+  journal-title: Cell Syst
+  volume: '5'
+  year: '2017'
+- article-title: 'NetDecoder: a network biology platform that decodes context-specific
+    biological networks and gene activities'
+  author: da Rocha
+  journal-title: Nucleic Acids Res
+  volume: '44'
+  year: '2016'
+- article-title: Pan-cancer network analysis identifies combinations of rare somatic
+    mutations across pathways and protein complexes
+  author: Leiserson
+  doi: 10.1038/ng.3168
+  first-page: '106'
+  journal-title: Nat Genet
+  volume: '47'
+  year: '2015'
+- article-title: 'Hierarchical HotNet: identifying hierarchies of altered subnetworks'
+  author: Reyna
+  doi: 10.1093/bioinformatics/bty613
+  first-page: i972
+  journal-title: Bioinformatics
+  volume: '34'
+  year: '2018'
+- article-title: De Novo and supervised endophenotyping using network-guided ensemble
+    learning
+  author: Larsen
+  doi: 10.1089/sysm.2019.0008
+  first-page: '8'
+  journal-title: Syst Med
+  volume: '3'
+  year: '2020'
+- article-title: Disease Module Identification Based on Representation Learning of
+    Complex Networks Integrated From GWAS, eQTL Summaries, and Human Interactome
+  author: Wang
+  doi: 10.3389/fbioe.2020.00418
+  first-page: '418'
+  journal-title: Front Bioeng Biotechnol
+  volume: '8'
+  year: '2020'
+- article-title: 'BiCoN: Network-constrained biclustering of patients and omics data'
+  author: Lazareva
+  journal-title: Bioinformatics
+  year: '2020'
+- article-title: Time-resolved systems medicine reveals viral infection-modulating
+    host targets
+  author: Wiwie
+  doi: 10.1089/sysm.2018.0013
+  first-page: '1'
+  journal-title: Syst Med
+  volume: '2'
+  year: '2019'
+- article-title: Multi-omic evaluation of metabolic alterations in multiple sclerosis
+    identifies shifts in aromatic amino acid metabolism
+  author: Fitzgerald
+  journal-title: Cell Rep Med
+  volume: '2'
+  year: '2021'
+- article-title: Genome-scale networks link neurodegenerative disease genes to α-synuclein
+    through specific molecular pathways
+  author: Khurana
+  doi: 10.1016/j.cels.2016.12.011
+  first-page: '157'
+  journal-title: Cell Syst
+  volume: '4'
+  year: '2017'
+- article-title: Individuating Possibly Repurposable Drugs and Drug Targets for COVID-19
+    Treatment Through Hypothesis-Driven Systems Medicine Using CoVex
+  author: Matschinske
+  doi: 10.1089/adt.2020.1010
+  first-page: '348'
+  journal-title: Assay Drug Dev Technol
+  volume: '18'
+  year: '2020'
+- article-title: Systematic analysis of alternative splicing in time course data using
+    Spycone
+  author: Lio
+  journal-title: bioRxiv
+  year: '2022'
+- article-title: Comparative transcriptome analysis reveals key epigenetic targets
+    in SARS-CoV-2 infection
+  author: Salgado-Albarrán
+  doi: 10.1038/s41540-021-00181-x
+  first-page: '21'
+  journal-title: NPJ Syst Biol Appl
+  volume: '7'
+  year: '2021'
+- article-title: Mesenchymal stromal cells mitigate liver damage after extended resection
+    in the pig by modulating thrombospondin-1/TGF-β
+  author: Nickel
+  doi: 10.1038/s41536-021-00194-4
+  first-page: '84'
+  journal-title: NPJ Regen Med
+  volume: '6'
+  year: '2021'
+- article-title: Modular network mechanism of CCN1-associated resistance to HSV-1-derived
+    oncolytic immunovirotherapies for glioblastomas
+  author: Monie
+  doi: 10.1038/s41598-021-90718-1
+  first-page: '11198'
+  journal-title: Sci Rep
+  volume: '11'
+  year: '2021'
+- article-title: Genomic analyses identify molecular subtypes of pancreatic cancer
+  author: Bailey
+  doi: 10.1038/nature16965
+  first-page: '47'
+  journal-title: Nature
+  year: '2016'
+- article-title: Multilevel proteomics reveals host perturbations by SARS-CoV-2 and
+    SARS-CoV
+  author: Stukalov
+  doi: 10.1038/s41586-021-03493-4
+  first-page: '246'
+  journal-title: Nature
+  volume: '594'
+  year: '2021'
+- article-title: Transcriptome and lipidome profile of human mesenchymal stem cells
+    with reduced senescence and increased trilineage differentiation ability upon
+    drug treatment
+  author: Chen
+  doi: 10.18632/aging.202759
+  first-page: '9991'
+  journal-title: Aging
+  volume: '13'
+  year: '2021'
+- article-title: 'Inferring causal molecular networks: empirical assessment through
+    a community-based effort'
+  author: Hill
+  doi: 10.1038/nmeth.3773
+  first-page: '310'
+  journal-title: Nat Methods
+  volume: '13'
+  year: '2016'
+- article-title: 'Towards a rigorous assessment of systems biology models: the DREAM3
+    challenges'
+  author: Prill
+  doi: 10.1371/annotation/f633213a-dc4f-4bee-b6c5-72d50e7073b8
+  journal-title: PLoS One
+  volume: '5'
+  year: '2010'
+- article-title: 'WGCNA: an R package for weighted correlation network analysis'
+  author: Langfelder
+  doi: 10.1186/1471-2105-9-559
+  first-page: '559'
+  journal-title: BMC Bioinform
+  volume: '9'
+  year: '2008'
+- article-title: 'Network inference in systems biology: recent developments, challenges,
+    and applications'
+  author: Saint-Antoine
+  doi: 10.1016/j.copbio.2019.12.002
+  first-page: '89'
+  journal-title: Curr Opin Biotechnol
+  volume: '63'
+  year: '2020'
+- article-title: 'ARACNE: an algorithm for the reconstruction of gene regulatory networks
+    in a mammalian cellular context'
+  author: Margolin
+  doi: 10.1186/1471-2105-7-S1-S7
+  first-page: S7
+  issue: '1'
+  journal-title: BMC Bioinform
+  volume: '7'
+  year: '2006'
+- article-title: 'ARACNe-AP: gene network reverse engineering through adaptive partitioning
+    inference of mutual information'
+  author: Lachmann
+  doi: 10.1093/bioinformatics/btw216
+  first-page: '2233'
+  journal-title: Bioinformatics
+  volume: '32'
+  year: '2016'
+- article-title: Large-scale mapping and validation of Escherichia coli transcriptional
+    regulation from a compendium of expression profiles
+  author: Faith
+  doi: 10.1371/journal.pbio.0050008
+  journal-title: PLoS Biol
+  volume: '5'
+  year: '2007'
+- article-title: Improving gene regulatory network structure using redundancy reduction
+    in the MRNET algorithm
+  author: Liu
+  doi: 10.1039/C7RA01557G
+  first-page: '23222'
+  journal-title: RSC Adv
+  volume: '7'
+  year: '2017'
+- article-title: Inferring regulatory networks from expression data using tree-based
+    methods
+  author: Huynh-Thu
+  doi: 10.1371/journal.pone.0012776
+  journal-title: PLoS One
+  volume: '5'
+  year: '2010'
+- article-title: 'GRNBoost2 and Arboreto: efficient and scalable inference of gene
+    regulatory networks'
+  author: Moerman
+  doi: 10.1093/bioinformatics/bty916
+  first-page: '2159'
+  journal-title: Bioinformatics
+  volume: '35'
+  year: '2019'
+- article-title: Gene regulatory network inference using PLS-based methods
+  author: Guo
+  doi: 10.1186/s12859-016-1398-6
+  first-page: '545'
+  journal-title: BMC Bioinform
+  volume: '17'
+  year: '2016'
+- article-title: Sparse inverse covariance estimation with the graphical lasso
+  author: Friedman
+  doi: 10.1093/biostatistics/kxm045
+  first-page: '432'
+  journal-title: Biostatistics
+  volume: '9'
+  year: '2008'
+- article-title: 'FastGGM: an efficient algorithm for the inference of Gaussian graphical
+    model in biological networks'
+  author: Wang
+  doi: 10.1371/journal.pcbi.1004755
+  journal-title: PLoS Comput Biol
+  volume: '12'
+  year: '2016'
+- article-title: Asymptotic normality and optimalities in estimation of large Gaussian
+    graphical models
+  author: Ren
+  first-page: '991'
+  journal-title: Aos
+  volume: '43'
+  year: '2015'
+- author: Koller
+  series-title: 'Probabilistic Graphical Models: Principles And Techniques'
+  year: '2009'
+- article-title: 'Learning the structure of bayesian networks: a quantitative assessment
+    of the effect of different algorithmic schemes'
+  author: Beretta
+  first-page: '1'
+  journal-title: Complexity
+  volume: '2018'
+  year: '2018'
+- doi: 10.7551/mitpress/1754.001.0001
+  unstructured: P. Spirtes, C. Glymour, R. Scheines, Causation, Prediction, and Search,
+    (2001). 〈https://doi.org/10.7551/mitpress/1754.001.0001〉.
+- article-title: Mutational interactions define novel cancer subgroups
+  author: Kuipers
+  doi: 10.1038/s41467-018-06867-x
+  first-page: '4353'
+  journal-title: Nat Commun
+  volume: '9'
+  year: '2018'
+- unstructured: P. Suter, J. Kuipers, G. Moffa, N. Beerenwinkel, Bayesian structure
+    learning and sampling of Bayesian networks with the R package BiDAG, arXiv [stat.CO].
+    (2021). 〈http://arxiv.org/abs/2105.00488〉.
+- article-title: Inference of gene regulatory network based on local bayesian networks
+  author: Liu
+  doi: 10.1371/journal.pcbi.1005024
+  journal-title: PLoS Comput Biol
+  volume: '12'
+  year: '2016'
+- unstructured: N.K. Kitson, A.C. Constantinou, Z. Guo, Y. Liu, K. Chobtham, A survey
+    of Bayesian Network structure learning, arXiv [cs.LG]. (2021). 〈http://arxiv.org/abs/2109.11415〉.
+- article-title: D’ya like DAGs? A survey on structure learning and causal discovery
+  author: Vowels
+  doi: 10.1145/3527154
+  first-page: '1'
+  journal-title: ACM Comput Surv
+  volume: '55'
+  year: '2023'
+- article-title: Supervised learning of gene-regulatory networks based on graph distance
+    profiles of transcriptomics data
+  author: Razaghi-Moghadam
+  doi: 10.1038/s41540-020-0140-1
+  first-page: '21'
+  journal-title: NPJ Syst Biol Appl
+  volume: '6'
+  year: '2020'
+- article-title: Deep learning for inferring gene relationships from single-cell expression
+    data
+  author: Yuan
+  doi: 10.1073/pnas.1911536116
+  first-page: '27151'
+  journal-title: Proc Natl Acad Sci USA
+  volume: '116'
+  year: '2019'
+- article-title: 'DeepDRIM: a deep neural network to reconstruct cell-type-specific
+    gene regulatory network using single-cell RNA-seq data'
+  author: Chen
+  doi: 10.1093/bib/bbab325
+  journal-title: Brief Bioinform
+  volume: '22'
+  year: '2021'
+- unstructured: 'X. Zheng, B. Aragam, P. Ravikumar, E.P. Xing, DAGs with NO TEARS:
+    Continuous optimization for structure learning, arXiv [stat.ML]. (2018). 〈https://proceedings.neurips.cc/paper/2018/hash/e347c51419ffb23ca3fd5050202f9c3d-Abstract.html〉
+    (accessed November 30, 2022).'
+- article-title: Modeling gene regulatory networks using neural network architectures
+  author: Shu
+  doi: 10.1038/s43588-021-00099-8
+  first-page: '491'
+  journal-title: Nat Comput Sci
+  volume: '1'
+  year: '2021'
+- article-title: Transcriptomic analysis of autistic brain reveals convergent molecular
+    pathology
+  author: Voineagu
+  doi: 10.1038/nature10110
+  first-page: '380'
+  journal-title: Nature
+  volume: '474'
+  year: '2011'
+- article-title: Transcriptomic organization of the human brain in post-traumatic
+    stress disorder
+  author: Girgenti
+  doi: 10.1038/s41593-020-00748-7
+  first-page: '24'
+  journal-title: Nat Neurosci
+  volume: '24'
+  year: '2021'
+- article-title: Plasma microRNA profiling reveals loss of endothelial miR-126 and
+    other microRNAs in type 2 diabetes
+  author: Zampetaki
+  doi: 10.1161/CIRCRESAHA.110.226357
+  first-page: '810'
+  journal-title: Circ Res
+  volume: '107'
+  year: '2010'
+- article-title: Genome-wide analysis of a Wnt1-regulated transcriptional network
+    implicates neurodegenerative pathways
+  author: Wexler
+  doi: 10.1126/scisignal.2002282
+  journal-title: Sci Signal
+  volume: '4'
+  year: '2011'
+- article-title: Information-theoretic inference of large transcriptional regulatory
+    networks
+  author: Meyer
+  first-page: '79879'
+  journal-title: EURASIP J Bioinform Syst Biol
+  year: '2007'
+- article-title: Decoding the regulatory landscape of melanoma reveals TEADS as regulators
+    of the invasive cell state
+  author: Verfaillie
+  doi: 10.1038/ncomms7683
+  first-page: '6683'
+  journal-title: Nat Commun
+  volume: '6'
+  year: '2015'
+- article-title: Decoding myofibroblast origins in human kidney fibrosis
+  author: Kuppe
+  doi: 10.1038/s41586-020-2941-1
+  first-page: '281'
+  journal-title: Nature
+  volume: '589'
+  year: '2021'
+- article-title: 'Computational identification of new potential transcriptional partners
+    of ERRα in breast cancer cells: specific partners for specific targets'
+  author: Cerutti
+  doi: 10.1038/s41598-022-07744-w
+  first-page: '3826'
+  journal-title: Sci Rep
+  volume: '12'
+  year: '2022'
+- article-title: Discovering gene regulatory networks of multiple phenotypic groups
+    using dynamic Bayesian networks
+  author: Suter
+  doi: 10.1093/bib/bbac219
+  journal-title: Brief Bioinform
+  year: '2022'
+- article-title: 'ATEN: And/Or tree ensemble for inferring accurate Boolean network
+    topology and dynamics'
+  author: Shi
+  doi: 10.1093/bioinformatics/btz563
+  first-page: '578'
+  journal-title: Bioinformatics
+  volume: '36'
+  year: '2020'
+- article-title: A Boolean network inference from time-series gene expression data
+    using a genetic algorithm
+  author: Barman
+  doi: 10.1093/bioinformatics/bty584
+  first-page: i927
+  journal-title: Bioinformatics
+  volume: '34'
+  year: '2018'
+- article-title: Extensive tissue-specific expression variation and novel regulators
+    underlying circadian behavior
+  author: Litovchenko
+  doi: 10.1126/sciadv.abc3781
+  journal-title: Sci Adv
+  volume: '7'
+  year: '2021'
+- article-title: 'dynGENIE3: dynamical GENIE3 for the inference of gene networks from
+    time series expression data'
+  author: Huynh-Thu
+  doi: 10.1038/s41598-018-21715-0
+  first-page: '3384'
+  journal-title: Sci Rep
+  volume: '8'
+  year: '2018'
+- article-title: An experimentally supported model of the Bacillus subtilis global
+    transcriptional regulatory network
+  author: Arrieta-Ortiz
+  doi: 10.15252/msb.20156236
+  first-page: '839'
+  journal-title: Mol Syst Biol
+  volume: '11'
+  year: '2015'
+- article-title: 'High performance single-cell gene regulatory network inference at
+    scale: the inferelator 3.0'
+  author: Gibbs
+  journal-title: Bioinformatics
+  year: '2022'
+- article-title: 'The Inferelator: an algorithm for learning parsimonious regulatory
+    networks from systems-biology data sets de novo'
+  author: Bonneau
+  doi: 10.1186/gb-2006-7-5-r36
+  first-page: R36
+  journal-title: Genome Biol
+  volume: '7'
+  year: '2006'
+- article-title: 'The inferelator 2.0: a scalable framework for reconstruction of
+    dynamic regulatory network models'
+  author: Madar
+  first-page: '5448'
+  journal-title: Conf Pro. IEEE Eng Med Biol Soc
+  volume: '2009'
+  year: '2009'
+- article-title: Inference of gene regulatory networks based on nonlinear ordinary
+    differential equations
+  author: Ma
+  doi: 10.1093/bioinformatics/btaa032
+  first-page: '4885'
+  journal-title: Bioinformatics
+  volume: '36'
+  year: '2020'
+- article-title: Causal network inference from gene transcriptional time-series response
+    to glucocorticoids
+  author: Lu
+  doi: 10.1371/journal.pcbi.1008223
+  journal-title: PLoS Comput Biol
+  volume: '17'
+  year: '2021'
+- article-title: Windowed Granger causal inference strategy improves discovery of
+    gene regulatory networks
+  author: Finkle
+  doi: 10.1073/pnas.1710936115
+  first-page: '2252'
+  journal-title: Proc Natl Acad Sci USA
+  volume: '115'
+  year: '2018'
+- article-title: Clinical proteomic tumor analysis consortium, integrated proteogenomic
+    characterization of clear cell renal cell carcinoma
+  author: Clark
+  doi: 10.1016/j.cell.2019.12.026
+  first-page: '207'
+  journal-title: Cell
+  volume: '180'
+  year: '2020'
+- article-title: Integrative random forest for gene regulatory network inference
+  author: Petralia
+  doi: 10.1093/bioinformatics/btv268
+  first-page: i197
+  journal-title: Bioinformatics
+  volume: '31'
+  year: '2015'
+- article-title: Semi-supervised network inference using simulated gene expression
+    dynamics
+  author: Nguyen
+  doi: 10.1093/bioinformatics/btx748
+  first-page: '1148'
+  journal-title: Bioinformatics
+  volume: '34'
+  year: '2018'
+- article-title: Sexually-dimorphic targeting of functionally-related genes in COPD
+  author: Glass
+  doi: 10.1186/s12918-014-0118-y
+  first-page: '118'
+  journal-title: BMC Syst Biol
+  volume: '8'
+  year: '2014'
+- article-title: Passing messages between biological networks to refine predicted
+    interactions
+  author: Glass
+  doi: 10.1371/journal.pone.0064832
+  journal-title: PLoS One
+  volume: '8'
+  year: '2013'
+- article-title: Changes in the gene expression profile during spontaneous migraine
+    attacks
+  author: Kogelman
+  doi: 10.1038/s41598-021-87503-5
+  first-page: '8294'
+  journal-title: Sci Rep
+  volume: '11'
+  year: '2021'
+- article-title: Integrative multi-omics module network inference with Lemon-Tree
+  author: Bonnet
+  doi: 10.1371/journal.pcbi.1003983
+  journal-title: PLoS Comput Biol
+  volume: '11'
+  year: '2015'
+- article-title: Inferring regulatory programs governing region specificity of neuroepithelial
+    stem cells during early hindbrain and spinal cord development
+  author: Chasman
+  doi: 10.1016/j.cels.2019.05.012
+  first-page: '167'
+  journal-title: Cell Syst
+  volume: '9'
+  year: '2019'
+- article-title: A prior-based integrative framework for functional transcriptional
+    regulatory network inference
+  author: Siahpirani
+  doi: 10.1093/nar/gkw1160
+  first-page: '2221'
+  journal-title: Nucleic Acids Res
+  volume: '45'
+  year: '2017'
+- article-title: Enhancing gene regulatory network inference through data integration
+    with markov random fields
+  author: Banf
+  doi: 10.1038/srep41174
+  first-page: '41174'
+  journal-title: Sci Rep
+  volume: '7'
+  year: '2017'
+- article-title: Network embedding across multiple tissues and data modalities elucidates
+    the context of host factors important for COVID-19 infection
+  author: Hu
+  journal-title: Front Genet
+  volume: '13'
+  year: '2022'
+- article-title: Versatile knowledge guided network inference method for prioritizing
+    key regulatory factors in multi-omics data
+  author: Ogris
+  doi: 10.1038/s41598-021-85544-4
+  first-page: '6806'
+  journal-title: Sci Rep
+  volume: '11'
+  year: '2021'
+- article-title: Genetic and epigenetic coordination of cortical interneuron development
+  author: Allaway
+  doi: 10.1038/s41586-021-03933-1
+  first-page: '693'
+  journal-title: Nature
+  volume: '597'
+  year: '2021'
+- article-title: Multi-study inference of regulatory networks for more accurate models
+    of gene regulation
+  author: Castro
+  doi: 10.1371/journal.pcbi.1006591
+  journal-title: PLoS Comput Biol
+  volume: '15'
+  year: '2019'
+- article-title: Regulation of early host immune responses shapes the pathogenicity
+    of avian influenza A virus
+  author: Sun
+  doi: 10.3389/fmicb.2019.02007
+  first-page: '2007'
+  journal-title: Front Microbiol
+  volume: '10'
+  year: '2019'
+- article-title: Gene regulatory network inference using fused LASSO on multiple data
+    sets
+  author: Omranian
+  doi: 10.1038/srep20533
+  first-page: '20533'
+  journal-title: Sci Rep
+  volume: '6'
+  year: '2016'
+- doi: 10.1101/2021.03.31.437978
+  unstructured: A. Karbalayghareh, M. Sahin, C.S. Leslie, Chromatin interaction aware
+    gene regulatory modeling with graph attention networks, (n.d.). 〈https://doi.org/10.1101/2021.03.31.437978〉.
+- article-title: Effective gene expression prediction from sequence by integrating
+    long-range interactions
+  author: Avsec
+  doi: 10.1038/s41592-021-01252-x
+  first-page: '1196'
+  journal-title: Nat Methods
+  volume: '18'
+  year: '2021'
+- article-title: Leveraging supervised learning for functionally informed fine-mapping
+    of cis-eQTLs identifies an additional 20,913 putative causal eQTLs
+  author: Wang
+  doi: 10.1038/s41467-021-23134-8
+  first-page: '3394'
+  journal-title: Nat Commun
+  volume: '12'
+  year: '2021'
+- article-title: Sequential regulatory activity prediction across chromosomes with
+    convolutional neural networks
+  author: Kelley
+  doi: 10.1101/gr.227819.117
+  first-page: '739'
+  journal-title: Genome Res
+  volume: '28'
+  year: '2018'
+- article-title: Boolean modelling as a logic-based dynamic approach in systems medicine
+  author: Hemedan
+  doi: 10.1016/j.csbj.2022.06.035
+  first-page: '3161'
+  journal-title: Comput Struct Biotechnol J
+  volume: '20'
+  year: '2022'
+- article-title: A novel mutual information-based Boolean network inference method
+    from time-series gene expression data
+  author: Barman
+  doi: 10.1371/journal.pone.0171097
+  journal-title: PLoS One
+  volume: '12'
+  year: '2017'
+- article-title: Review and assessment of Boolean approaches for inference of gene
+    regulatory networks
+  author: Pušnik
+  doi: 10.1016/j.heliyon.2022.e10222
+  journal-title: Heliyon
+  volume: '8'
+  year: '2022'
+- article-title: Bayesian network models for incomplete and dynamic data
+  author: Scutari
+  doi: 10.1111/stan.12197
+  first-page: '397'
+  journal-title: Stat Neerl
+  volume: '74'
+  year: '2020'
+- article-title: Measuring the wisdom of the crowds in network-based gene function
+    inference
+  author: Verleyen
+  doi: 10.1093/bioinformatics/btu715
+  first-page: '745'
+  journal-title: Bioinformatics
+  volume: '31'
+  year: '2015'
+- article-title: Predictive regulatory models in Drosophila melanogaster by integrative
+    inference of transcriptional networks
+  author: Marbach
+  doi: 10.1101/gr.127191.111
+  first-page: '1334'
+  journal-title: Genome Res
+  volume: '22'
+  year: '2012'
+- article-title: 'Gene regulatory network inference: Data integration in dynamic models—a
+    review'
+  author: Hecker
+  doi: 10.1016/j.biosystems.2008.12.004
+  first-page: '86'
+  journal-title: Biosystems
+  volume: '96'
+  year: '2009'
+- article-title: Similarity network fusion for aggregating data types on a genomic
+    scale
+  author: Wang
+  doi: 10.1038/nmeth.2810
+  first-page: '333'
+  journal-title: Nat Methods
+  volume: '11'
+  year: '2014'
+- article-title: Estimating gene regulatory networks with pandaR
+  author: Schlauch
+  doi: 10.1093/bioinformatics/btx139
+  first-page: '2232'
+  journal-title: Bioinformatics
+  volume: '33'
+  year: '2017'
+- article-title: Learning module networks
+  author: Segal
+  journal-title: J Mach Learn Res
+  volume: '6'
+  year: '2005'
+- article-title: Survey on graph neural networks
+  author: Wu
+  doi: 10.1109/TNNLS.2020.2978386
+  first-page: '4'
+  journal-title: IEEE Trans Neural Netw Learn Syst
+  volume: '32'
+  year: '2021'
+- article-title: The graph neural network model
+  author: Scarselli
+  doi: 10.1109/TNN.2008.2005605
+  first-page: '61'
+  journal-title: IEEE Trans Neural Netw
+  volume: '20'
+  year: '2009'
+- unstructured: P. Veličković, G. Cucurull, A. Casanova, A. Romero, P. Liò, Y. Bengio,
+    Graph Attention Networks, arXiv [stat.ML]. (2017). 〈http://arxiv.org/abs/1710.10903〉.
+- article-title: A general survey on attention mechanisms in deep learning
+  author: Brauwers
+  journal-title: IEEE Trans Knowl Data Eng
+  year: '2021'
+- article-title: Attention is all you need
+  author: Vaswani
+  journal-title: Adv Neural Inf Process Syst
+  volume: '30'
+  year: '2017'
+- unstructured: D. Bahdanau, K. Cho, Y. Bengio, Neural Machine Translation by Jointly
+    Learning to Align and Translate arXiv [cs.CL] 2014.〈http://arxiv.org/abs/1409.0473〉.
+- article-title: A statistical method for identifying differential gene-gene co-expression
+    patterns
+  author: Lai
+  doi: 10.1093/bioinformatics/bth379
+  first-page: '3146'
+  journal-title: Bioinformatics
+  volume: '20'
+  year: '2004'
+- article-title: Gene co-expression network topology provides a framework for molecular
+    characterization of cellular state
+  author: Carter
+  doi: 10.1093/bioinformatics/bth234
+  first-page: '2242'
+  journal-title: Bioinformatics
+  volume: '20'
+  year: '2004'
+- article-title: Finding disease specific alterations in the co-expression of genes
+  author: Kostka
+  doi: 10.1093/bioinformatics/bth909
+  first-page: i194
+  issue: '1'
+  journal-title: Bioinformatics
+  volume: '20'
+  year: '2004'
+- article-title: Differential network biology
+  author: Ideker
+  doi: 10.1038/msb.2011.99
+  first-page: '565'
+  journal-title: Mol Syst Biol
+  volume: '8'
+  year: '2012'
+- article-title: Differential gene regulatory networks in development and disease
+  author: Singh
+  doi: 10.1007/s00018-017-2679-6
+  first-page: '1013'
+  journal-title: Cell Mol Life Sci
+  volume: '75'
+  year: '2018'
+- article-title: Differential coexpression in human tissues and the confounding effect
+    of mean expression levels
+  author: Farahbod
+  doi: 10.1093/bioinformatics/bty538
+  first-page: '55'
+  journal-title: Bioinformatics
+  volume: '35'
+  year: '2019'
+- article-title: Inferring protein modulation from gene expression data using conditional
+    mutual information
+  author: Giorgi
+  doi: 10.1371/journal.pone.0109569
+  journal-title: PLoS One
+  volume: '9'
+  year: '2014'
+- article-title: The joint graphical lasso for inverse covariance estimation across
+    multiple classes
+  author: Danaher
+  doi: 10.1111/rssb.12033
+  first-page: '373'
+  journal-title: J R Stat Soc Ser B Stat Methodol
+  volume: '76'
+  year: '2014'
+- article-title: Differential network analysis via lasso penalized D-trace loss
+  author: Yuan
+  doi: 10.1093/biomet/asx049
+  first-page: '755'
+  journal-title: Biometrika
+  volume: '104'
+  year: '2017'
+- article-title: Dissection of regulatory networks that are altered in disease via
+    differential co-expression
+  author: Amar
+  doi: 10.1371/journal.pcbi.1002955
+  journal-title: PLoS Comput Biol
+  volume: '9'
+  year: '2013'
+- article-title: Hierarchical organization of modularity in metabolic networks
+  author: Ravasz
+  doi: 10.1126/science.1073374
+  first-page: '1551'
+  journal-title: Science
+  volume: '297'
+  year: '2002'
+- article-title: 'DiffCoEx: a simple and sensitive method to find differentially coexpressed
+    gene modules'
+  author: Tesson
+  doi: 10.1186/1471-2105-11-497
+  first-page: '497'
+  journal-title: BMC Bioinform
+  volume: '11'
+  year: '2010'
+- article-title: Detecting phenotype-driven transitions in regulatory network structure
+  author: Padi
+  doi: 10.1038/s41540-018-0052-5
+  first-page: '16'
+  journal-title: NPJ Syst Biol Appl
+  volume: '4'
+  year: '2018'
+- article-title: 'Differential co-expression-based detection of conditional relationships
+    in transcriptional data: comparative analysis and application to breast cancer'
+  author: Bhuva
+  doi: 10.1186/s13059-019-1851-8
+  first-page: '236'
+  journal-title: Genome Biol
+  volume: '20'
+  year: '2019'
+- article-title: 'Differential network analysis: a statistical perspective'
+  author: Shojaie
+  doi: 10.1002/wics.1508
+  journal-title: Wiley Interdiscip Rev Comput Stat
+  volume: '13'
+  year: '2021'
+- article-title: Multiscale network modeling of oligodendrocytes reveals molecular
+    components of myelin dysregulation in Alzheimer’s disease
+  author: McKenzie
+  doi: 10.1186/s13024-017-0219-3
+  first-page: '82'
+  journal-title: Mol Neurodegener
+  volume: '12'
+  year: '2017'
+- article-title: 'DGCA: a comprehensive r package for differential gene correlation
+    analysis'
+  author: McKenzie
+  doi: 10.1186/s12918-016-0349-1
+  first-page: '106'
+  journal-title: BMC Syst Biol
+  volume: '10'
+  year: '2016'
+- article-title: Dissecting the interface between signaling and transcriptional regulation
+    in human B cells
+  author: Wang
+  first-page: '264'
+  journal-title: Pac Symp Biocomput
+  year: '2009'
+- article-title: Genome-wide identification of post-translational modulators of transcription
+    factor activity in human B cells
+  author: Wang
+  doi: 10.1038/nbt.1563
+  first-page: '829'
+  journal-title: Nat Biotechnol
+  volume: '27'
+  year: '2009'
+- article-title: A modular master regulator landscape controls cancer transcriptional
+    identity
+  author: Paull
+  doi: 10.1016/j.cell.2020.11.045
+  first-page: '334'
+  journal-title: Cell
+  volume: '184'
+  year: '2021'
+- article-title: Pediatric obesity is associated with an altered gut microbiota and
+    discordant shifts in Firmicutes populations
+  author: Riva
+  doi: 10.1111/1462-2920.13463
+  first-page: '95'
+  journal-title: Environ Microbiol
+  volume: '19'
+  year: '2017'
+- article-title: Regulatory network of PD1 signaling is associated with prognosis
+    in glioblastoma multiforme
+  author: Lopes-Ramos
+  doi: 10.1158/0008-5472.CAN-21-0730
+  first-page: '5401'
+  journal-title: Cancer Res
+  volume: '81'
+  year: '2021'
+- article-title: Host transcriptional response to influenza and other acute respiratory
+    viral infections – a prospective cohort study
+  author: Zhai
+  doi: 10.1371/journal.ppat.1004869
+  journal-title: PLOS Pathogens
+  volume: '11'
+  year: '2015'
+- article-title: Personalized characterization of diseases using sample-specific networks
+  author: Liu
+  doi: 10.1093/nar/gkw772
+  journal-title: Nucleic Acids Res
+  volume: '44'
+  year: '2016'
+- article-title: Disease characterization using a partial correlation-based sample-specific
+    network
+  author: Huang
+  doi: 10.1093/bib/bbaa062
+  journal-title: Brief Bioinform
+  volume: '22'
+  year: '2021'
+- doi: 10.2139/ssrn.3253573
+  unstructured: M.L. Kuijjer, M. Tung, G. Yuan, J. Quackenbush, K. Glass, Estimating
+    Sample-Specific Regulatory Networks, SSRN Electronic Journal. (n.d.). 〈https://doi.org/10.2139/ssrn.3253573〉.
+- article-title: Predicting genotype-specific gene regulatory networks
+  author: Weighill
+  doi: 10.1101/gr.275107.120
+  first-page: '524'
+  journal-title: Genome Res
+  volume: '32'
+  year: '2022'
+- article-title: Multicellular gene network analysis identifies a macrophage-related
+    gene signature predictive of therapeutic response and prognosis of gliomas
+  author: Sun
+  doi: 10.1186/s12967-019-1908-1
+  first-page: '159'
+  journal-title: J Transl Med
+  volume: '17'
+  year: '2019'
+- article-title: Sex differences in gene expression and regulatory networks across
+    29 human tissues
+  author: Lopes-Ramos
+  doi: 10.1016/j.celrep.2020.107795
+  journal-title: Cell Rep
+  volume: '31'
+  year: '2020'
+- article-title: 'Molecular networks in Network Medicine: Development and applications'
+  author: Silverman
+  doi: 10.1002/wsbm.1489
+  journal-title: Wiley Interdiscip Rev Syst Biol Med
+  volume: '12'
+  year: '2020'
+- article-title: On the limits of active module identification
+  author: Lazareva
+  doi: 10.1093/bib/bbab066
+  journal-title: Brief Bioinform
+  volume: '22'
+  year: '2021'
+- article-title: The MIntAct project--IntAct as a common curation platform for 11
+    molecular interaction databases
+  author: Orchard
+  doi: 10.1093/nar/gkt1115
+  first-page: D358
+  journal-title: Nucleic Acids Res
+  volume: '42'
+  year: '2014'
+- article-title: Correcting for the study bias associated with protein-protein interaction
+    measurements reveals differences between protein degree distributions from different
+    cancer types
+  author: Schaefer
+  doi: 10.3389/fgene.2015.00260
+  first-page: '260'
+  journal-title: Front Genet
+  volume: '6'
+  year: '2015'
+- article-title: Highly accurate protein structure prediction with AlphaFold
+  author: Jumper
+  doi: 10.1038/s41586-021-03819-2
+  first-page: '583'
+  journal-title: Nature
+  year: '2021'
+- article-title: Revealing strengths and weaknesses of methods for gene network inference
+  author: Marbach
+  doi: 10.1073/pnas.0913357107
+  first-page: '6286'
+  journal-title: Proc Natl Acad Sci USA
+  volume: '107'
+  year: '2010'
+- article-title: Assessment of network module identification across complex diseases
+  author: Choobdar
+  doi: 10.1038/s41592-019-0509-5
+  first-page: '843'
+  journal-title: Nat Methods
+  volume: '16'
+  year: '2019'
+- article-title: Statistical inference and reverse engineering of gene regulatory
+    networks from observational expression data
+  author: Emmert-Streib
+  doi: 10.3389/fgene.2012.00008
+  first-page: '8'
+  journal-title: Front Genet
+  volume: '3'
+  year: '2012'
+- article-title: A comprehensive survey of regulatory network inference methods using
+    single cell RNA sequencing data
+  author: Nguyen
+  doi: 10.1093/bib/bbaa190
+  journal-title: Brief Bioinform
+  volume: '22'
+  year: '2021'
+- article-title: 'Current best practices in single-cell RNA-seq analysis: a tutorial'
+  author: Luecken
+  doi: 10.15252/msb.20188746
+  journal-title: Mol Syst Biol
+  volume: '15'
+  year: '2019'
+- article-title: Benchmarking algorithms for gene regulatory network inference from
+    single-cell transcriptomic data
+  author: Pratapa
+  doi: 10.1038/s41592-019-0690-6
+  journal-title: Nat Methods
+  year: '2020'
+- article-title: 'Network modeling of single-cell omics data: challenges, opportunities,
+    and progresses'
+  author: Blencowe
+  doi: 10.1042/ETLS20180176
+  first-page: '379'
+  journal-title: Emerg Top Life Sci
+  volume: '3'
+  year: '2019'
+- article-title: Data integration for inferring context-specific gene regulatory networks
+  author: Baur
+  doi: 10.1016/j.coisb.2020.09.005
+  first-page: '38'
+  journal-title: Curr Opin Syst Biol
+  volume: '23'
+  year: '2020'
+- article-title: 'Network approaches to systems biology analysis of complex disease:
+    integrative methods for multi-omics data'
+  author: Yan
+  first-page: '1370'
+  journal-title: Brief Bioinform
+  volume: '19'
+  year: '2018'
+- article-title: The cancer genome atlas network, comprehensive molecular portraits
+    of human breast tumours
+  author: Network
+  doi: 10.1038/nature11412
+  first-page: '61'
+  journal-title: Nature
+  volume: '490'
+  year: '2012'
+- article-title: The genotype-tissue expression (GTEx) project
+  author: Lonsdale
+  doi: 10.1038/ng.2653
+  first-page: '580'
+  journal-title: Nat Genet
+  year: '2013'
+- article-title: An integrative ENCODE resource for cancer genomics
+  author: Zhang
+  doi: 10.1038/s41467-020-14743-w
+  first-page: '3696'
+  journal-title: Nat Commun
+  volume: '11'
+  year: '2020'
+- article-title: Large-scale inference of competing endogenous RNA networks with sparse
+    partial correlation
+  author: List
+  doi: 10.1093/bioinformatics/btz314
+  first-page: i596
+  journal-title: Bioinformatics
+  volume: '35'
+  year: '2019'
+- article-title: Inferring interaction networks from multi-omics data
+  author: Hawe
+  doi: 10.3389/fgene.2019.00535
+  first-page: '535'
+  journal-title: Front Genet
+  volume: '10'
+  year: '2019'
+- article-title: Interpretation of deep learning in genomics and epigenomics
+  author: Talukder
+  doi: 10.1093/bib/bbaa177
+  journal-title: Brief Bioinform
+  volume: '22'
+  year: '2021'
+- article-title: Learning the regulatory code of gene expression
+  author: Zrimec
+  doi: 10.3389/fmolb.2021.673363
+  journal-title: Front Mol Biosci
+  volume: '8'
+  year: '2021'
+- article-title: Assessment and optimization of explainable machine learning models
+    applied to transcriptomic data
+  author: Zhao
+  doi: 10.1016/j.gpb.2022.07.003
+  journal-title: Genom Proteom Bioinform
+  year: '2022'
+- article-title: 'The DisGeNET knowledge platform for disease genomics: 2019 update'
+  author: Piñero
+  first-page: D845
+  journal-title: Nucleic Acids Res
+  volume: '48'
+  year: '2020'
+- article-title: 'KEGG: kyoto encyclopedia of genes and genomes'
+  author: Kanehisa
+  doi: 10.1093/nar/28.1.27
+  first-page: '27'
+  journal-title: Nucleic Acids Res
+  volume: '28'
+  year: '2000'
+- article-title: The reactome pathway knowledgebase
+  author: Jassal
+  first-page: D498
+  journal-title: Nucleic Acids Res
+  volume: '48'
+  year: '2020'
+- article-title: 'WikiPathways: pathway editing for the people'
+  author: Pico
+  doi: 10.1371/journal.pbio.0060184
+  journal-title: PLoS Biol
+  volume: '6'
+  year: '2008'
+- article-title: 'Advances in systems biology modeling: 10 years of crowdsourcing
+    DREAM challenges'
+  author: Meyer
+  doi: 10.1016/j.cels.2021.05.015
+  first-page: '636'
+  journal-title: Cell Syst
+  volume: '12'
+  year: '2021'
+- article-title: 'The self-assessment trap: can we all be better than average?'
+  author: Norel
+  doi: 10.1038/msb.2011.70
+  first-page: '537'
+  journal-title: Mol Syst Biol
+  volume: '7'
+  year: '2011'
+- article-title: Gene regulatory network reconstruction using single-cell RNA sequencing
+    of barcoded genotypes in diverse environments
+  author: Jackson
+  doi: 10.7554/eLife.51254
+  journal-title: Elife
+  volume: '9'
+  year: '2020'
+- article-title: Systematic dissection of transcriptional regulatory networks by genome-scale
+    and single-cell CRISPR screens
+  author: Lopes
+  doi: 10.1126/sciadv.abf5733
+  journal-title: Sci Adv
+  volume: '7'
+  year: '2021'
+- article-title: High-throughput single-cell chromatin accessibility CRISPR screens
+    enable unbiased identification of regulatory networks in cancer
+  author: Pierce
+  doi: 10.1038/s41467-021-23213-w
+  first-page: '2969'
+  journal-title: Nat Commun
+  volume: '12'
+  year: '2021'
+- article-title: Using CRISPR to understand and manipulate gene regulation
+  author: Akinci
+  doi: 10.1242/dev.182667
+  journal-title: Development
+  volume: '148'
+  year: '2021'
+- article-title: The emerging potential for network analysis to inform precision cancer
+    medicine
+  author: Ozturk
+  doi: 10.1016/j.jmb.2018.06.016
+  first-page: '2875'
+  journal-title: J Mol Biol
+  volume: '430'
+  year: '2018'
+- article-title: 'Network analysis methods for studying microbial communities: a mini
+    review'
+  author: Matchado
+  doi: 10.1016/j.csbj.2021.05.001
+  first-page: '2687'
+  journal-title: Comput Struct Biotechnol J
+  volume: '19'
+  year: '2021'
+doi: 10.1016/j.csbj.2022.12.022
+files:
+- networkbasedagalind2023-a.pdf
+journal: Computational and Structural Biotechnology Journal
+language: en
+pages: 780--795
+papis_id: 961081b8992763caa17f6567304d0eb1
+publisher: Elsevier BV
+ref: NetworkBasedAGalind2023
+time-added: 2023-10-20-10:06:07
+title: Network-based approaches for modeling disease regulation and progression
+type: article
+url: http://dx.doi.org/10.1016/j.csbj.2022.12.022
+volume: '21'
+year: 2023

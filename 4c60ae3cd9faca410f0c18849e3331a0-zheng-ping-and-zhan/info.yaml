@@ -1,0 +1,30 @@
+author: Zheng, Ping and Zhang, Ning and Ren, Dabin and Yu, Cong and Zhao, Bin and
+  Zhang, Yisong
+author_list:
+- family: Zheng
+  given: Ping
+- family: Zhang
+  given: Ning
+- family: Ren
+  given: Dabin
+- family: Yu
+  given: Cong
+- family: Zhao
+  given: Bin
+- family: Zhang
+  given: Yisong
+doi: 10.1016/j.xcrm.2023.101057
+files:
+- integratedspatzheng2023-a.pdf
+issn: 2666-3791
+issue: '6'
+journal: Cell reports. Medicine
+papis_id: dbb83f088c07a7fc284f39ba5dc9f1c3
+pmid: '37263268'
+ref: IntegratedSpatZheng2023
+time-added: 2024-06-06-08:43:57
+title: Integrated spatial transcriptome and metabolism study reveals metabolic heterogeneity
+  in human injured brain
+type: article
+volume: '4'
+year: 2023

@@ -1,0 +1,925 @@
+abstract: <jats:title>Abstract</jats:title><jats:p>Metagenomic assembly enables new
+  organism discovery from microbial communities, but it can only capture few abundant
+  organisms from most metagenomes. Here we present MetaPhlAn 4, which integrates information
+  from metagenome assemblies and microbial isolate genomes for more comprehensive
+  metagenomic taxonomic profiling. From a curated collection of 1.01 M prokaryotic
+  reference and metagenome-assembled genomes, we define unique marker genes for 26,970
+  species-level genome bins, 4,992 of them taxonomically unidentified at the species
+  level. MetaPhlAn 4 explains ~20% more reads in most international human gut microbiomes
+  and &gt;40% in less-characterized environments such as the rumen microbiome and
+  proves more accurate than available alternatives on synthetic evaluations while
+  also reliably quantifying organisms with no cultured isolates. Application of the
+  method to &gt;24,500 metagenomes highlights previously undetected species to be
+  strong biomarkers for host conditions and lifestyles in human and mouse microbiomes
+  and shows that even previously uncharacterized species can be genetically profiled
+  at the resolution of single microbial strains.</jats:p>
+author: Blanco-Míguez, Aitor and Beghini, Francesco and Cumbo, Fabio and McIver, Lauren
+  J. and Thompson, Kelsey N. and Zolfo, Moreno and Manghi, Paolo and Dubois, Leonard
+  and Huang, Kun D. and Thomas, Andrew Maltez and Nickols, William A. and Piccinno,
+  Gianmarco and Piperni, Elisa and Punčochář, Michal and Valles-Colomer, Mireia and
+  Tett, Adrian and Giordano, Francesca and Davies, Richard and Wolf, Jonathan and
+  Berry, Sarah E. and Spector, Tim D. and Franzosa, Eric A. and Pasolli, Edoardo and
+  Asnicar, Francesco and Huttenhower, Curtis and Segata, Nicola
+author_list:
+- affiliation: []
+  family: Blanco-Míguez
+  given: Aitor
+- affiliation: []
+  family: Beghini
+  given: Francesco
+- affiliation: []
+  family: Cumbo
+  given: Fabio
+- affiliation: []
+  family: McIver
+  given: Lauren J.
+- affiliation: []
+  family: Thompson
+  given: Kelsey N.
+- affiliation: []
+  family: Zolfo
+  given: Moreno
+- affiliation: []
+  family: Manghi
+  given: Paolo
+- affiliation: []
+  family: Dubois
+  given: Leonard
+- affiliation: []
+  family: Huang
+  given: Kun D.
+- affiliation: []
+  family: Thomas
+  given: Andrew Maltez
+- affiliation: []
+  family: Nickols
+  given: William A.
+- affiliation: []
+  family: Piccinno
+  given: Gianmarco
+- affiliation: []
+  family: Piperni
+  given: Elisa
+- affiliation: []
+  family: Punčochář
+  given: Michal
+- affiliation: []
+  family: Valles-Colomer
+  given: Mireia
+- affiliation: []
+  family: Tett
+  given: Adrian
+- affiliation: []
+  family: Giordano
+  given: Francesca
+- affiliation: []
+  family: Davies
+  given: Richard
+- affiliation: []
+  family: Wolf
+  given: Jonathan
+- affiliation: []
+  family: Berry
+  given: Sarah E.
+- affiliation: []
+  family: Spector
+  given: Tim D.
+- affiliation: []
+  family: Franzosa
+  given: Eric A.
+- affiliation: []
+  family: Pasolli
+  given: Edoardo
+- affiliation: []
+  family: Asnicar
+  given: Francesco
+- affiliation: []
+  family: Huttenhower
+  given: Curtis
+- affiliation: []
+  family: Segata
+  given: Nicola
+citations:
+- author: C Quince
+  doi: 10.1038/nbt.3935
+  first-page: '833'
+  journal-title: Nat. Biotechnol.
+  unstructured: Quince, C., Walker, A. W., Simpson, J. T., Loman, N. J. & Segata,
+    N. Shotgun metagenomics, from sampling to analysis. Nat. Biotechnol. 35, 833–844
+    (2017).
+  volume: '35'
+  year: '2017'
+- author: N Segata
+  doi: 10.1038/nmeth.2066
+  first-page: '811'
+  journal-title: Nat. Methods
+  unstructured: Segata, N. et al. Metagenomic microbial community profiling using
+    unique clade-specific marker genes. Nat. Methods 9, 811–814 (2012).
+  volume: '9'
+  year: '2012'
+- author: DT Truong
+  doi: 10.1038/nmeth.3589
+  first-page: '902'
+  journal-title: Nat. Methods
+  unstructured: Truong, D. T. et al. MetaPhlAn2 for enhanced metagenomic taxonomic
+    profiling. Nat. Methods 12, 902–903 (2015).
+  volume: '12'
+  year: '2015'
+- author: F Beghini
+  doi: 10.7554/eLife.65088
+  first-page: e65088
+  journal-title: eLife
+  unstructured: Beghini, F. et al. Integrating taxonomic, functional, and strain-level
+    profiling of diverse microbial communities with bioBakery 3. eLife 10, e65088
+    (2021).
+  volume: '10'
+  year: '2021'
+- author: J Lu
+  doi: 10.7717/peerj-cs.104
+  first-page: e104
+  journal-title: PeerJ Comput. Sci.
+  unstructured: 'Lu, J., Breitwieser, F. P., Thielen, P. & Salzberg, S. L. Bracken:
+    estimating species abundance in metagenomics data. PeerJ Comput. Sci. 3, e104
+    (2017).'
+  volume: '3'
+  year: '2017'
+- author: A Milanese
+  doi: 10.1038/s41467-019-08844-4
+  journal-title: Nat. Commun.
+  unstructured: Milanese, A. et al. Microbial abundance, activity and population genomic
+    profiling with mOTUs2. Nat. Commun. 10, 1014 (2019).
+  volume: '10'
+  year: '2019'
+- author: EA Franzosa
+  doi: 10.1038/s41592-018-0176-y
+  first-page: '962'
+  journal-title: Nat. Methods
+  unstructured: Franzosa, E. A. et al. Species-level functional profiling of metagenomes
+    and metatranscriptomes. Nat. Methods 15, 962–968 (2018).
+  volume: '15'
+  year: '2018'
+- author: S Nazeen
+  doi: 10.1186/s13059-020-1933-7
+  journal-title: Genome Biol.
+  unstructured: Nazeen, S., Yu, Y. W. & Berger, B. Carnelian uncovers hidden functional
+    patterns across diverse study populations from whole metagenome sequencing reads.
+    Genome Biol. 21, 47 (2020).
+  volume: '21'
+  year: '2020'
+- author: M Ayling
+  doi: 10.1093/bib/bbz020
+  first-page: '584'
+  journal-title: Brief Bioinform.
+  unstructured: Ayling, M., Clark, M. D. & Leggett, R. M. New approaches for metagenome
+    assembly with short reads. Brief Bioinform. 21, 584–594 (2020).
+  volume: '21'
+  year: '2020'
+- author: N Qin
+  doi: 10.1038/nature13568
+  first-page: '59'
+  journal-title: Nature
+  unstructured: Qin, N. et al. Alterations of the human gut microbiome in liver cirrhosis.
+    Nature 513, 59–64 (2014).
+  volume: '513'
+  year: '2014'
+- author: A Tett
+  doi: 10.1038/s41522-017-0022-5
+  journal-title: NPJ Biofilms Microbiomes
+  unstructured: Tett, A. et al. Unexplored diversity and strain-level structure of
+    the skin microbiome associated with psoriasis. NPJ Biofilms Microbiomes 3, 14
+    (2017).
+  volume: '3'
+  year: '2017'
+- author: Z Jie
+  doi: 10.1038/s41467-017-00900-1
+  journal-title: Nat. Commun.
+  unstructured: Jie, Z. et al. The gut microbiome in atherosclerotic cardiovascular
+    disease. Nat. Commun. 8, 845 (2017).
+  volume: '8'
+  year: '2017'
+- author: M Schirmer
+  doi: 10.1038/s41564-017-0089-z
+  first-page: '337'
+  journal-title: Nat. Microbiol.
+  unstructured: Schirmer, M. et al. Dynamics of metatranscription in the inflammatory
+    bowel disease gut microbiome. Nat. Microbiol. 3, 337–346 (2018).
+  volume: '3'
+  year: '2018'
+- author: Z Ye
+  doi: 10.1186/s40168-018-0520-6
+  journal-title: Microbiome
+  unstructured: Ye, Z. et al. A metagenomic study of the gut microbiome in Behcet’s
+    disease. Microbiome 6, 135 (2018).
+  volume: '6'
+  year: '2018'
+- author: W Zhou
+  doi: 10.1038/s41586-019-1236-x
+  first-page: '663'
+  journal-title: Nature
+  unstructured: Zhou, W. et al. Longitudinal multi-omics of host-microbe dynamics
+    in prediabetes. Nature 569, 663–671 (2019).
+  volume: '569'
+  year: '2019'
+- author: AM Thomas
+  doi: 10.1038/s41591-019-0405-7
+  first-page: '667'
+  journal-title: Nat. Med.
+  unstructured: Thomas, A. M. et al. Metagenomic analysis of colorectal cancer datasets
+    identifies cross-cohort microbial diagnostic signatures and a link with choline
+    degradation. Nat. Med. 25, 667–678 (2019).
+  volume: '25'
+  year: '2019'
+- author: P Ghensi
+  doi: 10.1038/s41522-020-00155-7
+  journal-title: NPJ Biofilms Microbiomes
+  unstructured: Ghensi, P. et al. Strong oral plaque microbiome signatures for dental
+    implant diseases identified by strain-resolution metagenomics. NPJ Biofilms Microbiomes
+    6, 47 (2020).
+  volume: '6'
+  year: '2020'
+- author: F Zhu
+  doi: 10.1038/s41467-020-15457-9
+  journal-title: Nat. Commun.
+  unstructured: Zhu, F. et al. Metagenome-wide association of gut microbiome features
+    for schizophrenia. Nat. Commun. 11, 1612 (2020).
+  volume: '11'
+  year: '2020'
+- author: MJ Claesson
+  doi: 10.1038/nature11319
+  first-page: '178'
+  journal-title: Nature
+  unstructured: Claesson, M. J. et al. Gut microbiota composition correlates with
+    diet and health in the elderly. Nature 488, 178–184 (2012).
+  volume: '488'
+  year: '2012'
+- author: LA David
+  doi: 10.1038/nature12820
+  first-page: '559'
+  journal-title: Nature
+  unstructured: David, L. A. et al. Diet rapidly and reproducibly alters the human
+    gut microbiome. Nature 505, 559–563 (2014).
+  volume: '505'
+  year: '2014'
+- author: LBS Hansen
+  doi: 10.1038/s41467-018-07019-x
+  journal-title: Nat. Commun.
+  unstructured: Hansen, L. B. S. et al. A low-gluten diet induces changes in the intestinal
+    microbiome of healthy Danish adults. Nat. Commun. 9, 4630 (2018).
+  volume: '9'
+  year: '2018'
+- author: F Asnicar
+  doi: 10.1038/s41591-020-01183-8
+  first-page: '321'
+  journal-title: Nat. Med.
+  unstructured: Asnicar, F. et al. Microbiome connections with host metabolism and
+    habitual diet from 1,098 deeply phenotyped individuals. Nat. Med. 27, 321–332
+    (2021).
+  volume: '27'
+  year: '2021'
+- author: DD Wang
+  doi: 10.1038/s41591-020-01223-3
+  first-page: '333'
+  journal-title: Nat. Med.
+  unstructured: Wang, D. D. et al. The gut microbiome modulates the protective association
+    between a Mediterranean diet and cardiometabolic disease risk. Nat. Med. 27, 333–343
+    (2021).
+  volume: '27'
+  year: '2021'
+- author: F Asnicar
+  doi: 10.1128/mSystems.00164-16
+  first-page: e00164-16
+  journal-title: mSystems
+  unstructured: Asnicar, F. et al. Studying vertical microbiome transmission from
+    mothers to infants by strain-level metagenomic profiling. mSystems 2, e00164-16
+    (2017).
+  volume: '2'
+  year: '2017'
+- author: P Ferretti
+  doi: 10.1016/j.chom.2018.06.005
+  first-page: '133'
+  journal-title: Cell Host Microbe
+  unstructured: Ferretti, P. et al. Mother-to-infant microbial transmission from different
+    body sites shapes the developing infant gut microbiome. Cell Host Microbe 24,
+    133–145 (2018).
+  volume: '24'
+  year: '2018'
+- author: M Yassour
+  doi: 10.1016/j.chom.2018.06.007
+  first-page: '146'
+  journal-title: Cell Host Microbe
+  unstructured: Yassour, M. et al. Strain-level analysis of mother-to-child bacterial
+    transmission during the first few months of life. Cell Host Microbe 24, 146–154
+    (2018).
+  volume: '24'
+  year: '2018'
+- author: IL Brito
+  doi: 10.1038/s41564-019-0409-6
+  first-page: '964'
+  journal-title: Nat. Microbiol.
+  unstructured: Brito, I. L. et al. Transmission of human-associated microbiota along
+    family and social networks. Nat. Microbiol. 4, 964–971 (2019).
+  volume: '4'
+  year: '2019'
+- author: G Ianiro
+  doi: 10.1038/s41467-020-18127-y
+  journal-title: Nat. Commun.
+  unstructured: Ianiro, G. et al. Faecal microbiota transplantation for the treatment
+    of diarrhoea induced by tyrosine-kinase inhibitors in patients with metastatic
+    renal cell carcinoma. Nat. Commun. 11, 4333 (2020).
+  volume: '11'
+  year: '2020'
+- author: L Chen
+  doi: 10.1016/j.cell.2021.03.024
+  first-page: '2302'
+  journal-title: Cell
+  unstructured: Chen, L. et al. The long-term genetic stability and individual specificity
+    of the human gut microbiome. Cell 184, 2302–2315 (2021).
+  volume: '184'
+  year: '2021'
+- author: AM Thomas
+  doi: 10.1186/s12915-019-0667-z
+  journal-title: BMC Biol.
+  unstructured: Thomas, A. M. & Segata, N. Multiple levels of the unknown in microbiome
+    research. BMC Biol. 17, 48 (2019).
+  volume: '17'
+  year: '2019'
+- author: D Li
+  doi: 10.1093/bioinformatics/btv033
+  first-page: '1674'
+  journal-title: Bioinformatics
+  unstructured: 'Li, D., Liu, C.-M., Luo, R., Sadakane, K. & Lam, T.-W. MEGAHIT: an
+    ultra-fast single-node solution for large and complex metagenomics assembly via
+    succinct de Bruijn graph. Bioinformatics 31, 1674–1676 (2015).'
+  volume: '31'
+  year: '2015'
+- author: S Nurk
+  doi: 10.1101/gr.213959.116
+  first-page: '824'
+  journal-title: Genome Res.
+  unstructured: 'Nurk, S., Meleshko, D., Korobeynikov, A. & Pevzner, P. A. metaSPAdes:
+    a new versatile metagenomic assembler. Genome Res. 27, 824–834 (2017).'
+  volume: '27'
+  year: '2017'
+- author: DD Kang
+  doi: 10.7717/peerj.7359
+  first-page: e7359
+  journal-title: PeerJ
+  unstructured: 'Kang, D. D. et al. MetaBAT 2: an adaptive binning algorithm for robust
+    and efficient genome reconstruction from metagenome assemblies. PeerJ 7, e7359
+    (2019).'
+  volume: '7'
+  year: '2019'
+- author: Y-W Wu
+  doi: 10.1093/bioinformatics/btv638
+  first-page: '605'
+  journal-title: Bioinformatics
+  unstructured: 'Wu, Y.-W., Simmons, B. A. & Singer, S. W. MaxBin 2.0: an automated
+    binning algorithm to recover genomes from multiple metagenomic datasets. Bioinformatics
+    32, 605–607 (2016).'
+  volume: '32'
+  year: '2016'
+- doi: 10.1038/s41587-020-00777-4
+  unstructured: Nissen, J. N. et al. Improved metagenome binning and assembly using
+    deep variational autoencoders. Nat. Biotechnol. https://doi.org/10.1038/s41587-020-00777-4
+    (2021).
+- author: S Saheb Kashaf
+  doi: 10.1038/s41596-021-00508-2
+  first-page: '2520'
+  journal-title: Nat. Protoc.
+  unstructured: Saheb Kashaf, S., Almeida, A., Segre, J. A. & Finn, R. D. Recovering
+    prokaryotic genomes from host-associated, short-read shotgun metagenomic sequencing
+    data. Nat. Protoc. 16, 2520–2541 (2021).
+  volume: '16'
+  year: '2021'
+- author: BJ Tully
+  doi: 10.1038/sdata.2017.203
+  journal-title: Sci. Data
+  unstructured: Tully, B. J., Graham, E. D. & Heidelberg, J. F. The reconstruction
+    of 2,631 draft metagenome-assembled genomes from the global oceans. Sci. Data
+    5, 170203 (2018).
+  volume: '5'
+  year: '2018'
+- author: S Manara
+  doi: 10.1186/s13059-019-1923-9
+  journal-title: Genome Biol.
+  unstructured: Manara, S. et al. Microbial genomes from non-human primate gut metagenomes
+    expand the primate-associated bacterial tree of life with over 1000 novel species.
+    Genome Biol. 20, 299 (2019).
+  volume: '20'
+  year: '2019'
+- author: RD Stewart
+  doi: 10.1038/s41587-019-0202-3
+  first-page: '953'
+  journal-title: Nat. Biotechnol.
+  unstructured: Stewart, R. D. et al. Compendium of 4,941 rumen metagenome-assembled
+    genomes for rumen microbiome biology and enzyme discovery. Nat. Biotechnol. 37,
+    953–961 (2019).
+  volume: '37'
+  year: '2019'
+- author: S Nayfach
+  doi: 10.1038/s41586-019-1058-x
+  first-page: '505'
+  journal-title: Nature
+  unstructured: Nayfach, S., Shi, Z. J., Seshadri, R., Pollard, K. S. & Kyrpides,
+    N. C. New insights from uncultivated genomes of the global human gut microbiome.
+    Nature 568, 505–510 (2019).
+  volume: '568'
+  year: '2019'
+- author: A Almeida
+  doi: 10.1038/s41586-019-0965-1
+  first-page: '499'
+  journal-title: Nature
+  unstructured: Almeida, A. et al. A new genomic blueprint of the human gut microbiota.
+    Nature 568, 499–504 (2019).
+  volume: '568'
+  year: '2019'
+- author: E Pasolli
+  doi: 10.1016/j.cell.2019.01.001
+  first-page: '649'
+  journal-title: Cell
+  unstructured: Pasolli, E. et al. Extensive unexplored human microbiome diversity
+    revealed by over 150,000 genomes from metagenomes spanning age, geography, and
+    lifestyle. Cell 176, 649–662 (2019).
+  volume: '176'
+  year: '2019'
+- author: S Nayfach
+  doi: 10.1038/s41587-020-0718-6
+  journal-title: Nat. Biotechnol.
+  unstructured: Nayfach, S. et al. A genomic catalog of Earth’s microbiomes. Nat.
+    Biotechnol. https://doi.org/10.1038/s41587-020-0718-6 (2020).
+  year: '2020'
+- author: TR Lesker
+  doi: 10.1016/j.celrep.2020.02.036
+  first-page: '2909'
+  journal-title: Cell Rep.
+  unstructured: Lesker, T. R. et al. An integrated metagenome catalog reveals new
+    insights into the murine gut microbiome. Cell Rep. 30, 2909–2922 (2020).
+  volume: '30'
+  year: '2020'
+- author: A Almeida
+  doi: 10.1038/s41587-020-0603-3
+  journal-title: Nat. Biotechnol.
+  unstructured: Almeida, A. et al. A unified catalog of 204,938 reference genomes
+    from the human gut microbiome. Nat. Biotechnol. https://doi.org/10.1038/s41587-020-0603-3
+    (2020).
+  year: '2020'
+- author: D Levin
+  doi: 10.1126/science.abb5352
+  first-page: eabb5352
+  journal-title: Science
+  unstructured: Levin, D. et al. Diversity and functional landscapes in the microbiota
+    of animals in the wild. Science 372, eabb5352 (2021).
+  volume: '372'
+  year: '2021'
+- author: C Jain
+  doi: 10.1038/s41467-018-07641-9
+  journal-title: Nat. Commun.
+  unstructured: Jain, C., Rodriguez-R, L. M., Phillippy, A. M., Konstantinidis, K.
+    T. & Aluru, S. High throughput ANI analysis of 90K prokaryotic genomes reveals
+    clear species boundaries. Nat. Commun. 9, 5114 (2018).
+  volume: '9'
+  year: '2018'
+- author: DH Parks
+  doi: 10.1038/s41587-020-0501-8
+  first-page: '1079'
+  journal-title: Nat. Biotechnol.
+  unstructured: Parks, D. H. et al. A complete domain-to-species taxonomy for Bacteria
+    and Archaea. Nat. Biotechnol. 38, 1079–1086 (2020).
+  volume: '38'
+  year: '2020'
+- author: CL Schoch
+  doi: 10.1093/database/baaa062
+  first-page: baaa062
+  journal-title: Database
+  unstructured: 'Schoch, C. L. et al. NCBI taxonomy: a comprehensive update on curation,
+    resources and tools. Database 2020, baaa062 (2020).'
+  volume: '2020'
+  year: '2020'
+- author: DA Rasko
+  first-page: '303'
+  journal-title: FEMS Microbiol. Rev.
+  unstructured: Rasko, D. A., Altherr, M. R., Han, C. S. & Ravel, J. Genomics of the
+    Bacillus cereus group of organisms. FEMS Microbiol. Rev. 29, 303–329 (2005).
+  volume: '29'
+  year: '2005'
+- author: A Tett
+  doi: 10.1016/j.chom.2019.08.018
+  first-page: '666'
+  journal-title: Cell Host Microbe
+  unstructured: Tett, A. et al. The Prevotella copri complex comprises four distinct
+    clades underrepresented in westernized populations. Cell Host Microbe 26, 666–679
+    (2019).
+  volume: '26'
+  year: '2019'
+- author: F De Filippis
+  doi: 10.1016/j.cub.2020.09.063
+  first-page: '4932'
+  journal-title: Curr. Biol.
+  unstructured: De Filippis, F., Pasolli, E. & Ercolini, D. Newly explored faecalibacterium
+    diversity is connected to age, lifestyle, geography and disease. Curr. Biol. 30,
+    4932–4943 (2020).
+  volume: '30'
+  year: '2020'
+- author: NCBI Resource Coordinators.
+  doi: 10.1093/nar/gkx1095
+  first-page: D8
+  journal-title: Nucleic Acids Res.
+  unstructured: NCBI Resource Coordinators. Database resources of the National Center
+    for Biotechnology Information. Nucleic Acids Res. 46, D8–D13 (2018).
+  volume: '46'
+  year: '2018'
+- author: BD Ondov
+  doi: 10.1186/s13059-016-0997-x
+  journal-title: Genome Biol.
+  unstructured: 'Ondov, B. D. et al. Mash: fast genome and metagenome distance estimation
+    using MinHash. Genome Biol. 17, 132 (2016).'
+  volume: '17'
+  year: '2016'
+- author: N Karcher
+  doi: 10.1186/s13059-020-02042-y
+  journal-title: Genome Biol.
+  unstructured: Karcher, N. et al. Analysis of 1321 Eubacterium rectale genomes from
+    metagenomes uncovers complex phylogeographic population structure and subspecies
+    functional adaptations. Genome Biol. 21, 138 (2020).
+  volume: '21'
+  year: '2020'
+- author: N Karcher
+  doi: 10.1186/s13059-021-02427-7
+  journal-title: Genome Biol.
+  unstructured: Karcher, N. et al. Genomic diversity and ecology of human-associated
+    Akkermansia species in the gut microbiome revealed by extensive metagenomic assembly.
+    Genome Biol. 22, 209 (2021).
+  volume: '22'
+  year: '2021'
+- author: AB Hall
+  doi: 10.1186/s13073-017-0490-5
+  journal-title: Genome Med.
+  unstructured: Hall, A. B. et al. A novel Ruminococcus gnavus clade enriched in inflammatory
+    bowel disease patients. Genome Med. 9, 103 (2017).
+  volume: '9'
+  year: '2017'
+- author: BE Suzek
+  doi: 10.1093/bioinformatics/btu739
+  first-page: '926'
+  journal-title: Bioinformatics
+  unstructured: 'Suzek, B. E. et al. UniRef clusters: a comprehensive and scalable
+    alternative for improving sequence similarity searches. Bioinformatics 31, 926–932
+    (2015).'
+  volume: '31'
+  year: '2015'
+- author: M Mirdita
+  doi: 10.1093/nar/gkw1081
+  first-page: D170
+  journal-title: Nucleic Acids Res.
+  unstructured: Mirdita, M. et al. Uniclust databases of clustered and deeply annotated
+    protein sequences and alignments. Nucleic Acids Res. 45, D170–D176 (2017).
+  volume: '45'
+  year: '2017'
+- doi: 10.1038/s41596-020-00480-3
+  unstructured: 'Meyer, F. et al. Tutorial: assessing metagenomics software with the
+    CAMI benchmarking toolkit. Nat. Protoc. https://doi.org/10.1038/s41596-020-00480-3
+    (2021).'
+- author: F Meyer
+  doi: 10.1186/s13059-019-1646-y
+  journal-title: Genome Biol.
+  unstructured: Meyer, F. et al. Assessing taxonomic metagenome profilers with OPAL.
+    Genome Biol. 20, 51 (2019).
+  volume: '20'
+  year: '2019'
+- author: NA O’Leary
+  doi: 10.1093/nar/gkv1189
+  first-page: D733
+  journal-title: Nucleic Acids Res.
+  unstructured: 'O’Leary, N. A. et al. Reference sequence (RefSeq) database at NCBI:
+    current status, taxonomic expansion, and functional annotation. Nucleic Acids
+    Res. 44, D733–D745 (2016).'
+  volume: '44'
+  year: '2016'
+- author: DH Parks
+  doi: 10.1093/nar/gkab776
+  first-page: D785
+  journal-title: Nucleic Acids Res.
+  unstructured: 'Parks, D. H. et al. GTDB: an ongoing census of bacterial and archaeal
+    diversity through a phylogenetically consistent, rank normalized and complete
+    genome-based taxonomy. Nucleic Acids Res. 50, D785–D794 (2022).'
+  volume: '50'
+  year: '2022'
+- author: S Sunagawa
+  doi: 10.1126/science.1261359
+  first-page: '1261359'
+  journal-title: Science
+  unstructured: Sunagawa, S. et al. Structure and function of the global ocean microbiome.
+    Science 348, 1261359 (2015).
+  volume: '348'
+  year: '2015'
+- author: L Xiao
+  doi: 10.1038/nbt.3353
+  first-page: '1103'
+  journal-title: Nat. Biotechnol.
+  unstructured: Xiao, L. et al. A catalog of the mouse gut metagenome. Nat. Biotechnol.
+    33, 1103–1108 (2015).
+  volume: '33'
+  year: '2015'
+- author: S Kieser
+  doi: 10.1371/journal.pcbi.1009947
+  first-page: e1009947
+  journal-title: PLoS Comput. Biol.
+  unstructured: Kieser, S., Zdobnov, E. M. & Trajkovski, M. Comprehensive mouse microbiota
+    genome catalog reveals major difference to its human counterpart. PLoS Comput.
+    Biol. 18, e1009947 (2022).
+  volume: '18'
+  year: '2022'
+- author: S Kieser
+  doi: 10.1186/s12859-020-03585-4
+  first-page: '257'
+  journal-title: BMC Bioinf.
+  unstructured: 'Kieser, S., Brown, J., Zdobnov, E. M., Trajkovski, M. & McCue, L.
+    A. ATLAS: a Snakemake workflow for assembly, annotation, and genomic binning of
+    metagenome sequence data. BMC Bioinf. 21, 257 (2020).'
+  volume: '21'
+  year: '2020'
+- author: DE Wood
+  doi: 10.1186/s13059-019-1891-0
+  journal-title: Genome Biol.
+  unstructured: Wood, D. E., Lu, J. & Langmead, B. Improved metagenomic analysis with
+    Kraken 2. Genome Biol. 20, 257 (2019).
+  volume: '20'
+  year: '2019'
+- author: C Saenz
+  doi: 10.3389/fbinf.2022.846922
+  first-page: '846922'
+  journal-title: Front. Bioinform.
+  unstructured: 'Saenz, C., Nigro, E., Gunalan, V. & Arumugam, M. MIntO: a modular
+    and scalable pipeline for microbiome metagenomic and metatranscriptomic data integration.
+    Front. Bioinform. 2, 846922 (2022).'
+  volume: '2'
+  year: '2022'
+- author: RE Ley
+  doi: 10.1038/4441022a
+  first-page: '1022'
+  journal-title: Nature
+  unstructured: 'Ley, R. E., Turnbaugh, P. J., Klein, S. & Gordon, J. I. Microbial
+    ecology: human gut microbes associated with obesity.Nature 444, 1022–1023 (2006).'
+  volume: '444'
+  year: '2006'
+- author: PM Guenther
+  doi: 10.1016/j.jand.2012.12.016
+  first-page: '569'
+  journal-title: J. Acad. Nutr. Diet.
+  unstructured: 'Guenther, P. M. et al. Update of the healthy eating index: HEI-2010.
+    J. Acad. Nutr. Diet. 113, 569–580 (2013).'
+  volume: '113'
+  year: '2013'
+- author: TT Fung
+  doi: 10.1093/ajcn/82.1.163
+  first-page: '163'
+  journal-title: Am. J. Clin. Nutr.
+  unstructured: Fung, T. T. et al. Diet-quality scores and plasma concentrations of
+    markers of inflammation and endothelial dysfunction. Am. J. Clin. Nutr. 82, 163–173
+    (2005).
+  volume: '82'
+  year: '2005'
+- author: DT Truong
+  doi: 10.1101/gr.216242.116
+  first-page: '626'
+  journal-title: Genome Res.
+  unstructured: Truong, D. T., Tett, A., Pasolli, E., Huttenhower, C. & Segata, N.
+    Microbial strain-level population structure and genetic diversity from metagenomes.
+    Genome Res. 27, 626–638 (2017).
+  volume: '27'
+  year: '2017'
+- author: RW Hagan
+  doi: 10.1002/ajpa.23978
+  first-page: '275'
+  journal-title: Am. J. Phys. Anthropol.
+  unstructured: Hagan, R. W. et al. Comparison of extraction methods for recovering
+    ancient microbial DNA from paleofeces. Am. J. Phys. Anthropol. 171, 275–284 (2020).
+  volume: '171'
+  year: '2020'
+- author: S Wright
+  doi: 10.1093/genetics/28.2.114
+  first-page: '114'
+  journal-title: Genetics
+  unstructured: Wright, S. Isolation by distance. Genetics 28, 114–138 (1943).
+  volume: '28'
+  year: '1943'
+- author: B Linz
+  doi: 10.1038/nature05562
+  first-page: '915'
+  journal-title: Nature
+  unstructured: Linz, B. et al. An African origin for the intimate association between
+    humans and Helicobacter pylori. Nature 445, 915–918 (2007).
+  volume: '445'
+  year: '2007'
+- author: Y Shao
+  doi: 10.1038/s41586-019-1560-1
+  first-page: '117'
+  journal-title: Nature
+  unstructured: Shao, Y. et al. Stunted microbiota and opportunistic pathogen colonization
+    in caesarean-section birth. Nature 574, 117–121 (2019).
+  volume: '574'
+  year: '2019'
+- author: M Valles-Colomer
+  doi: 10.1038/s41564-021-01021-8
+  first-page: '87'
+  journal-title: Nat. Microbiol.
+  unstructured: Valles-Colomer, M. et al. Variation and transmission of the human
+    gut microbiota across multiple familial generations. Nat. Microbiol. 7, 87–96
+    (2022).
+  volume: '7'
+  year: '2022'
+- author: G Ianiro
+  doi: 10.1038/s41591-022-01964-3
+  first-page: '1913'
+  journal-title: Nat. Med.
+  unstructured: Ianiro, G. et al. Variability of strain engraftment and predictability
+    of microbiome composition after fecal microbiota transplantation across different
+    diseases. Nat. Med. 28, 1913–1923 (2022).
+  volume: '28'
+  year: '2022'
+- author: M Hamady
+  doi: 10.1101/gr.085464.108
+  first-page: '1141'
+  journal-title: Genome Res.
+  unstructured: 'Hamady, M. & Knight, R. Microbial community profiling for human microbiome
+    projects: tools, techniques and challenges. Genome Res. 19, 1141–1152 (2009).'
+  volume: '19'
+  year: '2009'
+- author: F Asnicar
+  doi: 10.1038/s41467-020-16366-7
+  journal-title: Nat. Commun.
+  unstructured: Asnicar, F. et al. Precise phylogenetic analysis of microbial isolates
+    and genomes from metagenomes using PhyloPhlAn 3.0. Nat. Commun. 11, 2500 (2020).
+  volume: '11'
+  year: '2020'
+- author: LJ McIver
+  doi: 10.1093/bioinformatics/btx754
+  first-page: '1235'
+  journal-title: Bioinformatics
+  unstructured: 'McIver, L. J. et al. bioBakery: a meta’omic analysis environment.
+    Bioinformatics 34, 1235–1237 (2018).'
+  volume: '34'
+  year: '2018'
+- author: B Longmead
+  doi: 10.1038/nmeth.1923
+  first-page: '357'
+  journal-title: Nat. Methods
+  unstructured: Longmead, B. & Salzberg, S. L. Fast gapped-read alignment with Bowtie
+    2. Nat. Methods 9, 357–359 (2012).
+  volume: '9'
+  year: '2012'
+- author: DA Benson
+  doi: 10.1093/nar/gks1195
+  first-page: D36
+  journal-title: Nucleic Acids Res.
+  unstructured: Benson, D. A. et al. GenBank. Nucleic Acids Res. 41, D36–D42 (2012).
+  volume: '41'
+  year: '2012'
+- author: DH Parks
+  doi: 10.1101/gr.186072.114
+  first-page: '1043'
+  journal-title: Genome Res.
+  unstructured: 'Parks, D. H., Imelfort, M., Skennerton, C. T., Hugenholtz, P. & Tyson,
+    G. W. CheckM: assessing the quality of microbial genomes recovered from isolates,
+    single cells, and metagenomes. Genome Res. 25, 1043–1055 (2015).'
+  volume: '25'
+  year: '2015'
+- author: T Seemann
+  doi: 10.1093/bioinformatics/btu153
+  first-page: '2068'
+  journal-title: Bioinformatics
+  unstructured: 'Seemann, T. Prokka: rapid prokaryotic genome annotation. Bioinformatics
+    30, 2068–2069 (2014).'
+  volume: '30'
+  year: '2014'
+- author: B Buchfink
+  doi: 10.1038/nmeth.3176
+  first-page: '59'
+  journal-title: Nat. Methods
+  unstructured: Buchfink, B., Xie, C. & Huson, D. H. Fast and sensitive protein alignment
+    using DIAMOND. Nat. Methods 12, 59–60 (2015).
+  volume: '12'
+  year: '2015'
+- author: M Steinegger
+  doi: 10.1038/nbt.3988
+  first-page: '1026'
+  journal-title: Nat. Biotechnol.
+  unstructured: Steinegger, M. & Söding, J. MMseqs2 enables sensitive protein sequence
+    searching for the analysis of massive data sets. Nat. Biotechnol. 35, 1026–1028
+    (2017).
+  volume: '35'
+  year: '2017'
+- author: P-A Chaumeil
+  doi: 10.1093/bioinformatics/btz848
+  journal-title: Bioinformatics
+  unstructured: 'Chaumeil, P.-A., Mussig, A. J., Hugenholtz, P. & Parks, D. H. GTDB-Tk:
+    a toolkit to classify genomes with the Genome Taxonomy Database. Bioinformatics
+    https://doi.org/10.1093/bioinformatics/btz848 (2019).'
+  year: '2019'
+- author: C Lozupone
+  doi: 10.1128/AEM.71.12.8228-8235.2005
+  first-page: '8228'
+  journal-title: Appl. Environ. Microbiol.
+  unstructured: 'Lozupone, C. & Knight, R. UniFrac: a new phylogenetic method for
+    comparing microbial communities. Appl. Environ. Microbiol. 71, 8228–8235 (2005).'
+  volume: '71'
+  year: '2005'
+- author: S Capella-Gutiérrez
+  doi: 10.1093/bioinformatics/btp348
+  first-page: '1972'
+  journal-title: Bioinformatics
+  unstructured: 'Capella-Gutiérrez, S., Silla-Martínez, J. M. & Gabaldón, T. trimAl:
+    a tool for automated alignment trimming in large-scale phylogenetic analyses.
+    Bioinformatics 25, 1972–1973 (2009).'
+  volume: '25'
+  year: '2009'
+- author: K Katoh
+  doi: 10.1093/molbev/mst010
+  first-page: '772'
+  journal-title: Mol. Biol. Evol.
+  unstructured: 'Katoh, K. & Standley, D. M. MAFFT multiple sequence alignment software
+    version 7: improvements in performance and usability. Mol. Biol. Evol. 30, 772–780
+    (2013).'
+  volume: '30'
+  year: '2013'
+- author: L-T Nguyen
+  doi: 10.1093/molbev/msu300
+  first-page: '268'
+  journal-title: Mol. Biol. Evol.
+  unstructured: 'Nguyen, L.-T., Schmidt, H. A., von Haeseler, A. & Minh, B. Q. IQ-TREE:
+    a fast and effective stochastic algorithm for estimating maximum-likelihood phylogenies.
+    Mol. Biol. Evol. 32, 268–274 (2015).'
+  volume: '32'
+  year: '2015'
+- author: W Huang
+  doi: 10.1093/bioinformatics/btr708
+  first-page: '593'
+  journal-title: Bioinformatics
+  unstructured: 'Huang, W., Li, L., Myers, J. R. & Marth, G. T. ART: a next-generation
+    sequencing read simulator. Bioinformatics 28, 593–594 (2012).'
+  volume: '28'
+  year: '2012'
+- author: E Pasolli
+  doi: 10.1038/nmeth.4468
+  first-page: '1023'
+  journal-title: Nat. Methods
+  unstructured: Pasolli, E. et al. Accessible, curated metagenomic data through ExperimentHub.
+    Nat. Methods 14, 1023–1024 (2017).
+  volume: '14'
+  year: '2017'
+- author: H Li
+  doi: 10.1093/bioinformatics/btp352
+  first-page: '2078'
+  journal-title: Bioinformatics
+  unstructured: Li, H. et al. The sequence alignment/map format and SAMtools. Bioinformatics
+    25, 2078–2079 (2009).
+  volume: '25'
+  year: '2009'
+- author: A Stamatakis
+  doi: 10.1093/bioinformatics/btu033
+  first-page: '1312'
+  journal-title: Bioinformatics
+  unstructured: 'Stamatakis, A. RAxML version 8: a tool for phylogenetic analysis
+    and post-analysis of large phylogenies. Bioinformatics 30, 1312–1313 (2014).'
+  volume: '30'
+  year: '2014'
+- author: F Asnicar
+  doi: 10.7717/peerj.1029
+  first-page: e1029
+  journal-title: PeerJ
+  unstructured: Asnicar, F., Weingart, G., Tickle, T. L., Huttenhower, C. & Segata,
+    N. Compact graphical representation of phylogenetic data and metadata with GraPhlAn.
+    PeerJ 3, e1029 (2015).
+  volume: '3'
+  year: '2015'
+- author: AJ Page
+  doi: 10.1093/bioinformatics/btv421
+  first-page: '3691'
+  journal-title: Bioinformatics
+  unstructured: 'Page, A. J. et al. Roary: rapid large-scale prokaryote pan genome
+    analysis. Bioinformatics 31, 3691–3693 (2015).'
+  volume: '31'
+  year: '2015'
+- unstructured: Blanco-Miguez, A. et al. MetaPhlAn 4 code repository. GitHub. http://segatalab.cibio.unitn.it/tools/metaphlan/
+    (2022).
+- unstructured: Blanco-Miguez, A. et al. MetaPhlAn 4 package. Bioconda. https://anaconda.org/bioconda/metaphlan
+    (2022).
+doc_url: https://www.nature.com/articles/s41587-023-01688-w.pdf
+doi: 10.1038/s41587-023-01688-w
+files:
+- extendingandiblanco2023.pdf
+issue: '11'
+journal: Nature Biotechnology
+language: en
+month: 11
+pages: 1633--1644
+papis_id: 9fa3d22682888038c2d47446624ceea8
+publisher: Springer Science and Business Media LLC
+ref: ExtendingAndIBlanco2023
+time-added: 2024-01-24-12:30:53
+title: Extending and improving metagenomic taxonomic profiling with uncharacterized
+  species using MetaPhlAn 4
+type: article
+url: http://dx.doi.org/10.1038/s41587-023-01688-w
+volume: '41'
+year: 2023

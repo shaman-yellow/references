@@ -1,0 +1,27 @@
+author: Callahan, Benjamin J and McMurdie, Paul J and Rosen, Michael J and Han, Andrew
+  W and Johnson, Amy Jo A and Holmes, Susan P
+author_list:
+- family: Callahan
+  given: Benjamin J
+- family: McMurdie
+  given: Paul J
+- family: Rosen
+  given: Michael J
+- family: Han
+  given: Andrew W
+- family: Johnson
+  given: Amy Jo A
+- family: Holmes
+  given: Susan P
+doi: 10.1038/nmeth.3869
+files: []
+journal: Nature methods
+number: '7'
+pages: '581'
+papis_id: 60d97bedc0a863574270b2b0ad26a0e7
+publisher: Nature Publishing Group
+ref: Dada2HighResCallah2016
+title: 'DADA2: high-resolution sample inference from Illumina amplicon data'
+type: article
+volume: '13'
+year: '2016'

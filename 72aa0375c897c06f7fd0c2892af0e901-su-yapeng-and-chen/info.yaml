@@ -1,0 +1,163 @@
+abstract: We present an integrated analysis of the clinical measurements, immune cells,
+  and plasma multi-omics of 139 COVID-19 patients representing all levels of disease
+  severity, from serial blood draws collected during the first week of infection following
+  diagnosis. We identify a major shift between mild and moderate disease, at which
+  point elevated inflammatory signaling is accompanied by the loss of specific classes
+  of metabolites and metabolic processes. Within this stressed plasma environment
+  at moderate disease, multiple unusual immune cell phenotypes emerge and amplify
+  with increasing disease severity. We condensed over 120,000 immune features into
+  a single axis to capture how different immune cell classes coordinate in response
+  to SARS-CoV-2. This immune-response axis independently aligns with the major plasma
+  composition changes, with clinical metrics of blood clotting, and with the sharp
+  transition between mild and moderate disease. This study suggests that moderate
+  disease may provide the most effective setting for therapeutic intervention.
+author: Su, Yapeng and Chen, Daniel and Yuan, Dan and Lausted, Christopher and Choi,
+  Jongchan and Dai, Chengzhen L. and Voillet, Valentin and Duvvuri, Venkata R. and
+  Scherler, Kelsey and Troisch, Pamela and Baloni, Priyanka and Qin, Guangrong and
+  Smith, Brett and Kornilov, Sergey A. and Rostomily, Clifford and Xu, Alex and Li,
+  Jing and Dong, Shen and Rothchild, Alissa and Zhou, Jing and Murray, Kim and Edmark,
+  Rick and Hong, Sunga and Heath, John E. and Earls, John and Zhang, Rongyu and Xie,
+  Jingyi and Li, Sarah and Roper, Ryan and Jones, Lesley and Zhou, Yong and Rowen,
+  Lee and Liu, Rachel and Mackay, Sean and O'Mahony, D. Shane and Dale, Christopher
+  R. and Wallick, Julie A. and Algren, Heather A. and Zager, Michael A. and Unit,
+  ISB-Swedish COVID19 Biobanking and Wei, Wei and Price, Nathan D. and Huang, Sui
+  and Subramanian, Naeha and Wang, Kai and Magis, Andrew T. and Hadlock, Jenn J. and
+  Hood, Leroy and Aderem, Alan and Bluestone, Jeffrey A. and Lanier, Lewis L. and
+  Greenberg, Philip D. and Gottardo, Raphael and Davis, Mark M. and Goldman, Jason
+  D. and Heath, James R.
+author_list:
+- family: Su
+  given: Yapeng
+- family: Chen
+  given: Daniel
+- family: Yuan
+  given: Dan
+- family: Lausted
+  given: Christopher
+- family: Choi
+  given: Jongchan
+- family: Dai
+  given: Chengzhen L.
+- family: Voillet
+  given: Valentin
+- family: Duvvuri
+  given: Venkata R.
+- family: Scherler
+  given: Kelsey
+- family: Troisch
+  given: Pamela
+- family: Baloni
+  given: Priyanka
+- family: Qin
+  given: Guangrong
+- family: Smith
+  given: Brett
+- family: Kornilov
+  given: Sergey A.
+- family: Rostomily
+  given: Clifford
+- family: Xu
+  given: Alex
+- family: Li
+  given: Jing
+- family: Dong
+  given: Shen
+- family: Rothchild
+  given: Alissa
+- family: Zhou
+  given: Jing
+- family: Murray
+  given: Kim
+- family: Edmark
+  given: Rick
+- family: Hong
+  given: Sunga
+- family: Heath
+  given: John E.
+- family: Earls
+  given: John
+- family: Zhang
+  given: Rongyu
+- family: Xie
+  given: Jingyi
+- family: Li
+  given: Sarah
+- family: Roper
+  given: Ryan
+- family: Jones
+  given: Lesley
+- family: Zhou
+  given: Yong
+- family: Rowen
+  given: Lee
+- family: Liu
+  given: Rachel
+- family: Mackay
+  given: Sean
+- family: O'Mahony
+  given: D. Shane
+- family: Dale
+  given: Christopher R.
+- family: Wallick
+  given: Julie A.
+- family: Algren
+  given: Heather A.
+- family: Zager
+  given: Michael A.
+- family: Unit
+  given: ISB-Swedish COVID19 Biobanking
+- family: Wei
+  given: Wei
+- family: Price
+  given: Nathan D.
+- family: Huang
+  given: Sui
+- family: Subramanian
+  given: Naeha
+- family: Wang
+  given: Kai
+- family: Magis
+  given: Andrew T.
+- family: Hadlock
+  given: Jenn J.
+- family: Hood
+  given: Leroy
+- family: Aderem
+  given: Alan
+- family: Bluestone
+  given: Jeffrey A.
+- family: Lanier
+  given: Lewis L.
+- family: Greenberg
+  given: Philip D.
+- family: Gottardo
+  given: Raphael
+- family: Davis
+  given: Mark M.
+- family: Goldman
+  given: Jason D.
+- family: Heath
+  given: James R.
+doi: 10.1016/j.cell.2020.10.037
+file: /mnt/data/wizard/Zotero/storage/QQR9UGFK/Su et al. - 2020 - Multi-Omics Resolves
+  a Sharp Disease-State Shift b.pdf
+files: []
+issn: 1097-4172
+journal: Cell
+keywords: Adolescent,Adult,Aged,{Aged, 80 and over},CITE-seq,COVID-19,Female,Genomics,Humans,immune
+  response,infection,Male,metabolomics,Middle Aged,multi-omics,proteomics,RNA-Seq,SARS-CoV-2,Severity
+  of Illness Index,Single-Cell Analysis,single-cell RNA-seq,single-cell secretome,single-cell
+  TCR-seq
+langid: english
+month: December
+number: '6'
+pages: 1479-1495.e20
+papis_id: ba50864c7284c5afda7f4e96786e8afc
+pmcid: PMC7598382
+pmid: '33171100'
+ref: MultiOmicsResSuYa2020
+title: Multi-Omics Resolves a Sharp Disease-State Shift between Mild and Moderate
+  COVID-19
+type: article
+volume: '183'
+year: '2020'

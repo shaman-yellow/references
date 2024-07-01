@@ -1,0 +1,23 @@
+author: Phipson, Belinda and Maksimovic, Jovana and Oshlack, Alicia
+author_list:
+- family: Phipson
+  given: Belinda
+- family: Maksimovic
+  given: Jovana
+- family: Oshlack
+  given: Alicia
+doi: 10.1093/bioinformatics/btv560
+files: []
+issn: 1367-4803
+issue: '2'
+journal: Bioinformatics (Oxford, England)
+pages: 286--288
+papis_id: 81f783b6488ed0951397976e7e3687ac
+pmid: '26424855'
+ref: MissmethylAnPhipso2016
+time-added: 2024-05-23-14:21:56
+title: 'missMethyl: an R package for analyzing data from Illumina''s HumanMethylation450
+  platform'
+type: article
+volume: '32'
+year: 2016

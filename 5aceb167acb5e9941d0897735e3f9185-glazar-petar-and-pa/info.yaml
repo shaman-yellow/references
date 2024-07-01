@@ -1,0 +1,22 @@
+author: Glažar, Petar and Papavasileiou, Panagiotis and Rajewsky, Nikolaus
+author_list:
+- family: Glažar
+  given: Petar
+- family: Papavasileiou
+  given: Panagiotis
+- family: Rajewsky
+  given: Nikolaus
+doi: 10.1261/rna.043687.113
+files: []
+issue: '11'
+journal: RNA
+month: '9'
+page: 1666-1670
+papis_id: f934d5312d1ca7cd5f97d3acbd3342d0
+publisher: Cold Spring Harbor Laboratory
+ref: CircbaseADatGlazar2014
+title: 'circBase: a database for circular RNAs'
+type: article
+url: http://dx.doi.org/10.1261/rna.043687.113
+volume: '20'
+year: '2014'

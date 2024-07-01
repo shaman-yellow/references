@@ -1,0 +1,50 @@
+author: Sambruni, Gaia and Macandog, Angeli D and Wirbel, Jakob and Cagnina, Danilo
+  and Catozzi, Carlotta and Dallavilla, Tiziano and Borgo, Francesca and Fazio, Nicola
+  and Fumagalli-Romario, Uberto and Petz, Wanda L and Manzo, Teresa and Ravenda, Simona
+  P and Zeller, Georg and Nezi, Luigi and Schaefer, Martin H
+author_list:
+- family: Sambruni
+  given: Gaia
+- family: Macandog
+  given: Angeli D
+- family: Wirbel
+  given: Jakob
+- family: Cagnina
+  given: Danilo
+- family: Catozzi
+  given: Carlotta
+- family: Dallavilla
+  given: Tiziano
+- family: Borgo
+  given: Francesca
+- family: Fazio
+  given: Nicola
+- family: Fumagalli-Romario
+  given: Uberto
+- family: Petz
+  given: Wanda L
+- family: Manzo
+  given: Teresa
+- family: Ravenda
+  given: Simona P
+- family: Zeller
+  given: Georg
+- family: Nezi
+  given: Luigi
+- family: Schaefer
+  given: Martin H
+doi: 10.1186/s13073-023-01180-9
+files:
+- locationandcosambru2023-a.pdf
+issn: 1756-994X
+issue: '1'
+journal: Genome medicine
+papis_id: b702755c3f9af794597455b4a99ed248
+pmid: '37131219'
+ref: LocationAndCoSambru2023
+time-added: 2024-03-12-14:14:25
+title: Location and condition based reconstruction of colon cancer microbiome from
+  human RNA sequencing data
+type: article
+volume: '15'
+year: 2023

@@ -1,0 +1,348 @@
+abstract: "<jats:title>Abstract</jats:title>\n               <jats:p>MusiteDeep is\
+  \ an online resource providing a deep-learning framework for protein post-translational\
+  \ modification (PTM) site prediction and visualization. The predictor only uses\
+  \ protein sequences as input and no complex features are needed, which results in\
+  \ a real-time prediction for a large number of proteins. It takes less than three\
+  \ minutes to predict for 1000 sequences per PTM type. The output is presented at\
+  \ the amino acid level for the user-selected PTM types. The framework has been benchmarked\
+  \ and has demonstrated competitive performance in PTM site predictions by other\
+  \ researchers. In this webserver, we updated the previous framework by utilizing\
+  \ more advanced ensemble techniques, and providing prediction and visualization\
+  \ for multiple PTMs simultaneously for users to analyze potential PTM cross-talks\
+  \ directly. Besides prediction, users can interactively review the predicted PTM\
+  \ sites in the context of known PTM annotations and protein 3D structures through\
+  \ homology-based search. In addition, the server maintains a local database providing\
+  \ pre-processed PTM annotations from Uniport/Swiss-Prot for users to download. This\
+  \ database will be updated every three months. The MusiteDeep server is available\
+  \ at https://www.musite.net. The stand-alone tools for locally using MusiteDeep\
+  \ are available at https://github.com/duolinwang/MusiteDeep_web.</jats:p>"
+author: Wang, Duolin and Liu, Dongpeng and Yuchi, Jiakang and He, Fei and Jiang, Yuexu
+  and Cai, Siteng and Li, Jingyi and Xu, Dong
+author_list:
+- affiliation:
+  - name: Christopher S. Bond Life Sciences Center, University of Missouri, Columbia,
+      MO 65211, USA
+  - name: Department of Electrical Engineering and Computer Science, University of
+      Missouri, Columbia, MO 65211, USA
+  family: Wang
+  given: Duolin
+- affiliation:
+  - name: Department of Electrical Engineering and Computer Science, University of
+      Missouri, Columbia, MO 65211, USA
+  family: Liu
+  given: Dongpeng
+- affiliation:
+  - name: Department of Electrical Engineering and Computer Science, University of
+      Missouri, Columbia, MO 65211, USA
+  family: Yuchi
+  given: Jiakang
+- affiliation:
+  - name: Christopher S. Bond Life Sciences Center, University of Missouri, Columbia,
+      MO 65211, USA
+  - name: School of Information Science and Technology, Northeast Normal University,
+      Changchun, Jilin 130117, China
+  family: He
+  given: Fei
+- affiliation:
+  - name: Christopher S. Bond Life Sciences Center, University of Missouri, Columbia,
+      MO 65211, USA
+  - name: Department of Electrical Engineering and Computer Science, University of
+      Missouri, Columbia, MO 65211, USA
+  family: Jiang
+  given: Yuexu
+- affiliation:
+  - name: Department of Electrical Engineering and Computer Science, University of
+      Missouri, Columbia, MO 65211, USA
+  family: Cai
+  given: Siteng
+- affiliation:
+  - name: School of Information Science and Technology, Northeast Normal University,
+      Changchun, Jilin 130117, China
+  family: Li
+  given: Jingyi
+- affiliation:
+  - name: Christopher S. Bond Life Sciences Center, University of Missouri, Columbia,
+      MO 65211, USA
+  - name: Department of Electrical Engineering and Computer Science, University of
+      Missouri, Columbia, MO 65211, USA
+  family: Xu
+  given: Dong
+citations:
+- article-title: Chemical and functional aspects of posttranslational modification
+    of proteins
+  author: Knorre
+  doi: 10.32607/20758251-2009-1-3-29-51
+  first-page: '29'
+  journal-title: Acta Naturae
+  volume: '1'
+  year: '2009'
+- article-title: 'Post-translational modification: nature''s escape from genetic imprisonment
+    and the basis for dynamic information encoding'
+  author: Prabakaran
+  doi: 10.1002/wsbm.1185
+  first-page: '565'
+  journal-title: Wiley Interdiscip. Rev. Syst. Biol. Med.
+  volume: '4'
+  year: '2012'
+- article-title: Musite, a tool for global prediction of general and kinase-specific
+    phosphorylation sites
+  author: Gao
+  doi: 10.1074/mcp.M110.001388
+  first-page: '2586'
+  journal-title: Mol. Cell. Proteomics
+  volume: '9'
+  year: '2010'
+- article-title: In silico platform for prediction of N-, O- and C-glycosites in eukaryotic
+    protein sequences
+  author: Chauhan
+  doi: 10.1371/journal.pone.0067008
+  first-page: e67008
+  journal-title: PLoS One
+  volume: '8'
+  year: '2013'
+- article-title: 'GPS-PAIL: prediction of lysine acetyltransferase-specific modification
+    sites from protein sequences'
+  author: Deng
+  doi: 10.1038/srep39787
+  first-page: '39787'
+  journal-title: Sci. Rep.
+  volume: '6'
+  year: '2016'
+- article-title: 'GPS-ARM: computational analysis of the APC/C recognition motif by
+    predicting D-boxes and KEN-boxes'
+  author: Liu
+  doi: 10.1371/journal.pone.0034370
+  first-page: e34370
+  journal-title: PLoS One
+  volume: '7'
+  year: '2012'
+- article-title: 'GPS-SUMO: a tool for the prediction of sumoylation sites and SUMO-interaction
+    motifs'
+  author: Zhao
+  doi: 10.1093/nar/gku383
+  first-page: W325
+  journal-title: Nucleic Acids Res.
+  volume: '42'
+  year: '2014'
+- article-title: Fast prediction of protein methylation sites using a sequence-based
+    feature selection technique
+  author: Wei
+  doi: 10.1109/TCBB.2017.2670558
+  first-page: '1264'
+  journal-title: IEEE/ACM Trans. Comput. Biol. Bioinf.
+  volume: '16'
+  year: '2019'
+- article-title: 'RF-Hydroxysite: a random forest based predictor for hydroxylation
+    sites'
+  author: Ismail
+  doi: 10.1039/C6MB00179C
+  first-page: '2427'
+  journal-title: Mol. Biosyst.
+  volume: '12'
+  year: '2016'
+- article-title: 'CSS-Palm 2.0: an updated software for palmitoylation sites prediction'
+  author: Ren
+  doi: 10.1093/protein/gzn039
+  first-page: '639'
+  journal-title: Protein Eng Des Sel.
+  volume: '21'
+  year: '2008'
+- article-title: Incorporating key position and amino acid residue features to identify
+    general and species-specific Ubiquitin conjugation sites
+  author: Chen
+  doi: 10.1093/bioinformatics/btt196
+  first-page: '1614'
+  journal-title: Bioinformatics
+  volume: '29'
+  year: '2013'
+- article-title: 'DeepPhos: prediction of protein phosphorylation sites with deep
+    learning'
+  author: Luo
+  doi: 10.1093/bioinformatics/bty1051
+  first-page: '2766'
+  journal-title: Bioinformatics
+  volume: '35'
+  year: '2019'
+- article-title: 'Protein posttranslational modifications: roles in aging and age-related
+    disease'
+  author: Santos
+  doi: 10.1155/2017/5716409
+  first-page: '5716409'
+  journal-title: Oxid Med Cell Longev.
+  volume: '2017'
+  year: '2017'
+- article-title: Roles of post-translational modifications in spinocerebellar ataxias
+  author: Wan
+  doi: 10.3389/fncel.2018.00290
+  first-page: '290'
+  journal-title: Front. Cell Neurosci.
+  volume: '12'
+  year: '2018'
+- article-title: Protein post-translational modifications and regulation of pluripotency
+    in human stem cells
+  author: Wang
+  doi: 10.1038/cr.2013.151
+  first-page: '143'
+  journal-title: Cell Res.
+  volume: '24'
+  year: '2014'
+- article-title: 'dbPTM in 2019: exploring disease association and cross-talk of post-translational
+    modifications'
+  author: Huang
+  doi: 10.1093/nar/gky1074
+  first-page: D298
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2019'
+- article-title: 'PTMcode: a database of known and predicted functional associations
+    between post-translational modifications in proteins'
+  author: Minguez
+  doi: 10.1093/nar/gks1230
+  first-page: D306
+  journal-title: Nucleic Acids Res.
+  volume: '41'
+  year: '2013'
+- article-title: 'AWESOME: a database of SNPs that affect protein post-translational
+    modifications'
+  author: Yang
+  doi: 10.1093/nar/gky821
+  first-page: D874
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2019'
+- article-title: 'PTM-ssMP: A Web Server for Predicting Different Types of Post-translational
+    Modification Sites Using Novel Site-specific Modification Profile'
+  author: Liu
+  doi: 10.7150/ijbs.24121
+  first-page: '946'
+  journal-title: Int. J. Biol. Sci.
+  volume: '14'
+  year: '2018'
+- article-title: The structural and functional signatures of proteins that undergo
+    multiple events of post-translational modification
+  author: Pejaver
+  doi: 10.1002/pro.2494
+  first-page: '1077'
+  journal-title: Protein Sci.
+  volume: '23'
+  year: '2014'
+- article-title: 'MusiteDeep: a deep-learning framework for general and kinase-specific
+    phosphorylation site prediction'
+  author: Wang
+  doi: 10.1093/bioinformatics/btx496
+  first-page: '3909'
+  journal-title: Bioinformatics
+  volume: '33'
+  year: '2017'
+- article-title: Deep learning
+  author: LeCun
+  doi: 10.1038/nature14539
+  first-page: '436'
+  journal-title: Nature
+  volume: '521'
+  year: '2015'
+- article-title: 'PhosContext2vec: a distributed representation of residue-level sequence
+    contexts and its application to general and kinase-specific phosphorylation site
+    prediction'
+  author: Xu
+  doi: 10.1038/s41598-018-26392-7
+  first-page: '8240'
+  journal-title: Sci. Rep.
+  volume: '8'
+  year: '2018'
+- article-title: Boosting phosphorylation site prediction with sequence feature-based
+    machine learning
+  author: Maiti
+  doi: 10.1002/prot.25801
+  first-page: '284'
+  journal-title: Proteins
+  volume: '88'
+  year: '2020'
+- article-title: 'A generic deep convolutional neural network framework for prediction
+    of receptor-ligand interactions-NetPhosPan: application to kinase phosphorylation
+    prediction'
+  author: Fenoy
+  doi: 10.1093/bioinformatics/bty715
+  first-page: '1098'
+  journal-title: Bioinformatics
+  volume: '35'
+  year: '2019'
+- article-title: 'qPhos: a database of protein phosphorylation dynamics in humans'
+  author: Yu
+  doi: 10.1093/nar/gky1052
+  first-page: D451
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2019'
+- author: López-García
+  first-page: '1'
+  volume-title: 2019 International Joint Conference on Neural Networks (IJCNN)
+  year: '2019'
+- author: Sabour
+  first-page: '3856'
+  volume-title: Advances in Neural Information Processing Systems
+  year: '2017'
+- article-title: Capsule network for protein post-translational modification site
+    prediction
+  author: Wang
+  doi: 10.1093/bioinformatics/bty977
+  first-page: '2386'
+  journal-title: Bioinformatics
+  volume: '35'
+  year: '2019'
+- article-title: 'Adam: a method for stochastic optimization'
+  author: Kingma
+  year: '2014'
+- article-title: Averaging weights leads to wider optima and better generalization
+  author: Izmailov
+  year: '2018'
+- article-title: 'G2S: a web-service for annotating genomic variants on 3D protein
+    structures'
+  author: Wang
+  doi: 10.1093/bioinformatics/bty047
+  first-page: '1949'
+  journal-title: Bioinformatics
+  volume: '34'
+  year: '2018'
+- article-title: 'NGL Viewer: a web application for molecular visualization'
+  author: Rose
+  doi: 10.1093/nar/gkv402
+  first-page: W576
+  journal-title: Nucleic Acids Res.
+  volume: '43'
+  year: '2015'
+- article-title: 'RCSB Protein Data Bank: biological macromolecular structures enabling
+    research and education in fundamental biology, biomedicine, biotechnology and
+    energy'
+  author: Burley
+  doi: 10.1093/nar/gky1004
+  first-page: D464
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2019'
+- article-title: 'UniProtKB/swiss-prot, the manually annotated section of the uniprot
+    knowledgebase: how to use the entry view'
+  author: Boutet
+  doi: 10.1007/978-1-4939-3167-5_2
+  first-page: '23'
+  journal-title: Methods Mol. Biol.
+  volume: '1374'
+  year: '2016'
+doc_url: http://academic.oup.com/nar/article-pdf/48/W1/W140/33432850/gkaa275.pdf
+doi: 10.1093/nar/gkaa275
+files: []
+issue: W1
+journal: Nucleic Acids Research
+language: en
+month: 7
+pages: W140--W146
+papis_id: 6d0bc05a0ff88c30703686130e9d2090
+publisher: Oxford University Press (OUP)
+ref: MusitedeepADWang2020
+time-added: 2024-03-08-17:17:30
+title: 'MusiteDeep: a deep-learning based webserver for protein post-translational
+  modification site prediction and visualization'
+type: article
+url: http://dx.doi.org/10.1093/nar/gkaa275
+volume: '48'
+year: 2020

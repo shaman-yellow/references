@@ -1,0 +1,33 @@
+author: Pletnev, Igor and Erin, Andrey and McNaught, Alan and Blinov, Kirill and Tchekhovskoi,
+  Dmitrii and Heller, Steve
+author_list:
+- family: Pletnev
+  given: Igor
+- family: Erin
+  given: Andrey
+- family: McNaught
+  given: Alan
+- family: Blinov
+  given: Kirill
+- family: Tchekhovskoi
+  given: Dmitrii
+- family: Heller
+  given: Steve
+doi: 10.1186/1758-2946-4-39
+file: /mnt/data/wizard/Zotero/storage/JEQQU4RD/Pletnev et al. - 2012 - InChIKey collision
+  resistance an experimental tes.pdf
+files: []
+issn: 1758-2946
+journal: Journal of Cheminformatics
+langid: english
+month: December
+number: '1'
+pages: '39'
+papis_id: f4566de73ee52aa1db14afc1564a0f1c
+ref: InchikeyCollisPletne2012
+shorttitle: '{{InChIKey}} Collision Resistance'
+title: 'InChIKey Collision Resistance: An Experimental Testing'
+type: article
+urldate: '2022-03-24'
+volume: '4'
+year: '2012'

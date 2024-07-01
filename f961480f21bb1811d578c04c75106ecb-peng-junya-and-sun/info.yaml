@@ -1,0 +1,68 @@
+author: Peng, Junya and Sun, Bao-Fa and Chen, Chuan-Yuan and Zhou, Jia-Yi and Chen,
+  Yu-Sheng and Chen, Hao and Liu, Lulu and Huang, Dan and Jiang, Jialin and Cui, Guan-Shen
+  and Yang, Ying and Wang, Wenze and Guo, Dan and Dai, Menghua and Guo, Junchao and
+  Zhang, Taiping and Liao, Quan and Liu, Yi and Zhao, Yong-Liang and Han, Da-Li and
+  Zhao, Yupei and Yang, Yun-Gui and Wu, Wenming
+author_list:
+- family: Peng
+  given: Junya
+- family: Sun
+  given: Bao-Fa
+- family: Chen
+  given: Chuan-Yuan
+- family: Zhou
+  given: Jia-Yi
+- family: Chen
+  given: Yu-Sheng
+- family: Chen
+  given: Hao
+- family: Liu
+  given: Lulu
+- family: Huang
+  given: Dan
+- family: Jiang
+  given: Jialin
+- family: Cui
+  given: Guan-Shen
+- family: Yang
+  given: Ying
+- family: Wang
+  given: Wenze
+- family: Guo
+  given: Dan
+- family: Dai
+  given: Menghua
+- family: Guo
+  given: Junchao
+- family: Zhang
+  given: Taiping
+- family: Liao
+  given: Quan
+- family: Liu
+  given: Yi
+- family: Zhao
+  given: Yong-Liang
+- family: Han
+  given: Da-Li
+- family: Zhao
+  given: Yupei
+- family: Yang
+  given: Yun-Gui
+- family: Wu
+  given: Wenming
+doi: 10.1038/s41422-019-0195-y
+files:
+- singlecellrnapeng2019-a.pdf
+issn: 1001-0602
+issue: '9'
+journal: Cell research
+pages: 725--738
+papis_id: 37886a146ba7970e827c3b62d32bc581
+pmid: '31273297'
+ref: SingleCellRnaPeng2019
+time-added: 2023-11-23-09:36:58
+title: Single-cell RNA-seq highlights intra-tumoral heterogeneity and malignant progression
+  in pancreatic ductal adenocarcinoma
+type: article
+volume: '29'
+year: 2019

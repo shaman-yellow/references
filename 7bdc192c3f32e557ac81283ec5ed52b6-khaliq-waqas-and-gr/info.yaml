@@ -1,0 +1,44 @@
+author: Khaliq, Waqas and Großmann, Peter and Neugebauer, Sophie and Kleyman, Anna
+  and Domizi, Roberta and Calcinaro, Sara and Brealey, David and Gräler, Markus and
+  Kiehntopf, Michael and Schäuble, Sascha and Singer, Mervyn and Panagiotou, Gianni
+  and Bauer, Michael
+author_list:
+- family: Khaliq
+  given: Waqas
+- family: Großmann
+  given: Peter
+- family: Neugebauer
+  given: Sophie
+- family: Kleyman
+  given: Anna
+- family: Domizi
+  given: Roberta
+- family: Calcinaro
+  given: Sara
+- family: Brealey
+  given: David
+- family: Gräler
+  given: Markus
+- family: Kiehntopf
+  given: Michael
+- family: Schäuble
+  given: Sascha
+- family: Singer
+  given: Mervyn
+- family: Panagiotou
+  given: Gianni
+- family: Bauer
+  given: Michael
+doi: 10.1016/j.csbj.2020.11.009
+files: []
+issn: 2001-0370
+journal: Computational and structural biotechnology journal
+pages: 3678--3691
+papis_id: b46501d16057b4ceddbea7c9912ec38a
+pmid: '33304464'
+ref: LipidMetabolicKhaliq2020
+time-added: 2024-03-04-17:26:16
+title: Lipid metabolic signatures deviate in sepsis survivors compared to non-survivors
+type: article
+volume: '18'
+year: 2020

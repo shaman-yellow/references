@@ -1,0 +1,25 @@
+author: Bray, Nicolas L and Pimentel, Harold and Melsted, Páll and Pachter, Lior
+author_list:
+- family: Bray
+  given: Nicolas L
+- family: Pimentel
+  given: Harold
+- family: Melsted
+  given: Páll
+- family: Pachter
+  given: Lior
+doi: 10.1038/nbt.3519
+files:
+- nearoptimalprbray2016-a.pdf
+issue: '5'
+journal: Nature Biotechnology
+month: '4'
+page: 525-527
+papis_id: eb8d3ef442e05d84b7ab00512435705a
+publisher: Springer Science and Business Media LLC
+ref: NearOptimalPrBray2016
+title: Near-optimal probabilistic RNA-seq quantification
+type: article
+url: http://dx.doi.org/10.1038/nbt.3519
+volume: '34'
+year: '2016'

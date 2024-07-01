@@ -1,0 +1,25 @@
+author: Cao, Y. and Charisi, A. and Cheng, L.-C. and Jiang, T. and Girke, T.
+author_list:
+- family: Cao
+  given: Y.
+- family: Charisi
+  given: A.
+- family: Cheng
+  given: L.-C.
+- family: Jiang
+  given: T.
+- family: Girke
+  given: T.
+doi: 10.1093/bioinformatics/btn307
+files: []
+journal: Bioinformatics (Oxford, England)
+month: July
+number: '15'
+pages: 1733--1734
+papis_id: 5e22d58871fe99850d7b3c0eb005b625
+publisher: '{Oxford University Press (OUP)}'
+ref: ChemminerACoCaoY2008
+title: 'ChemmineR: A Compound Mining Framework for R'
+type: article
+volume: '24'
+year: '2008'

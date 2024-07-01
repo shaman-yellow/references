@@ -1,0 +1,70 @@
+abstract: Abstract                            Background               In order to
+  correctly decode phenotypic information from RNA-sequencing (RNA-seq) data, careful
+  selection of the RNA-seq quantification measure is critical for inter-sample comparisons
+  and for downstream analyses, such as differential gene expression between two or
+  more conditions. Several methods have been proposed and continue to be used. However,
+  a consensus has not been reached regarding the best gene expression quantification
+  method for RNA-seq data analysis.                                         Methods               In
+  the present study, we used replicate samples from each of 20 patient-derived xenograft
+  (PDX) models spanning 15 tumor types, for a total of 61 human tumor xenograft samples
+  available through the NCI patient-derived model repository (PDMR). We compared the
+  reproducibility across replicate samples based on TPM (transcripts per million),
+  FPKM (fragments per kilobase of transcript per million fragments mapped), and normalized
+  counts using coefficient of variation, intraclass correlation coefficient, and cluster
+  analysis.                                         Results               Our results
+  revealed that hierarchical clustering on normalized count data tended to group replicate
+  samples from the same PDX model together more accurately than TPM and FPKM data.
+  Furthermore, normalized count data were observed to have the lowest median coefficient
+  of variation (CV), and highest intraclass correlation (ICC) values across all replicate
+  samples from the same model and for the same gene across all PDX models compared
+  to TPM and FPKM data.                                         Conclusion               We
+  provided compelling evidence for a preferred quantification measure to conduct downstream
+  analyses of PDX RNA-seq data. To our knowledge, this is the first comparative study
+  of RNA-seq data quantification measures conducted on PDX models, which are known
+  to be inherently more variable than cell line models. Our findings are consistent
+  with what others have shown for human tumors and cell lines and add further support
+  to the thesis that normalized counts are the best choice for the analysis of RNA-seq
+  data across samples.
+author: Zhao, Yingdong and Li, Ming-Chung and Konaté, Mariam M. and Chen, Li and Das,
+  Biswajit and Karlovich, Chris and Williams, P. Mickey and Evrard, Yvonne A. and
+  Doroshow, James H. and McShane, Lisa M.
+author_list:
+- family: Zhao
+  given: Yingdong
+- family: Li
+  given: Ming-Chung
+- family: Konaté
+  given: Mariam M.
+- family: Chen
+  given: Li
+- family: Das
+  given: Biswajit
+- family: Karlovich
+  given: Chris
+- family: Williams
+  given: P. Mickey
+- family: Evrard
+  given: Yvonne A.
+- family: Doroshow
+  given: James H.
+- family: McShane
+  given: Lisa M.
+doi: 10.1186/s12967-021-02936-w
+file: /mnt/data/wizard/Zotero/storage/DUQ2N38Y/Zhao et al. - 2021 - TPM, FPKM, or
+  Normalized Counts A Comparative Stu.pdf
+files: []
+issn: 1479-5876
+journal: Journal of Translational Medicine
+langid: english
+month: December
+number: '1'
+pages: '269'
+papis_id: c117348fdf7183e47cc77a3bbf107dbb
+ref: TpmFpkmOrNZhao2021
+shorttitle: '{{TPM}}, {{FPKM}}, or {{Normalized Counts}}?'
+title: TPM, FPKM, or Normalized Counts? A Comparative Study of Quantification Measures
+  for the Analysis of RNA-seq Data from the NCI Patient-Derived Models Repository
+type: article
+urldate: '2022-07-05'
+volume: '19'
+year: '2021'

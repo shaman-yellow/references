@@ -1,0 +1,44 @@
+abstract: Renewed interest in metabolic research over the last two decades has inspired
+  an explosion of technological developments for studying metabolism. At the forefront
+  of methodological innovation is an approach referred to as "untargeted" or "discovery"
+  metabolomics. The experimental objective of this technique is to comprehensively
+  measure the entire metabolome, which constitutes a largely undefined set of molecules.
+  Given its potential comprehensive coverage, untargeted metabolomics is often the
+  first choice of experiments for investigators pursuing a metabolic research question.
+  It is important to recognize, however, that untargeted metabolomics may not always
+  be the optimal experimental approach. Conventionally, untargeted metabolomics only
+  provides information about relative differences in metabolite pool sizes. Therefore,
+  depending on the specific scientific question at hand, a complementary approach
+  involving stable isotopes (such as metabolic flux analysis) may be better suited
+  to provide biological insights. Unlike untargeted metabolomics, stable-isotope methods
+  can provide information about differences in reaction rates.
+author: Zamboni, Nicola and Saghatelian, Alan and Patti, Gary J.
+author_list:
+- family: Zamboni
+  given: Nicola
+- family: Saghatelian
+  given: Alan
+- family: Patti
+  given: Gary J.
+doi: 10.1016/j.molcel.2015.04.021
+file: /mnt/data/wizard/Zotero/storage/ZZN5XWMB/Zamboni et al. - 2015 - Defining the
+  metabolome size, flux, and regulatio.pdf
+files: []
+issn: 1097-4164
+journal: Molecular Cell
+keywords: Animals,{Chromatography, Liquid},Gas Chromatography-Mass Spectrometry,Humans,Isotope
+  Labeling,Mass Spectrometry,Metabolome,Metabolomics,Reproducibility of Results,Signal
+  Transduction
+langid: english
+month: May
+number: '4'
+pages: 699--706
+papis_id: 0d860b2c723086f850071a6a69119f18
+pmcid: PMC4831058
+pmid: '26000853'
+ref: DefiningTheMeZambon2015
+shorttitle: Defining the Metabolome
+title: 'Defining the Metabolome: Size, Flux, and Regulation'
+type: article
+volume: '58'
+year: '2015'

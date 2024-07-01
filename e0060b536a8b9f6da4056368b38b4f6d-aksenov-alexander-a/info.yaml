@@ -1,0 +1,177 @@
+author: Aksenov, Alexander A. and Laponogov, Ivan and Zhang, Zheng and Doran, Sophie
+  L. F. and Belluomo, Ilaria and Veselkov, Dennis and Bittremieux, Wout and Nothias,
+  Louis Felix and Nothias-Esposito, Mélissa and Maloney, Katherine N. and Misra, Biswapriya
+  B. and Melnik, Alexey V. and Smirnov, Aleksandr and Du, Xiuxia and Jones, Kenneth
+  L. and Dorrestein, Kathleen and Panitchpakdi, Morgan and Ernst, Madeleine and van
+  der Hooft, Justin J. J. and Gonzalez, Mabel and Carazzone, Chiara and Amézquita,
+  Adolfo and Callewaert, Chris and Morton, James T. and Quinn, Robert A. and Bouslimani,
+  Amina and Orio, Andrea Albarracín and Petras, Daniel and Smania, Andrea M. and Couvillion,
+  Sneha P. and Burnet, Meagan C. and Nicora, Carrie D. and Zink, Erika and Metz, Thomas
+  O. and Artaev, Viatcheslav and Humston-Fulmer, Elizabeth and Gregor, Rachel and
+  Meijler, Michael M. and Mizrahi, Itzhak and Eyal, Stav and Anderson, Brooke and
+  Dutton, Rachel and Lugan, Raphaël and Boulch, Pauline Le and Guitton, Yann and Prevost,
+  Stephanie and Poirier, Audrey and Dervilly, Gaud and Le Bizec, Bruno and Fait, Aaron
+  and Persi, Noga Sikron and Song, Chao and Gashu, Kelem and Coras, Roxana and Guma,
+  Monica and Manasson, Julia and Scher, Jose U. and Barupal, Dinesh Kumar and Alseekh,
+  Saleh and Fernie, Alisdair R. and Mirnezami, Reza and Vasiliou, Vasilis and Schmid,
+  Robin and Borisov, Roman S. and Kulikova, Larisa N. and Knight, Rob and Wang, Mingxun
+  and Hanna, George B. and Dorrestein, Pieter C. and Veselkov, Kirill
+author_list:
+- family: Aksenov
+  given: Alexander A.
+- family: Laponogov
+  given: Ivan
+- family: Zhang
+  given: Zheng
+- family: Doran
+  given: Sophie L. F.
+- family: Belluomo
+  given: Ilaria
+- family: Veselkov
+  given: Dennis
+- family: Bittremieux
+  given: Wout
+- family: Nothias
+  given: Louis Felix
+- family: Nothias-Esposito
+  given: Mélissa
+- family: Maloney
+  given: Katherine N.
+- family: Misra
+  given: Biswapriya B.
+- family: Melnik
+  given: Alexey V.
+- family: Smirnov
+  given: Aleksandr
+- family: Du
+  given: Xiuxia
+- family: Jones
+  given: Kenneth L.
+- family: Dorrestein
+  given: Kathleen
+- family: Panitchpakdi
+  given: Morgan
+- family: Ernst
+  given: Madeleine
+- family: van der Hooft
+  given: Justin J. J.
+- family: Gonzalez
+  given: Mabel
+- family: Carazzone
+  given: Chiara
+- family: Amézquita
+  given: Adolfo
+- family: Callewaert
+  given: Chris
+- family: Morton
+  given: James T.
+- family: Quinn
+  given: Robert A.
+- family: Bouslimani
+  given: Amina
+- family: Orio
+  given: Andrea Albarracín
+- family: Petras
+  given: Daniel
+- family: Smania
+  given: Andrea M.
+- family: Couvillion
+  given: Sneha P.
+- family: Burnet
+  given: Meagan C.
+- family: Nicora
+  given: Carrie D.
+- family: Zink
+  given: Erika
+- family: Metz
+  given: Thomas O.
+- family: Artaev
+  given: Viatcheslav
+- family: Humston-Fulmer
+  given: Elizabeth
+- family: Gregor
+  given: Rachel
+- family: Meijler
+  given: Michael M.
+- family: Mizrahi
+  given: Itzhak
+- family: Eyal
+  given: Stav
+- family: Anderson
+  given: Brooke
+- family: Dutton
+  given: Rachel
+- family: Lugan
+  given: Raphaël
+- family: Boulch
+  given: Pauline Le
+- family: Guitton
+  given: Yann
+- family: Prevost
+  given: Stephanie
+- family: Poirier
+  given: Audrey
+- family: Dervilly
+  given: Gaud
+- family: Le Bizec
+  given: Bruno
+- family: Fait
+  given: Aaron
+- family: Persi
+  given: Noga Sikron
+- family: Song
+  given: Chao
+- family: Gashu
+  given: Kelem
+- family: Coras
+  given: Roxana
+- family: Guma
+  given: Monica
+- family: Manasson
+  given: Julia
+- family: Scher
+  given: Jose U.
+- family: Barupal
+  given: Dinesh Kumar
+- family: Alseekh
+  given: Saleh
+- family: Fernie
+  given: Alisdair R.
+- family: Mirnezami
+  given: Reza
+- family: Vasiliou
+  given: Vasilis
+- family: Schmid
+  given: Robin
+- family: Borisov
+  given: Roman S.
+- family: Kulikova
+  given: Larisa N.
+- family: Knight
+  given: Rob
+- family: Wang
+  given: Mingxun
+- family: Hanna
+  given: George B.
+- family: Dorrestein
+  given: Pieter C.
+- family: Veselkov
+  given: Kirill
+doi: 10/ghjpcc
+file: /mnt/data/wizard/Zotero/storage/8DHJI88T/Aksenov et al. - 2021 - Auto-deconvolution
+  and molecular networking of gas.pdf
+files: []
+issn: 1087-0156, 1546-1696
+journal: Nature Biotechnology
+langid: english
+month: February
+number: '2'
+pages: 169--173
+papis_id: 1b479579672767ee9fccbba02fdc4ed1
+ref: AutoDeconvolutAkseno2021
+title: Auto-Deconvolution and Molecular Networking of Gas Chromatography– Mass Spectrometry
+  Data
+type: article
+urldate: '2021-11-21'
+volume: '39'
+year: '2021'

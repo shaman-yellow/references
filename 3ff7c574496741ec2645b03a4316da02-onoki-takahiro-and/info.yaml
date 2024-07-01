@@ -1,0 +1,50 @@
+author: Onoki, Takahiro and Izumi, Yoshihiro and Takahashi, Masatomo and Murakami,
+  Shohei and Matsumaru, Daisuke and Ohta, Nao and Wati, Sisca Meida and Hatanaka,
+  Nozomi and Katsuoka, Fumiki and Okutsu, Mitsuharu and Yabe, Yutaka and Hagiwara,
+  Yoshihiro and Kanzaki, Makoto and Bamba, Takeshi and Itoi, Eiji and Motohashi, Hozumi
+author_list:
+- family: Onoki
+  given: Takahiro
+- family: Izumi
+  given: Yoshihiro
+- family: Takahashi
+  given: Masatomo
+- family: Murakami
+  given: Shohei
+- family: Matsumaru
+  given: Daisuke
+- family: Ohta
+  given: Nao
+- family: Wati
+  given: Sisca Meida
+- family: Hatanaka
+  given: Nozomi
+- family: Katsuoka
+  given: Fumiki
+- family: Okutsu
+  given: Mitsuharu
+- family: Yabe
+  given: Yutaka
+- family: Hagiwara
+  given: Yoshihiro
+- family: Kanzaki
+  given: Makoto
+- family: Bamba
+  given: Takeshi
+- family: Itoi
+  given: Eiji
+- family: Motohashi
+  given: Hozumi
+doi: 10.1016/j.redox.2021.101966
+files: []
+issn: 2213-2317
+journal: Redox biology
+papis_id: 98be54440fdea2e29f2f009e78e5e763
+pmid: '33857757'
+ref: SkeletalMuscleOnoki2021
+time-added: 2023-09-26-11:39:35
+title: Skeletal muscle-specific Keap1 disruption modulates fatty acid utilization
+  and enhances exercise capacity in female mice
+type: article
+volume: '43'
+year: 2021

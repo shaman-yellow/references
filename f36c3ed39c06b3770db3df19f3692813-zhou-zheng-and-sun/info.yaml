@@ -1,0 +1,749 @@
+author: Zhou, Zheng and Sun, Bao and Li, Xiaoping and Zhu, Chunsheng
+author_list:
+- affiliation: []
+  family: Zhou
+  given: Zheng
+- affiliation: []
+  family: Sun
+  given: Bao
+- affiliation: []
+  family: Li
+  given: Xiaoping
+- affiliation: []
+  family: Zhu
+  given: Chunsheng
+citations:
+- unstructured: International Diabetes Federation, Global burden. Sixth edition. 2014.
+    http://www.idf.org/diabetesatlas/5e/the-global-burden ; Accessed 9 February 2015.
+- author: SE Kahn
+  doi: 10.1016/S0140-6736(13)62154-6
+  first-page: '1068'
+  issue: '9922'
+  journal-title: Lancet
+  unstructured: 'Kahn SE, Cooper ME, Del Prato S. Pathophysiology and treatment of
+    type 2 diabetes: perspectives on the past, present, and future. Lancet. 2014;383(9922):1068–83.'
+  volume: '383'
+  year: '2014'
+- author: M Stumvoll
+  doi: 10.1016/S0140-6736(05)61032-X
+  first-page: '1333'
+  issue: '9467'
+  journal-title: Lancet
+  unstructured: 'Stumvoll M, Goldstein BJ, van Haeften TW. Type 2 diabetes: principles
+    of pathogenesis and therapy. Lancet. 2005;365(9467):1333–46.'
+  volume: '365'
+  year: '2005'
+- author: SF Grant
+  doi: 10.1038/ng1732
+  first-page: '320'
+  issue: '3'
+  journal-title: Nat Genet
+  unstructured: Grant SF, Thorleifsson G, Reynisdottir I, Benediktsson R, Manolescu
+    A, Sainz J, et al. Variant of transcription factor 7-like 2 (TCF7L2) gene confers
+    risk of type 2 diabetes. Nat Genet. 2006;38(3):320–3.
+  volume: '38'
+  year: '2006'
+- author: A Mahajan
+  doi: 10.1038/ng.2897
+  first-page: '234'
+  issue: '3'
+  journal-title: Nat Genet
+  unstructured: Mahajan A, Go MJ, Zhang W, Below JE, Gaulton KJ, Ferreira T, et al.
+    Genome-wide trans-ancestry meta-analysis provides insight into the genetic architecture
+    of type 2 diabetes susceptibility. Nat Genet. 2014;46(3):234–44.
+  volume: '46'
+  year: '2014'
+- author: AP Morris
+  doi: 10.1038/ng.2383
+  first-page: '981'
+  issue: '9'
+  journal-title: Nat Genet
+  unstructured: Morris AP, Voight BF, Teslovich TM, Ferreira T, Segre AV, Steinthorsdottir
+    V, et al. Large-scale association analysis provides insights into the genetic
+    architecture and pathophysiology of type 2 diabetes. Nat Genet. 2012;44(9):981–90.
+  volume: '44'
+  year: '2012'
+- author: MI McCarthy
+  doi: 10.1007/s00125-015-3588-6
+  first-page: '1725'
+  issue: '8'
+  journal-title: Diabetologia
+  unstructured: McCarthy MI. Genomic medicine at the heart of diabetes management.
+    Diabetologia. 2015;58(8):1725–9.
+  volume: '58'
+  year: '2015'
+- author: R Barres
+  doi: 10.3945/ajcn.110.001933
+  first-page: 897s
+  issue: '4'
+  journal-title: Am J Clin Nutr
+  unstructured: Barres R, Zierath JR. DNA methylation in metabolic disorders. Am J
+    Clin Nutr. 2011;93(4):897s–00.
+  volume: '93'
+  year: '2011'
+- author: C Ling
+  doi: 10.2337/db09-1003
+  first-page: '2718'
+  issue: '12'
+  journal-title: Diabetes
+  unstructured: 'Ling C, Groop L. Epigenetics: a molecular link between environmental
+    factors and type 2 diabetes. Diabetes. 2009;58(12):2718–25.'
+  volume: '58'
+  year: '2009'
+- author: C Ling
+  doi: 10.1007/s00125-016-4109-y
+  first-page: '2295'
+  issue: '11'
+  journal-title: Diabetologia
+  unstructured: Ling C, Ronn T. Epigenetic markers to further understand insulin resistance.
+    Diabetologia. 2016;59(11):2295–7.
+  volume: '59'
+  year: '2016'
+- author: F Antequera
+  doi: 10.1073/pnas.90.24.11995
+  first-page: '11995'
+  issue: '24'
+  journal-title: Proc Nati Acad Sci U S A
+  unstructured: Antequera F, Bird A. Number of CpG islands and genes in human and
+    mouse. Proc Nati Acad Sci U S A. 1993;90(24):11995–9.
+  volume: '90'
+  year: '1993'
+- author: HT Bjornsson
+  doi: 10.1016/j.tig.2004.06.009
+  first-page: '350'
+  issue: '8'
+  journal-title: Trends Genet
+  unstructured: Bjornsson HT, Fallin MD, Feinberg AP. An integrated epigenetic and
+    genetic approach to common human disease. Trends Genet. 2004;20(8):350–8.
+  volume: '20'
+  year: '2004'
+- author: PA Jones
+  doi: 10.1038/nrg3230
+  first-page: '484'
+  issue: '7'
+  journal-title: Nat Rev Genet
+  unstructured: 'Jones PA. Functions of DNA methylation: islands, start sites, gene
+    bodies and beyond. Nat Rev Genet. 2012;13(7):484–92.'
+  volume: '13'
+  year: '2012'
+- author: G Lev Maor
+  doi: 10.1016/j.tig.2015.03.002
+  first-page: '274'
+  issue: '5'
+  journal-title: Trends Genet
+  unstructured: Lev Maor G, Yearim A, Ast G. The alternative role of DNA methylation
+    in splicing regulation. Trends Genet. 2015;31(5):274–80.
+  volume: '31'
+  year: '2015'
+- author: D Aran
+  doi: 10.1186/gb-2013-14-3-r21
+  first-page: R21
+  issue: '3'
+  journal-title: Genome Biol
+  unstructured: Aran D, Sabato S, Hellman A. DNA methylation of distal regulatory
+    sites characterizes dysregulation of cancer genes. Genome Biol. 2013;14(3):R21.
+  volume: '14'
+  year: '2013'
+- author: VK Mootha
+  doi: 10.1038/ng1180
+  first-page: '267'
+  issue: '3'
+  journal-title: Nat Genet
+  unstructured: Mootha VK, Lindgren CM, Eriksson KF, Subramanian A, Sihag S, Lehar
+    J, et al. PGC1-alpha-responsive genes involved in oxidative phosphorylation are
+    coordinately downregulated in human diabetes. Nat Genet. 2003;34(3):267–73.
+  volume: '34'
+  year: '2003'
+- author: C Ling
+  doi: 10.1007/s00125-007-0916-5
+  first-page: '615'
+  issue: '4'
+  journal-title: Diabetologia
+  unstructured: Ling C, Del Guerra S, Lupi R, Ronn T, Granhall C, Luthman H, et al.
+    Epigenetic regulation of PPARGC1A in human type 2 diabetic islets and effect on
+    insulin secretion. Diabetologia. 2008;51(4):615–22.
+  volume: '51'
+  year: '2008'
+- author: A Jonsson
+  doi: 10.2337/db09-0246
+  first-page: '2409'
+  issue: '10'
+  journal-title: Diabetes
+  unstructured: Jonsson A, Isomaa B, Tuomi T, Taneera J, Salehi A, Nilsson P, et al.
+    A variant in the KCNQ1 gene preicts future type 2 diabetes and mediates impaired
+    insulin secretion. Diabetes. 2009;58(10):2409–13.
+  volume: '58'
+  year: '2009'
+- author: JT Tan
+  doi: 10.2337/db08-1138
+  first-page: '1445'
+  issue: '6'
+  journal-title: Diabetes
+  unstructured: 'Tan JT, Nurbaya S, Gardner D, Ye S, Tai ES, Ng Daniel PK. Genetic
+    variation in KCNQ1 associates with fasting glucose and beta-cell function: a study
+    of 3734 subjects comprising three ethnicities living in Singapore. Diabetes. 2009;58(6):1445–9.'
+  volume: '58'
+  year: '2009'
+- author: ME Travers
+  doi: 10.2337/db12-0819
+  first-page: '987'
+  issue: '3'
+  journal-title: Diabetes
+  unstructured: Travers ME, Mackay DJ, Dekker NM, Morris AP, Lindgren CM, Berry A,
+    et al. Insights into the molecular mechanism for type 2 diabetes susceptibility
+    at the KCNQ1 locus from temporal changes in imprinting status in human islets.
+    Diabetes. 2013;62(3):987–92.
+  volume: '62'
+  year: '2013'
+- author: A Kuroda
+  doi: 10.1371/journal.pone.0006953
+  first-page: e6953
+  issue: '9'
+  journal-title: PLoS One
+  unstructured: Kuroda A, Rauch TA, Todorov I, Ku HT, Al-Abdullah IH, Kandeel F, et
+    al. Insulin gene expression is regulated by DNA methylation. PLoS One. 2009;4(9):e6953.
+  volume: '4'
+  year: '2009'
+- author: BT Yang
+  doi: 10.1007/s00125-010-1967-6
+  first-page: '360'
+  issue: '2'
+  journal-title: Diabetologia
+  unstructured: Yang BT, Dayeh TA, Kirkpatrick CL, Taneera J, Kumar R, Groop L, et
+    al. Insulin promoter DNA methylation correlates negatively with insulin gene expression
+    and positively with HbA(1c) levels in human pancreatic islets. Diabetologia. 2011;54(2):360–7.
+  volume: '54'
+  year: '2011'
+- author: BT Yang
+  doi: 10.1210/me.2012-1004
+  first-page: '1203'
+  issue: '7'
+  journal-title: Mol Endocrinol
+  unstructured: Yang BT, Dayeh TA, Volkov PA, Kirkpatrick CL, Malmgren S, Jing X,
+    et al. Increased DNA methylation and decreased expression of PDX-1 in pancreatic
+    islets from patients with type 2 diabetes. Mol Endocrinol. 2012;26(7):1203–12.
+  volume: '26'
+  year: '2012'
+- author: E Hall
+  doi: 10.1186/1471-2350-14-76
+  first-page: '76'
+  journal-title: BMC Med Genet
+  unstructured: Hall E, Dayeh T, Kirkpatrick CL, Wollheim CB, Nitert MD, Ling C. DNA
+    methylation of the glucagon-like peptide 1 receptor (GLP1R) in human pancreatic
+    islets. BMC Med Genet. 2013;14:76.
+  volume: '14'
+  year: '2013'
+- author: V Kameswaran
+  doi: 10.1016/j.cmet.2013.11.016
+  first-page: '135'
+  issue: '1'
+  journal-title: Cell Metab
+  unstructured: Kameswaran V, Bramswig NC, McKenna LB, Penn M, Schug J, Hand NJ, et
+    al. Epigenetic regulation of the DLK1-MEG3 microRNA cluster in human type 2 diabetic
+    islets. Cell Metab. 2014;19(1):135–45.
+  volume: '19'
+  year: '2014'
+- author: I Sandovici
+  doi: 10.1007/s00125-015-3837-8
+  first-page: '502'
+  issue: '3'
+  journal-title: Diabetologia
+  unstructured: Sandovici I, Hammerle CM, Cooper WN, Smith NH, Tarry-Adkins JL, Dunmore
+    BJ, et al. Ageing is associated with molecular signatures of inflammation and
+    type 2 diabetes in rat pancreatic islets. Diabetologia. 2016;59(3):502–11.
+  volume: '59'
+  year: '2016'
+- author: RF Thompson
+  doi: 10.1074/jbc.M109.095133
+  first-page: '15111'
+  issue: '20'
+  journal-title: J Biol Chem
+  unstructured: Thompson RF, Fazzari MJ, Niu H, Barzilai N, Simmons RA, Greally JM.
+    Experimental intrauterine growth restriction induces alterations in DNA methylation
+    and gene expression in pancreatic islets of rats. J Biol Chem. 2010;285(20):15111–8.
+  volume: '285'
+  year: '2010'
+- author: TA Dayeh
+  doi: 10.1007/s00125-012-2815-7
+  first-page: '1036'
+  issue: '5'
+  journal-title: Diabetologia
+  unstructured: Dayeh TA, Olsson AH, Volkov P, Almgren P, Ronn T, Ling C. Identification
+    of CpG-SNPs associated with type 2 diabetes and differential DNA methylation in
+    human pancreatic islets. Diabetologia. 2013;56(5):1036–46.
+  volume: '56'
+  year: '2013'
+- author: M Volkmar
+  doi: 10.1038/emboj.2011.503
+  first-page: '1405'
+  issue: '6'
+  journal-title: EMBO J
+  unstructured: Volkmar M, Dedeurwaerder S, Cunha DA, Ndlovu MN, Defrance M, Deplus
+    R, et al. DNA methylation profiling identifies epigenetic dysregulation in pancreatic
+    islets from type 2 diabetic patients. EMBO J. 2012;31(6):1405–26.
+  volume: '31'
+  year: '2012'
+- author: T Dayeh
+  doi: 10.1371/journal.pgen.1004160
+  first-page: e1004160
+  issue: '3'
+  journal-title: PLoS Genet
+  unstructured: Dayeh T, Volkov P, Salo S, Hall E, Nilsson E, Olsson AH, et al. Genome-wide
+    DNA methylation analysis of human pancreatic islets from type 2 diabetic and non-diabetic
+    donors identifies candidate genes that influence insulin secretion. PLoS Genet.
+    2014;10(3):e1004160.
+  volume: '10'
+  year: '2014'
+- author: AH Olsson
+  doi: 10.1371/journal.pgen.1004735
+  first-page: e1004735
+  issue: '11'
+  journal-title: PLoS Genet
+  unstructured: Olsson AH, Volkov P, Bacos K, Dayeh T, Hall E, Nilsson EA, et al.
+    Genome-wide associations between genetic and epigenetic variation influence mRNA
+    expression and insulin secretion in human pancreatic islets. PLoS Genet. 2014;10(11):e1004735.
+  volume: '10'
+  year: '2014'
+- author: P Volkov
+  doi: 10.2337/db16-0996
+  first-page: '1074'
+  issue: '4'
+  journal-title: Diabetes
+  unstructured: Volkov P, Bacos K, Ofori JK, Esguerra JL, Eliasson L, Ronn T, et al.
+    Whole-genome bisulfite sequencing of human pancreatic islets reveals novels differentially
+    methylated regions in type 2 diabetes pathogenesis. Diabetes. 2017;66(4):1074–85.
+  volume: '66'
+  year: '2017'
+- author: E Hall
+  doi: 10.1186/1741-7015-12-103
+  first-page: '103'
+  journal-title: BMC Med
+  unstructured: Hall E, Volkov P, Dayeh T, Bacos K, Ronn T, Nitert MD, et al. Effects
+    of palmitate on genome-wide mRNA expression and DNA methylation patterns in human
+    pancreatic islets. BMC Med. 2014;12:103.
+  volume: '12'
+  year: '2014'
+- author: K Bacos
+  doi: 10.1038/ncomms11089
+  first-page: '11089'
+  journal-title: Nat Commun
+  unstructured: Bacos K, Gillberg L, Volkov P, Olsson AH, Hansen T, Pedersen O, et
+    al. Blood-based biomarkers of age-associated epigenetic changes in human islets
+    associate with insulin secretion and diabetes. Nat Commun. 2016;7:11089.
+  volume: '7'
+  year: '2016'
+- author: C Ling
+  doi: 10.1172/JCI30938
+  first-page: '3427'
+  issue: '11'
+  journal-title: J Clin Invest
+  unstructured: Ling C, Poulsen P, Simonsson S, Ronn T, Holmkvist J, Almgren P, et
+    al. Genetic and epigenetic factors are associated with expression of respiratory
+    chain component NDUFB6 in human skeletal muscle. J Clin Invest. 2007;117(11):3427–35.
+  volume: '117'
+  year: '2007'
+- author: Y Gong
+  doi: 10.1371/journal.pone.0113784
+  first-page: e113784
+  issue: '12'
+  journal-title: PLoS One
+  unstructured: Gong Y, Liu Y, Li J, Su L, Yu S, Zhu X, et al. Hypermethylation of
+    Cox5a promoter is associated with mitochondrial dysfunction in skeletal muscle
+    of high fat diet-induced insulin resistant rats. PLoS One. 2014;9(12):e113784.
+  volume: '9'
+  year: '2014'
+- author: T Ronn
+  doi: 10.1007/s00125-008-1018-8
+  first-page: '1159'
+  issue: '7'
+  journal-title: Diabetologia
+  unstructured: Ronn T, Poulsen P, Hansson O, Holmkvist J, Almgren P, Nilsson P, et
+    al. Age influences DNA methylation and gene expression of COX7A1 in human skeletal
+    muscle. Diabetologia. 2008;51(7):1159–68.
+  volume: '51'
+  year: '2008'
+- author: R Barres
+  doi: 10.1016/j.celrep.2013.03.018
+  first-page: '1020'
+  issue: '4'
+  journal-title: Cell Rep
+  unstructured: Barres R, Kirchner H, Rasmussen M, Yan J, Kantor FR, Krook A, et al.
+    Weight loss after gastric bypass surgery in human obesity remodels promoter methylation.
+    Cell Rep. 2013;3(4):1020–7.
+  volume: '3'
+  year: '2013'
+- author: R Barres
+  doi: 10.1016/j.cmet.2012.01.001
+  first-page: '405'
+  issue: '3'
+  journal-title: Cell Metab
+  unstructured: Barres R, Yan J, Egan B, Treebak JT, Rasmussen M, Fritz T, et al.
+    Acute exercise remodels promoter methylation in human skeletal muscle. Cell Metab.
+    2012;15(3):405–11.
+  volume: '15'
+  year: '2012'
+- author: V Nylander
+  doi: 10.2337/db16-0364
+  first-page: '3573'
+  issue: '12'
+  journal-title: Diabetes
+  unstructured: Nylander V, Ingerslev LR, Andersen E, Fabre O, Garde C, Rasmussen
+    M, et al. Ionizing radiation potentiates high-fat diet-induced insulin resistance
+    and reprograms skeletal muscle and adipose progenitor cells. Diabetes. 2016;65(12):3573–84.
+  volume: '65'
+  year: '2016'
+- author: JM Mudry
+  doi: 10.2337/db16-0882
+  first-page: '651'
+  issue: '3'
+  journal-title: Diabetes
+  unstructured: Mudry JM, Lassiter DG, Nylen C, García-Calzon S, Naslund E, Krook
+    A, et al. Insulin and glucose alter death-associated protein kinase 3 (DAPK3)
+    DNA methylation in human skeletal muscle. Diabetes. 2017;66(3):651–62.
+  volume: '66'
+  year: '2017'
+- author: MH Jiang
+  doi: 10.1007/s00125-008-1034-8
+  first-page: '1525'
+  issue: '8'
+  journal-title: Diabetologia
+  unstructured: Jiang MH, Fei J, Lan MS, Lu ZP, Liu M, Fan WW, et al. Hypermethylation
+    of hepatic Gck promoter in ageing rats contributes to diabetogenic potential.
+    Diabetologia. 2008;51(8):1525–33.
+  volume: '51'
+  year: '2008'
+- author: M Jiang
+  doi: 10.1210/en.2010-1162
+  first-page: '1284'
+  issue: '4'
+  journal-title: Endocrinology
+  unstructured: Jiang M, Zhang Y, Liu M, Lan MS, Fei J, Fan W, et al. Hypermethylation
+    of hepatic glucokinase and L-type pyruvate kinase promoters in high-fat diet-induced
+    obese rats. Endocrinology. 2011;152(4):1284–9.
+  volume: '152'
+  year: '2011'
+- author: AL de la Garza
+  doi: 10.1039/C4FO00154K
+  first-page: '2120'
+  issue: '9'
+  journal-title: Food Funct
+  unstructured: de la Garza AL, Etxeberria U, Palacios-Ortega S, Haslberger AG, Aumueller
+    E, Milagro F, et al. Modulation of hyperglycemia and TNFalpha-mediated inflammation
+    by helichrysum and grapefruit extracts in diabetic db/db mice. Food Funct. 2014;5(9):2120–8.
+  volume: '5'
+  year: '2014'
+- author: S García-Calzón
+  doi: 10.1186/s13148-017-0400-0
+  first-page: '102'
+  journal-title: Clin Epigenetics
+  unstructured: García-Calzón S, Perfilyev A, Männistö V, de Mello VD, Nilsson E,
+    Pihlajamäki J, et al. Diabetes medication associates with DNA methylation of metformin
+    transporter genes in the human liver. Clin Epigenetics. 2017;9:102.
+  volume: '9'
+  year: '2017'
+- author: D Martinez
+  doi: 10.1016/j.cmet.2014.03.026
+  first-page: '941'
+  issue: '6'
+  journal-title: Cell Metab
+  unstructured: Martinez D, Pentinat T, Ribo S, Daviaud C, Bloks VW, Cebria J, et
+    al. In utero undernutrition in male mice programs liver lipid metabolism in the
+    second-generation offspring involving altered Lxra DNA methylation. Cell Metab.
+    2014;19(6):941–51.
+  volume: '19'
+  year: '2014'
+- author: E Nilsson
+  doi: 10.1210/jc.2015-3204
+  first-page: E1491
+  issue: '11'
+  journal-title: J Clin Endocrinol Metab
+  unstructured: Nilsson E, Matte A, Perfilyev A, de Mello VD, Kakela P, Pihlajamaki
+    J, et al. Epigenetic alterations in human liver from subjects with type 2 diabetes
+    in parallel with reduced folate levels. J Clin Endocrinol Metab. 2015;100(11):E1491–501.
+  volume: '100'
+  year: '2015'
+- author: H Kirchner
+  doi: 10.1016/j.molmet.2015.12.004
+  first-page: '171'
+  issue: '3'
+  journal-title: Mol Metab
+  unstructured: Kirchner H, Sinha I, Gao H, Ruby MA, Schonke M, Lindvall JM, et al.
+    Altered DNA methylation of glycolytic and lipogenic genes in liver from obese
+    and type 2 diabetic patients. Mol Metab. 2016;5(3):171–83.
+  volume: '5'
+  year: '2016'
+- author: E Nilsson
+  doi: 10.2337/db13-1459
+  first-page: '2962'
+  issue: '9'
+  journal-title: Diabetes
+  unstructured: Nilsson E, Jansson PA, Perfilyev A, Volkov P, Pedersen M, Svensson
+    MK, et al. Altered DNA methylation and differential expression of genes influencing
+    metabolism and inflammation in adipose tissue from subjects with type 2 diabetes.
+    Diabetes. 2014;63(9):2962–76.
+  volume: '63'
+  year: '2014'
+- author: T Ronn
+  first-page: '3792'
+  issue: '13'
+  journal-title: Hum Mol Genet
+  unstructured: Ronn T, Volkov P, Gillberg L, Kokosar M, Perfilyev A, Jacobsen AL,
+    et al. Impact of age, BMI and HbA1c levels on the genome-wide DNA methylation
+    and mRNA expression patterns in human adipose tissue and identification of epigenetic
+    biomarkers in blood. Hum Mol Genet. 2015;24(13):3792–813.
+  volume: '24'
+  year: '2015'
+- author: AB Crujeiras
+  doi: 10.1016/j.trsl.2016.07.002
+  first-page: '13'
+  journal-title: Transl Res
+  unstructured: Crujeiras AB, Diaz-Lagares A, Moreno-Navarrete JM, Sandoval J, Hervas
+    D, Gomez A, et al. Genome-wide DNA methylation pattern in visceral adipose tissue
+    differentiates insulin-resistant from insulin-sensitive obese subjects. Transl
+    Res. 2016;178:13–24. e5
+  volume: '178'
+  year: '2016'
+- author: J Cheng
+  doi: 10.2337/db16-0151
+  first-page: '3384'
+  issue: '11'
+  journal-title: Diabetes
+  unstructured: Cheng J, Song J, He X, Zhang M, Hu S, Zhang S, et al. Loss of Mbd2
+    protects mice against high-fat diet-induced obesity and insulin resistance by
+    regulating the homeostasis of energy storage and expenditure. Diabetes. 2016;65(11):3384–95.
+  volume: '65'
+  year: '2016'
+- author: T Gu
+  doi: 10.1186/1868-7083-5-21
+  first-page: '21'
+  issue: '1'
+  journal-title: Clin Epigenetics
+  unstructured: Gu T, Gu HF, Hilding A, Sjoholm LK, Ostenson CG, Ekstrom TJ, et al.
+    Increased DNA methylation levels of the insulin-like growth factor binding protein
+    1 gene are associated with type 2 diabetes in Swedish men. Clin Epigenetics. 2013;5(1):21.
+  volume: '5'
+  year: '2013'
+- author: HF Gu
+  doi: 10.1186/1868-7083-5-20
+  first-page: '20'
+  issue: '1'
+  journal-title: Clin Epigenetics
+  unstructured: Gu HF, Gu T, Hilding A, Zhu Y, Karvestedt L, Ostenson CG, et al. Evaluation
+    of IGFBP-7 DNA methylation changes and serum protein variation in Swedish subjects
+    with and without type 2 diabetes. Clin Epigenetics. 2013;5(1):20.
+  volume: '5'
+  year: '2013'
+- author: G Toperoff
+  doi: 10.1093/hmg/ddr472
+  first-page: '371'
+  issue: '2'
+  journal-title: Hum Mol Genet
+  unstructured: Toperoff G, Aran D, Kark JD, Rosenberg M, Dubnikov T, Nissan B, et
+    al. Genome-wide survey reveals predisposing diabetes type 2-related DNA methylation
+    variations in human peripheral blood. Hum Mol Genet. 2012;21(2):371–83.
+  volume: '21'
+  year: '2012'
+- author: D Simar
+  doi: 10.1016/j.metabol.2014.05.014
+  first-page: '1188'
+  issue: '9'
+  journal-title: Metabolism
+  unstructured: Simar D, Versteyhe S, Donkin I, Liu J, Hesson L, Nylander V, et al.
+    DNA methylation is altered in B and NK lymphocytes in obese and type 2 diabetic
+    human. Metabolism. 2014;63(9):1188–97.
+  volume: '63'
+  year: '2014'
+- author: MC del Rosario
+  doi: 10.1016/j.metabol.2014.01.007
+  first-page: '654'
+  issue: '5'
+  journal-title: Metabolism
+  unstructured: 'del Rosario MC, Ossowski V, Knowler WC, Bogardus C, Baier LJ, Hanson
+    RL. Potential epigenetic dysregulation of genes associated with MODY and type
+    2 diabetes in humans exposed to a diabetic intrauterine environment: an analysis
+    of genome-wide DNA methylation. Metabolism. 2014;63(5):654–60.'
+  volume: '63'
+  year: '2014'
+- author: G Toperoff
+  doi: 10.1186/s13148-015-0069-1
+  first-page: '35'
+  journal-title: Clin Epigenetics
+  unstructured: Toperoff G, Kark JD, Aran D, Nassar H, Ahmad WA, Sinnreich R, et al.
+    Premature aging of leukocyte DNA methylation is associated with type 2 diabetes
+    prevalence. Clin Epigenetics. 2015;7:35.
+  volume: '7'
+  year: '2015'
+- author: J Zhao
+  doi: 10.2337/db11-1048
+  first-page: '542'
+  issue: '2'
+  journal-title: Diabetes
+  unstructured: 'Zhao J, Goldberg J, Bremner JD, Vaccarino V. Global DNA methylation
+    is associated with insulin resistance: a monozygotic twin study. Diabetes. 2012;61(2):542–6.'
+  volume: '61'
+  year: '2012'
+- author: GM Martin-Nunez
+  doi: 10.4161/15592294.2014.969617
+  first-page: '1322'
+  issue: '10'
+  journal-title: Epigenetics
+  unstructured: 'Martin-Nunez GM, Rubio-Martin E, Cabrera-Mulero R, Rojo-Martinez
+    G, Olveira G, Valdes S, et al. Type 2 diabetes mellitus in relation to global
+    LINE-1 DNA methylation in peripheral blood: a cohort study. Epigenetics. 2014;9(10):1322–8.'
+  volume: '9'
+  year: '2014'
+- author: ZH Liu
+  first-page: '585'
+  issue: '6'
+  journal-title: J Endocrinol Investig
+  unstructured: Liu ZH, Chen LL, Deng XL, Song HJ, Liao YF, Zeng TS, et al. Methylation
+    status of CpG sites in the MCP-1 promoter is correlated to serum MCP-1 in type
+    2 diabetes. J Endocrinol Investig. 2012;35(6):585–9.
+  volume: '35'
+  year: '2012'
+- author: S Canivell
+  doi: 10.1371/journal.pone.0099310
+  first-page: e99310
+  issue: '6'
+  journal-title: PLoS One
+  unstructured: Canivell S, Ruano EG, Siso-Almirall A, Siso-Almirall A, Kostov B,
+    Gonzalez-de P, et al. Differential methylation of TCF7L2 promoter in peripheral
+    blood DNA in newly diagnosed, drug-naive patients with type 2 diabetes. PLoS One.
+    2014;9(6):e99310.
+  volume: '9'
+  year: '2014'
+- author: M Loh
+  doi: 10.1016/S2213-8587(15)00127-8
+  first-page: '526'
+  issue: '7'
+  journal-title: Lancet Diabetes Endocrinol
+  unstructured: 'Chambers JC, Loh M, Lehne B, Drong A, Kriebel J, Motta V, et al.
+    Epigenome-wide association of DNA methylation markers in peripheral blood from
+    Indian Asians and Europeans with incident type 2 diabetes: a nested case-control
+    study. Lancet Diabetes Endocrinol. 2015;3(7):526–34.'
+  volume: '3'
+  year: '2015'
+- author: T Dayeh
+  doi: 10.1080/15592294.2016.1178418
+  first-page: '482'
+  issue: '7'
+  journal-title: Epigenetics.
+  unstructured: Dayeh T, Tuomi T, Almgren P, Perfilyev A, Jansson PA, de Mello VD,
+    et al. DNA methylation of loci within ABCG1 and PHOSPHO1 in blood DNA is associated
+    with future type 2 diabetes risk. Epigenetics. 2016;11(7):482–8.
+  volume: '11'
+  year: '2016'
+- author: I Florath
+  doi: 10.1007/s00125-015-3773-7
+  first-page: '130'
+  issue: '1'
+  journal-title: Diabetologia
+  unstructured: 'Florath I, Butterbach K, Heiss J, Bewerunge-Hudler M, Zhang Y, Schottker
+    B, et al. Type 2 diabetes and leucocyte DNA methylation: an epigenome-wide association
+    study in over 1,500 older adults. Diabetologia. 2016;59(1):130–8.'
+  volume: '59'
+  year: '2016'
+- author: YT Chen
+  doi: 10.18632/oncotarget.10043
+  first-page: '39162'
+  issue: '26'
+  journal-title: Oncotarget
+  unstructured: Chen YT, Liao JW, Tsai YC, Tsai FJ. Inhibition of DNA methyltransferase
+    1 increases nuclear receptor subfamily 4 group a member 1 expression and decreases
+    blood glucose in type 2 diabetes. Oncotarget. 2016;7(26):39162–70.
+  volume: '7'
+  year: '2016'
+- author: S Horvath
+  doi: 10.1186/gb-2012-13-10-r97
+  first-page: R97
+  issue: '10'
+  journal-title: Genome Biol
+  unstructured: Horvath S, Zhang Y, Langfelder P, Kahn RS, Boks MP, van Eijk K, et
+    al. Aging effects on DNA methylation modules in human brain and blood tissue.
+    Genome Biol. 2012;13(10):R97.
+  volume: '13'
+  year: '2012'
+- author: MM Shaik
+  doi: 10.2174/18715273113126660181
+  first-page: '283'
+  issue: '2'
+  journal-title: CNS Neurol Disord Drug Targets
+  unstructured: Shaik MM, Gan SH, Kamal MA. Epigenomic approach in understanding Alzheimer's
+    disease and type 2 diabetes mellitus. CNS Neurol Disord Drug Targets. 2014;13(2):283–9.
+  volume: '13'
+  year: '2014'
+- author: G Ficz
+  doi: 10.1242/jeb.107961
+  first-page: '14'
+  journal-title: J Exp Biol
+  unstructured: Ficz G. New insights into mechanisms that regulate DNA methylation
+    patterning. J Exp Biol. 2015;218:14–20.
+  volume: '218'
+  year: '2015'
+- author: K Day
+  doi: 10.1186/gb-2013-14-9-r102
+  first-page: R102
+  issue: '9'
+  journal-title: Genome Biol
+  unstructured: Day K, Waite LL, Thalacker-Mercer A, West A, Bamman MM, Brooks JD,
+    et al. Differential DNA methylation with age displays both common and dynamic
+    features across human tissues that are influenced by CpG landscape. Genome Biol.
+    2013;14(9):R102.
+  volume: '14'
+  year: '2013'
+- unstructured: 'Dick KJ, Nelson CP, Tsaprouni L, Sandling JK, Aïssi D, Wahl S, et
+    al. DNA methylation and body-mass index: a genome-wide analysis. Lancet 2014;
+    383: (9933)1990–8.'
+- author: MD Nitert
+  doi: 10.2337/db11-1653
+  first-page: '3322'
+  issue: '12'
+  journal-title: Diabetes
+  unstructured: Nitert MD, Dayeh T, Volkov P, Elgzyri T, Hall E, Nilsson E, et al.
+    Impact of an exercise intervention on DNA methylation in skeletal muscle from
+    first-degree relatives of patients with type 2 diabetes. Diabetes. 2012;61(12):3322–32.
+  volume: '61'
+  year: '2012'
+- author: R Barres
+  doi: 10.1038/nrendo.2016.87
+  first-page: '441'
+  issue: '8'
+  journal-title: Nat Rev Endocrinol
+  unstructured: Barres R, Zierath JR. The role of diet and exercise in the transgenerational
+    epigenetic landscape of T2DM. Nat Rev Endocrinol. 2016;12(8):441–51.
+  volume: '12'
+  year: '2016'
+- author: SH Kwak
+  doi: 10.1038/emm.2016.7
+  first-page: e220
+  journal-title: Exp Mol Med
+  unstructured: Kwak SH, Park KS. Recent progress in genetic and epigenetic research
+    on type 2 diabetes. Exp Mol Med. 2016;48:e220.
+  volume: '48'
+  year: '2016'
+- author: J Flannick
+  doi: 10.1038/nrg.2016.56
+  first-page: '535'
+  issue: '9'
+  journal-title: Nat Rev Genet.
+  unstructured: 'Flannick J, Florez JC. Type 2 diabetes: genetic data sharing to advance
+    complex disease research. Nat Rev Genet. 2016;17(9):535–49.'
+  volume: '17'
+  year: '2016'
+doc_url: http://link.springer.com/content/pdf/10.1186/s12986-018-0283-x.pdf
+doi: 10.1186/s12986-018-0283-x
+files:
+- dnamethylationzhou2018.pdf
+issue: '1'
+journal: Nutrition &amp; Metabolism
+language: en
+month: 12
+papis_id: 616c078903cb4f5e7a182808e1f022a0
+publisher: Springer Science and Business Media LLC
+ref: DnaMethylationZhou2018
+time-added: 2024-05-31-15:47:52
+title: DNA methylation landscapes in the pathogenesis of type 2 diabetes mellitus
+type: article
+url: http://dx.doi.org/10.1186/s12986-018-0283-x
+volume: '15'
+year: 2018

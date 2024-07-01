@@ -1,0 +1,34 @@
+author: McIver, Lauren J and Abu-Ali, Galeb and Franzosa, Eric A and Schwager, Randall
+  and Morgan, Xochitl C and Waldron, Levi and Segata, Nicola and Huttenhower, Curtis
+author_list:
+- family: McIver
+  given: Lauren J
+- family: Abu-Ali
+  given: Galeb
+- family: Franzosa
+  given: Eric A
+- family: Schwager
+  given: Randall
+- family: Morgan
+  given: Xochitl C
+- family: Waldron
+  given: Levi
+- family: Segata
+  given: Nicola
+- family: Huttenhower
+  given: Curtis
+doi: 10.1093/bioinformatics/btx754
+files:
+- biobakeryamemciver2017-a.pdf
+issue: '7'
+journal: Bioinformatics
+month: '11'
+page: 1235-1237
+papis_id: de251b740a86b2104bdee0e9e720d6df
+publisher: Oxford University Press (OUP)
+ref: BiobakeryAMeMciver2017
+title: 'bioBakery: a meta’omic analysis environment'
+type: article
+url: http://dx.doi.org/10.1093/bioinformatics/btx754
+volume: '34'
+year: '2017'

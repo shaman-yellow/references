@@ -1,0 +1,58 @@
+abstract: We explored potential biomarkers and molecular mechanisms regarding multiple
+  benefits after bariatric surgery. Differentially expressed genes (DEGs) for subcutaneous
+  adipose tissue (AT) after bariatric surgery were identified by analyzing two expression
+  profiles from the GEO. Subsequently, enrichment analysis, GSEA, PPI network, and
+  gene-microRNAs and gene-TFs networks were interrogated to identify hub genes and
+  associated pathways. Co-expressed DEGs included one that was up-regulated and 22
+  that were down-regulated genes. The enrichment analyses indicated that down-regulated
+  DEGs were significantly involved in inflammatory responses. GSEA provided comprehensive
+  evidence that most genes enriched in pro-inflammation pathways, while gene-sets
+  after surgery enriched in metabolism. We identified nine hub genes in the PPI network,
+  most of which were validated as highly expressed and hypomethylated in obesity by
+  Attie Lab Diabetes and DiseaseMeth databases, respectively. DGIdb was also applied
+  to predict potential therapeutic agents that might reverse abnormally high hub gene
+  expression. Bariatric surgery induces a significant shift from an obese pro-inflammatory
+  state to an anti-inflammatory state, with improvement in adipocyte metabolic function
+  - representing key mechanisms whereby AT function improves after bariatric surgery.
+  Our study deepens a mechanistic understanding of the benefits of bariatric surgery
+  and provides potential biomarkers or treatment targets for further research.
+author: Liu, Yingshan and Jin, Jing and Chen, Yanshan and Chen, Chuna and Chen, Zhenguo
+  and Xu, Lingling
+author_list:
+- family: Liu
+  given: Yingshan
+- family: Jin
+  given: Jing
+- family: Chen
+  given: Yanshan
+- family: Chen
+  given: Chuna
+- family: Chen
+  given: Zhenguo
+- family: Xu
+  given: Lingling
+doi: 10.1080/21623945.2020.1795434
+file: /mnt/data/wizard/Zotero/storage/ZJBPNXUE/Liu et al. - 2020 - Integrative analyses
+  of biomarkers and pathways fo.pdf
+files:
+- integrativeanaliuy2020-a.pdf
+issn: 2162-397X
+journal: Adipocyte
+keywords: adipose tissue,Adipose Tissue,Bariatric surgery,Bariatric Surgery,bioinformatics,Biomarkers,Computational
+  Biology,{Databases, Genetic},DEGs,differentially expressed genes,DNA Methylation,enrichment
+  analyses,{Epigenesis, Genetic},Gene Expression Profiling,Gene Expression Regulation,Gene
+  Ontology,Gene Regulatory Networks,hub genes,Humans,obesity,potential therapeutic
+  agents,PPI network,Protein Interaction Mapping,Protein Interaction Maps,Signal Transduction
+langid: english
+month: December
+number: '1'
+pages: 384--400
+papis_id: e922f13e4770c0bdac3381f543d1def0
+pmcid: PMC7469525
+pmid: '32684073'
+ref: IntegrativeAnaLiuY2020
+title: Integrative Analyses of Biomarkers and Pathways for Adipose Tissue after Bariatric
+  Surgery
+type: article
+volume: '9'
+year: '2020'

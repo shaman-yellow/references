@@ -1,0 +1,21 @@
+author: Zhang, Yuqi and Sanner, Michel F
+author_list:
+- family: Zhang
+  given: Yuqi
+- family: Sanner
+  given: Michel F
+doi: 10.1093/bioinformatics/btz459
+files: []
+issn: 1367-4803
+issue: '24'
+journal: Bioinformatics (Oxford, England)
+pages: 5121--5127
+papis_id: 761cd550b5eee1411ed48bea0020cb4c
+pmid: '31161213'
+ref: AutodockCrankpZhang2019
+time-added: 2024-02-01-11:14:28
+title: 'AutoDock CrankPep: combining folding and docking to predict protein-peptide
+  complexes'
+type: article
+volume: '35'
+year: 2019

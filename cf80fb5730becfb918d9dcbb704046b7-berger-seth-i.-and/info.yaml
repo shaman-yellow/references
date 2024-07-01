@@ -1,0 +1,21 @@
+author: Berger, Seth I. and Iyengar, Ravi
+author_list:
+- family: Berger
+  given: Seth I.
+- family: Iyengar
+  given: Ravi
+doi: 10.1093/bioinformatics/btp465
+files:
+- berger-seth-i.-and-iyengar-ravi-a.pdf
+issue: '19'
+journal: Bioinformatics
+month: '7'
+page: 2466-2472
+papis_id: 13290d8a9093198de2ac5a571ea97cc3
+publisher: Oxford University Press (OUP)
+ref: NetworkAnalyseBerger2009
+title: Network analyses in systems pharmacology
+type: article
+url: http://dx.doi.org/10.1093/bioinformatics/btp465
+volume: '25'
+year: '2009'

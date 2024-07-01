@@ -1,0 +1,67 @@
+abstract: Abstract                            High-resolution mass spectrometry (HRMS)
+  enables rapid chemical annotation via accurate mass measurements and matching of
+  experimentally derived spectra with reference spectra. Reference libraries are generated
+  from chemical standards and are therefore limited in size relative to known chemical
+  space. To address this limitation, in silico spectra (i.e., MS/MS or MS2 spectra),
+  predicted via Competitive Fragmentation Modeling-ID (CFM-ID) algorithms, were generated
+  for compounds within the U.S. Environmental Protection Agency's (EPA) Distributed
+  Structure-Searchable Toxicity (DSSTox) database (totaling, at the time of analysis,
+  \textasciitilde\,765,000 substances). Experimental spectra from EPA's Non-Targeted
+  Analysis Collaborative Trial (ENTACT) mixtures (               n               \,=\,10)
+  were then used to evaluate the performance of the in silico spectra. Overall, MS2
+  spectra were acquired for 377 unique compounds from the ENTACT mixtures. Approximately
+  53\% of these compounds were correctly identified using a commercial reference library,
+  whereas up to 50\% were correctly identified as the top hit using the in silico
+  library. Together, the reference and in silico libraries were able to correctly
+  identify 73\% of the 377 ENTACT substances. When using the in silico spectra for
+  candidate filtering, an examination of binary classifiers showed a true positive
+  rate (TPR) of 0.90 associated with false positive rates (FPRs) of 0.10 to 0.85,
+  depending on the sample and method of candidate filtering. Taken together, these
+  findings show the abilities of in silico spectra to correctly identify true positives
+  in complex samples (at rates comparable to those observed with reference spectra),
+  and efficiently filter large numbers of potential false positives from further consideration.
+author: Chao, Alex and Al-Ghoul, Hussein and McEachran, Andrew D. and Balabin, Ilya
+  and Transue, Tom and Cathey, Tommy and Grossman, Jarod N. and Singh, Randolph R.
+  and Ulrich, Elin M. and Williams, Antony J. and Sobus, Jon R.
+author_list:
+- family: Chao
+  given: Alex
+- family: Al-Ghoul
+  given: Hussein
+- family: McEachran
+  given: Andrew D.
+- family: Balabin
+  given: Ilya
+- family: Transue
+  given: Tom
+- family: Cathey
+  given: Tommy
+- family: Grossman
+  given: Jarod N.
+- family: Singh
+  given: Randolph R.
+- family: Ulrich
+  given: Elin M.
+- family: Williams
+  given: Antony J.
+- family: Sobus
+  given: Jon R.
+doi: 10.1007/s00216-019-02351-7
+file: /mnt/data/wizard/Zotero/storage/BDEKZNTL/Chao et al. - 2020 - In silico MSMS
+  spectra for identifying unknowns .pdf
+files: []
+issn: 1618-2642, 1618-2650
+journal: Analytical and Bioanalytical Chemistry
+langid: english
+month: February
+number: '6'
+pages: 1303--1315
+papis_id: 707b5fbb60e2481f21107981006f5469
+ref: InSilicoMsMsChao2020
+shorttitle: In Silico {{MS}}/{{MS}} Spectra for Identifying Unknowns
+title: 'In Silico MS/MS Spectra for Identifying Unknowns: A Critical Examination Using
+  CFM-ID Algorithms and ENTACT Mixture Samples'
+type: article
+urldate: '2022-04-28'
+volume: '412'
+year: '2020'

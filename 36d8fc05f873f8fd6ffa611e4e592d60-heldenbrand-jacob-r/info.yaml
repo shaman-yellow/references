@@ -1,0 +1,49 @@
+author: Heldenbrand, Jacob R and Baheti, Saurabh and Bockol, Matthew A and Drucker,
+  Travis M and Hart, Steven N and Hudson, Matthew E and Iyer, Ravishankar K and Kalmbach,
+  Michael T and Kendig, Katherine I and Klee, Eric W and Mattson, Nathan R and Wieben,
+  Eric D and Wiepert, Mathieu and Wildman, Derek E and Mainzer, Liudmila S
+author_list:
+- family: Heldenbrand
+  given: Jacob R
+- family: Baheti
+  given: Saurabh
+- family: Bockol
+  given: Matthew A
+- family: Drucker
+  given: Travis M
+- family: Hart
+  given: Steven N
+- family: Hudson
+  given: Matthew E
+- family: Iyer
+  given: Ravishankar K
+- family: Kalmbach
+  given: Michael T
+- family: Kendig
+  given: Katherine I
+- family: Klee
+  given: Eric W
+- family: Mattson
+  given: Nathan R
+- family: Wieben
+  given: Eric D
+- family: Wiepert
+  given: Mathieu
+- family: Wildman
+  given: Derek E
+- family: Mainzer
+  given: Liudmila S
+doi: 10.1186/s12859-019-3169-7
+files:
+- recommendationshelden2019-a.pdf
+issue: '1'
+journal: BMC Bioinformatics
+month: '11'
+papis_id: b3a4e2f801f469b570e1fa133ea0d86a
+publisher: Springer Science and Business Media LLC
+ref: RecommendationsHelden2019
+title: Recommendations for performance optimizations when using GATK3.8 and GATK4
+type: article
+url: http://dx.doi.org/10.1186/s12859-019-3169-7
+volume: '20'
+year: '2019'

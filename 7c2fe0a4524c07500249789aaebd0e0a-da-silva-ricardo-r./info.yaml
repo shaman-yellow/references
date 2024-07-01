@@ -1,0 +1,62 @@
+abstract: The annotation of small molecules is one of the most challenging and important
+  steps in untargeted mass spectrometry analysis, as most of our biological interpretations
+  rely on structural annotations. Molecular networking has emerged as a structured
+  way to organize and mine data from untargeted tandem mass spectrometry (MS/MS) experiments
+  and has been widely applied to propagate annotations. However, propagation is done
+  through manual inspection of MS/MS spectra connected in the spectral networks and
+  is only possible when a reference library spectrum is available. One of the alternative
+  approaches used to annotate an unknown fragmentation mass spectrum is through the
+  use of in silico predictions. One of the challenges of in silico annotation is the
+  uncertainty around the correct structure among the predicted candidate lists. Here
+  we show how molecular networking can be used to improve the accuracy of in silico
+  predictions through propagation of structural annotations, even when there is no
+  match to a MS/MS spectrum in spectral libraries. This is accomplished through creating
+  a network consensus of re-ranked structural candidates using the molecular network
+  topology and structural similarity to improve in silico annotations. The Network
+  Annotation Propagation (NAP) tool is accessible through the GNPS web-platform https://gnps.ucsd.edu/ProteoSAFe/static/gnps-theoretical.jsp.
+author: da Silva, Ricardo R. and Wang, Mingxun and Nothias, Louis-Félix and van der
+  Hooft, Justin J. J. and Caraballo-Rodríguez, Andrés Mauricio and Fox, Evan and Balunas,
+  Marcy J. and Klassen, Jonathan L. and Lopes, Norberto Peporine and Dorrestein, Pieter
+  C.
+author_list:
+- family: da Silva
+  given: Ricardo R.
+- family: Wang
+  given: Mingxun
+- family: Nothias
+  given: Louis-Félix
+- family: van der Hooft
+  given: Justin J. J.
+- family: Caraballo-Rodríguez
+  given: Andrés Mauricio
+- family: Fox
+  given: Evan
+- family: Balunas
+  given: Marcy J.
+- family: Klassen
+  given: Jonathan L.
+- family: Lopes
+  given: Norberto Peporine
+- family: Dorrestein
+  given: Pieter C.
+doi: 10.1371/journal.pcbi.1006089
+file: /mnt/data/wizard/Zotero/storage/355TLMNW/da Silva et al. - 2018 - Propagating
+  annotations of molecular networks usin.pdf
+files: []
+issn: 1553-7358
+journal: PLoS computational biology
+keywords: Animals,Ants,Cluster Analysis,Computational Biology,Computer Simulation,{Databases,
+  Chemical},Fungi,Metabolic Networks and Pathways,Metabolomics,{Models, Biological},{Models,
+  Chemical},Molecular Structure,Software,Tandem Mass Spectrometry
+langid: english
+month: April
+number: '4'
+pages: e1006089
+papis_id: 4cf515907e2d72aed2d0e352fb45544b
+pmcid: PMC5927460
+pmid: '29668671'
+ref: PropagatingAnnDaSil2018
+title: Propagating Annotations of Molecular Networks Using in Silico Fragmentation
+type: article
+volume: '14'
+year: '2018'

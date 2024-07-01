@@ -1,0 +1,66 @@
+abstract: 'INTRODUCTION: Urban pests pose enormous risks to human health. Control
+  initiatives are carried out in regions of high infestation and incidence of  accidents
+  caused by scorpions OBJECTIVE: In this study, we aimed to analyze the  anti-scorpionic
+  activity of fungal isolates obtained from a cemetery in Brazil.  MATERIALS AND METHODS:
+  A total of thirteen fungi were subjected to a bioassay  test against Tityus serrulatus,
+  and the two isolates with the highest  scorpionicidal activity were selected for
+  molecular identification through  sequencing of the ITS DNA hypervariable region
+  and large-scale cultivation on  liquid medium for secondary metabolite extraction.
+  The crude extracts were  partitioned by solid-phase extraction, and the resulting
+  purified extracts were  tested for anti-scorpionic activity. The extracts from one
+  of the isolates  presented better results and were submitted to UPLC-MS/MS. The
+  metabolomics data  were submitted to GNPS website for Molecular Networking and MASST
+  searches. We  also performed a MolNetEnhancer analysis to identify the chemical
+  classes of the  molecules found in the samples. RESULTS: The most promising fungal
+  isolate was  identified as Paecilomyces sp. CMAA1686 which has 98\% of similarity
+  to  Paecilomyces formosus. The sub-fractions C and D had the best activity against  the
+  scorpions (54 and 32\% mortality, respectively). Molecular Networking and  MolNetEnhancer
+  revealed a range of molecular classes in our extracts that are  known to include
+  bioactive metabolites from Paecilomyces species. CONCLUSIONS:  The scorpionicidal
+  activity of Paecilomyces sp. CMAA1686 and its secondary  metabolites may provide
+  new alternative compounds for biological and chemical  control of scorpions from
+  the species T. serrulatus. Paecilomyces sp. CMAA1686 is  an isolate that has great
+  potential for isolation of secondary metabolites.'
+address: '{United States}'
+author: Brites-Neto, José and Maimone, Naydja Moralles and Piedade, Sônia Maria De
+  Stefano and Andrino, Felipe Gabriel and de Andrade, Pedro Avelino Maia and Baroni,
+  Francisco de Assis and Gomes, Luiz Humberto and de Lira, Simone Possedente
+author_list:
+- family: Brites-Neto
+  given: José
+- family: Maimone
+  given: Naydja Moralles
+- family: Piedade
+  given: Sônia Maria De Stefano
+- family: Andrino
+  given: Felipe Gabriel
+- family: de Andrade
+  given: Pedro Avelino Maia
+- family: Baroni
+  given: Francisco de Assis
+- family: Gomes
+  given: Luiz Humberto
+- family: de Lira
+  given: Simone Possedente
+copyright: Copyright \textcopyright{} 2021 Elsevier Inc. All rights reserved.
+doi: 10.1016/j.jip.2021.107541
+file: /mnt/data/wizard/Zotero/storage/MIBXG78X/Brites-Neto et al. - 2021 - Scorpionicidal
+  activity of secondary metabolites f.pdf
+files: []
+issn: 1096-0805 0022-2011
+journal: Journal of invertebrate pathology
+keywords: '*Ascomycota,*Biological control,*Chromatography,*Metabolomics,*Molecular
+  networking,{*Pest Control, Biological},*Scorpionism,Animals,Biological Control Agents/chemistry/metabolism/*pharmacology,Brazil,{Chromatography,
+  Liquid},Female,Paecilomyces/*chemistry/metabolism,Scorpions/*microbiology,Tandem
+  Mass Spectrometry'
+langid: english
+month: February
+pages: '107541'
+papis_id: 7b4e181f9fe47e2ead77a7e5df1274ee
+pmid: '33524339'
+ref: ScorpionicidalBrites2021
+title: Scorpionicidal Activity of Secondary Metabolites from Paecilomyces Sp. CMAA1686
+  against Tityus Serrulatus.
+type: article
+volume: '179'
+year: '2021'

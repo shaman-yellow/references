@@ -1,0 +1,47 @@
+author: Djoumbou Feunang, Yannick and Eisner, Roman and Knox, Craig and Chepelev,
+  Leonid and Hastings, Janna and Owen, Gareth and Fahy, Eoin and Steinbeck, Christoph
+  and Subramanian, Shankar and Bolton, Evan and Greiner, Russell and Wishart, David
+  S.
+author_list:
+- family: Djoumbou Feunang
+  given: Yannick
+- family: Eisner
+  given: Roman
+- family: Knox
+  given: Craig
+- family: Chepelev
+  given: Leonid
+- family: Hastings
+  given: Janna
+- family: Owen
+  given: Gareth
+- family: Fahy
+  given: Eoin
+- family: Steinbeck
+  given: Christoph
+- family: Subramanian
+  given: Shankar
+- family: Bolton
+  given: Evan
+- family: Greiner
+  given: Russell
+- family: Wishart
+  given: David S.
+doi: 10.1186/s13321-016-0174-y
+file: /mnt/data/wizard/Documents/classyfire.pdf
+files: []
+issn: 1758-2946
+journal: Journal of Cheminformatics
+langid: english
+month: December
+number: '1'
+pages: '61'
+papis_id: aa255634491f5b166845f3918acbe196
+ref: ClassyfireAutDjoumb2016
+shorttitle: '{{ClassyFire}}'
+title: 'ClassyFire: Automated Chemical Classification with a Comprehensive, Computable
+  Taxonomy'
+type: article
+urldate: '2021-11-14'
+volume: '8'
+year: '2016'

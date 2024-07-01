@@ -1,0 +1,62 @@
+author: Geistlinger, Ludwig and Mirzayi, Chloe and Zohra, Fatima and Azhar, Rimsha
+  and Elsafoury, Shaimaa and Grieve, Clare and Wokaty, Jennifer and Gamboa-Tuz, Samuel
+  David and Sengupta, Pratyay and Hecht, Issac and Ravikrishnan, Aarthi and Gonçalves,
+  Rafael S. and Franzosa, Eric and Raman, Karthik and Carey, Vincent and Dowd, Jennifer
+  B. and Jones, Heidi E. and Davis, Sean and Segata, Nicola and Huttenhower, Curtis
+  and Waldron, Levi
+author_list:
+- family: Geistlinger
+  given: Ludwig
+- family: Mirzayi
+  given: Chloe
+- family: Zohra
+  given: Fatima
+- family: Azhar
+  given: Rimsha
+- family: Elsafoury
+  given: Shaimaa
+- family: Grieve
+  given: Clare
+- family: Wokaty
+  given: Jennifer
+- family: Gamboa-Tuz
+  given: Samuel David
+- family: Sengupta
+  given: Pratyay
+- family: Hecht
+  given: Issac
+- family: Ravikrishnan
+  given: Aarthi
+- family: Gonçalves
+  given: Rafael S.
+- family: Franzosa
+  given: Eric
+- family: Raman
+  given: Karthik
+- family: Carey
+  given: Vincent
+- family: Dowd
+  given: Jennifer B.
+- family: Jones
+  given: Heidi E.
+- family: Davis
+  given: Sean
+- family: Segata
+  given: Nicola
+- family: Huttenhower
+  given: Curtis
+- family: Waldron
+  given: Levi
+doi: 10.1038/s41587-023-01872-y
+files:
+- bugsigdbcapturgeistl2023-a.pdf
+journal: Nature Biotechnology
+month: '9'
+papis_id: 3f8918464ce9df171ae137e79515be3c
+publisher: Springer Science and Business Media LLC
+ref: BugsigdbCapturGeistl2023
+title: BugSigDB captures patterns of differential abundance across a broad range of
+  host-associated microbial signatures
+type: article
+url: http://dx.doi.org/10.1038/s41587-023-01872-y
+year: '2023'

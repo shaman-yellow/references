@@ -1,0 +1,40 @@
+abstract: Metabolomics enables the profiling of large numbers of small molecules in
+  cells, tissues and biological fluids. These molecules, which include amino acids,
+  carbohydrates, lipids, nucleotides and their metabolites, can be detected quantitatively.
+  Metabolomic methods, often focused on the information-rich analytical techniques
+  of NMR spectroscopy and mass spectrometry, have potential for early diagnosis, monitoring
+  therapy and defining disease pathogenesis in many therapeutic areas, including rheumatic
+  diseases. By performing global metabolite profiling, also known as untargeted metabolomics,
+  new discoveries linking cellular pathways to biological mechanisms are being revealed
+  and are shaping our understanding of cell biology, physiology and medicine. These
+  pathways can potentially be targeted to diagnose and treat patients with immune-mediated
+  diseases.
+author: Guma, Monica and Tiziani, Stefano and Firestein, Gary S.
+author_list:
+- family: Guma
+  given: Monica
+- family: Tiziani
+  given: Stefano
+- family: Firestein
+  given: Gary S.
+doi: 10.1038/nrrheum.2016.1
+file: /mnt/data/wizard/Zotero/storage/AEADIJDY/Guma et al. - 2016 - Metabolomics in
+  rheumatic diseases desperately se.pdf
+files: []
+issn: 1759-4804
+journal: Nature Reviews. Rheumatology
+keywords: Antirheumatic Agents,Biomarkers,Humans,Magnetic Resonance Spectroscopy,Mass
+  Spectrometry,Metabolic Networks and Pathways,Metabolomics,Rheumatic Diseases
+langid: english
+month: May
+number: '5'
+pages: 269--281
+papis_id: 4e6498aea42ec10ff7fe9003a2cadedc
+pmcid: PMC4963238
+pmid: '26935283'
+ref: MetabolomicsInGuma2016
+shorttitle: Metabolomics in Rheumatic Diseases
+title: 'Metabolomics in Rheumatic Diseases: Desperately Seeking Biomarkers'
+type: article
+volume: '12'
+year: '2016'

@@ -1,0 +1,60 @@
+author: Kong, Xiangren and Liu, Chao and Zhang, Zuzhen and Cheng, Meiqi and Mei, Zhijun
+  and Li, Xiangdong and Liu, Peng and Diao, Lihong and Ma, Yajie and Jiang, Peng and
+  Kong, Xiangya and Nie, Shiyan and Guo, Yingzi and Wang, Ze and Zhang, Xinlei and
+  Wang, Yan and Tang, Liujun and Guo, Shuzhen and Liu, Zhongyang and Li, Dong
+author_list:
+- family: Kong
+  given: Xiangren
+- family: Liu
+  given: Chao
+- family: Zhang
+  given: Zuzhen
+- family: Cheng
+  given: Meiqi
+- family: Mei
+  given: Zhijun
+- family: Li
+  given: Xiangdong
+- family: Liu
+  given: Peng
+- family: Diao
+  given: Lihong
+- family: Ma
+  given: Yajie
+- family: Jiang
+  given: Peng
+- family: Kong
+  given: Xiangya
+- family: Nie
+  given: Shiyan
+- family: Guo
+  given: Yingzi
+- family: Wang
+  given: Ze
+- family: Zhang
+  given: Xinlei
+- family: Wang
+  given: Yan
+- family: Tang
+  given: Liujun
+- family: Guo
+  given: Shuzhen
+- family: Liu
+  given: Zhongyang
+- family: Li
+  given: Dong
+doi: 10.1093/nar/gkad926
+files: []
+issn: 0305-1048
+issue: D1
+journal: Nucleic acids research
+pages: D1110--D1120
+papis_id: b5c0f1e2b0e04bb770bd469c37847df8
+pmid: '37904598'
+ref: BatmanTcm20Kong2024
+time-added: 2024-03-27-16:58:53
+title: 'BATMAN-TCM 2.0: an enhanced integrative database for known and predicted interactions
+  between traditional Chinese medicine ingredients and target proteins'
+type: article
+volume: '52'
+year: 2024

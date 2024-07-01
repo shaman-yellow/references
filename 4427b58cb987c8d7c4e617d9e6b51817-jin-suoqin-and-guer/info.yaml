@@ -1,0 +1,37 @@
+author: Jin, Suoqin and Guerrero-Juarez, Christian F. and Zhang, Lihua and Chang,
+  Ivan and Ramos, Raul and Kuan, Chen-Hsiang and Myung, Peggy and Plikus, Maksim V.
+  and Nie, Qing
+author_list:
+- family: Jin
+  given: Suoqin
+- family: Guerrero-Juarez
+  given: Christian F.
+- family: Zhang
+  given: Lihua
+- family: Chang
+  given: Ivan
+- family: Ramos
+  given: Raul
+- family: Kuan
+  given: Chen-Hsiang
+- family: Myung
+  given: Peggy
+- family: Plikus
+  given: Maksim V.
+- family: Nie
+  given: Qing
+doi: 10.1038/s41467-021-21246-9
+files:
+- inferenceandajins2021-a.pdf
+- inferenceandajins2021-b.pdf
+issue: '1'
+journal: Nature Communications
+month: '2'
+papis_id: 91597cca565e3e183a16b72945541938
+publisher: Springer Science and Business Media LLC
+ref: InferenceAndAJinS2021
+title: Inference and analysis of cell-cell communication using CellChat
+type: article
+url: http://dx.doi.org/10.1038/s41467-021-21246-9
+volume: '12'
+year: '2021'

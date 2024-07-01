@@ -1,0 +1,46 @@
+author: Fu, Jianbo and Zhang, Ying and Wang, Yunxia and Zhang, Hongning and Liu, Jin
+  and Tang, Jing and Yang, Qingxia and Sun, Huaicheng and Qiu, Wenqi and Ma, Yinghui
+  and Li, Zhaorong and Zheng, Mingyue and Zhu, Feng
+author_list:
+- family: Fu
+  given: Jianbo
+- family: Zhang
+  given: Ying
+- family: Wang
+  given: Yunxia
+- family: Zhang
+  given: Hongning
+- family: Liu
+  given: Jin
+- family: Tang
+  given: Jing
+- family: Yang
+  given: Qingxia
+- family: Sun
+  given: Huaicheng
+- family: Qiu
+  given: Wenqi
+- family: Ma
+  given: Yinghui
+- family: Li
+  given: Zhaorong
+- family: Zheng
+  given: Mingyue
+- family: Zhu
+  given: Feng
+doi: 10.1038/s41596-021-00636-9
+file: /home/wizard/Documents/Nature_protocols2022_NOREVA.pdf
+files: []
+issn: 1754-2189, 1750-2799
+journal: Nature Protocols
+langid: english
+month: January
+number: '1'
+pages: 129--151
+papis_id: 45cd08292fe54841a1000faa76b9dc8d
+ref: OptimizationOfFuJi2022
+title: Optimization of Metabolomic Data Processing Using NOREVA
+type: article
+urldate: '2022-03-29'
+volume: '17'
+year: '2022'

@@ -1,0 +1,36 @@
+author: Sun, Jinyu and Wen, Ming and Wang, Huabei and Ruan, Yuezhe and Yang, Qiong
+  and Kang, Xiao and Zhang, Hailiang and Zhang, Zhimin and Lu, Hongmei
+author_list:
+- family: Sun
+  given: Jinyu
+- family: Wen
+  given: Ming
+- family: Wang
+  given: Huabei
+- family: Ruan
+  given: Yuezhe
+- family: Yang
+  given: Qiong
+- family: Kang
+  given: Xiao
+- family: Zhang
+  given: Hailiang
+- family: Zhang
+  given: Zhimin
+- family: Lu
+  given: Hongmei
+doi: 10.1093/bioinformatics/btac676
+files:
+- predictionofdsunj2022-a.pdf
+issn: 1367-4803
+issue: '23'
+journal: Bioinformatics (Oxford, England)
+pages: 5262--5269
+papis_id: 9ff267b590b6c7fdb868acacbba00d09
+pmid: '36222555'
+ref: PredictionOfDSunJ2022
+time-added: 2024-04-17-17:47:24
+title: Prediction of drug-likeness using graph convolutional attention network
+type: article
+volume: '38'
+year: 2022

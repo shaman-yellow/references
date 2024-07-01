@@ -1,0 +1,84 @@
+abstract: 'BACKGROUND: The fourth round of the Critical Assessment of Small Molecule
+  Identification (CASMI) Contest ( www.casmi-contest.org ) was held in 2016, with
+  two new categories for automated methods. This article covers the 208 challenges
+  in Categories 2 and 3, without and with metadata, from organization, participation,
+  results and post-contest evaluation of CASMI 2016 through to perspectives for future
+  contests and small molecule annotation/identification. RESULTS: The Input Output
+  Kernel Regression (CSI:IOKR) machine learning approach performed best in "Category
+  2: Best Automatic Structural Identification-In Silico Fragmentation Only", won by
+  Team Brouard with 41\% challenge wins. The winner of "Category 3: Best Automatic
+  Structural Identification-Full Information" was Team Kind (MS-FINDER), with 76\%
+  challenge wins. The best methods were able to achieve over 30\% Top~1 ranks in Category~2,
+  with all methods ranking the correct candidate in the Top~10 in around 50\% of challenges.
+  This success rate rose to 70\% Top~1 ranks in Category~3, with candidates in the
+  Top~10 in over 80\% of the challenges. The machine learning and chemistry-based
+  approaches are shown to perform in complementary ways. CONCLUSIONS: The improvement
+  in (semi-)automated fragmentation methods for small molecule identification has
+  been substantial. The achieved high rates of correct candidates in the Top~1 and
+  Top~10, despite large candidate numbers, open up great possibilities for high-throughput
+  annotation of untargeted analysis for "known unknowns". As more high quality training
+  data becomes available, the improvements in machine learning methods will likely
+  continue, but the alternative approaches still provide valuable complementary information.
+  Improved integration of experimental context will also improve identification success
+  further for "real life" annotations. The true "unknown unknowns" remain to be evaluated
+  in future CASMI contests. Graphical abstract .'
+author: Schymanski, Emma L. and Ruttkies, Christoph and Krauss, Martin and Brouard,
+  Céline and Kind, Tobias and Dührkop, Kai and Allen, Felicity and Vaniya, Arpana
+  and Verdegem, Dries and Böcker, Sebastian and Rousu, Juho and Shen, Huibin and Tsugawa,
+  Hiroshi and Sajed, Tanvir and Fiehn, Oliver and Ghesquière, Bart and Neumann, Steffen
+author_list:
+- family: Schymanski
+  given: Emma L.
+- family: Ruttkies
+  given: Christoph
+- family: Krauss
+  given: Martin
+- family: Brouard
+  given: Céline
+- family: Kind
+  given: Tobias
+- family: Dührkop
+  given: Kai
+- family: Allen
+  given: Felicity
+- family: Vaniya
+  given: Arpana
+- family: Verdegem
+  given: Dries
+- family: Böcker
+  given: Sebastian
+- family: Rousu
+  given: Juho
+- family: Shen
+  given: Huibin
+- family: Tsugawa
+  given: Hiroshi
+- family: Sajed
+  given: Tanvir
+- family: Fiehn
+  given: Oliver
+- family: Ghesquière
+  given: Bart
+- family: Neumann
+  given: Steffen
+doi: 10.1186/s13321-017-0207-1
+file: /mnt/data/wizard/Zotero/storage/TW5S8C6Q/Schymanski et al. - 2017 - Critical
+  Assessment of Small Molecule Identificati.pdf
+files: []
+issn: 1758-2946
+journal: Journal of Cheminformatics
+keywords: Compound identification,High resolution mass spectrometry,In silico fragmentation,Metabolomics,Structure
+  elucidation
+langid: english
+month: March
+number: '1'
+pages: '22'
+papis_id: c380681a9119271b5760850973fad43f
+pmcid: PMC5368104
+pmid: '29086042'
+ref: CriticalAssessSchyma2017
+shorttitle: Critical {{Assessment}} of {{Small Molecule Identification}} 2016
+title: 'Critical Assessment of Small Molecule Identification 2016: Automated Methods'
+type: article
+volume: '9'
+year: '2017'

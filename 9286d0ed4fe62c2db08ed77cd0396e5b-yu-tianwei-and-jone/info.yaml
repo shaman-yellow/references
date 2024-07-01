@@ -1,0 +1,41 @@
+abstract: 'Abstract             Motivation: Peak detection is a key step in the preprocessing
+  of untargeted metabolomics data generated from high-resolution liquid chromatography-mass
+  spectrometry (LC/MS). The common practice is to use filters with predetermined parameters
+  to select peaks in the LC/MS profile. This rigid approach can cause suboptimal performance
+  when the choice of peak model and parameters do not suit the data characteristics.             Results:
+  Here we present a method that learns directly from various data features of the
+  extracted ion chromatograms (EICs) to differentiate between true peak regions from
+  noise regions in the LC/MS profile. It utilizes the knowledge of known metabolites,
+  as well as robust machine learning approaches. Unlike currently available methods,
+  this new approach does not assume a parametric peak shape model and allows maximum
+  flexibility. We demonstrate the superiority of the new approach using real data.
+  Because matching to known metabolites entails uncertainties and cannot be considered
+  a gold standard, we also developed a probabilistic receiver-operating characteristic
+  (pROC) approach that can incorporate uncertainties.             Availability and
+  implementation: The new peak detection approach is implemented as part of the apLCMS
+  package available at http://web1.sph.emory.edu/apLCMS/             Contact: ~tyu8@emory.edu             Supplementary
+  information: ~Supplementary data are available at Bioinformatics online.'
+author: Yu, Tianwei and Jones, Dean P.
+author_list:
+- family: Yu
+  given: Tianwei
+- family: Jones
+  given: Dean P.
+doi: 10.1093/bioinformatics/btu430
+file: /mnt/data/wizard/Zotero/storage/M77NTHFC/Yu and Jones - 2014 - Improving peak
+  detection in high-resolution LCMS .pdf
+files: []
+issn: 1367-4811, 1367-4803
+journal: Bioinformatics
+langid: english
+month: October
+number: '20'
+pages: 2941--2948
+papis_id: 42e2c6fb4f9a07621381bca4df3a0afa
+ref: ImprovingPeakYuTi2014
+title: Improving Peak Detection in High-Resolution LC/MS Metabolomics Data Using Preexisting
+  Knowledge and Machine Learning Approach
+type: article
+urldate: '2023-03-18'
+volume: '30'
+year: '2014'

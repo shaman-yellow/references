@@ -1,0 +1,24 @@
+author: Ludwig, Marcus and Dührkop, Kai and Böcker, Sebastian
+author_list:
+- family: Ludwig
+  given: Marcus
+- family: Dührkop
+  given: Kai
+- family: Böcker
+  given: Sebastian
+doi: 10.1093/bioinformatics/bty245
+files: []
+issn: 1367-4803, 1460-2059
+journal: Bioinformatics
+langid: english
+month: July
+number: '13'
+pages: i333-i340
+papis_id: 079b765a47b83d1e2ea62a10199a64a5
+ref: BayesianNetworLudwig2018
+title: Bayesian Networks for Mass Spectrometric Metabolite Identification via Molecular
+  Fingerprints
+type: article
+urldate: '2021-11-14'
+volume: '34'
+year: '2018'

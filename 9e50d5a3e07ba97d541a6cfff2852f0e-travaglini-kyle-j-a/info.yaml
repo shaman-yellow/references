@@ -1,0 +1,57 @@
+author: Travaglini, Kyle J and Nabhan, Ahmad N and Penland, Lolita and Sinha, Rahul
+  and Gillich, Astrid and Sit, Rene V and Chang, Stephen and Conley, Stephanie D and
+  Mori, Yasuo and Seita, Jun and Berry, Gerald J and Shrager, Joseph B and Metzger,
+  Ross J and Kuo, Christin S and Neff, Norma and Weissman, Irving L and Quake, Stephen
+  R and Krasnow, Mark A
+author_list:
+- family: Travaglini
+  given: Kyle J
+- family: Nabhan
+  given: Ahmad N
+- family: Penland
+  given: Lolita
+- family: Sinha
+  given: Rahul
+- family: Gillich
+  given: Astrid
+- family: Sit
+  given: Rene V
+- family: Chang
+  given: Stephen
+- family: Conley
+  given: Stephanie D
+- family: Mori
+  given: Yasuo
+- family: Seita
+  given: Jun
+- family: Berry
+  given: Gerald J
+- family: Shrager
+  given: Joseph B
+- family: Metzger
+  given: Ross J
+- family: Kuo
+  given: Christin S
+- family: Neff
+  given: Norma
+- family: Weissman
+  given: Irving L
+- family: Quake
+  given: Stephen R
+- family: Krasnow
+  given: Mark A
+doi: 10.1038/s41586-020-2922-4
+files:
+- amolecularceltravag2020-a.pdf
+issn: 0028-0836
+issue: '7835'
+journal: Nature
+pages: 619--625
+papis_id: fae546a258099468962d70832cdaff61
+pmid: '33208946'
+ref: AMolecularCelTravag2020
+time-added: 2023-10-11-10:28:35
+title: A molecular cell atlas of the human lung from single-cell RNA sequencing
+type: article
+volume: '587'
+year: 2020

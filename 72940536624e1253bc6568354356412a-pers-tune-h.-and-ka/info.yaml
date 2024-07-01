@@ -1,0 +1,55 @@
+author: Pers, Tune H. and Karjalainen, Juha M. and Chan, Yingleong and Westra, Harm-Jan
+  and Wood, Andrew R. and Yang, Jian and Lui, Julian C. and Vedantam, Sailaja and
+  Gustafsson, Stefan and Esko, Tonu and Frayling, Tim and Speliotes, Elizabeth K.
+  and Boehnke, Michael and Raychaudhuri, Soumya and Fehrmann, Rudolf S. N. and Hirschhorn,
+  Joel N. and Franke, Lude
+author_list:
+- family: Pers
+  given: Tune H.
+- family: Karjalainen
+  given: Juha M.
+- family: Chan
+  given: Yingleong
+- family: Westra
+  given: Harm-Jan
+- family: Wood
+  given: Andrew R.
+- family: Yang
+  given: Jian
+- family: Lui
+  given: Julian C.
+- family: Vedantam
+  given: Sailaja
+- family: Gustafsson
+  given: Stefan
+- family: Esko
+  given: Tonu
+- family: Frayling
+  given: Tim
+- family: Speliotes
+  given: Elizabeth K.
+- family: Boehnke
+  given: Michael
+- family: Raychaudhuri
+  given: Soumya
+- family: Fehrmann
+  given: Rudolf S. N.
+- family: Hirschhorn
+  given: Joel N.
+- family: Franke
+  given: Lude
+doi: 10.1038/ncomms6890
+files:
+- biologicalintepers2015-a.pdf
+issue: '1'
+journal: Nature Communications
+month: '1'
+papis_id: c1009c8d9f8a743961d4a2f0aedaa5eb
+publisher: Springer Science and Business Media LLC
+ref: BiologicalIntePers2015
+title: Biological interpretation of genome-wide association studies using predicted
+  gene functions
+type: article
+url: http://dx.doi.org/10.1038/ncomms6890
+volume: '6'
+year: '2015'

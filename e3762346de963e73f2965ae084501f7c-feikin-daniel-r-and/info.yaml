@@ -1,0 +1,49 @@
+author: Feikin, Daniel R and Higdon, Melissa M and Abu-Raddad, Laith J and Andrews,
+  Nick and Araos, Rafael and Goldberg, Yair and Groome, Michelle J and Huppert, Amit
+  and O'Brien, Katherine L and Smith, Peter G and Wilder-Smith, Annelies and Zeger,
+  Scott and Knoll, Maria Deloria and Patel, Minal K
+author_list:
+- family: Feikin
+  given: Daniel R
+- family: Higdon
+  given: Melissa M
+- family: Abu-Raddad
+  given: Laith J
+- family: Andrews
+  given: Nick
+- family: Araos
+  given: Rafael
+- family: Goldberg
+  given: Yair
+- family: Groome
+  given: Michelle J
+- family: Huppert
+  given: Amit
+- family: O'Brien
+  given: Katherine L
+- family: Smith
+  given: Peter G
+- family: Wilder-Smith
+  given: Annelies
+- family: Zeger
+  given: Scott
+- family: Knoll
+  given: Maria Deloria
+- family: Patel
+  given: Minal K
+doi: 10.1016/s0140-6736(22)00152-0
+files:
+- durationofefffeikin2022-a.pdf
+issue: '10328'
+journal: The Lancet
+month: '3'
+page: 924-944
+papis_id: 21bf8cfbc24aa86b0fddf2401adaef3a
+publisher: Elsevier BV
+ref: DurationOfEffFeikin2022
+title: 'Duration of effectiveness of vaccines against SARS-CoV-2 infection and COVID-19
+  disease: results of a systematic review and meta-regression'
+type: article
+url: http://dx.doi.org/10.1016/s0140-6736(22)00152-0
+volume: '399'
+year: '2022'

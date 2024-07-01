@@ -1,0 +1,72 @@
+abstract: Abstract             Nano-flow liquid chromatography tandem mass spectrometry
+  (nano-flow LC\textendash MS/MS) is the mainstay in proteome research because of
+  its excellent sensitivity but often comes at the expense of robustness. Here we
+  show that micro-flow LC\textendash MS/MS using a 1\,\texttimes\,150\,mm column shows
+  excellent reproducibility of chromatographic retention time ({$<$}0.3\% coefficient
+  of variation, CV) and protein quantification ({$<$}7.5\% CV) using data from {$>$}2000
+  samples of human cell lines, tissues and body fluids. Deep proteome analysis identifies
+  {$>$}9000 proteins and {$>$}120,000 peptides in 16\,h and sample multiplexing using
+  tandem mass tags increases throughput to 11 proteomes in 16\,h. The system identifies
+  {$>$}30,000 phosphopeptides in 12\,h and protein-protein or protein-drug interaction
+  experiments can be analyzed in 20\,min per sample. We show that the same column
+  can be used to analyze {$>$}7500 samples without apparent loss of performance. This
+  study demonstrates that micro-flow LC\textendash MS/MS is suitable for a broad range
+  of proteomic applications.
+author: Bian, Yangyang and Zheng, Runsheng and Bayer, Florian P. and Wong, Cassandra
+  and Chang, Yun-Chien and Meng, Chen and Zolg, Daniel P. and Reinecke, Maria and
+  Zecha, Jana and Wiechmann, Svenja and Heinzlmeir, Stephanie and Scherr, Johannes
+  and Hemmer, Bernhard and Baynham, Mike and Gingras, Anne-Claude and Boychenko, Oleksandr
+  and Kuster, Bernhard
+author_list:
+- family: Bian
+  given: Yangyang
+- family: Zheng
+  given: Runsheng
+- family: Bayer
+  given: Florian P.
+- family: Wong
+  given: Cassandra
+- family: Chang
+  given: Yun-Chien
+- family: Meng
+  given: Chen
+- family: Zolg
+  given: Daniel P.
+- family: Reinecke
+  given: Maria
+- family: Zecha
+  given: Jana
+- family: Wiechmann
+  given: Svenja
+- family: Heinzlmeir
+  given: Stephanie
+- family: Scherr
+  given: Johannes
+- family: Hemmer
+  given: Bernhard
+- family: Baynham
+  given: Mike
+- family: Gingras
+  given: Anne-Claude
+- family: Boychenko
+  given: Oleksandr
+- family: Kuster
+  given: Bernhard
+doi: 10.1038/s41467-019-13973-x
+file: /mnt/data/wizard/Zotero/storage/CU8UA5B3/Bian et al. - 2020 - Robust, reproducible
+  and quantitative analysis of .pdf
+files: []
+issn: 2041-1723
+journal: Nature Communications
+langid: english
+month: December
+number: '1'
+pages: '157'
+papis_id: d714460692f82dcd75bf8c785ab1cb5b
+ref: RobustReproduBian2020
+title: Robust, Reproducible and Quantitative Analysis of Thousands of Proteomes by
+  Micro-Flow LC–MS/MS
+type: article
+urldate: '2022-07-18'
+volume: '11'
+year: '2020'

@@ -1,0 +1,58 @@
+author: Schiebinger, Geoffrey and Shu, Jian and Tabaka, Marcin and Cleary, Brian and
+  Subramanian, Vidya and Solomon, Aryeh and Gould, Joshua and Liu, Siyan and Lin,
+  Stacie and Berube, Peter and Lee, Lia and Chen, Jenny and Brumbaugh, Justin and
+  Rigollet, Philippe and Hochedlinger, Konrad and Jaenisch, Rudolf and Regev, Aviv
+  and Lander, Eric S.
+author_list:
+- family: Schiebinger
+  given: Geoffrey
+- family: Shu
+  given: Jian
+- family: Tabaka
+  given: Marcin
+- family: Cleary
+  given: Brian
+- family: Subramanian
+  given: Vidya
+- family: Solomon
+  given: Aryeh
+- family: Gould
+  given: Joshua
+- family: Liu
+  given: Siyan
+- family: Lin
+  given: Stacie
+- family: Berube
+  given: Peter
+- family: Lee
+  given: Lia
+- family: Chen
+  given: Jenny
+- family: Brumbaugh
+  given: Justin
+- family: Rigollet
+  given: Philippe
+- family: Hochedlinger
+  given: Konrad
+- family: Jaenisch
+  given: Rudolf
+- family: Regev
+  given: Aviv
+- family: Lander
+  given: Eric S.
+doi: 10.1016/j.cell.2019.01.006
+files:
+- optimaltransposchieb2019-a.pdf
+issue: '4'
+journal: Cell
+month: '2'
+page: 928-943.e22
+papis_id: b863dd395faa94392048d86bf0022830
+publisher: Elsevier BV
+ref: OptimalTranspoSchieb2019
+title: Optimal-Transport Analysis of Single-Cell Gene Expression Identifies Developmental
+  Trajectories in Reprogramming
+type: article
+url: http://dx.doi.org/10.1016/j.cell.2019.01.006
+volume: '176'
+year: '2019'

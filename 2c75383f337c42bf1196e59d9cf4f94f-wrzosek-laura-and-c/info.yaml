@@ -1,0 +1,83 @@
+abstract: Objective               Chronic alcohol consumption is an important cause
+  of liver-related deaths. Specific intestinal microbiota profiles are associated
+  with susceptibility or resistance to alcoholic liver disease in both mice and humans.
+  We aimed to identify the mechanisms by which targeting intestinal microbiota can
+  improve alcohol-induced liver lesions.                                         Design               We
+  used human associated mice, a mouse model of alcoholic liver disease transplanted
+  with the intestinal microbiota of alcoholic patients and used the prebiotic, pectin,
+  to modulate the intestinal microbiota. Based on metabolomic analyses, we focused
+  on microbiota tryptophan metabolites, which are ligands of the aryl hydrocarbon
+  receptor (AhR). Involvement of the AhR pathway was assessed using both a pharmacological
+  approach and AhR-deficient mice.                                         Results                                Pectin
+  treatment modified the microbiome and metabolome in human microbiota-associated
+  alcohol-fed mice, leading to a specific faecal signature. High production of bacterial
+  tryptophan metabolites was associated with an improvement of liver injury. The AhR
+  agonist Ficz (6-formylindolo (3,2-b) carbazole) reduced liver lesions, similarly
+  to prebiotic treatment. Conversely, inactivation of the                 ahr                 gene
+  in alcohol-fed AhR                 knock-out                 mice abrogated the
+  beneficial effects of the prebiotic. Importantly, patients with severe alcoholic
+  hepatitis have low levels of bacterial tryptophan derivatives that are AhR agonists.                                                        Conclusions               Improvement
+  of alcoholic liver disease by targeting the intestinal microbiota involves the AhR
+  pathway, which should be considered as a new therapeutic target.
+author: Wrzosek, Laura and Ciocan, Dragos and Hugot, Cindy and Spatz, Madeleine and
+  Dupeux, Margot and Houron, Camille and Lievin-Le Moal, Vanessa and Puchois, Virginie
+  and Ferrere, Gladys and Trainel, Nicolas and Mercier-Nomé, Françoise and Durand,
+  Sylvere and Kroemer, Guido and Voican, Cosmin Sebastian and Emond, Patrick and Straube,
+  Marjolène and Sokol, Harry and Perlemuter, Gabriel and Cassard, Anne-Marie
+author_list:
+- family: Wrzosek
+  given: Laura
+- family: Ciocan
+  given: Dragos
+- family: Hugot
+  given: Cindy
+- family: Spatz
+  given: Madeleine
+- family: Dupeux
+  given: Margot
+- family: Houron
+  given: Camille
+- family: Lievin-Le Moal
+  given: Vanessa
+- family: Puchois
+  given: Virginie
+- family: Ferrere
+  given: Gladys
+- family: Trainel
+  given: Nicolas
+- family: Mercier-Nomé
+  given: Françoise
+- family: Durand
+  given: Sylvere
+- family: Kroemer
+  given: Guido
+- family: Voican
+  given: Cosmin Sebastian
+- family: Emond
+  given: Patrick
+- family: Straube
+  given: Marjolène
+- family: Sokol
+  given: Harry
+- family: Perlemuter
+  given: Gabriel
+- family: Cassard
+  given: Anne-Marie
+doi: 10/gkrd3b
+file: /mnt/data/wizard/Zotero/storage/LVELFIDF/Wrzosek et al. - 2021 - Microbiota
+  tryptophan metabolism induces aryl hydr.pdf
+files: []
+issn: 0017-5749, 1468-3288
+journal: Gut
+langid: english
+month: July
+number: '7'
+pages: 1299--1308
+papis_id: 96bf3773b9ef167e1d0e3e11378111a0
+ref: MicrobiotaTrypWrzose2021
+title: Microbiota Tryptophan Metabolism Induces Aryl Hydrocarbon Receptor Activation
+  and Improves Alcohol-Induced Liver Injury
+type: article
+urldate: '2021-11-29'
+volume: '70'
+year: '2021'

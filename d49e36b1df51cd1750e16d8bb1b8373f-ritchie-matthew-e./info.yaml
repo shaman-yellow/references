@@ -1,0 +1,57 @@
+abstract: limma is an R/Bioconductor software package that provides an integrated
+  solution for analysing data from gene expression experiments. It contains rich features
+  for handling complex experimental designs and for information borrowing to overcome
+  the problem of small sample sizes. Over the past decade, limma has been a popular
+  choice for gene discovery through differential expression analyses of microarray
+  and high-throughput PCR data. The package contains particularly strong facilities
+  for reading, normalizing and exploring such data. Recently, the capabilities of
+  limma have been significantly expanded in two important directions. First, the package
+  can now perform both differential expression and differential splicing analyses
+  of RNA sequencing (RNA-seq) data. All the downstream analysis tools previously restricted
+  to microarray data are now available for RNA-seq as well. These capabilities allow
+  users to analyse both RNA-seq and microarray data with very similar pipelines. Second,
+  the package is now able to go past the traditional gene-wise expression analyses
+  in a variety of ways, analysing expression profiles in terms of co-regulated sets
+  of genes or in terms of higher-order expression signatures. This provides enhanced
+  possibilities for biological interpretation of gene expression differences. This
+  article reviews the philosophy and design of the limma package, summarizing both
+  new and historical features, with an emphasis on recent enhancements and features
+  that have not been previously described.
+author: Ritchie, Matthew E. and Phipson, Belinda and Wu, Di and Hu, Yifang and Law,
+  Charity W. and Shi, Wei and Smyth, Gordon K.
+author_list:
+- family: Ritchie
+  given: Matthew E.
+- family: Phipson
+  given: Belinda
+- family: Wu
+  given: Di
+- family: Hu
+  given: Yifang
+- family: Law
+  given: Charity W.
+- family: Shi
+  given: Wei
+- family: Smyth
+  given: Gordon K.
+doi: 10.1093/nar/gkv007
+file: /mnt/data/wizard/Zotero/storage/A386QHGY/Ritchie et al. - 2015 - limma powers
+  differential expression analyses for .pdf
+files: []
+issn: 1362-4962
+journal: Nucleic Acids Research
+keywords: Gene Expression Regulation,Oligonucleotide Array Sequence Analysis,{Sequence
+  Analysis, RNA},Software
+langid: english
+month: April
+number: '7'
+pages: e47
+papis_id: 5cbe8f9fd2377e7c7fd58dd0ee89374d
+pmcid: PMC4402510
+pmid: '25605792'
+ref: LimmaPowersDiRitchi2015
+title: Limma Powers Differential Expression Analyses for RNA-sequencing and Microarray
+  Studies
+type: article
+volume: '43'
+year: '2015'

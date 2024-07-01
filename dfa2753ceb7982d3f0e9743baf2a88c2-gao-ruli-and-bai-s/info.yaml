@@ -1,0 +1,450 @@
+author: Gao, Ruli and Bai, Shanshan and Henderson, Ying C. and Lin, Yiyun and Schalck,
+  Aislyn and Yan, Yun and Kumar, Tapsi and Hu, Min and Sei, Emi and Davis, Alexander
+  and Wang, Fang and Shaitelman, Simona F. and Wang, Jennifer Rui and Chen, Ken and
+  Moulder, Stacy and Lai, Stephen Y. and Navin, Nicholas E.
+author_list:
+- affiliation: []
+  family: Gao
+  given: Ruli
+- affiliation: []
+  family: Bai
+  given: Shanshan
+- affiliation: []
+  family: Henderson
+  given: Ying C.
+- affiliation: []
+  family: Lin
+  given: Yiyun
+- affiliation: []
+  family: Schalck
+  given: Aislyn
+- affiliation: []
+  family: Yan
+  given: Yun
+- affiliation: []
+  family: Kumar
+  given: Tapsi
+- affiliation: []
+  family: Hu
+  given: Min
+- affiliation: []
+  family: Sei
+  given: Emi
+- affiliation: []
+  family: Davis
+  given: Alexander
+- affiliation: []
+  family: Wang
+  given: Fang
+- affiliation: []
+  family: Shaitelman
+  given: Simona F.
+- affiliation: []
+  family: Wang
+  given: Jennifer Rui
+- affiliation: []
+  family: Chen
+  given: Ken
+- affiliation: []
+  family: Moulder
+  given: Stacy
+- affiliation: []
+  family: Lai
+  given: Stephen Y.
+- affiliation: []
+  family: Navin
+  given: Nicholas E.
+citations:
+- author: J Peng
+  doi: 10.1038/s41422-019-0195-y
+  first-page: '725'
+  journal-title: Cell Res.
+  unstructured: Peng, J. et al. Single-cell RNA-seq highlights intra-tumoral heterogeneity
+    and malignant progression in pancreatic ductal adenocarcinoma. Cell Res. 29, 725–738
+    (2019).
+  volume: '29'
+  year: '2019'
+- author: L Ma
+  doi: 10.1016/j.ccell.2019.08.007
+  first-page: '418'
+  journal-title: Cancer Cell
+  unstructured: Ma, L. et al. Tumor cell biodiversity drives microenvironmental reprogramming
+    in liver cancer. Cancer Cell 36, 418–430 (2019).
+  volume: '36'
+  year: '2019'
+- author: AP Patel
+  doi: 10.1126/science.1254257
+  first-page: '1396'
+  journal-title: Science
+  unstructured: Patel, A. P. et al. Single-cell RNA-seq highlights intratumoral heterogeneity
+    in primary glioblastoma. Science 344, 1396–1401 (2014).
+  volume: '344'
+  year: '2014'
+- author: EZ Macosko
+  doi: 10.1016/j.cell.2015.05.002
+  first-page: '1202'
+  journal-title: Cell
+  unstructured: Macosko, E. Z. et al. Highly parallel genome-wide expression profiling
+    of individual cells using nanoliter droplets. Cell 161, 1202–1214 (2015).
+  volume: '161'
+  year: '2015'
+- author: AM Klein
+  doi: 10.1016/j.cell.2015.04.044
+  first-page: '1187'
+  journal-title: Cell
+  unstructured: Klein, A. M. et al. Droplet barcoding for single-cell transcriptomics
+    applied to embryonic stem cells. Cell 161, 1187–1201 (2015).
+  volume: '161'
+  year: '2015'
+- author: GX Zheng
+  doi: 10.1038/ncomms14049
+  journal-title: Nat. Commun.
+  unstructured: Zheng, G. X. et al. Massively parallel digital transcriptional profiling
+    of single cells. Nat. Commun. 8, 14049 (2017).
+  volume: '8'
+  year: '2017'
+- author: R Gao
+  doi: 10.1038/s41467-017-00244-w
+  journal-title: Nat. Commun.
+  unstructured: Gao, R. et al. Nanogrid single-nucleus RNA sequencing reveals phenotypic
+    diversity in breast cancer. Nat. Commun. 8, 228 (2017).
+  volume: '8'
+  year: '2017'
+- author: TM Gierahn
+  doi: 10.1038/nmeth.4179
+  first-page: '395'
+  journal-title: Nat. Methods
+  unstructured: 'Gierahn, T. M. et al. Seq-Well: portable, low-cost RNA sequencing
+    of single cells at high throughput. Nat. Methods 14, 395–398 (2017).'
+  volume: '14'
+  year: '2017'
+- author: AM Taylor
+  doi: 10.1016/j.ccell.2018.03.007
+  first-page: '676'
+  journal-title: Cancer Cell
+  unstructured: Taylor, A. M. et al. Genomic and functional approaches to understanding
+    cancer aneuploidy. Cancer Cell 33, 676–689 (2018).
+  volume: '33'
+  year: '2018'
+- author: J Fan
+  doi: 10.1101/gr.228080.117
+  first-page: '1217'
+  journal-title: Genome Res.
+  unstructured: Fan, J. et al. Linking transcriptional and genetic tumor heterogeneity
+    through allele analysis of single-cell RNA-seq data. Genome Res. 28, 1217–1227
+    (2018).
+  volume: '28'
+  year: '2018'
+- author: MF Freeman
+  doi: 10.1214/aoms/1177729756
+  first-page: '607'
+  journal-title: Ann. Math. Stat.
+  unstructured: Freeman, M. F. & Tukey, J. W. Transformations related to the angular
+    and the square root. Ann. Math. Stat. 21, 607–611 (1950).
+  volume: '21'
+  year: '1950'
+- author: G Petris
+  doi: 10.18637/jss.v036.i12
+  first-page: '1'
+  journal-title: J. Stat. Softw.
+  unstructured: Petris, G. An R package for dynamic linear models. J. Stat. Softw.
+    36, 1–16 (2010).
+  volume: '36'
+  year: '2010'
+- author: T Baslan
+  doi: 10.1038/nprot.2012.039
+  first-page: '1024'
+  journal-title: Nat. Protoc.
+  unstructured: Baslan, T. et al. Genome-wide copy number analysis of single cells.
+    Nat. Protoc. 7, 1024–1041 (2012).
+  volume: '7'
+  year: '2012'
+- author: T Harada
+  doi: 10.1038/sj.onc.1210832
+  first-page: '1951'
+  journal-title: Oncogene
+  unstructured: Harada, T. et al. Genome-wide DNA copy number analysis in pancreatic
+    cancer using high-density single nucleotide polymorphism arrays. Oncogene 27,
+    1951–1960 (2008).
+  volume: '27'
+  year: '2008'
+- author: N Samuel
+  doi: 10.1097/MPA.0b013e318287d043
+  first-page: '1016'
+  journal-title: Pancreas
+  unstructured: Samuel, N. et al. Integrated genomic, transcriptomic, and RNA-interference
+    analysis of genes in somatic copy number gains in pancreatic ductal adenocarcinoma.
+    Pancreas 42, 1016–1026 (2013).
+  volume: '42'
+  year: '2013'
+- author: Cancer Genome Atlas Research Network.
+  doi: 10.1016/j.ccell.2017.07.007
+  first-page: '185'
+  journal-title: Cancer Cell
+  unstructured: Cancer Genome Atlas Research Network. Integrated genomic characterization
+    of pancreatic ductal adenocarcinoma. Cancer Cell 32, 185–203 (2017).
+  volume: '32'
+  year: '2017'
+- author: H Yao
+  doi: 10.3233/CBM-160655
+  first-page: '397'
+  journal-title: Cancer Biomark.
+  unstructured: Yao, H. et al. Glypican-3 and KRT19 are markers associating with metastasis
+    and poor prognosis of pancreatic ductal adenocarcinoma. Cancer Biomark. 17, 397–404
+    (2016).
+  volume: '17'
+  year: '2016'
+- author: AH Girgis
+  first-page: '957'
+  journal-title: Anticancer Res.
+  unstructured: Girgis, A. H., Bui, A., White, N. M. & Yousef, G. M. Integrated genomic
+    characterization of the kallikrein gene locus in cancer. Anticancer Res. 32, 957–963
+    (2012).
+  volume: '32'
+  year: '2012'
+- author: F Dijk
+  doi: 10.1038/s41598-019-56826-9
+  journal-title: Sci. Rep.
+  unstructured: Dijk, F. et al. Unsupervised class discovery in pancreatic ductal
+    adenocarcinoma reveals cell-intrinsic mesenchymal features and high concordance
+    between existing classification systems. Sci. Rep. 10, 337 (2020).
+  volume: '10'
+  year: '2020'
+- author: I Heid
+  doi: 10.1158/1078-0432.CCR-15-2432
+  first-page: '1461'
+  journal-title: Clin. Cancer Res.
+  unstructured: Heid, I. et al. Co-clinical assessment of tumor cellularity in pancreatic
+    cancer. Clin. Cancer Res. 23, 1461–1470 (2017).
+  volume: '23'
+  year: '2017'
+- author: N Ravi
+  doi: 10.3390/cancers11030402
+  first-page: '402'
+  journal-title: Cancers
+  unstructured: Ravi, N. et al. Identification of targetable lesions in anaplastic
+    thyroid cancer by genome profiling. Cancers 11, 402 (2019).
+  volume: '11'
+  year: '2019'
+- author: FR Ribeiro
+  doi: 10.1186/1471-2407-8-371
+  journal-title: BMC Cancer
+  unstructured: 'Ribeiro, F. R., Meireles, A. M., Rocha, A. S. & Teixeira, M. R. Conventional
+    and molecular cytogenetics of human non-medullary thyroid carcinoma: characterization
+    of eight cell line models and review of the literature on clinical samples. BMC
+    Cancer 8, 371 (2008).'
+  volume: '8'
+  year: '2008'
+- doi: 10.3390/ijms19020577
+  unstructured: 'Guo, D. et al. Cytokeratin-8 in anaplastic thyroid carcinoma: more
+    than a simple structural cytoskeletal protein. Int. J. Mol. Sci. 19, 577 (2018).'
+- doi: 10.1007/978-1-4419-1707-2
+  unstructured: Hunt, J. L. Molecular Pathology of Endocrine Diseases (Springer, 2010).
+- author: JA Barletta
+  doi: 10.1016/j.path.2019.08.013
+  first-page: xi
+  journal-title: Surg. Pathol. Clin.
+  unstructured: 'Barletta, J. A. Endocrine pathology: advances, updates, and diagnostic
+    pearls. Surg. Pathol. Clin. 12, xi–xii (2019).'
+  volume: '12'
+  year: '2019'
+- author: SL Asa
+  doi: 10.5858/2008-132-1228-NDAMAI
+  first-page: '1228'
+  journal-title: Arch. Pathol. Lab. Med.
+  unstructured: Asa, S. L. & LiVolsi, V. A. New diagnostic and management approaches
+    in endocrine pathology. Arch. Pathol. Lab. Med. 132, 1228–1230 (2008).
+  volume: '132'
+  year: '2008'
+- author: N Turner
+  doi: 10.1038/onc.2009.489
+  first-page: '2013'
+  journal-title: Oncogene
+  unstructured: Turner, N. et al. Integrative molecular profiling of triple negative
+    breast cancers identifies amplicon drivers and potential therapeutic targets.
+    Oncogene 29, 2013–2023 (2010).
+  volume: '29'
+  year: '2010'
+- author: R Gao
+  doi: 10.1038/ng.3641
+  first-page: '1119'
+  journal-title: Nat. Genet.
+  unstructured: Gao, R. et al. Punctuated copy number evolution and clonal stasis
+    in triple-negative breast cancer. Nat. Genet. 48, 1119–1130 (2016).
+  volume: '48'
+  year: '2016'
+- author: F Andre
+  doi: 10.1158/1078-0432.CCR-08-1791
+  first-page: '441'
+  journal-title: Clin. Cancer Res.
+  unstructured: Andre, F. et al. Molecular characterization of breast cancer with
+    high-resolution oligonucleotide comparative genomic hybridization array. Clin.
+    Cancer Res. 15, 441–451 (2009).
+  volume: '15'
+  year: '2009'
+- author: C Neftel
+  doi: 10.1016/j.cell.2019.06.024
+  first-page: '835'
+  journal-title: Cell
+  unstructured: Neftel, C. et al. An integrative model of cellular states, plasticity,
+    and genetics for glioblastoma. Cell 178, 835–849 (2019).
+  volume: '178'
+  year: '2019'
+- author: CW Brennan
+  doi: 10.1016/j.cell.2013.09.034
+  first-page: '462'
+  journal-title: Cell
+  unstructured: Brennan, C. W. et al. The somatic genomic landscape of glioblastoma.
+    Cell 155, 462–477 (2013).
+  volume: '155'
+  year: '2013'
+- author: Cancer Genome Atlas Network
+  doi: 10.1038/nature11412
+  first-page: '61'
+  journal-title: Nature
+  unstructured: Cancer Genome Atlas Network. Comprehensive molecular portraits of
+    human breast tumours. Nature 490, 61–70 (2012).
+  volume: '490'
+  year: '2012'
+- author: SA Forbes
+  doi: 10.1093/nar/gkw1121
+  first-page: D777
+  journal-title: Nucleic Acids Res.
+  unstructured: 'Forbes, S. A. et al. COSMIC: somatic cancer genetics at high-resolution.
+    Nucleic Acids Res. 45, D777–D783 (2017).'
+  volume: '45'
+  year: '2017'
+- author: S Hanzelmann
+  doi: 10.1186/1471-2105-14-7
+  first-page: '7'
+  journal-title: BMC Bioinformatics
+  unstructured: 'Hanzelmann, S., Castelo, R. & Guinney, J. GSVA: gene set variation
+    analysis for microarray and RNA-seq data. BMC Bioinformatics 14, 7 (2013).'
+  volume: '14'
+  year: '2013'
+- author: Y Xin
+  doi: 10.1073/pnas.1602306113
+  first-page: '3293'
+  journal-title: Proc. Natl Acad. Sci. USA
+  unstructured: Xin, Y. et al. Use of the Fluidigm C1 platform for RNA sequencing
+    of single mouse pancreatic islet cells. Proc. Natl Acad. Sci. USA 113, 3293–3298
+    (2016).
+  volume: '113'
+  year: '2016'
+- author: S Picelli
+  doi: 10.1038/nmeth.2639
+  first-page: '1096'
+  journal-title: Nat. Methods
+  unstructured: Picelli, S. et al. Smart-seq2 for sensitive full-length transcriptome
+    profiling in single cells. Nat. Methods 10, 1096–1098 (2013).
+  volume: '10'
+  year: '2013'
+- author: A Liberzon
+  doi: 10.1093/bioinformatics/btr260
+  first-page: '1739'
+  journal-title: Bioinformatics
+  unstructured: Liberzon, A. et al. Molecular signatures database (MSigDB) 3.0. Bioinformatics
+    27, 1739–1740 (2011).
+  volume: '27'
+  year: '2011'
+- author: AD Martin
+  doi: 10.18637/jss.v042.i09
+  first-page: 1–21
+  journal-title: J. Stat. Softw.
+  unstructured: 'Martin, A. D., Quinn, K. M. & Park, J. H. MCMCpack: Markov chain
+    Monte Carlo in R. J. Stat. Softw. 42, 1–21 (2011).'
+  volume: '42'
+  year: '2011'
+- author: C Kim
+  doi: 10.1016/j.cell.2018.03.041
+  first-page: '879'
+  journal-title: Cell
+  unstructured: Kim, C. et al. Chemoresistance evolution in triple-negative breast
+    cancer delineated by single-cell sequencing. Cell 173, 879–893 (2018).
+  volume: '173'
+  year: '2018'
+- author: AB Olshen
+  doi: 10.1093/biostatistics/kxh008
+  first-page: '557'
+  journal-title: Biostatistics
+  unstructured: Olshen, A. B., Venkatraman, E. S., Lucito, R. & Wigler, M. Circular
+    binary segmentation for the analysis of array-based DNA copy number data. Biostatistics
+    5, 557–572 (2004).
+  volume: '5'
+  year: '2004'
+- author: H Willenbrock
+  doi: 10.1093/bioinformatics/bti677
+  first-page: '4084'
+  journal-title: Bioinformatics
+  unstructured: 'Willenbrock, H. & Fridlyand, J. A comparison study: applying segmentation
+    to array CGH data for downstream analyses. Bioinformatics 21, 4084–4091 (2005).'
+  volume: '21'
+  year: '2005'
+- author: T Stuart
+  doi: 10.1016/j.cell.2019.05.031
+  first-page: '1888'
+  journal-title: Cell
+  unstructured: Stuart, T. et al. Comprehensive integration of single-cell data. Cell
+    177, 1888–1902 (2019).
+  volume: '177'
+  year: '2019'
+- author: G Finak
+  doi: 10.1186/s13059-015-0844-5
+  journal-title: Genome Biol.
+  unstructured: 'Finak, G. et al. MAST: a flexible statistical framework for assessing
+    transcriptional changes and characterizing heterogeneity in single-cell RNA sequencing
+    data. Genome Biol. 16, 278 (2015).'
+  volume: '16'
+  year: '2015'
+- author: S Durinck
+  doi: 10.1038/nprot.2009.97
+  first-page: '1184'
+  journal-title: Nat. Protoc.
+  unstructured: Durinck, S., Spellman, P. T., Birney, E. & Huber, W. Mapping identifiers
+    for the integration of genomic datasets with the R/Bioconductor package biomaRt.
+    Nat. Protoc. 4, 1184–1191 (2009).
+  volume: '4'
+  year: '2009'
+- author: A Liberzon
+  doi: 10.1016/j.cels.2015.12.004
+  first-page: '417'
+  journal-title: Cell Syst.
+  unstructured: Liberzon, A. et al. The Molecular Signatures Database (MSigDB) hallmark
+    gene set collection. Cell Syst. 1, 417–425 (2015).
+  volume: '1'
+  year: '2015'
+- author: ME Ritchie
+  doi: 10.1093/nar/gkv007
+  first-page: e47
+  journal-title: Nucleic Acids Res.
+  unstructured: Ritchie, M. E. et al. limma powers differential expression analyses
+    for RNA-sequencing and microarray studies. Nucleic Acids Res. 43, e47 (2015).
+  volume: '43'
+  year: '2015'
+- author: E Paradis
+  doi: 10.1093/bioinformatics/bty633
+  first-page: '526'
+  journal-title: Bioinformatics
+  unstructured: 'Paradis, E. & Schliep, K. ape 5.0: an environment for modern phylogenetics
+    and evolutionary analyses in R. Bioinformatics 35, 526–528 (2019).'
+  volume: '35'
+  year: '2019'
+doc_url: https://www.nature.com/articles/s41587-020-00795-2.pdf
+doi: 10.1038/s41587-020-00795-2
+files:
+- delineatingcopgaor2021-a.pdf
+issue: '5'
+journal: Nature Biotechnology
+language: en
+month: 5
+pages: 599--608
+papis_id: 4211b9265a7c9803eacb4fed32e91b26
+publisher: Springer Science and Business Media LLC
+ref: DelineatingCopGaoR2021
+time-added: 2023-10-13-09:31:43
+title: Delineating copy number and clonal substructure in human tumors from single-cell
+  transcriptomes
+type: article
+url: http://dx.doi.org/10.1038/s41587-020-00795-2
+volume: '39'
+year: 2021

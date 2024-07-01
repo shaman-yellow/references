@@ -1,0 +1,26 @@
+author: REHMSMEIER, MARC and STEFFEN, PETER and HÖCHSMANN, MATTHIAS and GIEGERICH,
+  ROBERT
+author_list:
+- family: REHMSMEIER
+  given: MARC
+- family: STEFFEN
+  given: PETER
+- family: HÖCHSMANN
+  given: MATTHIAS
+- family: GIEGERICH
+  given: ROBERT
+doi: 10.1261/rna.5248604
+files:
+- fastandeffectrehmsm2004-a.pdf
+issue: '10'
+journal: RNA
+month: '9'
+page: 1507-1517
+papis_id: 87c1600323ec982701b7861adb54ac37
+publisher: Cold Spring Harbor Laboratory
+ref: FastAndEffectRehmsm2004
+title: Fast and effective prediction of microRNA/target duplexes
+type: article
+url: http://dx.doi.org/10.1261/rna.5248604
+volume: '10'
+year: '2004'

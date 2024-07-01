@@ -1,0 +1,45 @@
+author: Palmer, Andrew and Phapale, Prasad and Chernyavsky, Ilya and Lavigne, Regis
+  and Fay, Dominik and Tarasov, Artem and Kovalev, Vitaly and Fuchser, Jens and Nikolenko,
+  Sergey and Pineau, Charles and Becker, Michael and Alexandrov, Theodore
+author_list:
+- family: Palmer
+  given: Andrew
+- family: Phapale
+  given: Prasad
+- family: Chernyavsky
+  given: Ilya
+- family: Lavigne
+  given: Regis
+- family: Fay
+  given: Dominik
+- family: Tarasov
+  given: Artem
+- family: Kovalev
+  given: Vitaly
+- family: Fuchser
+  given: Jens
+- family: Nikolenko
+  given: Sergey
+- family: Pineau
+  given: Charles
+- family: Becker
+  given: Michael
+- family: Alexandrov
+  given: Theodore
+doi: 10.1038/nmeth.4072
+file: /mnt/data/wizard/Zotero/storage/Y2DY2UZY/Palmer et al. - 2017 - FDR-controlled
+  metabolite annotation for high-reso.pdf
+files: []
+issn: 1548-7091, 1548-7105
+journal: Nature Methods
+langid: english
+month: January
+number: '1'
+pages: 57--60
+papis_id: 28b31c01fd5806c22ca9b6712d9fb621
+ref: FdrControlledPalmer2017
+title: FDR-controlled Metabolite Annotation for High-Resolution Imaging Mass Spectrometry
+type: article
+urldate: '2022-04-28'
+volume: '14'
+year: '2017'

@@ -1,0 +1,52 @@
+abstract: 'Background:               With significant clinical effects, traditional
+  Chinese medicine (TCM) has been attracting increasing interest of the world''s scientific
+  community. However, TCM contains immense amounts of chemical components. It is a
+  great challenge to objectively evaluate the correlation between the in vivo process
+  and the therapeutic effect of TCM. The purpose of this systematic review was to
+  summarize the recent investigation (from 2017 to 2019) on preclinical pharmacokinetics
+  (PK) of TCM via liquid chromatography coupled with mass spectrometry (LC-MS/MS).                                         Method:               We
+  reviewed the published articles regarding the PK of TCM by LC-MS/MS. In addition,
+  we summarized information on PK parameter of bioactive components, single herb and
+  traditional Chinese medicine prescriptions.                                         Results:               The
+  vast majority of literature on preclinical PK of TCM uses single oral administration,
+  the biological matrix is mostly rat plasma, and the main PK parameters include AUC,
+  Cmax, Tmax and T1/2, etc.                                         Conclusion:               Although
+  LC-MS/MS can be used for high-throughput analysis, the characterization of in vivo
+  processes of TCM still has a long way. With the advantages of high sensitivity,
+  high specificity and simple operation, the increasingly mature LC-MS/MS technology
+  will play an important role in the PK study of TCM.'
+author: Wang, Yang and Zhang, Lu and Gu, Shuang and Yin, Zhaorui and Shi, Zhe and
+  Wang, Ping and Xu, Changhua
+author_list:
+- family: Wang
+  given: Yang
+- family: Zhang
+  given: Lu
+- family: Gu
+  given: Shuang
+- family: Yin
+  given: Zhaorui
+- family: Shi
+  given: Zhe
+- family: Wang
+  given: Ping
+- family: Xu
+  given: Changhua
+doi: 10.2174/1389200221666201009142418
+files: []
+issn: '13892002'
+journal: Current Drug Metabolism
+langid: english
+month: December
+number: '12'
+pages: 969--978
+papis_id: 0ef6ca8a40a9b0651fd256fe7fd6471c
+ref: TheCurrentAppWang2020
+shorttitle: The {{Current Application}} of {{LC-MS}}/{{MS}} in {{Pharmacokinetics}}
+  of {{Traditional Chinese Medicines}} ({{Recent Three Years}})
+title: 'The Current Application of LC-MS/MS in Pharmacokinetics of Traditional Chinese
+  Medicines (Recent Three Years): A Systematic Review'
+type: article
+urldate: '2022-05-02'
+volume: '21'
+year: '2020'

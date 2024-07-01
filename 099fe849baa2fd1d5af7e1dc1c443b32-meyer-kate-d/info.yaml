@@ -1,0 +1,18 @@
+author: Meyer, Kate D
+author_list:
+- family: Meyer
+  given: Kate D
+doi: 10.1038/s41592-019-0570-0
+files: []
+issn: 1548-7091
+issue: '12'
+journal: Nature methods
+pages: 1275--1280
+papis_id: 9dd9f472de84134141e5c5c851ae5033
+pmid: '31548708'
+ref: DartSeqAnAnMeyer2019
+time-added: 2023-11-02-10:35:45
+title: 'DART-seq: an antibody-free method for global m<sup>6</sup>A detection'
+type: article
+volume: '16'
+year: 2019

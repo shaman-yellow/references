@@ -1,0 +1,12 @@
+author: Dowle, Matt and Srinivasan, Arun
+author_list:
+- family: Dowle
+  given: Matt
+- family: Srinivasan
+  given: Arun
+files: []
+papis_id: 16ac8f449f42b694b0c91e1701b1cb0a
+ref: DataTableExtDowle2021
+title: 'Data.Table: Extension of `data.Frame`'
+type: Manual
+year: '2021'

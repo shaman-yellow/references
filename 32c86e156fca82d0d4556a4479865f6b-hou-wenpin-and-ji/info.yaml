@@ -1,0 +1,18 @@
+author: Hou, Wenpin and Ji, Zhicheng
+author_list:
+- family: Hou
+  given: Wenpin
+- family: Ji
+  given: Zhicheng
+doi: 10.1038/s41592-024-02235-4
+files:
+- assessinggpt4houw2024-a.pdf
+journal: Nature Methods
+month: '3'
+papis_id: 022b76ac84a5ca896848b0c4447399c8
+publisher: Springer Science and Business Media LLC
+ref: AssessingGpt4HouW2024
+title: Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis
+type: article
+url: http://dx.doi.org/10.1038/s41592-024-02235-4
+year: '2024'

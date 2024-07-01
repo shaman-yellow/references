@@ -1,0 +1,31 @@
+author: Deng, Wankun and Wang, Yongbo and Ma, Lili and Zhang, Ying and Ullah, Shahid
+  and Xue, Yu
+author_list:
+- family: Deng
+  given: Wankun
+- family: Wang
+  given: Yongbo
+- family: Ma
+  given: Lili
+- family: Zhang
+  given: Ying
+- family: Ullah
+  given: Shahid
+- family: Xue
+  given: Yu
+doi: 10.1093/bib/bbw041
+files:
+- computationalpdeng2017-a.pdf
+issn: 1467-5463
+issue: '4'
+journal: Briefings in bioinformatics
+pages: 647--658
+papis_id: 6a3a254b84c18757eb665066e98ffd98
+pmid: '27241573'
+ref: ComputationalPDeng2017
+time-added: 2024-03-08-16:44:43
+title: Computational prediction of methylation types of covalently modified lysine
+  and arginine residues in proteins
+type: article
+volume: '18'
+year: 2017

@@ -1,0 +1,29 @@
+author: Leung, E. L. and Cao, Z.-W. and Jiang, Z.-H. and Zhou, H. and Liu, L.
+author_list:
+- family: Leung
+  given: E. L.
+- family: Cao
+  given: Z.-W.
+- family: Jiang
+  given: Z.-H.
+- family: Zhou
+  given: H.
+- family: Liu
+  given: L.
+doi: 10.1093/bib/bbs043
+files:
+- leung-e.-l.-and-cao-z.-w.-and-jiang-z.-h.-and-zhou-h.-and-liu-l.-a.pdf
+- leung-e.-l.-and-cao-z.-w.-and-jiang-z.-h.-and-zhou-h.-and-liu-l.-b.pdf
+issue: '4'
+journal: Briefings in Bioinformatics
+month: '8'
+page: 491-505
+papis_id: becce6e39bb219f680bbccabb6b24791
+publisher: Oxford University Press (OUP)
+ref: NetworkBasedDLeung2012
+title: Network-based drug discovery by integrating systems biology and computational
+  technologies
+type: article
+url: http://dx.doi.org/10.1093/bib/bbs043
+volume: '14'
+year: '2012'

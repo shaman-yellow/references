@@ -1,0 +1,33 @@
+author: Muyas, Francesc and Sauer, Carolin M. and Valle-Inclán, Jose Espejo and Li,
+  Ruoyan and Rahbari, Raheleh and Mitchell, Thomas J. and Hormoz, Sahand and Cortés-Ciriano,
+  Isidro
+author_list:
+- family: Muyas
+  given: Francesc
+- family: Sauer
+  given: Carolin M.
+- family: Valle-Inclán
+  given: Jose Espejo
+- family: Li
+  given: Ruoyan
+- family: Rahbari
+  given: Raheleh
+- family: Mitchell
+  given: Thomas J.
+- family: Hormoz
+  given: Sahand
+- family: Cortés-Ciriano
+  given: Isidro
+doi: 10.1038/s41587-023-01863-z
+files:
+- denovodetectimuyas2023-a.pdf
+journal: Nature Biotechnology
+month: '7'
+papis_id: 5758affe424bdae09388aa74bfc6e780
+publisher: Springer Science and Business Media LLC
+ref: DeNovoDetectiMuyas2023
+title: De novo detection of somatic mutations in high-throughput single-cell profiling
+  data sets
+type: article
+url: http://dx.doi.org/10.1038/s41587-023-01863-z
+year: '2023'

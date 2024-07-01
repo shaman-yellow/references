@@ -1,0 +1,45 @@
+author: Ludwig, Marcus and Nothias, Louis-Félix and Dührkop, Kai and Koester, Irina
+  and Fleischauer, Markus and Hoffmann, Martin A. and Petras, Daniel and Vargas, Fernando
+  and Morsy, Mustafa and Aluwihare, Lihini and Dorrestein, Pieter C. and Böcker, Sebastian
+author_list:
+- family: Ludwig
+  given: Marcus
+- family: Nothias
+  given: Louis-Félix
+- family: Dührkop
+  given: Kai
+- family: Koester
+  given: Irina
+- family: Fleischauer
+  given: Markus
+- family: Hoffmann
+  given: Martin A.
+- family: Petras
+  given: Daniel
+- family: Vargas
+  given: Fernando
+- family: Morsy
+  given: Mustafa
+- family: Aluwihare
+  given: Lihini
+- family: Dorrestein
+  given: Pieter C.
+- family: Böcker
+  given: Sebastian
+doi: 10.1038/s42256-020-00234-6
+file: /mnt/data/wizard/Documents/zodiac.pdf
+files: []
+issn: 2522-5839
+journal: Nature Machine Intelligence
+langid: english
+month: October
+number: '10'
+pages: 629--641
+papis_id: 236b2fcdd9ef9fb0fe0d6d14a18277e9
+ref: DatabaseIndepeLudwig2020
+title: Database-Independent Molecular Formula Annotation Using Gibbs Sampling through
+  ZODIAC
+type: article
+urldate: '2021-11-14'
+volume: '2'
+year: '2020'

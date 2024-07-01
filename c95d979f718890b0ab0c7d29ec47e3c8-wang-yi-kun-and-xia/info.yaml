@@ -1,0 +1,61 @@
+abstract: Medicinal plants are complex chemical systems containing thousands of secondary
+  metabolites. The rapid classification and characterization of the components in  medicinal
+  plants using mass spectrometry (MS) remains an immense challenge.  Herein, a novel
+  strategy is presented for MS through the combination of  solid-phase extraction
+  (SPE), multiple mass defect filtering (MMDF) and molecular  networking (MN). This
+  strategy enables efficient classification and annotation of  natural products. When
+  combined with SPE and MMDF, the improved analytical method  of MN can perform the
+  rapid annotation of diverse natural products in Citrus  aurantium according to the
+  tandem mass spectrometry (MS/MS) fragments. In MN,  MS2LDA can be initially applied
+  to recognize substructures of natural products,  according to the common fragmentation
+  patterns and neutral losses in multiple  MS/MS spectra. MolNetEnhancer was adopted
+  here to obtain chemical classifications  provided by ClassyFire. The results suggest
+  that the integrated SPE-MMDF-MN  method was capable of rapidly annotating a greater
+  number of natural products  from Citrus aurantium than the classical MN strategy
+  alone. Moreover, SPE and  MMDF enhanced the effectiveness of MN for annotating,
+  classifying and  distinguishing different types of natural products. Our workflow
+  provides the  foundation for the automated, high-throughput structural classification
+  and  annotation of secondary metabolites with various chemical structures. The  developed
+  approach can be widely applied in the analysis of constituents in  natural products.
+address: '{Germany}'
+author: Wang, Yi-Kun and Xiao, Xue-Rong and Zhou, Zi-Meng and Xiao, Yao and Zhu, Wei-Feng
+  and Liu, Hong-Ning and Li, Fei
+author_list:
+- family: Wang
+  given: Yi-Kun
+- family: Xiao
+  given: Xue-Rong
+- family: Zhou
+  given: Zi-Meng
+- family: Xiao
+  given: Yao
+- family: Zhu
+  given: Wei-Feng
+- family: Liu
+  given: Hong-Ning
+- family: Li
+  given: Fei
+doi: 10.1007/s00216-021-03201-1
+file: /mnt/data/wizard/Zotero/storage/B7DXKDBS/Wang et al. - 2021 - A strategy combining
+  solid-phase extraction, multi.pdf
+files: []
+issn: 1618-2650 1618-2642
+journal: Analytical and bioanalytical chemistry
+keywords: Biological Products/*chemistry,{Chromatography, High Pressure Liquid/methods},Citrus/*chemistry,Computational
+  Chemistry,Molecular networking,Multiple mass defect filtering,Natural products annotation,Solid
+  Phase Extraction/*methods,Solid-phase extraction,{Spectrometry, Mass, Electrospray
+  Ionization/*methods},Structure and substructure classifications,Tandem Mass Spectrometry/*methods
+langid: english
+month: May
+number: '11'
+pages: 2879--2891
+papis_id: 2df925af347676cfa7a69583232121f9
+pmid: '33822260'
+ref: AStrategyCombWang2021
+title: 'A Strategy Combining Solid-Phase Extraction, Multiple Mass Defect Filtering
+  and Molecular Networking for Rapid Structural Classification and Annotation of  Natural
+  Products: Characterization of Chemical Diversity in Citrus Aurantium as a  Case
+  Study.'
+type: article
+volume: '413'
+year: '2021'

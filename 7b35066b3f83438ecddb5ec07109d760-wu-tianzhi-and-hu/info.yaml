@@ -1,0 +1,47 @@
+author: Wu, Tianzhi and Hu, Erqiang and Xu, Shuangbin and Chen, Meijun and Guo, Pingfan
+  and Dai, Zehan and Feng, Tingze and Zhou, Lang and Tang, Wenli and Zhan, Li and
+  Fu, Xiaocong and Liu, Shanshan and Bo, Xiaochen and Yu, Guangchuang
+author_list:
+- family: Wu
+  given: Tianzhi
+- family: Hu
+  given: Erqiang
+- family: Xu
+  given: Shuangbin
+- family: Chen
+  given: Meijun
+- family: Guo
+  given: Pingfan
+- family: Dai
+  given: Zehan
+- family: Feng
+  given: Tingze
+- family: Zhou
+  given: Lang
+- family: Tang
+  given: Wenli
+- family: Zhan
+  given: Li
+- family: Fu
+  given: Xiaocong
+- family: Liu
+  given: Shanshan
+- family: Bo
+  given: Xiaochen
+- family: Yu
+  given: Guangchuang
+doi: 10.1016/j.xinn.2021.100141
+files:
+- clusterprofilerwuti2021-a.pdf
+issue: '3'
+journal: The Innovation
+month: '8'
+page: '100141'
+papis_id: ae96b62271194f8cf41d3e99f113530b
+publisher: Elsevier BV
+ref: ClusterprofilerWuTi2021
+title: 'clusterProfiler 4.0: A universal enrichment tool for interpreting omics data'
+type: article
+url: http://dx.doi.org/10.1016/j.xinn.2021.100141
+volume: '2'
+year: '2021'

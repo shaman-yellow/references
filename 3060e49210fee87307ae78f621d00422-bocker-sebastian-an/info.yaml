@@ -1,0 +1,31 @@
+address: '{Berlin, Heidelberg}'
+author: Böcker, Sebastian and Letzel, Matthias C. and Lipták, Zsuzsanna and Pervukhin,
+  Anton
+author_list:
+- family: Böcker
+  given: Sebastian
+- family: Letzel
+  given: Matthias C.
+- family: Lipták
+  given: Zsuzsanna
+- family: Pervukhin
+  given: Anton
+booktitle: Algorithms in {{Bioinformatics}}
+doi: 10.1007/11851561_2
+editor: Hutchison, David and Kanade, Takeo and Kittler, Josef and Kleinberg, Jon M.
+  and Mattern, Friedemann and Mitchell, John C. and Naor, Moni and Nierstrasz, Oscar
+  and Pandu Rangan, C. and Steffen, Bernhard and Sudan, Madhu and Terzopoulos, Demetri
+  and Tygar, Dough and Vardi, Moshe Y. and Weikum, Gerhard and B{\"u}cher, Philipp
+  and Moret, Bernard M. E.
+files: []
+isbn: 978-3-540-39583-6 978-3-540-39584-3
+langid: english
+pages: 12--23
+papis_id: e67928a4a3d21ca437c38e09ce6ec43c
+publisher: '{Springer Berlin Heidelberg}'
+ref: DecomposingMetBocker2006
+title: Decomposing Metabolomic Isotope Patterns
+type: incollection
+urldate: '2021-11-14'
+volume: '4175'
+year: '2006'

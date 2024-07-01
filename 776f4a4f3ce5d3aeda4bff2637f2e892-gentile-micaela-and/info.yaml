@@ -1,0 +1,995 @@
+abstract: "<jats:title>ABSTRACT</jats:title>\n               <jats:p>Immunoglobulin\
+  \ A (IgA) nephropathy (IgAN) is the most common primary glomerulonephritis worldwide\
+  \ and it is characterized by mesangial IgA deposition. Asymptomatic hematuria with\
+  \ various degrees of proteinuria is the most common clinical presentation and up\
+  \ to 20%–40% of patients develop end-stage kidney disease within 20 years after\
+  \ disease onset. The pathogenesis of IgAN involves four sequential processes known\
+  \ as the “four-hit hypothesis” which starts with the production of a galactose-deficient\
+  \ IgA1 (gd-IgA1), followed by the formation of anti-gd-IgA1 IgG or IgA1 autoantibodies\
+  \ and immune complexes that ultimately deposit in the glomerular mesangium, leading\
+  \ to inflammation and injury. Although several key questions about the production\
+  \ of gd-IgA1 and the formation of anti-gd-IgA1 antibodies remain unanswered, a growing\
+  \ body of evidence is shedding light on the innate and adaptive immune mechanisms\
+  \ involved in this complex pathogenic process. Herein, we will focus on these mechanisms\
+  \ that, along with genetic and environmental factors, are thought to play a key\
+  \ role in disease pathogenesis.</jats:p>"
+author: Gentile, Micaela and Sanchez-Russo, Luis and Riella, Leonardo V and Verlato,
+  Alberto and Manrique, Joaquin and Granata, Simona and Fiaccadori, Enrico and Pesce,
+  Francesco and Zaza, Gianluigi and Cravedi, Paolo
+author_list:
+- affiliation:
+  - name: Translational Transplant Research Center and Department of Medicine, Icahn
+      School of Medicine at Mount Sinai , NY , USA
+  - name: UO Nefrologia, Dipartimento di Medicina e Chirurgia, Università di Parma
+      , Parma , Italy
+  family: Gentile
+  given: Micaela
+- affiliation:
+  - name: Translational Transplant Research Center and Department of Medicine, Icahn
+      School of Medicine at Mount Sinai , NY , USA
+  family: Sanchez-Russo
+  given: Luis
+- affiliation:
+  - name: Division of Nephrology, Massachusetts General Hospital, Harvard Medical
+      School , Boston, MA , USA
+  family: Riella
+  given: Leonardo V
+- affiliation:
+  - name: Translational Transplant Research Center and Department of Medicine, Icahn
+      School of Medicine at Mount Sinai , NY , USA
+  family: Verlato
+  given: Alberto
+- affiliation:
+  - name: Nephrology Service, Complejo Hospitalario de Navarra , Pamplona , Spain
+  family: Manrique
+  given: Joaquin
+- affiliation:
+  - name: Nephrology, Dialysis and Transplantation Unit, University of Foggia , Foggia
+      , Italy
+  family: Granata
+  given: Simona
+- affiliation:
+  - name: UO Nefrologia, Dipartimento di Medicina e Chirurgia, Università di Parma
+      , Parma , Italy
+  family: Fiaccadori
+  given: Enrico
+- affiliation:
+  - name: Nephrology, Dialysis and Transplantation Unit, Department of Emergency and
+      Organ Transplantation, University of Bari “A. Moro” , Bari , Italy
+  family: Pesce
+  given: Francesco
+- affiliation:
+  - name: Nephrology, Dialysis and Transplantation Unit, University of Foggia , Foggia
+      , Italy
+  family: Zaza
+  given: Gianluigi
+- affiliation:
+  - name: Translational Transplant Research Center and Department of Medicine, Icahn
+      School of Medicine at Mount Sinai , NY , USA
+  family: Cravedi
+  given: Paolo
+citations:
+- article-title: 'IgA nephropathy: core curriculum 2021'
+  author: Pattrapornpisut
+  doi: 10.1053/j.ajkd.2021.01.024
+  first-page: '429'
+  journal-title: Am J Kidney Dis
+  volume: '78'
+  year: '2021'
+- article-title: IgA glomerular deposits in renal disease
+  author: Berger
+  first-page: '939'
+  journal-title: Transpl Proc
+  volume: '1'
+  year: '1969'
+- article-title: 'IgA nephropathy: an interesting autoimmune kidney disease: IgA nephropathy'
+  author: Rajasekaran
+  doi: 10.1016/j.amjms.2020.10.003
+  first-page: '176'
+  journal-title: Am J Med Sci
+  volume: '361'
+  year: '2021'
+- article-title: Global evolutionary trend of the prevalence of primary glomerulonephritis
+    over the past three decades
+  author: Woo
+  doi: 10.1159/000319594
+  first-page: c337
+  journal-title: Nephron Clin Pract
+  volume: '116'
+  year: '2010'
+- article-title: 'The incidence of primary glomerulonephritis worldwide: a systematic
+    review of the literature'
+  author: McGrogan
+  doi: 10.1093/ndt/gfq665
+  first-page: '414'
+  journal-title: Nephrol Dial Transplant
+  volume: '26'
+  year: '2011'
+- article-title: IgA nephropathy
+  author: Seikrit
+  doi: 10.1007/s11560-020-00452-4
+  first-page: '336'
+  journal-title: Der Nephrologe
+  volume: '15'
+  year: '2020'
+- article-title: 'IgA nephropathy: a brief review'
+  author: Hassler
+  doi: 10.1053/j.semdp.2020.03.001
+  first-page: '143'
+  journal-title: Semin Diagn Pathol
+  volume: '37'
+  year: '2020'
+- article-title: Proteinuria reduction as a surrogate end point in trials of IgA nephropathy
+  author: Thompson
+  doi: 10.2215/CJN.08600718
+  first-page: '469'
+  journal-title: Clin J Am Soc Nephrol
+  volume: '14'
+  year: '2019'
+- article-title: 'Oxford Classification of IgA nephropathy 2016: an update from the
+    IgA Nephropathy Classification Working Group'
+  author: Trimarchi
+  doi: 10.1016/j.kint.2017.02.003
+  first-page: '1014'
+  journal-title: Kidney Int
+  volume: '91'
+  year: '2017'
+- article-title: Bin S
+  author: Sanchez-Russo
+  doi: 10.34067/KID.0002382022
+  first-page: '1630'
+  journal-title: Kidney360
+  volume: '3'
+  year: '2022'
+- article-title: Naturally occurring structural isomers in serum IgA1 o-glycosylation
+  author: Takahashi
+  doi: 10.1021/pr200608q
+  first-page: '692'
+  journal-title: J Proteome Res
+  volume: '11'
+  year: '2012'
+- article-title: Glycosylation of IgA1 and pathogenesis of IgA nephropathy
+  author: Novak
+  doi: 10.1007/s00281-012-0306-z
+  first-page: '365'
+  journal-title: Semin Immunopathol
+  volume: '34'
+  year: '2012'
+- article-title: The function of immunoglobulin A in immunity
+  author: Woof
+  doi: 10.1002/path.1877
+  first-page: '270'
+  journal-title: J Pathol
+  volume: '208'
+  year: '2006'
+- article-title: Pathophysiology of IgA nephropathy
+  author: Al Hussain
+  doi: 10.1097/PAP.0000000000000134
+  first-page: '56'
+  journal-title: Adv Anat Pathol
+  volume: '24'
+  year: '2017'
+- article-title: 'Aberrantly glycosylated IgA1 in IgA nephropathy: what we know and
+    what we don''t know'
+  author: Ohyama
+  doi: 10.3390/jcm10163467
+  first-page: '3467'
+  journal-title: J Clin Med
+  volume: '10'
+  year: '2021'
+- article-title: Secretory IgA N- and O-glycans provide a link between the innate
+    and adaptive immune systems
+  author: Royle
+  doi: 10.1074/jbc.M301436200
+  first-page: '20140'
+  journal-title: J Biol Chem
+  volume: '278'
+  year: '2003'
+- article-title: Patients with IgA nephropathy have increased serum galactose-deficient
+    IgA1 levels
+  author: Moldoveanu
+  doi: 10.1038/sj.ki.5002185
+  first-page: '1148'
+  journal-title: Kidney Int
+  volume: '71'
+  year: '2007'
+- article-title: Autoantibodies targeting galactose-deficient IgA1 associate with
+    progression of IgA nephropathy
+  author: Berthoux
+  doi: 10.1681/ASN.2012010053
+  first-page: '1579'
+  journal-title: J Am Soc Nephrol
+  volume: '23'
+  year: '2012'
+- article-title: The level of galactose-deficient IgA1 in the sera of patients with
+    IgA nephropathy is associated with disease progression
+  author: Zhao
+  doi: 10.1038/ki.2012.197
+  first-page: '790'
+  journal-title: Kidney Int
+  volume: '82'
+  year: '2012'
+- article-title: Reactivities of N-acetylgalactosamine-specific lectins with human
+    IgA1 proteins
+  author: Moore
+  doi: 10.1016/j.molimm.2006.12.011
+  first-page: '2598'
+  journal-title: Mol Immunol
+  volume: '44'
+  year: '2007'
+- article-title: Novel lectin-independent approach to detect galactose-deficient IgA1
+    in IgA nephropathy
+  author: Yasutake
+  doi: 10.1093/ndt/gfv221
+  first-page: '1315'
+  journal-title: Nephrol Dial Transplant
+  volume: '30'
+  year: '2015'
+- article-title: Specificity of two monoclonal antibodies against a synthetic glycopeptide,
+    an analogue to the hypo-galactosylated IgA1 hinge region
+  author: Hiki
+  doi: 10.1007/s40620-014-0118-4
+  first-page: '181'
+  journal-title: J Nephrol
+  volume: '28'
+  year: '2015'
+- article-title: New insights into the pathogenesis of IgA nephropathy
+  author: Yeo
+  doi: 10.1007/s00467-017-3699-z
+  first-page: '763'
+  journal-title: Pediatr Nephrol
+  volume: '33'
+  year: '2018'
+- article-title: 'T cells in IgA nephropathy: role in pathogenesis, clinical significance
+    and potential therapeutic target'
+  author: Ruszkowski
+  doi: 10.1007/s10157-018-1665-0
+  first-page: '291'
+  journal-title: Clin Exp Nephrol
+  volume: '23'
+  year: '2019'
+- article-title: 'Terminology: nomenclature of mucosa-associated lymphoid tissue'
+  author: Brandtzaeg
+  doi: 10.1038/mi.2007.9
+  first-page: '31'
+  journal-title: Mucosal Immunol
+  volume: '1'
+  year: '2008'
+- article-title: Demonstration of secretory IgA in kidneys of patients with IgA nephropathy
+  author: Oortwijn
+  doi: 10.1093/ndt/gfm346
+  first-page: '3191'
+  journal-title: Nephrol Dial Transplant
+  volume: '22'
+  year: '2007'
+- article-title: Role of human mesangial-tubular crosstalk in secretory IgA-induced
+    IgA nephropathy
+  author: Zhang
+  doi: 10.1159/000514183
+  first-page: '286'
+  journal-title: Kidney Blood Press Res
+  volume: '46'
+  year: '2021'
+- article-title: The level of serum secretory IgA of patients with IgA nephropathy
+    is elevated and associated with pathological phenotypes
+  author: Zhang
+  doi: 10.1093/ndt/gfm492
+  first-page: '207'
+  journal-title: Nephrol Dial Transplant
+  volume: '23'
+  year: '2008'
+- article-title: O-glycosylation of serum IgA1 antibodies against mucosal and systemic
+    antigens in IgA nephropathy
+  author: Smith
+  doi: 10.1681/ASN.2006060658
+  first-page: '3520'
+  journal-title: J Am Soc Nephrol
+  volume: '17'
+  year: '2006'
+- article-title: Aberrantly glycosylated IgA1 in IgA nephropathy patients is recognized
+    by IgG antibodies with restricted heterogeneity
+  author: Suzuki
+  first-page: '1668'
+  journal-title: J Clin Invest
+  volume: '119'
+  year: '2009'
+- article-title: Aberrantly glycosylated IgA1 in IgA nephropathy patients is recognized
+    by IgG antibodies with restricted heterogeneity
+  author: Suzuki
+  first-page: '1668'
+  journal-title: J Clin Invest
+  volume: '119'
+  year: '2009'
+- article-title: Somatic mutations modulate autoantibodies against galactose-deficient
+    IgA1 in IgA nephropathy
+  author: Huang
+  doi: 10.1681/ASN.2014101044
+  first-page: '3278'
+  journal-title: J Am Soc Nephrol
+  volume: '27'
+  year: '2016'
+- article-title: Serum galactose-deficient-IgA1 and IgG autoantibodies correlate in
+    patients with IgA nephropathy
+  author: Placzek
+  doi: 10.1371/journal.pone.0190967
+  first-page: e0190967
+  journal-title: PLoS One
+  volume: '13'
+  year: '2018'
+- article-title: 'Correction: galactose-deficient IgA1 and the corresponding IgG autoantibodies
+    predict IgA nephropathy progression'
+  author: Maixnerova
+  doi: 10.1371/journal.pone.0219947
+  first-page: e0219947
+  journal-title: PLoS One
+  volume: '14'
+  year: '2019'
+- article-title: Autoantibodies targeting galactose-deficient IgA1 associate with
+    progression of IgA nephropathy
+  author: Berthoux
+  doi: 10.1681/ASN.2012010053
+  first-page: '1579'
+  journal-title: J Am Soc Nephrol
+  volume: '23'
+  year: '2012'
+- article-title: IgA glycosylation and IgA immune complexes in the pathogenesis of
+    IgA nephropathy
+  author: Novak
+  doi: 10.1016/j.semnephrol.2007.10.009
+  first-page: '78'
+  journal-title: Semin Nephrol
+  volume: '28'
+  year: '2008'
+- article-title: 'Pathogenesis of IgA nephropathy: current understanding and implications
+    for development of disease-specific treatment'
+  author: Knoppova
+  doi: 10.3390/jcm10194501
+  first-page: '4501'
+  journal-title: J Clin Med
+  volume: '10'
+  year: '2021'
+- article-title: Poly-IgA complexes and disease severity in IgA nephropathy
+  author: Zhang
+  doi: 10.2215/CJN.01300121
+  first-page: '1652'
+  journal-title: Clin J Am Soc Nephrol
+  volume: '16'
+  year: '2021'
+- article-title: Circulating and mesangial secretory component-binding IgA-1 in primary
+    IgA nephropathy
+  author: Valentijn
+  doi: 10.1038/ki.1984.213
+  first-page: '760'
+  journal-title: Kidney Int
+  volume: '26'
+  year: '1984'
+- article-title: Glomerular immunodeposits of patients with IgA nephropathy are enriched
+    for IgG autoantibodies specific for galactose-deficient IgA1
+  author: Rizk
+  doi: 10.1681/ASN.2018111156
+  first-page: '2017'
+  journal-title: J Am Soc Nephrol
+  volume: '30'
+  year: '2019'
+- article-title: IgA glycosylation and immune complex formation in IgAN
+  author: Suzuki
+  doi: 10.1007/s00281-021-00883-8
+  first-page: '669'
+  journal-title: Semin Immunopathol
+  volume: '43'
+  year: '2021'
+- article-title: IgA nephropathy
+  author: Lai
+  doi: 10.1038/nrdp.2016.1
+  first-page: '16001'
+  journal-title: Nat Rev Dis Prim
+  volume: '2'
+  year: '2016'
+- article-title: Aberrantly glycosylated IgA molecules downregulate the synthesis
+    and secretion of vascular endothelial growth factor in human mesangial cells
+  author: Amore
+  doi: 10.1053/ajkd.2000.19840
+  first-page: '1242'
+  journal-title: Am J Kidney Dis
+  volume: '36'
+  year: '2000'
+- article-title: IgA nephropathy
+  author: Wyatt
+  doi: 10.1056/NEJMra1206793
+  first-page: '2402'
+  journal-title: N Engl J Med
+  volume: '368'
+  year: '2013'
+- article-title: The microbiome and IgA nephropathy
+  author: Haniuda
+  doi: 10.1007/s00281-021-00893-6
+  first-page: '649'
+  journal-title: Semin Immunopathol
+  volume: '43'
+  year: '2021'
+- article-title: Targeting BAFF and APRIL in systemic lupus erythematosus and other
+    antibody-associated diseases
+  author: Samy
+  doi: 10.1080/08830185.2016.1276903
+  first-page: '3'
+  journal-title: Int Rev Immunol
+  volume: '36'
+  year: '2017'
+- article-title: Mice overexpressing BAFF develop a commensal flora-dependent, IgA-associated
+    nephropathy
+  author: McCarthy
+  doi: 10.1172/JCI45563
+  first-page: '3991'
+  journal-title: J Clin Invest
+  volume: '121'
+  year: '2011'
+- article-title: Serum BAFF is elevated in patients with IgA nephropathy and associated
+    with clinical and histopathological features
+  author: Xin
+  doi: 10.5301/jn.5000218
+  first-page: '683'
+  journal-title: J Nephrol
+  volume: '26'
+  year: '2013'
+- article-title: 'TLR9 and BAFF: their expression in patients with IgA nephropathy'
+  author: Li
+  doi: 10.3892/mmr.2014.2359
+  first-page: '1469'
+  journal-title: Mol Med Rep
+  volume: '10'
+  year: '2014'
+- article-title: Increased APRIL expression induces IgA1 aberrant glycosylation in
+    IgA nephropathy
+  author: Zhai
+  doi: 10.1097/MD.0000000000003099
+  first-page: e3099
+  journal-title: Medicine (Baltimore)
+  volume: '95'
+  year: '2016'
+- article-title: High levels of gut-homing immunoglobulin A+ B lymphocytes support
+    the pathogenic role of intestinal mucosal hyperresponsiveness in immunoglobulin
+    A nephropathy patients
+  author: Sallustio
+  doi: 10.1093/ndt/gfaa344
+  first-page: '1765'
+  journal-title: Nephrol Dial Transplant
+  volume: '36'
+  year: '2021'
+- article-title: Galactose-deficient IgA1 B cells in the circulation of IgA nephropathy
+    patients carry preferentially lambda light chains and mucosal homing receptors
+  author: Zachova
+  doi: 10.1681/ASN.2021081086
+  first-page: '908'
+  journal-title: J Am Soc Nephrol
+  volume: '33'
+  year: '2022'
+- article-title: Systematic review of safety and efficacy of atacicept in treating
+    immune-mediated disorders
+  author: Kaegi
+  doi: 10.3389/fimmu.2020.00433
+  first-page: '433'
+  journal-title: Front Immunol
+  volume: '11'
+  year: '2020'
+- article-title: 'Phase III trial results with blisibimod, a selective inhibitor of
+    B-cell activating factor, in subjects with systemic lupus erythematosus (SLE):
+    results from a randomised, double-blind, placebo-controlled trial'
+  author: Merrill
+  doi: 10.1136/annrheumdis-2018-213032
+  first-page: '883'
+  journal-title: Ann Rheum Dis
+  volume: '77'
+  year: '2018'
+- article-title: B cell-depleting therapy with rituximab or ofatumumab in immunoglobulin
+    A nephropathy or vasculitis with nephritis
+  author: Lundberg
+  first-page: '20'
+  journal-title: Clin Kidney J
+  volume: '10'
+  year: '2017'
+- article-title: Successful use of rituximab, an anti-CD20 monoclonal antibody, to
+    treat IgA nephropathy in a patient with recessive dystrophic epidermolysis bullosa
+  author: Hunjan
+  doi: 10.1111/ced.15228
+  first-page: '1588'
+  journal-title: Clin Exp Dermatol
+  volume: '47'
+  year: '2022'
+- article-title: The successful use of rituximab in crescentic IgA nephropathy with
+    concurrent ANCA positivity
+  author: Tan
+  doi: 10.1111/nep.13950
+  first-page: '216'
+  journal-title: Nephrology
+  volume: '27'
+  year: '2022'
+- article-title: 'Brief report: rituximab for the treatment of adult-onset IgA vasculitis
+    (Henoch-Schönlein)'
+  author: Maritati
+  doi: 10.1002/art.40339
+  first-page: '109'
+  journal-title: Arthritis Rheumatol
+  volume: '70'
+  year: '2018'
+- article-title: 'Rituximab therapy for IgA-vasculitis with nephritis: a case series
+    and review of the literature'
+  author: Fenoglio
+  doi: 10.1007/s12026-016-8827-5
+  first-page: '186'
+  journal-title: Immunol Res
+  volume: '65'
+  year: '2017'
+- article-title: A randomized, controlled trial of rituximab in IgA nephropathy with
+    proteinuria and renal dysfunction
+  author: Lafayette
+  doi: 10.1681/ASN.2016060640
+  first-page: '1306'
+  journal-title: J Am Soc Nephrol
+  volume: '28'
+  year: '2017'
+- article-title: Insights into the role of mucosal immunity in IgA nephropathy
+  author: Zhang
+  doi: 10.2215/CJN.04370418
+  first-page: '1584'
+  journal-title: Clin J Am Soc Nephrol
+  volume: '13'
+  year: '2018'
+- article-title: Steady-state generation of mucosal IgA+ plasmablasts is not abrogated
+    by B-cell depletion therapy with rituximab
+  author: Mei
+  doi: 10.1182/blood-2010-01-266536
+  first-page: '5181'
+  journal-title: Blood
+  volume: '116'
+  year: '2010'
+- article-title: Results from part A of the multi-center, double-blind, randomized,
+    placebo-controlled NefIgArd trial, which evaluated targeted-release formulation
+    of budesonide for the treatment of primary immunoglobulin A nephropathy
+  author: Barratt
+  doi: 10.1016/j.kint.2022.09.017
+  first-page: '391'
+  journal-title: Kidney Int
+  volume: '103'
+  year: '2023'
+- article-title: 'Targeted-release budesonide versus placebo in patients with IgA
+    nephropathy (NEFIGAN): a double-blind, randomised, placebo-controlled phase 2b
+    trial'
+  author: Fellström
+  doi: 10.1016/S0140-6736(17)30550-0
+  first-page: '2117'
+  journal-title: Lancet North Am Ed
+  volume: '389'
+  year: '2017'
+- article-title: 'POS-830 Nefecon for the treatment of IgA nephropathy in patients
+    at risk of progressing to end-stage renal disease: the NefIgArd phase 3 trial
+    results'
+  author: Barratt
+  doi: 10.1016/j.ekir.2021.03.868
+  first-page: S361
+  journal-title: Kidney Int Rep
+  volume: '6'
+  year: '2021'
+- article-title: Bortezomib for reduction of proteinuria in IgA nephropathy
+  author: Hartono
+  doi: 10.1016/j.ekir.2018.03.001
+  first-page: '861'
+  journal-title: Kidney Int Rep
+  volume: '3'
+  year: '2018'
+- article-title: Murine models of human IgA nephropathy
+  author: Suzuki
+  doi: 10.1016/j.semnephrol.2018.05.021
+  first-page: '513'
+  journal-title: Semin Nephrol
+  volume: '38'
+  year: '2018'
+- article-title: Aberrantly methylated DNA regions lead to low activation of CD4+
+    T-cells in IgA nephropathy
+  author: Sallustio
+  doi: 10.1042/CS20150711
+  first-page: '733'
+  journal-title: Clin Sci (Colch)
+  volume: '130'
+  year: '2016'
+- article-title: MicroRNA-155-induced T lymphocyte subgroup drifting in IgA nephropathy
+  author: Yang
+  doi: 10.1007/s11255-016-1444-3
+  first-page: '353'
+  journal-title: Int Urol Nephrol
+  volume: '49'
+  year: '2017'
+- article-title: A higher frequency of CD4+CXCR5+ T follicular helper cells in patients
+    with newly diagnosed IgA nephropathy
+  author: Zhang
+  doi: 10.1016/j.imlet.2013.12.004
+  first-page: '101'
+  journal-title: Immunol Lett
+  volume: '158'
+  year: '2014'
+- article-title: T cell cytokine polarity as a determinant of immunoglobulin A (IgA)
+    glycosylation and the severity of experimental IgA nephropathy
+  author: Chintalacharuvu
+  doi: 10.1111/j.1365-2249.2008.03703.x
+  first-page: '456'
+  journal-title: Clin Exp Immunol
+  volume: '153'
+  year: '2008'
+- article-title: DNA methylation in Cosmc promoter region and aberrantly glycosylated
+    IgA1 associated with pediatric IgA nephropathy
+  author: Sun
+  doi: 10.1371/journal.pone.0112305
+  first-page: e0112305
+  journal-title: PLoS One
+  volume: '10'
+  year: '2015'
+- article-title: T lymphocytes in IgA nephropathy
+  author: Tang
+  first-page: '186'
+  journal-title: Exp Ther Med
+  volume: '20'
+  year: '2020'
+- article-title: Increased number of Th22 cells and correlation with Th17 cells in
+    peripheral blood of patients with IgA nephropathy
+  author: Peng
+  doi: 10.1016/j.humimm.2013.08.001
+  first-page: '1586'
+  journal-title: Hum Immunol
+  volume: '74'
+  year: '2013'
+- article-title: Imbalance of regulatory T cells to Th17 cells in IgA nephropathy
+  author: Lin
+  doi: 10.3109/00365513.2011.652158
+  first-page: '221'
+  journal-title: Scand J Clin Lab Invest
+  volume: '72'
+  year: '2012'
+- article-title: Tonsillitis exacerbates renal injury in IgA nephropathy through promoting
+    Th22 cells chemotaxis
+  author: Gan
+  doi: 10.1007/s11255-018-1792-2
+  first-page: '1285'
+  journal-title: Int Urol Nephrol
+  volume: '50'
+  year: '2018'
+- article-title: Analysis of regulatory T cell subsets in the peripheral blood of
+    immunoglobulin A nephropathy (IgAN) patients
+  author: Yang
+  doi: 10.4238/2015.October.29.28
+  first-page: '14088'
+  journal-title: Genet Mol Res
+  volume: '14'
+  year: '2015'
+- article-title: Toll-like receptors, immunoproteasome and regulatory T cells in children
+    with Henoch-Schönlein purpura and primary IgA nephropathy
+  author: Donadio
+  doi: 10.1007/s00467-014-2807-6
+  first-page: '1545'
+  journal-title: Pediatr Nephrol
+  volume: '29'
+  year: '2014'
+- article-title: 'CD4 (+)CD 25 (+)Treg cells and IgA nephropathy patients with tonsillectomy:
+    a clinical and pathological study'
+  author: Huang
+  doi: 10.1007/s11255-014-0851-6
+  first-page: '2361'
+  journal-title: Int Urol Nephrol
+  volume: '46'
+  year: '2014'
+- article-title: The role of immune modulation in pathogenesis of IgA nephropathy
+  author: Chang
+  doi: 10.3389/fmed.2020.00092
+  first-page: '92'
+  journal-title: Front Med
+  volume: '7'
+  year: '2020'
+- article-title: 'Toll-like receptors in immunity and inflammatory diseases: past,
+    present, and future'
+  author: Vijay
+  doi: 10.1016/j.intimp.2018.03.002
+  first-page: '391'
+  journal-title: Int Immunopharmacol
+  volume: '59'
+  year: '2018'
+- article-title: Toll-like receptor 4 expression is increased in circulating mononuclear
+    cells of patients with immunoglobulin A nephropathy
+  author: Coppo
+  doi: 10.1111/j.1365-2249.2009.04045.x
+  first-page: '73'
+  journal-title: Clin Exp Immunol
+  volume: '159'
+  year: '2010'
+- article-title: Does the renal expression of Toll-like receptors play a role in patients
+    with IgA nephropathy?
+  author: Ciferska
+  doi: 10.1007/s40620-019-00640-z
+  first-page: '307'
+  journal-title: J Nephrol
+  volume: '33'
+  year: '2020'
+- article-title: Different expression patterns of Toll-like receptor mRNAs in blood
+    mononuclear cells of IgA nephropathy and IgA vasculitis with nephritis
+  author: Saito
+  doi: 10.1620/tjem.240.199
+  first-page: '199'
+  journal-title: Tohoku J Exp Med
+  volume: '240'
+  year: '2016'
+- article-title: TLR9 activation induces aberrant IgA glycosylation via APRIL- and
+    IL-6-mediated pathways in IgA nephropathy
+  author: Makita
+  doi: 10.1016/j.kint.2019.08.022
+  first-page: '340'
+  journal-title: Kidney Int
+  volume: '97'
+  year: '2020'
+- article-title: Toll-like receptor 4 is involved in a protective effect of rhein
+    on immunoglobulin A nephropathy
+  author: Chen
+  doi: 10.4103/0253-7613.150319
+  first-page: '27'
+  journal-title: Indian J Pharmacol
+  volume: '47'
+  year: '2015'
+- article-title: BAFF induces a hyper-IgA syndrome in the intestinal lamina propria
+    concomitant with IgA deposition in the kidney independent of LIGHT
+  author: McCarthy
+  doi: 10.1016/j.cellimm.2006.08.002
+  first-page: '85'
+  journal-title: Cell Immunol
+  volume: '241'
+  year: '2006'
+- article-title: TLR4 links podocytes with the innate immune system to mediate glomerular
+    injury
+  author: Banas
+  doi: 10.1681/ASN.2007040395
+  first-page: '704'
+  journal-title: J Am Soc Nephrol
+  volume: '19'
+  year: '2008'
+- article-title: Toll-like receptor 4 signaling is involved in IgA-stimulated mesangial
+    cell activation
+  author: Lim
+  doi: 10.3349/ymj.2011.52.4.610
+  first-page: '610'
+  journal-title: Yonsei Med J
+  volume: '52'
+  year: '2011'
+- article-title: Increased Tim-3+ monocytes/macrophages are associated with disease
+    severity in patients with IgA nephropathy
+  author: Hou
+  doi: 10.1016/j.intimp.2021.107666
+  first-page: '107666'
+  journal-title: Int Immunopharmacol
+  volume: '97'
+  year: '2021'
+- article-title: Immunological pattern in IgA nephropathy
+  author: Esteve Cols
+  doi: 10.3390/ijms21041389
+  first-page: '1389'
+  journal-title: Int J Mol Sci
+  volume: '21'
+  year: '2020'
+- article-title: 'B cell and monocyte phenotyping: a quick asset to investigate the
+    immune status in patients with IgA nephropathy'
+  author: Sendic
+  doi: 10.1371/journal.pone.0248056
+  first-page: e0248056
+  journal-title: PLoS One
+  volume: '16'
+  year: '2021'
+- article-title: Renal macrophage infiltration is associated with a poor outcome in
+    IgA nephropathy
+  author: Silva
+  doi: 10.6061/clinics/2012(07)01
+  first-page: '697'
+  journal-title: Clinics
+  volume: '67'
+  year: '2012'
+- article-title: Complement as a multifaceted modulator of kidney transplant injury
+  author: Cravedi
+  doi: 10.1172/JCI72273
+  first-page: '2348'
+  journal-title: J Clin Invest
+  volume: '124'
+  year: '2014'
+- article-title: Complement. First of two parts
+  author: Walport
+  doi: 10.1056/NEJM200104053441406
+  first-page: '1058'
+  journal-title: N Engl J Med
+  volume: '344'
+  year: '2001'
+- article-title: Complement. Second of two parts
+  author: Walport
+  doi: 10.1056/NEJM200104123441506
+  first-page: '1140'
+  journal-title: N Engl J Med
+  volume: '344'
+  year: '2001'
+- article-title: The role of complement in IgA nephropathy
+  author: Tortajada
+  doi: 10.1016/j.molimm.2019.07.017
+  first-page: '123'
+  journal-title: Mol Immunol
+  volume: '114'
+  year: '2019'
+- article-title: Incidence of latent mesangial IgA deposition in renal allograft donors
+    in Japan
+  author: Suzuki
+  doi: 10.1046/j.1523-1755.63.6s.2.x
+  first-page: '2286'
+  journal-title: Kidney Int
+  volume: '63'
+  year: '2003'
+- article-title: 'genetic determinants of IgA nephropathy: Eastern perspective'
+  author: Li
+  doi: 10.1016/j.semnephrol.2018.05.015
+  first-page: '455'
+  journal-title: Semin Nephrol
+  volume: '38'
+  year: '2018'
+- article-title: How I treat IgA nephropathy
+  author: Reich
+  doi: 10.2215/CJN.02710322
+  first-page: '1243'
+  journal-title: Clin J Am Soc Nephrol
+  volume: '17'
+  year: '2022'
+- article-title: Genome-wide association study identifies susceptibility loci for
+    IgA nephropathy
+  author: Gharavi
+  doi: 10.1038/ng.787
+  first-page: '321'
+  journal-title: Nat Genet
+  volume: '43'
+  year: '2011'
+- article-title: Variants in complement factor H and complement factor H-related protein
+    genes, CFHR3 and CFHR1, affect complement activation in IgA nephropathy
+  author: Zhu
+  doi: 10.1681/ASN.2014010096
+  first-page: '1195'
+  journal-title: J Am Soc Nephrol
+  volume: '26'
+  year: '2015'
+- article-title: Progressive IgA nephropathy is associated with low circulating mannan-binding
+    lectin-associated serine protease-3 (MASP-3) and increased glomerular factor H-related
+    protein-5 (FHR5) deposition
+  author: Medjeral-Thomas
+  doi: 10.1016/j.ekir.2017.11.015
+  first-page: '426'
+  journal-title: Kidney Int Rep
+  volume: '3'
+  year: '2018'
+- article-title: Safety, tolerability and efficacy of narsoplimab, a novel MASP-2
+    inhibitor for the treatment of IgA nephropathy
+  author: Lafayette
+  doi: 10.1016/j.ekir.2020.08.003
+  first-page: '2032'
+  journal-title: Kidney Int Rep
+  volume: '5'
+  year: '2020'
+- article-title: Targeting C3a/C5a receptors inhibits human mesangial cell proliferation
+    and alleviates immunoglobulin A nephropathy in mice
+  author: Zhang
+  doi: 10.1111/cei.12961
+  first-page: '60'
+  journal-title: Clin Exp Immunol
+  volume: '189'
+  year: '2017'
+- article-title: C5b-9 glomerular deposition and tubular alpha3beta1-integrin expression
+    are implicated in the development of chronic lesions and predict renal function
+    outcome in immunoglobulin A nephropathy
+  author: Stangou
+  doi: 10.1080/00365590801943241
+  first-page: '373'
+  journal-title: Scand J Urol Nephrol
+  volume: '42'
+  year: '2008'
+- article-title: 'Use of eculizumab in crescentic IgA nephropathy: proof of principle
+    and conundrum?'
+  author: Ring
+  doi: 10.1093/ckj/sfv076
+  first-page: '489'
+  journal-title: Clin Kidney J
+  volume: '8'
+  year: '2015'
+- article-title: Eculizumab treatment for rescue of renal function in IgA nephropathy
+  author: Rosenblad
+  doi: 10.1007/s00467-014-2863-y
+  first-page: '2225'
+  journal-title: Pediatr Nephrol
+  volume: '29'
+  year: '2014'
+- article-title: 'First treatment of relapsing rapidly progressive IgA nephropathy
+    with eculizumab after living kidney donation: a case report'
+  author: Herzog
+  doi: 10.1016/j.transproceed.2017.02.044
+  first-page: '1574'
+  journal-title: Transplant Proc
+  volume: '49'
+  year: '2017'
+- article-title: A proliferation-inducing ligand increase precedes IgA nephropathy
+    recurrence in kidney transplant recipients
+  author: Martín-Penagos
+  doi: 10.1111/ctr.13502
+  first-page: e13502
+  journal-title: Clin Transplant
+  volume: '33'
+  year: '2019'
+- article-title: Recurrent IgA nephropathy after kidney transplantation
+  author: Wyld
+  doi: 10.1097/TP.0000000000001093
+  first-page: '1827'
+  journal-title: Transplantation
+  volume: '100'
+  year: '2016'
+- article-title: Recurrence of IgA nephropathy after kidney transplantation in adults
+  author: Uffing
+  doi: 10.2215/CJN.00910121
+  first-page: '1247'
+  journal-title: Clin J Am Soc Nephrol
+  volume: '16'
+  year: '2021'
+- article-title: Prognostic value of serum biomarkers of autoimmunity for recurrence
+    of IgA nephropathy after kidney transplantation
+  author: Berthoux
+  doi: 10.1681/ASN.2016060670
+  first-page: '1943'
+  journal-title: J Am Soc Nephrol
+  volume: '28'
+  year: '2017'
+- article-title: Serological and genetic factors in early recurrence of IgA nephropathy
+    after renal transplantation
+  author: Coppo
+  first-page: '728'
+  journal-title: Clin Transplant
+  volume: '21'
+  year: '2007'
+- article-title: Successful treatment of a patient with posttransplant IgA nephropathy
+    with targeted release formulation of budesonide
+  author: Lingaraj
+  doi: 10.4103/1319-2442.284029
+  first-page: '521'
+  journal-title: Saudi J Kidney Dis Transplant
+  volume: '31'
+  year: '2020'
+- article-title: 'Enteric budesonide in transplant and native IgA nephropathy: real-world
+    clinical practice'
+  author: Lopez-Martinez
+  doi: 10.3389/ti.2022.10693
+  first-page: '10693'
+  journal-title: Transpl Int
+  volume: '35'
+  year: '2022'
+- article-title: Disappearance of glomerular mesangial IgA deposits after renal allograft
+    transplantation
+  author: Silva
+  first-page: '241'
+  journal-title: Transplantation
+  volume: '33'
+  year: '1982'
+- article-title: Molecular basis of common variable immunodeficiency
+  author: Castigli
+  doi: 10.1016/j.jaci.2006.01.038
+  first-page: '740'
+  journal-title: J Allergy Clin Immunol
+  volume: '117'
+  year: '2006'
+doc_url: https://academic.oup.com/ckj/article-pdf/16/7/1059/50703970/sfad025.pdf
+doi: 10.1093/ckj/sfad025
+files:
+- immuneabnormalgentil2023.pdf
+issue: '7'
+journal: Clinical Kidney Journal
+language: en
+month: 6
+pages: 1059--1070
+papis_id: 419da03b154d1070347676be86e9f9cf
+publisher: Oxford University Press (OUP)
+ref: ImmuneAbnormalGentil2023
+time-added: 2023-11-07-11:16:57
+title: Immune abnormalities in IgA nephropathy
+type: article
+url: http://dx.doi.org/10.1093/ckj/sfad025
+volume: '16'
+year: 2023

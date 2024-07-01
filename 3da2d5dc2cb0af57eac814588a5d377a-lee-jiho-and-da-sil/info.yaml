@@ -1,0 +1,49 @@
+abstract: In liquid chromatography-mass spectrometry (LC-MS) metabolomics, data matrices
+  with up to thousands of variables for each ion peak are subjected to multivariate  analysis
+  (MVA) to assess the homogeneity between samples. The large dimensions of  LC/MS
+  datasets hinder the identification of the discriminant or the metabolic  markers.
+  In the present study, the molecular network (MN) approach and two in  silico annotation
+  tools, network annotation propagation (NAP) and the  hierarchical chemical classification
+  method, ClassyFire, were used to annotate  the metabolites of three Zanthoxylum
+  species, Z. bungeanum, Z. schinifolium and  Z. piperitum. The in silico annotation
+  results of the MN nodes and the MVA  variables were combined and visualized in loading
+  plots. This approach helped  intuitive detection of the variables that greatly contributed
+  to the separation  of the samples in the score plot as discriminant or metabolic
+  markers, thereby  allowing rapid annotation of two flavanone derivatives.
+address: '{England}'
+author: Lee, Jiho and da Silva, Ricardo R. and Jang, Hyeon Seok and Kim, Hyun Woo
+  and Kwon, Yong Soo and Kim, Jung-Hwan and Yang, Heejung
+author_list:
+- family: Lee
+  given: Jiho
+- family: da Silva
+  given: Ricardo R.
+- family: Jang
+  given: Hyeon Seok
+- family: Kim
+  given: Hyun Woo
+- family: Kwon
+  given: Yong Soo
+- family: Kim
+  given: Jung-Hwan
+- family: Yang
+  given: Heejung
+copyright: Copyright \textcopyright{} 2019 Elsevier Ltd. All rights reserved.
+doi: 10.1016/j.foodchem.2019.05.099
+files: []
+issn: 1873-7072 0308-8146
+journal: Food chemistry
+keywords: Biomarkers/*analysis/metabolism,{Chromatography, Liquid},Computer Simulation,LC/MS,Mass
+  Spectrometry/*methods,Metabolomics/*methods,Molecular network,Multivariate analysis,Software,Zanthoxylum
+  species,Zanthoxylum/*chemistry/*metabolism
+langid: english
+month: October
+pages: 368--376
+papis_id: 43ca86be1a5baf76966c813559186ff2
+pmid: '31174771'
+ref: InSilicoAnnotLeeJ2019
+title: In Silico Annotation of Discriminative Markers of Three Zanthoxylum Species
+  Using Molecular Network Derived Annotation Propagation.
+type: article
+volume: '295'
+year: '2019'

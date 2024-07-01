@@ -1,0 +1,68 @@
+author: Liu, Xiaomin and Tong, Xin and Zou, Yuanqiang and Lin, Xiaoqian and Zhao,
+  Hui and Tian, Liu and Jie, Zhuye and Wang, Qi and Zhang, Zhe and Lu, Haorong and
+  Xiao, Liang and Qiu, Xuemei and Zi, Jin and Wang, Rong and Xu, Xun and Yang, Huanming
+  and Wang, Jian and Zong, Yang and Liu, Weibin and Hou, Yong and Zhu, Shida and Jia,
+  Huijue and Zhang, Tao
+author_list:
+- family: Liu
+  given: Xiaomin
+- family: Tong
+  given: Xin
+- family: Zou
+  given: Yuanqiang
+- family: Lin
+  given: Xiaoqian
+- family: Zhao
+  given: Hui
+- family: Tian
+  given: Liu
+- family: Jie
+  given: Zhuye
+- family: Wang
+  given: Qi
+- family: Zhang
+  given: Zhe
+- family: Lu
+  given: Haorong
+- family: Xiao
+  given: Liang
+- family: Qiu
+  given: Xuemei
+- family: Zi
+  given: Jin
+- family: Wang
+  given: Rong
+- family: Xu
+  given: Xun
+- family: Yang
+  given: Huanming
+- family: Wang
+  given: Jian
+- family: Zong
+  given: Yang
+- family: Liu
+  given: Weibin
+- family: Hou
+  given: Yong
+- family: Zhu
+  given: Shida
+- family: Jia
+  given: Huijue
+- family: Zhang
+  given: Tao
+doi: 10.1038/s41588-021-00968-y
+files:
+- mendelianrandoliux2022-a.pdf
+issue: '1'
+journal: Nature Genetics
+month: '1'
+page: 52-61
+papis_id: b434dff59b60ed5cf25bb5c2fb497a21
+publisher: Springer Science and Business Media LLC
+ref: MendelianRandoLiuX2022
+title: Mendelian randomization analyses support causal relationships between blood
+  metabolites and the gut microbiome
+type: article
+url: http://dx.doi.org/10.1038/s41588-021-00968-y
+volume: '54'
+year: '2022'

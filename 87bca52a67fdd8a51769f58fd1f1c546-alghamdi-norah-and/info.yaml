@@ -1,0 +1,45 @@
+author: Alghamdi, Norah and Chang, Wennan and Dang, Pengtao and Lu, Xiaoyu and Wan,
+  Changlin and Gampala, Silpa and Huang, Zhi and Wang, Jiashi and Ma, Qin and Zang,
+  Yong and Fishel, Melissa and Cao, Sha and Zhang, Chi
+author_list:
+- family: Alghamdi
+  given: Norah
+- family: Chang
+  given: Wennan
+- family: Dang
+  given: Pengtao
+- family: Lu
+  given: Xiaoyu
+- family: Wan
+  given: Changlin
+- family: Gampala
+  given: Silpa
+- family: Huang
+  given: Zhi
+- family: Wang
+  given: Jiashi
+- family: Ma
+  given: Qin
+- family: Zang
+  given: Yong
+- family: Fishel
+  given: Melissa
+- family: Cao
+  given: Sha
+- family: Zhang
+  given: Chi
+doi: 10.1101/gr.271205.120
+files: []
+issn: 1088-9051
+issue: '10'
+journal: Genome research
+pages: 1867--1884
+papis_id: 7384a6b67f0617a82632c4e6658352c1
+pmid: '34301623'
+ref: AGraphNeuralAlgham2021
+time-added: 2024-05-13-14:30:21
+title: A graph neural network model to estimate cell-wise metabolic flux using single-cell
+  RNA-seq data
+type: article
+volume: '31'
+year: 2021

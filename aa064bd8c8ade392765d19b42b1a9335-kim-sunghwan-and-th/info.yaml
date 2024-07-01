@@ -1,0 +1,28 @@
+author: Kim, Sunghwan and Thiessen, Paul A and Cheng, Tiejun and Yu, Bo and Bolton,
+  Evan E
+author_list:
+- family: Kim
+  given: Sunghwan
+- family: Thiessen
+  given: Paul A
+- family: Cheng
+  given: Tiejun
+- family: Yu
+  given: Bo
+- family: Bolton
+  given: Evan E
+doi: 10.1093/nar/gky294
+files:
+- anupdateonpukims2018-a.pdf
+issue: W1
+journal: Nucleic Acids Research
+month: '4'
+page: W563-W570
+papis_id: ba9469860445c7f172bb45ec5520b050
+publisher: Oxford University Press (OUP)
+ref: AnUpdateOnPuKimS2018
+title: 'An update on PUG-REST: RESTful interface for programmatic access to PubChem'
+type: article
+url: http://dx.doi.org/10.1093/nar/gky294
+volume: '46'
+year: '2018'

@@ -1,0 +1,23 @@
+author: Pliner, Hannah A. and Shendure, Jay and Trapnell, Cole
+author_list:
+- family: Pliner
+  given: Hannah A.
+- family: Shendure
+  given: Jay
+- family: Trapnell
+  given: Cole
+doi: 10.1038/s41592-019-0535-3
+files:
+- supervisedclaspliner2019-a.pdf
+issue: '10'
+journal: Nature Methods
+month: '9'
+page: 983-986
+papis_id: 36a15d0ec2fc3a109274d2e4e95e0dfd
+publisher: Springer Science and Business Media LLC
+ref: SupervisedClasPliner2019
+title: Supervised classification enables rapid annotation of cell atlases
+type: article
+url: http://dx.doi.org/10.1038/s41592-019-0535-3
+volume: '16'
+year: '2019'

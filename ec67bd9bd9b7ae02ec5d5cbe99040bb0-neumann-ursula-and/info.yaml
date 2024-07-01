@@ -1,0 +1,27 @@
+author: Neumann, Ursula and Genze, Nikita and Heider, Dominik
+author_list:
+- family: Neumann
+  given: Ursula
+- family: Genze
+  given: Nikita
+- family: Heider
+  given: Dominik
+doi: 10.1186/s13040-017-0142-8
+file: /mnt/data/wizard/Zotero/storage/WQWJWDW8/Neumann et al. - 2017 - EFS an ensemble
+  feature selection tool implemente.pdf
+files:
+- efsanensemblneuman2017-a.pdf
+issn: 1756-0381
+journal: BioData Mining
+langid: english
+month: December
+number: '1'
+pages: '21'
+papis_id: 84b975be900a794ce7cbb6a9d5f01996
+ref: EfsAnEnsemblNeuman2017
+shorttitle: '{{EFS}}'
+title: 'EFS: An Ensemble Feature Selection Tool Implemented as R-package and Web-Application'
+type: article
+urldate: '2022-04-18'
+volume: '10'
+year: '2017'

@@ -1,0 +1,43 @@
+abstract: Metabolomics, the comprehensive study of the metabolome, and lipidomics\textemdash
+  the large-scale study of pathways and networks of cellular lipids\textemdash are
+  major driving forces in enabling personalized medicine. Complicated and error-prone
+  data analysis still remains a bottleneck, however, especially for identifying novel
+  metabolites. Comparing experimental mass spectra to curated databases containing
+  reference spectra has been the gold standard for identification of compounds, but
+  constructing such databases is a costly and time-demanding task. Many software applications
+  try to circumvent this process by utilizing cutting-edge advances in computational
+  methods\textemdash including quantum chemistry and machine learning\textemdash and
+  simulate mass spectra by performing theoretical, so called in silico fragmentations
+  of compounds. Other solutions concentrate directly on experimental spectra and try
+  to identify structural properties by investigating reoccurring patterns and the
+  relationships between them. The considerable progress made in the field allows recent
+  approaches to provide valuable clues to expedite annotation of experimental mass
+  spectra. This review sheds light on individual strengths and weaknesses of these
+  tools, and attempts to evaluate them\textemdash especially in view of lipidomics,
+  when considering complex mixtures found in biological samples as well as mass spectrometer
+  inter-instrument variability.
+author: Krettler, Christoph A and Thallinger, Gerhard G
+author_list:
+- family: Krettler
+  given: Christoph A
+- family: Thallinger
+  given: Gerhard G
+doi: 10.1093/bib/bbab073
+file: /mnt/data/wizard/Zotero/storage/4IX6AR2U/Krettler and Thallinger - 2021 - A
+  map of mass spectrometry-based in silico .pdf
+files:
+- amapofmassskrettl2021-a.pdf
+issn: 1467-5463, 1477-4054
+journal: Briefings in Bioinformatics
+langid: english
+month: November
+number: '6'
+pages: bbab073
+papis_id: cd251b8c39337b567e8e90f77180ce22
+ref: AMapOfMassSKrettl2021
+title: A Map of Mass Spectrometry-Based \emphin Silico Fragmentation Prediction and
+  Compound Identification in Metabolomics
+type: article
+urldate: '2023-04-18'
+volume: '22'
+year: '2021'

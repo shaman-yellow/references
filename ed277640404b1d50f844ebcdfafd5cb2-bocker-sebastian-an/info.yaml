@@ -1,0 +1,29 @@
+author: Böcker, Sebastian and Letzel, Matthias C. and Lipták, Zsuzsanna and Pervukhin,
+  Anton
+author_list:
+- family: Böcker
+  given: Sebastian
+- family: Letzel
+  given: Matthias C.
+- family: Lipták
+  given: Zsuzsanna
+- family: Pervukhin
+  given: Anton
+doi: 10.1093/bioinformatics/btn603
+file: /mnt/data/wizard/Zotero/storage/A4VN9BNZ/Böcker et al. - 2009 - SIRIUS decomposing
+  isotope patterns for metabolit.pdf
+files: []
+issn: 1460-2059, 1367-4803
+journal: Bioinformatics
+langid: english
+month: January
+number: '2'
+pages: 218--224
+papis_id: 1816a8e9dbda8a15ca46603c774980c9
+ref: SiriusDecompoBocker2009
+shorttitle: '{{SIRIUS}}'
+title: 'SIRIUS: Decomposing Isotope Patterns for Metabolite Identification†'
+type: article
+urldate: '2021-11-14'
+volume: '25'
+year: '2009'

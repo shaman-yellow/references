@@ -1,0 +1,24 @@
+author: LeCun, Yann and Bengio, Yoshua and Hinton, Geoffrey
+author_list:
+- family: LeCun
+  given: Yann
+- family: Bengio
+  given: Yoshua
+- family: Hinton
+  given: Geoffrey
+doi: 10/bmqp
+file: /home/wizard/Documents/deeplearning.pdf
+files: []
+issn: 0028-0836, 1476-4687
+journal: Nature
+langid: english
+month: May
+number: '7553'
+pages: 436--444
+papis_id: 1e9cb55dc1bcc44c3f967a2031886053
+ref: DeepLearningLecun2015
+title: Deep Learning
+type: article
+urldate: '2022-01-15'
+volume: '521'
+year: '2015'

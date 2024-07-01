@@ -1,0 +1,27 @@
+author: Wu, Hao and Caffo, Brian and Jaffee, Harris A and Irizarry, Rafael A and Feinberg,
+  Andrew P
+author_list:
+- family: Wu
+  given: Hao
+- family: Caffo
+  given: Brian
+- family: Jaffee
+  given: Harris A
+- family: Irizarry
+  given: Rafael A
+- family: Feinberg
+  given: Andrew P
+doi: 10.1093/biostatistics/kxq005
+files: []
+issn: 1465-4644
+issue: '3'
+journal: Biostatistics (Oxford, England)
+pages: 499--514
+papis_id: a01629be747de6791bde5328b589b6e5
+pmid: '20212320'
+ref: RedefiningCpgWuHa2010
+time-added: 2024-05-24-14:52:52
+title: Redefining CpG islands using hidden Markov models
+type: article
+volume: '11'
+year: 2010

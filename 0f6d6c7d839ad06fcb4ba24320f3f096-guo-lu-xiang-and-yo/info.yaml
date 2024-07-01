@@ -1,0 +1,32 @@
+author: Guo, Lu-Xiang and You, Zhu-Hong and Wang, Lei and Yu, Chang-Qing and Zhao,
+  Bo-Wei and Ren, Zhong-Hao and Pan, Jie
+author_list:
+- family: Guo
+  given: Lu-Xiang
+- family: You
+  given: Zhu-Hong
+- family: Wang
+  given: Lei
+- family: Yu
+  given: Chang-Qing
+- family: Zhao
+  given: Bo-Wei
+- family: Ren
+  given: Zhong-Hao
+- family: Pan
+  given: Jie
+doi: 10.1093/bib/bbac391
+files:
+- anovelcircrnaguol2022-a.pdf
+issue: '5'
+journal: Briefings in Bioinformatics
+month: '9'
+papis_id: 759ae7df36685b2f2de075be17f62260
+publisher: Oxford University Press (OUP)
+ref: ANovelCircrnaGuoL2022
+title: A novel circRNA-miRNA association prediction model based on structural deep
+  neural network embedding
+type: article
+url: http://dx.doi.org/10.1093/bib/bbac391
+volume: '23'
+year: '2022'

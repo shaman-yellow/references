@@ -1,0 +1,57 @@
+abstract: Abstract             Polysaccharides are the most abundant biomolecules
+  in nature, but are the least understood in terms of their chemical structures and
+  biological functions. Polysaccharides cannot be simply sequenced because they are
+  often highly branched and lack a uniform structure. Furthermore, large polymeric
+  structures cannot be directly analyzed by mass spectrometry techniques, a problem
+  that has been solved for polynucleotides and proteins. While restriction enzymes
+  have advanced genomic analysis, and trypsin has advanced proteomic analysis, there
+  has been no equivalent enzyme for universal polysaccharide digestion. We describe
+  the development and application of a chemical method for producing oligosaccharides
+  from polysaccharides. The released oligosaccharides are characterized by advanced
+  liquid chromatography\textendash mass spectrometry (LC\textendash MS) methods with
+  high sensitivity, accuracy and throughput. The technique is first used to identify
+  polysaccharides by oligosaccharide fingerprinting. Next, the polysaccharide compositions
+  of food and feces are determined, further illustrating the utility of technique
+  in food and clinical studies.
+author: Amicucci, Matthew J. and Nandita, Eshani and Galermo, Ace G. and Castillo,
+  Juan Jose and Chen, Siyu and Park, Dayoung and Smilowitz, Jennifer T. and German,
+  J. Bruce and Mills, David A. and Lebrilla, Carlito B.
+author_list:
+- family: Amicucci
+  given: Matthew J.
+- family: Nandita
+  given: Eshani
+- family: Galermo
+  given: Ace G.
+- family: Castillo
+  given: Juan Jose
+- family: Chen
+  given: Siyu
+- family: Park
+  given: Dayoung
+- family: Smilowitz
+  given: Jennifer T.
+- family: German
+  given: J. Bruce
+- family: Mills
+  given: David A.
+- family: Lebrilla
+  given: Carlito B.
+doi: 10.1038/s41467-020-17778-1
+file: /mnt/data/wizard/Zotero/storage/DR7RQS6K/Amicucci et al. - 2020 - A nonenzymatic
+  method for cleaving polysaccharides.pdf
+files: []
+issn: 2041-1723
+journal: Nature Communications
+langid: english
+month: December
+number: '1'
+pages: '3963'
+papis_id: 6552e33cfce6fcdb93f93546cd73c3fd
+ref: ANonenzymaticAmicuc2020
+title: A Nonenzymatic Method for Cleaving Polysaccharides to Yield Oligosaccharides
+  for Structural Analysis
+type: article
+urldate: '2022-07-18'
+volume: '11'
+year: '2020'

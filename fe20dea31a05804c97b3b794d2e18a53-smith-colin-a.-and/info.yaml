@@ -1,0 +1,30 @@
+author: Smith, Colin A. and Want, Elizabeth J. and O'Maille, Grace and Abagyan, Ruben
+  and Siuzdak, Gary
+author_list:
+- family: Smith
+  given: Colin A.
+- family: Want
+  given: Elizabeth J.
+- family: O'Maille
+  given: Grace
+- family: Abagyan
+  given: Ruben
+- family: Siuzdak
+  given: Gary
+doi: 10/b58xrd
+files: []
+issn: 0003-2700, 1520-6882
+journal: Analytical Chemistry
+langid: english
+month: February
+number: '3'
+pages: 779--787
+papis_id: 816be124ca6060830040b39d89ba91a9
+ref: XcmsProcessinSmith2006
+shorttitle: '{{XCMS}}'
+title: 'XCMS: Processing Mass Spectrometry Data for Metabolite Profiling Using Nonlinear
+  Peak Alignment, Matching, and Identification'
+type: article
+urldate: '2021-12-21'
+volume: '78'
+year: '2006'

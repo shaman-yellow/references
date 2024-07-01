@@ -1,0 +1,51 @@
+abstract: Liquid chromatography-Mass Spectrometry (LC-MS) has been widely used in
+  natural product analysis. Global detection and identification of nontargeted components
+  are desirable in natural product research, for example, in quality control of Chinese
+  herbal medicine. Nontargeted components analysis continues to expand to exciting
+  life science application domains such as metabonomics. With this background, the
+  present review summarizes recent developments in the analysis of minor unknown natural
+  products using LC-MS and mainly focuses on the determination of the molecular formulae,
+  selection of precursor ions, and characteristic fragmentation patterns of the known
+  compounds. This review consists of three parts. Firstly, the methods used to determine
+  unique molecular formula of unknown compounds such as accurate mass measurements,
+  MSn spectra, or relative isotopic abundance information, are introduced. Secondly,
+  the methods improving signal-to-noise ratio of MS/MS spectra by manual-MS/MS or
+  workflow targeting-only signals were elucidated; pure precursor ions can be selected
+  by changing the precursor ion isolated window. Lastly, characteristic fragmentation
+  patterns such as Retro-Diels-Alder (RDA), McLafferty rearrangements, "internal residue
+  loss," and so on, occurring in the molecular ions of natural products are summarized.
+  Classical application of characteristic fragmentation patterns in identifying unknown
+  compounds in extracts and relevant fragmentation mechanisms are presented (RDA reactions
+  occurring readily in the molecular ions of flavanones or isoflavanones, McLafferty-type
+  fragmentation reactions of some natural products such as epipolythiodioxopiperazines;
+  fragmentation by "internal residue loss" possibly involving ion-neutral complex
+  intermediates). \textcopyright{} 2016 Wiley Periodicals, Inc. Mass Spec Rev 37:202-216,
+  2018.
+author: Cai, Tian and Guo, Ze-Qin and Xu, Xiao-Ying and Wu, Zhi-Jun
+author_list:
+- family: Cai
+  given: Tian
+- family: Guo
+  given: Ze-Qin
+- family: Xu
+  given: Xiao-Ying
+- family: Wu
+  given: Zhi-Jun
+doi: 10.1002/mas.21514
+files: []
+issn: 1098-2787
+journal: Mass Spectrometry Reviews
+keywords: determination of molecular formula,internal residue loss,ion-neutral complex,LC-MS,McLafferty
+  rearrangements,natural products,RDA
+langid: english
+month: March
+number: '2'
+pages: 202--216
+papis_id: 93a578de95d4e4d49a55fbfbb3236223
+pmid: '27341181'
+ref: Recent200020CaiT2018
+title: Recent (2000-2015) Developments in the Analysis of Minor Unknown Natural Products
+  Based on Characteristic Fragment Information Using LC-MS
+type: article
+volume: '37'
+year: '2018'

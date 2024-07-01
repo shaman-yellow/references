@@ -1,0 +1,49 @@
+abstract: Momordica plant species (Cucurbitaceae), have been used for centuries in
+  traditional medicine and for nutritional purposes. Plants from this family are  thus
+  claimed to be phytochemically rich, representing an inexhaustible source of  natural
+  products. However, the chemical space of these Momordica species has not  yet been
+  fully decoded, and due to the inherent complexity of plant metabolomes,  the characterization
+  of the Momordica phytochemistry remains challenging. Thus,  in this study we propose
+  the use of molecular networking to unravel the molecular  families within the metabolomes
+  of four Momordica species (M. cardiospermoides,  M. balsamina, M. charantia and
+  M. foetida) and highlight the relevance of  molecular networking in exploring the
+  chemotaxonomy of these plants. In silico  annotation tools (Network Annotation Propagation
+  and DEREPLICATOR) and an  unsupervised substructure identification tool (MS2LDA)
+  were also explored to  complement the classical molecular networking output and
+  integration using  MolNetEnhancer within GNPS. This allowed for the visualisation
+  of chemical  classes and the variety of substructures within the molecular families.
+  The use  of computational tools in this study highlighted various classes of metabolites,  such
+  as a wide range of flavonoids, terpenoids and lipids. Herein, these species  are
+  revealed to be phytochemically rich plants consisting of many biologically  active
+  metabolites differentially distributed within the different species, with  the metabolome
+  of M. cardiospermoides dereplicated in this paper for the first  time.
+author: Ramabulana, Anza-Tshilidzi and Petras, Daniel and Madala, Ntakadzeni E. and
+  Tugizimana, Fidele
+author_list:
+- family: Ramabulana
+  given: Anza-Tshilidzi
+- family: Petras
+  given: Daniel
+- family: Madala
+  given: Ntakadzeni E.
+- family: Tugizimana
+  given: Fidele
+doi: 10.3390/metabo11110763
+file: /mnt/data/wizard/Zotero/storage/EDXIJNKH/Ramabulana et al. - 2021 - Metabolomics
+  and Molecular Networking to Character.pdf
+files: []
+issn: 2218-1989
+journal: Metabolites
+keywords: GNPS,LC-MS,metabolomics,molecular networking,Momordica,natural products
+langid: english
+month: November
+number: '11'
+papis_id: 0070444cc1713b97d816c675cf874c3e
+pmcid: PMC8619687
+pmid: '34822421'
+ref: MetabolomicsAnRamabu2021
+title: Metabolomics and Molecular Networking to Characterize the Chemical Space of
+  Four Momordica Plant Species.
+type: article
+volume: '11'
+year: '2021'

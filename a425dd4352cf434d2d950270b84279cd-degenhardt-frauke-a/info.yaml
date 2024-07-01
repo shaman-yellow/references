@@ -1,0 +1,51 @@
+abstract: Machine learning methods and in particular random forests are promising
+  approaches for prediction based on high dimensional omics data sets. They provide
+  variable importance measures to rank predictors according to their predictive power.
+  If building a prediction model is the main goal of a study, often a minimal set
+  of variables with good prediction performance is selected. However, if the objective
+  is the identification of involved variables to find active networks and pathways,
+  approaches that aim to select all relevant variables should be preferred. We evaluated
+  several variable selection procedures based on simulated data as well as publicly
+  available experimental methylation and gene expression data. Our comparison included
+  the Boruta algorithm, the Vita method, recurrent relative variable importance, a
+  permutation approach and its parametric variant (Altmann) as well as recursive feature
+  elimination (RFE). {$\quad$}In our simulation studies, Boruta was the most powerful
+  approach, followed closely by the Vita method. Both approaches demonstrated similar
+  stability in variable selection, while Vita was the most robust approach under a
+  pure null model without any predictor variables related to the outcome. In the analysis
+  of the different experimental data sets, Vita demonstrated slightly better stability
+  in variable selection and was less computationally intensive than Boruta. In conclusion,
+  we recommend the Boruta and Vita approaches for the analysis of high-dimensional
+  data sets. Vita is considerably faster than Boruta and thus more suitable for large
+  data sets, but only Boruta can also be applied in low-dimensional settings.
+author: Degenhardt, Frauke and Seifert, Stephan and Szymczak, Silke
+author_list:
+- family: Degenhardt
+  given: Frauke
+- family: Seifert
+  given: Stephan
+- family: Szymczak
+  given: Silke
+doi: 10.1093/bib/bbx124
+file: /mnt/data/wizard/Zotero/storage/AWR4LXAZ/Degenhardt et al. - 2019 - Evaluation
+  of variable selection methods for rando.pdf
+files: []
+issn: 1477-4054
+journal: Briefings in Bioinformatics
+keywords: Algorithms,{Biomarkers, Tumor},Breast Neoplasms,Computational Biology,Computer
+  Simulation,DNA Methylation,feature selection,Female,Gene Expression Profiling,high
+  dimensional data,Humans,machine learning,Machine Learning,random forest,relevant
+  variables
+langid: english
+month: March
+number: '2'
+pages: 492--503
+papis_id: ffe0af0d95ec4e4adbc15b96c8fb4299
+pmcid: PMC6433899
+pmid: '29045534'
+ref: EvaluationOfVDegenh2019
+title: Evaluation of Variable Selection Methods for Random Forests and Omics Data
+  Sets
+type: article
+volume: '20'
+year: '2019'

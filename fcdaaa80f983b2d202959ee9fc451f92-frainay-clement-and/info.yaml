@@ -1,0 +1,67 @@
+abstract: 'Motivation: Metabolomics has shown great potential to improve the understanding
+  of complex diseases, potentially leading to therapeutic target identification. However,
+  no single analytical method allows monitoring all metabolites in a sample, resulting
+  in incomplete metabolic fingerprints. This incompleteness constitutes a stumbling
+  block to interpretation, raising the need for methods that can enrich those fingerprints.
+  We propose MetaboRank, a new solution inspired by social network recommendation
+  systems for the identification of metabolites potentially related to a metabolic
+  fingerprint. Results: MetaboRank method had been used to enrich metabolomics data
+  obtained on cerebrospinal fluid samples from patients suffering from hepatic encephalopathy
+  (HE). MetaboRank successfully recommended metabolites not present in the original
+  fingerprint. The quality of recommendations was evaluated by using literature automatic
+  search, in order to check that recommended metabolites could be related to the disease.
+  Complementary mass spectrometry experiments and raw data analysis were performed
+  to confirm these suggestions. In particular, MetaboRank recommended the overlooked
+  {$\alpha$}-ketoglutaramate as a metabolite which should be added to the metabolic
+  fingerprint of HE, thus suggesting that metabolic fingerprints enhancement can provide
+  new insight on complex diseases. Availability and implementation: Method is implemented
+  in the MetExplore server and is available at www.metexplore.fr. A tutorial is available
+  at https://metexplore.toulouse.inra.fr/com/tutorials/MetaboRank/2017-MetaboRank.pdf.
+  Supplementary information: Supplementary data are available at Bioinformatics online.'
+author: Frainay, Clément and Aros, Sandrine and Chazalviel, Maxime and Garcia, Thomas
+  and Vinson, Florence and Weiss, Nicolas and Colsch, Benoit and Sedel, Frédéric and
+  Thabut, Dominique and Junot, Christophe and Jourdan, Fabien
+author_list:
+- family: Frainay
+  given: Clément
+- family: Aros
+  given: Sandrine
+- family: Chazalviel
+  given: Maxime
+- family: Garcia
+  given: Thomas
+- family: Vinson
+  given: Florence
+- family: Weiss
+  given: Nicolas
+- family: Colsch
+  given: Benoit
+- family: Sedel
+  given: Frédéric
+- family: Thabut
+  given: Dominique
+- family: Junot
+  given: Christophe
+- family: Jourdan
+  given: Fabien
+doi: 10.1093/bioinformatics/bty577
+file: /mnt/data/wizard/Zotero/storage/J7LUKSP9/Frainay et al. - 2019 - MetaboRank
+  network-based recommendation system to.pdf
+files: []
+issn: 1367-4811
+journal: Bioinformatics (Oxford, England)
+keywords: Computational Biology,Humans,Mass Spectrometry,Metabolomics,Software
+langid: english
+month: January
+number: '2'
+pages: 274--283
+papis_id: 1b51cd319ae4c33ddfa3ca44b4f84b07
+pmcid: PMC6330003
+pmid: '29982278'
+ref: MetaborankNetFraina2019
+shorttitle: '{{MetaboRank}}'
+title: 'MetaboRank: Network-Based Recommendation System to Interpret and Enrich Metabolomics
+  Results'
+type: article
+volume: '35'
+year: '2019'

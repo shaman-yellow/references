@@ -1,0 +1,27 @@
+author: Efremova, Mirjana and Vento-Tormo, Miquel and Teichmann, Sarah A. and Vento-Tormo,
+  Roser
+author_list:
+- family: Efremova
+  given: Mirjana
+- family: Vento-Tormo
+  given: Miquel
+- family: Teichmann
+  given: Sarah A.
+- family: Vento-Tormo
+  given: Roser
+doi: 10.1038/s41596-020-0292-x
+files:
+- cellphonedbinefremo2020-a.pdf
+issue: '4'
+journal: Nature Protocols
+month: '2'
+page: 1484-1506
+papis_id: 69a4eea54fbf7fa929afdb099eb79173
+publisher: Springer Science and Business Media LLC
+ref: CellphonedbInEfremo2020
+title: 'CellPhoneDB: inferring cell–cell communication from combined expression of
+  multi-subunit ligand–receptor complexes'
+type: article
+url: http://dx.doi.org/10.1038/s41596-020-0292-x
+volume: '15'
+year: '2020'

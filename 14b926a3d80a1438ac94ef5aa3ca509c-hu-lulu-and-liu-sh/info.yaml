@@ -1,0 +1,658 @@
+author: Hu, Lulu and Liu, Shun and Peng, Yong and Ge, Ruiqi and Su, Rui and Senevirathne,
+  Chamara and Harada, Bryan T. and Dai, Qing and Wei, Jiangbo and Zhang, Lisheng and
+  Hao, Ziyang and Luo, Liangzhi and Wang, Huanyu and Wang, Yuru and Luo, Minkui and
+  Chen, Mengjie and Chen, Jianjun and He, Chuan
+author_list:
+- affiliation: []
+  family: Hu
+  given: Lulu
+- affiliation: []
+  family: Liu
+  given: Shun
+- affiliation: []
+  family: Peng
+  given: Yong
+- affiliation: []
+  family: Ge
+  given: Ruiqi
+- affiliation: []
+  family: Su
+  given: Rui
+- affiliation: []
+  family: Senevirathne
+  given: Chamara
+- affiliation: []
+  family: Harada
+  given: Bryan T.
+- affiliation: []
+  family: Dai
+  given: Qing
+- affiliation: []
+  family: Wei
+  given: Jiangbo
+- affiliation: []
+  family: Zhang
+  given: Lisheng
+- affiliation: []
+  family: Hao
+  given: Ziyang
+- affiliation: []
+  family: Luo
+  given: Liangzhi
+- affiliation: []
+  family: Wang
+  given: Huanyu
+- affiliation: []
+  family: Wang
+  given: Yuru
+- affiliation: []
+  family: Luo
+  given: Minkui
+- affiliation: []
+  family: Chen
+  given: Mengjie
+- affiliation: []
+  family: Chen
+  given: Jianjun
+- affiliation: []
+  family: He
+  given: Chuan
+citations:
+- author: M Frye
+  doi: 10.1126/science.aau1646
+  first-page: '1346'
+  journal-title: Science
+  unstructured: Frye, M., Harada, B. T., Behm, M. & He, C. RNA modifications modulate
+    gene expression during development. Science 361, 1346–1349 (2018).
+  volume: '361'
+  year: '2018'
+- author: IA Roundtree
+  doi: 10.1016/j.cell.2017.05.045
+  first-page: '1187'
+  journal-title: Cell
+  unstructured: Roundtree, I. A., Evans, M. E., Pan, T. & He, C. Dynamic RNA modifications
+    in gene expression regulation. Cell 169, 1187–1200 (2017).
+  volume: '169'
+  year: '2017'
+- author: D Dominissini
+  doi: 10.1038/nature11112
+  first-page: '201'
+  journal-title: Nature
+  unstructured: Dominissini, D. et al. Topology of the human and mouse m6A RNA methylomes
+    revealed by m6A-seq. Nature 485, 201–206 (2012).
+  volume: '485'
+  year: '2012'
+- author: KD Meyer
+  doi: 10.1016/j.cell.2012.05.003
+  first-page: '1635'
+  journal-title: Cell
+  unstructured: Meyer, K. D. et al. Comprehensive analysis of mRNA methylation reveals
+    enrichment in 3′ UTRs and near stop codons. Cell 149, 1635–1646 (2012).
+  volume: '149'
+  year: '2012'
+- author: K Chen
+  doi: 10.1002/anie.201410647
+  first-page: '1587'
+  journal-title: Angew. Chem. Int. Ed. Engl.
+  unstructured: Chen, K. et al. High-resolution N6-methyladenosine (m6A) map using
+    photo-crosslinking-assisted m6A sequencing. Angew. Chem. Int. Ed. Engl. 54, 1587–1590
+    (2015).
+  volume: '54'
+  year: '2015'
+- author: B Linder
+  doi: 10.1038/nmeth.3453
+  first-page: '767'
+  journal-title: Nat. Methods
+  unstructured: Linder, B. et al. Single-nucleotide-resolution mapping of m6A and
+    m6Am throughout the transcriptome. Nat. Methods 12, 767–772 (2015).
+  volume: '12'
+  year: '2015'
+- author: B Molinie
+  doi: 10.1038/nmeth.3898
+  first-page: '692'
+  journal-title: Nat. Methods
+  unstructured: Molinie, B. et al. m6A-LAIC-seq reveals the census and complexity
+    of the m6A epitranscriptome. Nat. Methods 13, 692–698 (2016).
+  volume: '13'
+  year: '2016'
+- author: ABR McIntyre
+  doi: 10.1038/s41598-020-63355-3
+  journal-title: Sci. Rep.
+  unstructured: McIntyre, A. B. R. et al. Limits in the detection of m6A changes using
+    MeRIP/m6A-seq. Sci. Rep. 10, 6590 (2020).
+  volume: '10'
+  year: '2020'
+- author: KD Meyer
+  doi: 10.1038/s41592-019-0570-0
+  first-page: '1275'
+  journal-title: Nat. Methods
+  unstructured: 'Meyer, K. D. DART-seq: an antibody-free method for global m6A detection.
+    Nat. Methods 16, 1275–1280 (2019).'
+  volume: '16'
+  year: '2019'
+- author: MA Garcia-Campos
+  doi: 10.1016/j.cell.2019.06.013
+  first-page: '731'
+  journal-title: Cell
+  unstructured: Garcia-Campos, M. A. et al. Deciphering the “m6A Code” via antibody-independent
+    quantitative profiling. Cell 178, 731–747 (2019).
+  volume: '178'
+  year: '2019'
+- author: Z Zhang
+  doi: 10.1126/sciadv.aax0250
+  first-page: eaax0250
+  journal-title: Sci. Adv.
+  unstructured: Zhang, Z. et al. Single-base mapping of m6A by an antibody-independent
+    method. Sci. Adv. 5, eaax0250 (2019).
+  volume: '5'
+  year: '2019'
+- author: Y Zhang
+  doi: 10.1016/S1097-2765(03)00402-7
+  first-page: '913'
+  journal-title: Mol. Cell
+  unstructured: Zhang, Y. et al. MazF cleaves cellular mRNAs specifically at ACA to
+    block protein synthesis in Escherichia coli. Mol. Cell 12, 913–923 (2003).
+  volume: '12'
+  year: '2003'
+- author: Y Wang
+  doi: 10.1038/s41589-020-0525-x
+  first-page: '896'
+  journal-title: Nat. Chem. Biol.
+  unstructured: Wang, Y., Xiao, Y., Dong, S., Yu, Q. & Jia, G. Antibody-free enzyme-assisted
+    chemical approach for detection of N6-methyladenosine. Nat. Chem. Biol. 16, 896–903
+    (2020).
+  volume: '16'
+  year: '2020'
+- author: X Shu
+  doi: 10.1038/s41589-020-0526-9
+  first-page: '887'
+  journal-title: Nat. Chem. Biol.
+  unstructured: Shu, X. et al. A metabolic labeling method detects m6A transcriptome-wide
+    at single base resolution. Nat. Chem. Biol. 16, 887–895 (2020).
+  volume: '16'
+  year: '2020'
+- author: N Liu
+  doi: 10.1261/rna.041178.113
+  first-page: '1848'
+  journal-title: RNA
+  unstructured: Liu, N. et al. Probing N6-methyladenosine RNA modification status
+    at single nucleotide resolution in mRNA and long noncoding RNA. RNA 19, 1848–1856
+    (2013).
+  volume: '19'
+  year: '2013'
+- author: J Aschenbrenner
+  doi: 10.1002/anie.201710209
+  first-page: '417'
+  journal-title: Angew. Chem. Int. Ed. Engl.
+  unstructured: Aschenbrenner, J. et al. Engineering of a DNA polymerase for direct
+    m6A sequencing. Angew. Chem. Int. Ed. Engl. 57, 417–421 (2018).
+  volume: '57'
+  year: '2018'
+- author: T Hong
+  doi: 10.1021/jacs.7b13633
+  first-page: '5886'
+  journal-title: J. Am. Chem. Soc.
+  unstructured: Hong, T. et al. Precise antibody-independent m6A identification via
+    4SedTTP-involved and FTO-assisted strategy at single-nucleotide resolution. J.
+    Am. Chem. Soc. 140, 5886–5889 (2018).
+  volume: '140'
+  year: '2018'
+- author: W Liu
+  doi: 10.1039/C7SC05233B
+  first-page: '3354'
+  journal-title: Chem. Sci.
+  unstructured: Liu, W. et al. Identification of a selective DNA ligase for accurate
+    recognition and ultrasensitive quantification of N6-methyladenosine in RNA at
+    one-nucleotide resolution. Chem. Sci. 9, 3354–3359 (2018).
+  volume: '9'
+  year: '2018'
+- author: Y Xiao
+  doi: 10.1002/anie.201807942
+  first-page: '15995'
+  journal-title: Angew. Chem. Int. Ed. Engl.
+  unstructured: Xiao, Y. et al. An elongation- and ligation-based qPCR amplification
+    method for the radiolabeling-free detection of locus-specific N6-methyladenosine
+    modification. Angew. Chem. Int. Ed. Engl. 57, 15995–16000 (2018).
+  volume: '57'
+  year: '2018'
+- author: HC O’Farrell
+  doi: 10.1021/bi901875x
+  first-page: '2697'
+  journal-title: Biochemistry
+  unstructured: 'O’Farrell, H. C., Musayev, F. N., Scarsdale, J. N. & Rife, J. P.
+    Binding of adenosine-based ligands to the MjDim1 rRNA methyltransferase: implications
+    for reaction mechanism and drug design. Biochemistry 49, 2697–2704 (2010).'
+  volume: '49'
+  year: '2010'
+- author: HC O’Farrell
+  doi: 10.1261/rna.2310406
+  first-page: '725'
+  journal-title: RNA
+  unstructured: O’Farrell, H. C., Pulicherla, N., Desai, P. M. & Rife, J. P. Recognition
+    of a complex substrate by the KsgA/Dim1 family of enzymes has been conserved throughout
+    evolution. RNA 12, 725–733 (2006).
+  volume: '12'
+  year: '2006'
+- author: X Shu
+  doi: 10.1021/jacs.7b06837
+  first-page: '17213'
+  journal-title: J. Am. Chem. Soc.
+  unstructured: 'Shu, X. et al. N6-allyladenosine: a new small molecule for RNA labeling
+    identified by mutation assay. J. Am. Chem. Soc. 139, 17213–17216 (2017).'
+  volume: '139'
+  year: '2017'
+- author: S Schwartz
+  doi: 10.1016/j.celrep.2014.05.048
+  first-page: '284'
+  journal-title: Cell Rep
+  unstructured: Schwartz, S. et al. Perturbation of m6A writers reveals two distinct
+    classes of mRNA methylation at internal and 5′ sites. Cell Rep 8, 284–296 (2014).
+  volume: '8'
+  year: '2014'
+- author: J Liu
+  doi: 10.1038/nchembio.1432
+  first-page: '93'
+  journal-title: Nat. Chem. Biol.
+  unstructured: Liu, J. et al. A METTL3–METTL14 complex mediates mammalian nuclear
+    RNA N6-adenosine methylation. Nat. Chem. Biol. 10, 93–95 (2014).
+  volume: '10'
+  year: '2014'
+- doi: 10.1093/nar/gkab485
+  unstructured: Kortel, N. et al. Deep and accurate detection of m6A RNA modifications
+    using miCLIP2 and m6Aboost machine learning. Nucleic Acids Res. 49, e92 (2021).
+- author: X Wang
+  doi: 10.1016/j.molcel.2014.09.001
+  first-page: '5'
+  journal-title: Mol. Cell
+  unstructured: Wang, X. & He, C. Dynamic RNA modifications in posttranscriptional
+    regulation. Mol. Cell 56, 5–12 (2014).
+  volume: '56'
+  year: '2014'
+- author: X Wang
+  doi: 10.1038/nature12730
+  first-page: '117'
+  journal-title: Nature
+  unstructured: Wang, X. et al. N6-Methyladenosine-dependent regulation of messenger
+    RNA stability. Nature 505, 117–120 (2014).
+  volume: '505'
+  year: '2014'
+- author: Y Mao
+  doi: 10.1038/s41467-019-13317-9
+  journal-title: Nat. Commun.
+  unstructured: Mao, Y. et al. m6A in mRNA coding regions promotes translation via
+    the RNA helicase-containing YTHDC2. Nat. Commun. 10, 5332 (2019).
+  volume: '10'
+  year: '2019'
+- author: X Wang
+  doi: 10.1016/j.cell.2015.05.014
+  first-page: '1388'
+  journal-title: Cell
+  unstructured: Wang, X. et al. N6-Methyladenosine modulates messenger RNA translation
+    efficiency. Cell 161, 1388–1399 (2015).
+  volume: '161'
+  year: '2015'
+- author: Z Zhang
+  doi: 10.1038/s41588-020-0644-z
+  first-page: '939'
+  journal-title: Nat. Genet.
+  unstructured: Zhang, Z. et al. Genetic analyses support the contribution of mRNA
+    N6-methyladenosine (m6A) modification to human disease heritability. Nat. Genet.
+    52, 939–949 (2020).
+  volume: '52'
+  year: '2020'
+- author: EL Van Nostrand
+  doi: 10.1186/s13059-020-01982-9
+  journal-title: Genome Biol.
+  unstructured: Van Nostrand, E. L. et al. Principles of RNA processing from analysis
+    of enhanced CLIP maps for 150 RNA binding proteins. Genome Biol. 21, 90 (2020).
+  volume: '21'
+  year: '2020'
+- author: EL Van Nostrand
+  doi: 10.1038/s41586-020-2077-3
+  first-page: '711'
+  journal-title: Nature
+  unstructured: Van Nostrand, E. L. et al. A large-scale binding and functional map
+    of human RNA-binding proteins. Nature 583, 711–719 (2020).
+  volume: '583'
+  year: '2020'
+- author: DP Patil
+  doi: 10.1038/nature19342
+  first-page: '369'
+  journal-title: Nature
+  unstructured: Patil, D. P. et al. m6A RNA methylation promotes XIST-mediated transcriptional
+    repression. Nature 537, 369–373 (2016).
+  volume: '537'
+  year: '2016'
+- author: H Huang
+  doi: 10.1038/s41556-018-0045-z
+  first-page: '285'
+  journal-title: Nat. Cell Biol.
+  unstructured: Huang, H. et al. Recognition of RNA N6-methyladenosine by IGF2BP proteins
+    enhances mRNA stability and translation. Nat. Cell Biol. 20, 285–295 (2018).
+  volume: '20'
+  year: '2018'
+- author: N Liu
+  doi: 10.1093/nar/gkx141
+  first-page: '6051'
+  journal-title: Nucleic Acids Res.
+  unstructured: Liu, N. et al. N6-Methyladenosine alters RNA structure to regulate
+    binding of a low-complexity protein. Nucleic Acids Res. 45, 6051–6063 (2017).
+  volume: '45'
+  year: '2017'
+- author: KI Zhou
+  doi: 10.1016/j.molcel.2019.07.005
+  first-page: '70'
+  journal-title: Mol. Cell
+  unstructured: Zhou, K. I. et al. Regulation of co-transcriptional pre-mRNA splicing
+    by m6A through the low-complexity protein hnRNPG. Mol. Cell 76, 70–81 (2019).
+  volume: '76'
+  year: '2019'
+- author: CR Alarcon
+  doi: 10.1016/j.cell.2015.08.011
+  first-page: '1299'
+  journal-title: Cell
+  unstructured: Alarcon, C. R. et al. HNRNPA2B1 is a mediator of m6A-dependent nuclear
+    RNA processing events. Cell 162, 1299–1308 (2015).
+  volume: '162'
+  year: '2015'
+- author: W Xiao
+  doi: 10.1016/j.molcel.2016.01.012
+  first-page: '507'
+  journal-title: Mol. Cell
+  unstructured: Xiao, W. et al. Nuclear m6A reader YTHDC1 regulates mRNA splicing.
+    Mol. Cell 61, 507–519 (2016).
+  volume: '61'
+  year: '2016'
+- author: DA Kuppers
+  doi: 10.1038/s41467-019-12518-6
+  journal-title: Nat. Commun.
+  unstructured: Kuppers, D. A. et al. N6-Methyladenosine mRNA marking promotes selective
+    translation of regulons required for human erythropoiesis. Nat. Commun. 10, 4596
+    (2019).
+  volume: '10'
+  year: '2019'
+- author: YP Zhu
+  doi: 10.1161/ATVBAHA.116.304054
+  first-page: '1722'
+  journal-title: Arterioscler. Thromb. Vasc. Biol.
+  unstructured: 'Zhu, Y. P., Thomas, G. D. & Hedrick, C. C. 2014 Jeffrey M. Hoeg Award
+    Lecture: Transcriptional control of monocyte development. Arterioscler. Thromb.
+    Vasc. Biol. 36, 1722–1733 (2016).'
+  volume: '36'
+  year: '2016'
+- author: AD Friedman
+  doi: 10.1038/sj.onc.1210764
+  first-page: '6816'
+  journal-title: Oncogene
+  unstructured: Friedman, A. D. Transcriptional control of granulocyte and monocyte
+    development. Oncogene 26, 6816–6828 (2007).
+  volume: '26'
+  year: '2007'
+- author: CL Scott
+  doi: 10.1016/j.it.2019.03.001
+  first-page: '431'
+  journal-title: Trends Immunol.
+  unstructured: 'Scott, C. L. & Omilusik, K. D. ZEBs: novel players in immune cell
+    development and function. Trends Immunol. 40, 431–446 (2019).'
+  volume: '40'
+  year: '2019'
+- author: H Hock
+  doi: 10.1101/gad.1239604
+  first-page: '2336'
+  journal-title: Genes Dev.
+  unstructured: Hock, H. et al. Tel/Etv6 is an essential and selective regulator of
+    adult hematopoietic stem cell survival. Genes Dev. 18, 2336–2341 (2004).
+  volume: '18'
+  year: '2004'
+- author: E Yildirim
+  doi: 10.1016/j.cell.2013.01.034
+  first-page: '727'
+  journal-title: Cell
+  unstructured: Yildirim, E. et al. Xist RNA is a potent suppressor of hematologic
+    cancer in mice. Cell 152, 727–742 (2013).
+  volume: '152'
+  year: '2013'
+- doi: 10.1172/jci.insight.124522
+  unstructured: Cui, H. et al. Long noncoding RNA Malat1 regulates differential activation
+    of macrophages and response to lung injury. JCI Insight 4, e124522 (2019).
+- author: R Su
+  doi: 10.1016/j.cell.2017.11.031
+  first-page: '90'
+  journal-title: Cell
+  unstructured: Su, R. et al. R-2HG exhibits anti-tumor activity by targeting FTO/m6A/MYC/CEBPA
+    signaling. Cell 172, 90–105 (2018).
+  volume: '172'
+  year: '2018'
+- author: RN Ramirez
+  doi: 10.1016/j.cels.2017.03.005
+  first-page: '416'
+  journal-title: Cell Syst.
+  unstructured: Ramirez, R. N. et al. Dynamic gene regulatory networks of human myeloid
+    differentiation. Cell Syst. 4, 416–429 (2017).
+  volume: '4'
+  year: '2017'
+- author: PK Raghav
+  doi: 10.4172/2157-7633.1000441
+  first-page: '441'
+  journal-title: J. Stem Cell Res. Ther.
+  unstructured: Raghav, P. K. & Gangenahalli, G. Hematopoietic stem cell molecular
+    targets and factors essential for hematopoiesis. J. Stem Cell Res. Ther. 8, 441
+    (2018).
+  volume: '8'
+  year: '2018'
+- author: G Santoni
+  doi: 10.3389/fimmu.2013.00034
+  first-page: '34'
+  journal-title: Front. Immunol.
+  unstructured: Santoni, G. et al. The role of transient receptor potential vanilloid
+    type-2 ion channels in innate and adaptive immune responses. Front. Immunol. 4,
+    34 (2013).
+  volume: '4'
+  year: '2013'
+- author: E Coppin
+  doi: 10.4049/jimmunol.1501037
+  first-page: '4110'
+  journal-title: J. Immunol.
+  unstructured: Coppin, E. et al. Dok1 and Dok2 proteins regulate cell cycle in hematopoietic
+    stem and progenitor cells. J. Immunol. 196, 4110–4121 (2016).
+  volume: '196'
+  year: '2016'
+- author: CM Wei
+  doi: 10.1021/bi00627a023
+  first-page: '1672'
+  journal-title: Biochemistry
+  unstructured: Wei, C. M. & Moss, B. Nucleotide sequences at the N6-methyladenosine
+    sites of HeLa cell messenger ribonucleic acid. Biochemistry 16, 1672–1676 (1977).
+  volume: '16'
+  year: '1977'
+- author: U Schibler
+  doi: 10.1016/0022-2836(77)90110-3
+  first-page: '695'
+  journal-title: J. Mol. Biol.
+  unstructured: Schibler, U., Kelley, D. E. & Perry, R. P. Comparison of methylated
+    sequences in messenger RNA and heterogeneous nuclear RNA from mouse L cells. J.
+    Mol. Biol. 115, 695–714 (1977).
+  volume: '115'
+  year: '1977'
+- author: X Li
+  doi: 10.1016/j.molcel.2017.10.019
+  first-page: '993'
+  journal-title: Mol. Cell
+  unstructured: Li, X. et al. Base-resolution mapping reveals distinct m1A methylome
+    in nuclear- and mitochondrial-encoded transcripts. Mol. Cell 68, 993–1005 (2017).
+  volume: '68'
+  year: '2017'
+- author: R Su
+  doi: 10.1038/onc.2014.274
+  first-page: '3226'
+  journal-title: Oncogene
+  unstructured: 'Su, R. et al. MiR-181 family: regulators of myeloid differentiation
+    and acute myeloid leukemia as well as potential therapeutic targets. Oncogene
+    34, 3226–3239 (2015).'
+  volume: '34'
+  year: '2015'
+- author: M Martin
+  doi: 10.14806/ej.17.1.200
+  first-page: '3'
+  journal-title: EMBnet J.
+  unstructured: Martin, M. Cutadapt removes adapter sequences from high-throughput
+    sequencing reads. EMBnet J. 17, 3 (2011).
+  volume: '17'
+  year: '2011'
+- author: AM Bolger
+  doi: 10.1093/bioinformatics/btu170
+  first-page: '2114'
+  journal-title: Bioinformatics
+  unstructured: 'Bolger, A. M., Lohse, M. & Usadel, B. Trimmomatic: a flexible trimmer
+    for Illumina sequence data. Bioinformatics 30, 2114–2120 (2014).'
+  volume: '30'
+  year: '2014'
+- author: A Dobin
+  doi: 10.1093/bioinformatics/bts635
+  first-page: '15'
+  journal-title: Bioinformatics
+  unstructured: 'Dobin, A. et al. STAR: ultrafast universal RNA-seq aligner. Bioinformatics
+    29, 15–21 (2013).'
+  volume: '29'
+  year: '2013'
+- author: DC Koboldt
+  doi: 10.1101/gr.129684.111
+  first-page: '568'
+  journal-title: Genome Res.
+  unstructured: 'Koboldt, D. C. et al. VarScan 2: somatic mutation and copy number
+    alteration discovery in cancer by exome sequencing. Genome Res. 22, 568–576 (2012).'
+  volume: '22'
+  year: '2012'
+- author: F Ramirez
+  doi: 10.1093/nar/gkw257
+  first-page: W160
+  journal-title: Nucleic Acids Res.
+  unstructured: 'Ramirez, F. et al. deepTools2: a next generation web server for deep-sequencing
+    data analysis. Nucleic Acids Res. 44, W160–W165 (2016).'
+  volume: '44'
+  year: '2016'
+- author: Y Zhang
+  doi: 10.1186/gb-2008-9-9-r137
+  journal-title: Genome Biol.
+  unstructured: Zhang, Y. et al. Model-based analysis of ChIP–seq (MACS). Genome Biol.
+    9, R137 (2008).
+  volume: '9'
+  year: '2008'
+- author: Y Liao
+  doi: 10.1093/nar/gkt214
+  first-page: e108
+  journal-title: Nucleic Acids Res.
+  unstructured: 'Liao, Y., Smyth, G. K. & Shi, W. The subread aligner: fast, accurate
+    and scalable read mapping by seed-and-vote. Nucleic Acids Res. 41, e108 (2013).'
+  volume: '41'
+  year: '2013'
+- author: RR Edupuganti
+  doi: 10.1038/nsmb.3462
+  first-page: '870'
+  journal-title: Nat. Struct. Mol. Biol.
+  unstructured: Edupuganti, R. R. et al. N6-Methyladenosine (m6A) recruits and repels
+    proteins to regulate mRNA homeostasis. Nat. Struct. Mol. Biol. 24, 870–878 (2017).
+  volume: '24'
+  year: '2017'
+- author: CY Chen
+  doi: 10.1016/S0076-6879(08)02617-7
+  first-page: '335'
+  journal-title: Methods Enzymol.
+  unstructured: Chen, C. Y., Ezzeddine, N. & Shyu, A. B. Messenger RNA half-life measurements
+    in mammalian cells. Methods Enzymol. 448, 335–357 (2008).
+  volume: '448'
+  year: '2008'
+- author: MJ de Hoon
+  doi: 10.1093/bioinformatics/bth078
+  first-page: '1453'
+  journal-title: Bioinformatics
+  unstructured: de Hoon, M. J., Imoto, S., Nolan, J. & Miyano, S. Open source clustering
+    software. Bioinformatics 20, 1453–1454 (2004).
+  volume: '20'
+  year: '2004'
+- author: AJ Saldanha
+  doi: 10.1093/bioinformatics/bth349
+  first-page: '3246'
+  journal-title: Bioinformatics
+  unstructured: Saldanha, A. J. Java Treeview—extensible visualization of microarray
+    data. Bioinformatics 20, 3246–3248 (2004).
+  volume: '20'
+  year: '2004'
+- author: ME Futschik
+  doi: 10.1142/S0219720005001375
+  first-page: '965'
+  journal-title: J. Bioinform. Comput. Biol.
+  unstructured: Futschik, M. E. & Carlisle, B. Noise-robust soft clustering of gene
+    expression time-course data. J. Bioinform. Comput. Biol. 3, 965–988 (2005).
+  volume: '3'
+  year: '2005'
+- author: G Yu
+  doi: 10.1089/omi.2011.0118
+  first-page: '284'
+  journal-title: OMICS
+  unstructured: 'Yu, G. et al. clusterProfiler: an R package for comparing biological
+    themes among gene clusters. OMICS 16, 284–287 (2012).'
+  volume: '16'
+  year: '2012'
+- author: U Raudvere
+  doi: 10.1093/nar/gkz369
+  first-page: W191
+  journal-title: Nucleic Acids Res.
+  unstructured: 'Raudvere, U. et al. g:Profiler: a web server for functional enrichment
+    analysis and conversions of gene lists (2019 update). Nucleic Acids Res. 47, W191–W198
+    (2019).'
+  volume: '47'
+  year: '2019'
+- author: MD Robinson
+  doi: 10.1093/bioinformatics/btp616
+  first-page: '139'
+  journal-title: Bioinformatics
+  unstructured: 'Robinson, M. D., McCarthy, D. J. & Smyth, G. K. edgeR: a Bioconductor
+    package for differential expression analysis of digital gene expression data.
+    Bioinformatics 26, 139–140 (2010).'
+  volume: '26'
+  year: '2010'
+- author: H Han
+  doi: 10.1093/nar/gkx1013
+  first-page: D380
+  journal-title: Nucleic Acids Res.
+  unstructured: 'Han, H. et al. TRRUST v2: an expanded reference database of human
+    and mouse transcriptional regulatory interactions. Nucleic Acids Res. 46, D380–D386
+    (2018).'
+  volume: '46'
+  year: '2018'
+- author: S Shen
+  doi: 10.1073/pnas.1419161111
+  first-page: E5593
+  journal-title: Proc. Natl Acad. Sci. USA
+  unstructured: 'Shen, S. et al. rMATS: robust and flexible detection of differential
+    alternative splicing from replicate RNA-seq data. Proc. Natl Acad. Sci. USA 111,
+    E5593–5601 (2014).'
+  volume: '111'
+  year: '2014'
+- author: N Liu
+  doi: 10.1038/nature14234
+  first-page: '560'
+  journal-title: Nature
+  unstructured: Liu, N. et al. N6-Methyladenosine-dependent RNA structural switches
+    regulate RNA–protein interactions. Nature 518, 560–564 (2015).
+  volume: '518'
+  year: '2015'
+doc_url: https://www.nature.com/articles/s41587-022-01243-z.pdf
+doi: 10.1038/s41587-022-01243-z
+files: []
+issue: '8'
+journal: Nature Biotechnology
+language: en
+month: 8
+pages: 1210--1219
+papis_id: 6a6b7a6fee6ee32d8bfbac8312f29aac
+publisher: Springer Science and Business Media LLC
+ref: M6aRnaModificHuLu2022
+time-added: 2023-11-02-10:30:50
+title: m6A RNA modifications are measured at single-base resolution across the mammalian
+  transcriptome
+type: article
+url: http://dx.doi.org/10.1038/s41587-022-01243-z
+volume: '40'
+year: 2022

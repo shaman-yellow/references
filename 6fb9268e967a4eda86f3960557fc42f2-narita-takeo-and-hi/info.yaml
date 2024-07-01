@@ -1,0 +1,48 @@
+abstract: 'Abstract                            Chromatin features are widely used
+  for genome-scale mapping of enhancers. However, discriminating active enhancers
+  from other               cis               -regulatory elements, predicting enhancer
+  strength and identifying their target genes is challenging. Here we establish histone
+  H2B N-terminus multisite lysine acetylation (H2BNTac) as a signature of active enhancers.
+  H2BNTac prominently marks candidate active enhancers and a subset of promoters and
+  discriminates them from ubiquitously active promoters. Two mechanisms underlie the
+  distinct H2BNTac specificity: (1) unlike H3K27ac, H2BNTac is specifically catalyzed
+  by CBP/p300; (2) H2A\textendash H2B, but not H3\textendash H4, are rapidly exchanged
+  through transcription-induced nucleosome remodeling. H2BNTac-positive candidate
+  enhancers show a high validation rate in orthogonal enhancer activity assays and
+  a vast majority of endogenously active enhancers are marked by H2BNTac and H3K27ac.
+  Notably, H2BNTac intensity predicts enhancer strength and outperforms current state-of-the-art
+  models in predicting CBP/p300 target genes. These findings have broad implications
+  for generating fine-grained enhancer maps and modeling CBP/p300-dependent gene regulation.'
+author: Narita, Takeo and Higashijima, Yoshiki and Kilic, Sinan and Liebner, Tim and
+  Walter, Jonas and Choudhary, Chunaram
+author_list:
+- family: Narita
+  given: Takeo
+- family: Higashijima
+  given: Yoshiki
+- family: Kilic
+  given: Sinan
+- family: Liebner
+  given: Tim
+- family: Walter
+  given: Jonas
+- family: Choudhary
+  given: Chunaram
+doi: 10.1038/s41588-023-01348-4
+file: /mnt/data/wizard/Zotero/storage/MT3RG4BM/Narita et al. - 2023 - Acetylation
+  of histone H2B marks active enhancers .pdf
+files: []
+issn: 1061-4036, 1546-1718
+journal: Nature Genetics
+langid: english
+month: April
+number: '4'
+pages: 679--692
+papis_id: ba689fffd0300aae636e0350f4aa6edd
+ref: AcetylationOfNarita2023
+title: Acetylation of Histone H2B Marks Active Enhancers and Predicts CBP/P300 Target
+  Genes
+type: article
+urldate: '2023-04-26'
+volume: '55'
+year: '2023'

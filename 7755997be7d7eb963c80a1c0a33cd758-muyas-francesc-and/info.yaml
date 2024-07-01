@@ -1,0 +1,626 @@
+abstract: <jats:title>Abstract</jats:title><jats:p>Characterization of somatic mutations
+  at single-cell resolution is essential to study cancer evolution, clonal mosaicism
+  and cell plasticity. Here, we describe SComatic, an algorithm designed for the detection
+  of somatic mutations in single-cell transcriptomic and ATAC-seq (assay for transposase-accessible
+  chromatin sequence) data sets directly without requiring matched bulk or single-cell
+  DNA sequencing data. SComatic distinguishes somatic mutations from polymorphisms,
+  RNA-editing events and artefacts using filters and statistical tests parameterized
+  on non-neoplastic samples. Using &gt;2.6 million single cells from 688 single-cell
+  RNA-seq (scRNA-seq) and single-cell ATAC-seq (scATAC-seq) data sets spanning cancer
+  and non-neoplastic samples, we show that SComatic detects mutations in single cells
+  accurately, even in differentiated cells from polyclonal tissues that are not amenable
+  to mutation detection using existing methods. Validated against matched genome sequencing
+  and scRNA-seq data, SComatic achieves F1 scores between 0.6 and 0.7 across diverse
+  data sets, in comparison to 0.2–0.4 for the second-best performing method. In summary,
+  SComatic permits de novo mutational signature analysis, and the study of clonal
+  heterogeneity and mutational burdens at single-cell resolution.</jats:p>
+author: Muyas, Francesc and Sauer, Carolin M. and Valle-Inclán, Jose Espejo and Li,
+  Ruoyan and Rahbari, Raheleh and Mitchell, Thomas J. and Hormoz, Sahand and Cortés-Ciriano,
+  Isidro
+author_list:
+- affiliation: []
+  family: Muyas
+  given: Francesc
+- affiliation: []
+  family: Sauer
+  given: Carolin M.
+- affiliation: []
+  family: Valle-Inclán
+  given: Jose Espejo
+- affiliation: []
+  family: Li
+  given: Ruoyan
+- affiliation: []
+  family: Rahbari
+  given: Raheleh
+- affiliation: []
+  family: Mitchell
+  given: Thomas J.
+- affiliation: []
+  family: Hormoz
+  given: Sahand
+- affiliation: []
+  family: Cortés-Ciriano
+  given: Isidro
+citations:
+- author: C Neftel
+  doi: 10.1016/j.cell.2019.06.024
+  first-page: '835'
+  journal-title: Cell
+  unstructured: Neftel, C. et al. An integrative model of cellular states, plasticity,
+    and genetics for glioblastoma. Cell 178, 835–849.e21 (2019).
+  volume: '178'
+  year: '2019'
+- author: N Kakiuchi
+  doi: 10.1038/s41568-021-00335-3
+  first-page: '239'
+  journal-title: Nat. Rev. Cancer
+  unstructured: Kakiuchi, N. & Ogawa, S. Clonal expansion in non-cancer tissues. Nat.
+    Rev. Cancer 21, 239–256 (2021).
+  volume: '21'
+  year: '2021'
+- author: AS Nam
+  doi: 10.1038/s41576-020-0265-5
+  first-page: '3'
+  journal-title: Nat. Rev. Genet.
+  unstructured: Nam, A. S., Chaligne, R. & Landau, D. A. Integrating genetic and non-genetic
+    determinants of cancer evolution by single-cell multi-omics. Nat. Rev. Genet.
+    22, 3–18 (2021).
+  volume: '22'
+  year: '2021'
+- author: B Lim
+  doi: 10.1016/j.ccell.2020.03.008
+  first-page: '456'
+  journal-title: Cancer Cell
+  unstructured: Lim, B., Lin, Y. & Navin, N. Advancing cancer research and medicine
+    with single-cell genomics. Cancer Cell 37, 456–470 (2020).
+  volume: '37'
+  year: '2020'
+- author: C Gawad
+  doi: 10.1038/nrg.2015.16
+  first-page: '175'
+  journal-title: Nat. Rev. Genet.
+  unstructured: 'Gawad, C., Koh, W. & Quake, S. R. Single-cell genome sequencing:
+    current state of the science. Nat. Rev. Genet. 17, 175–188 (2016).'
+  volume: '17'
+  year: '2016'
+- author: H Lee-Six
+  doi: 10.1038/s41586-018-0497-0
+  first-page: '473'
+  journal-title: Nature
+  unstructured: Lee-Six, H. et al. Population dynamics of normal human blood inferred
+    from somatic mutations. Nature 561, 473–478 (2018).
+  volume: '561'
+  year: '2018'
+- author: L Moore
+  doi: 10.1038/s41586-021-03822-7
+  first-page: '381'
+  journal-title: Nature
+  unstructured: Moore, L. et al. The mutational landscape of human somatic and germline
+    cells. Nature 597, 381–386 (2021).
+  volume: '597'
+  year: '2021'
+- author: D Van Egeren
+  doi: 10.1016/j.stem.2021.02.001
+  first-page: '514'
+  journal-title: Cell Stem Cell
+  unstructured: Van Egeren, D. et al. Reconstructing the lineage histories and differentiation
+    trajectories of individual cancer cells in myeloproliferative neoplasms. Cell
+    Stem Cell 28, 514–523.e9 (2021).
+  volume: '28'
+  year: '2021'
+- author: C-Z Zhang
+  doi: 10.1038/ncomms7822
+  journal-title: Nat. Commun.
+  unstructured: Zhang, C.-Z. et al. Calibrating genomic and allelic coverage bias
+    in single-cell sequencing. Nat. Commun. 6, 6822 (2015).
+  volume: '6'
+  year: '2015'
+- author: D Xing
+  doi: 10.1073/pnas.2013106118
+  first-page: e2013106118
+  journal-title: Proc. Natl Acad. Sci. USA
+  unstructured: Xing, D., Tan, L., Chang, C.-H., Li, H. & Xie, X. S. Accurate SNV
+    detection in single cells by transposon-based whole-genome amplification of complementary
+    strands. Proc. Natl Acad. Sci. USA 118, e2013106118 (2021).
+  volume: '118'
+  year: '2021'
+- author: F Abascal
+  doi: 10.1038/s41586-021-03477-4
+  first-page: '405'
+  journal-title: Nature
+  unstructured: Abascal, F. et al. Somatic mutation landscapes at single-molecule
+    resolution. Nature 593, 405–410 (2021).
+  volume: '593'
+  year: '2021'
+- author: P van Galen
+  doi: 10.1016/j.cell.2019.01.031
+  first-page: '1265'
+  journal-title: Cell
+  unstructured: van Galen, P. et al. Single-cell RNA-seq reveals AML hierarchies relevant
+    to disease progression and immunity. Cell 176, 1265–1281.e24 (2019).
+  volume: '176'
+  year: '2019'
+- doi: 10.1016/j.ccell.2022.11.001
+  unstructured: Li, R. et al. Mapping single-cell transcriptomes in the intra-tumoral
+    and associated territories of kidney cancer. Cancer Cell 40, 1583–1599.e10 (2022).
+- author: IC Macaulay
+  doi: 10.1038/nmeth.3370
+  first-page: '519'
+  journal-title: Nat. Methods
+  unstructured: 'Macaulay, I. C. et al. G&T-seq: parallel sequencing of single-cell
+    genomes and transcriptomes. Nat. Methods 12, 519–522 (2015).'
+  volume: '12'
+  year: '2015'
+- author: AS Nam
+  doi: 10.1038/s41586-019-1367-0
+  first-page: '355'
+  journal-title: Nature
+  unstructured: Nam, A. S. et al. Somatic mutations and cell identity linked by Genotyping
+    of Transcriptomes. Nature 571, 355–360 (2019).
+  volume: '571'
+  year: '2019'
+- author: JA Reuter
+  doi: 10.1038/nmeth.4028
+  first-page: '953'
+  journal-title: Nat. Methods
+  unstructured: 'Reuter, J. A., Spacek, D. V., Pai, R. K. & Snyder, M. P. Simul-seq:
+    combined DNA and RNA sequencing for whole-genome and transcriptome profiling.
+    Nat. Methods 13, 953–958 (2016).'
+  volume: '13'
+  year: '2016'
+- author: J Fan
+  doi: 10.1101/gr.228080.117
+  first-page: '1217'
+  journal-title: Genome Res.
+  unstructured: Fan, J. et al. Linking transcriptional and genetic tumor heterogeneity
+    through allele analysis of single-cell RNA-seq data. Genome Res. 28, 1217–1227
+    (2018).
+  volume: '28'
+  year: '2018'
+- author: AA Petti
+  doi: 10.1038/s41467-019-11591-1
+  journal-title: Nat. Commun.
+  unstructured: Petti, A. A. et al. A general approach for detecting expressed mutations
+    in AML cells using single cell RNA-sequencing. Nat. Commun. 10, 3660 (2019).
+  volume: '10'
+  year: '2019'
+- author: PV Kharchenko
+  doi: 10.1038/nmeth.2967
+  first-page: '740'
+  journal-title: Nat. Methods
+  unstructured: Kharchenko, P. V., Silberstein, L. & Scadden, D. T. Bayesian approach
+    to single-cell differential expression analysis. Nat. Methods 11, 740–742 (2014).
+  volume: '11'
+  year: '2014'
+- author: AY Huang
+  doi: 10.1073/pnas.2006163117
+  first-page: '13886'
+  journal-title: Proc. Natl Acad. Sci. USA
+  unstructured: Huang, A. Y. et al. Parallel RNA and DNA analysis after deep sequencing
+    (PRDD-seq) reveals cell type-specific lineage patterns in human brain. Proc. Natl
+    Acad. Sci. USA 117, 13886–13895 (2020).
+  volume: '117'
+  year: '2020'
+- author: DJ McCarthy
+  doi: 10.1038/s41592-020-0766-3
+  first-page: '414'
+  journal-title: Nat. Methods
+  unstructured: 'McCarthy, D. J. et al. Cardelino: computational integration of somatic
+    clonal substructure and single-cell transcriptomes. Nat. Methods 17, 414–421 (2020).'
+  volume: '17'
+  year: '2020'
+- author: F Liu
+  doi: 10.1186/s13059-019-1863-4
+  journal-title: Genome Biol.
+  unstructured: Liu, F. et al. Systematic comparative analysis of single-nucleotide
+    variant detection methods from single-cell RNA sequencing data. Genome Biol. 20,
+    242 (2019).
+  volume: '20'
+  year: '2019'
+- author: S Bizzotto
+  doi: 10.1126/science.abe1544
+  first-page: '1249'
+  journal-title: Science
+  unstructured: Bizzotto, S. et al. Landmarks of human embryonic development inscribed
+    in somatic mutations. Science 371, 1249–1253 (2021).
+  volume: '371'
+  year: '2021'
+- author: THH Coorens
+  doi: 10.1038/s41586-021-03790-y
+  first-page: '387'
+  journal-title: Nature
+  unstructured: Coorens, T. H. H. et al. Extensive phylogenies of human development
+    inferred from somatic mutations. Nature 597, 387–392 (2021).
+  volume: '597'
+  year: '2021'
+- author: KJ Karczewski
+  doi: 10.1038/s41586-020-2308-7
+  first-page: '434'
+  journal-title: Nature
+  unstructured: Karczewski, K. J. et al. The mutational constraint spectrum quantified
+    from variation in 141,456 humans. Nature 581, 434–443 (2020).
+  volume: '581'
+  year: '2020'
+- author: AL Ji
+  doi: 10.1016/j.cell.2020.05.039
+  first-page: '497'
+  journal-title: Cell
+  unstructured: Ji, A. L. et al. Multimodal analysis of composition and spatial architecture
+    in human squamous cell carcinoma. Cell 182, 497–514.e22 (2020).
+  volume: '182'
+  year: '2020'
+- author: I Martincorena
+  doi: 10.1126/science.aaa6806
+  first-page: '880'
+  journal-title: Science
+  unstructured: Martincorena, I. et al. High burden and pervasive positive selection
+    of somatic mutations in normal human skin. Science 348, 880–886 (2015).
+  volume: '348'
+  year: '2015'
+- author: E Reble
+  doi: 10.1097/YPG.0000000000000162
+  first-page: '62'
+  journal-title: Psychiatr. Genet.
+  unstructured: Reble, E., Castellani, C. A., Melka, M. G., O’Reilly, R. & Singh,
+    S. M. VarScan2 analysis of de novo variants in monozygotic twins discordant for
+    schizophrenia. Psychiatr. Genet. 27, 62–70 (2017).
+  volume: '27'
+  year: '2017'
+- author: H Li
+  doi: 10.1093/bioinformatics/btp324
+  first-page: '1754'
+  journal-title: Bioinformatics
+  unstructured: Li, H. & Durbin, R. Fast and accurate short read alignment with Burrows–Wheeler
+    transform. Bioinformatics 25, 1754–1760 (2009).
+  volume: '25'
+  year: '2009'
+- author: S Kim
+  doi: 10.1038/s41592-018-0051-x
+  first-page: '591'
+  journal-title: Nat. Methods
+  unstructured: 'Kim, S. et al. Strelka2: fast and accurate calling of germline and
+    somatic variants. Nat. Methods 15, 591–594 (2018).'
+  volume: '15'
+  year: '2018'
+- author: H Zafar
+  doi: 10.1038/nmeth.3835
+  first-page: '505'
+  journal-title: Nat. Methods
+  unstructured: 'Zafar, H., Wang, Y., Nakhleh, L., Navin, N. & Chen, K. Monovar: single-nucleotide
+    variant detection in single cells. Nat. Methods 13, 505–507 (2016).'
+  volume: '13'
+  year: '2016'
+- author: NM Prashant
+  doi: 10.1186/s12864-021-07974-8
+  journal-title: BMC Genomics
+  unstructured: 'Prashant, N. M. et al. SCReadCounts: estimation of cell-level SNVs
+    expression from scRNA-seq data. BMC Genomics 22, 689 (2021).'
+  volume: '22'
+  year: '2021'
+- author: I Vázquez-García
+  doi: 10.1038/s41586-022-05496-1
+  first-page: '778'
+  journal-title: Nature
+  unstructured: Vázquez-García, I. et al. Ovarian cancer mutational processes drive
+    site-specific immune evasion. Nature 612, 778–786 (2022).
+  volume: '612'
+  year: '2022'
+- author: R Li
+  doi: 10.1016/j.ccell.2022.11.001
+  first-page: '1583'
+  journal-title: Cancer Cell
+  unstructured: Li, R. et al. Mapping single-cell transcriptomes in the intra-tumoral
+    and associated territories of kidney cancer. Cancer Cell 40, 1583–1599.e10 (2022).
+  volume: '40'
+  year: '2022'
+- author: S Nik-Zainal
+  doi: 10.1038/nature17676
+  first-page: '47'
+  journal-title: Nature
+  unstructured: Nik-Zainal, S. et al. Landscape of somatic mutations in 560 breast
+    cancer whole-genome sequences. Nature 534, 47–54 (2016).
+  volume: '534'
+  year: '2016'
+- author: DC Gulhan
+  doi: 10.1038/s41588-019-0390-2
+  first-page: '912'
+  journal-title: Nat. Genet.
+  unstructured: Gulhan, D. C., Lee, J. J.-K., Melloni, G. E. M., Cortés-Ciriano, I.
+    & Park, P. J. Detecting the mutational signature of homologous recombination deficiency
+    in clinical samples. Nat. Genet. 51, 912–919 (2019).
+  volume: '51'
+  year: '2019'
+- author: K Pelka
+  doi: 10.1016/j.cell.2021.08.003
+  first-page: '4734'
+  journal-title: Cell
+  unstructured: Pelka, K. et al. Spatially organized multicellular immune hubs in
+    human colorectal cancer. Cell 184, 4734–4752.e20 (2021).
+  volume: '184'
+  year: '2021'
+- author: H-O Lee
+  doi: 10.1038/s41588-020-0636-z
+  first-page: '594'
+  journal-title: Nat. Genet.
+  unstructured: Lee, H.-O. et al. Lineage-dependent gene expression programs influence
+    the immune landscape of colorectal cancer. Nat. Genet. 52, 594–603 (2020).
+  volume: '52'
+  year: '2020'
+- author: I Cortes-Ciriano
+  doi: 10.1038/ncomms15180
+  journal-title: Nat. Commun.
+  unstructured: Cortes-Ciriano, I., Lee, S., Park, W.-Y., Kim, T.-M. & Park, P. J.
+    A molecular portrait of microsatellite instability across multiple cancers. Nat.
+    Commun. 8, 15180 (2017).
+  volume: '8'
+  year: '2017'
+- author: MH Bailey
+  doi: 10.1016/j.cell.2018.07.034
+  first-page: '1034'
+  journal-title: Cell
+  unstructured: Bailey, M. H. et al. Comprehensive characterization of cancer driver
+    genes and mutations. Cell 174, 1034–1035 (2018).
+  volume: '174'
+  year: '2018'
+- author: NJ Haradhvala
+  doi: 10.1038/s41467-018-04002-4
+  first-page: '1746'
+  journal-title: Nat. Commun.
+  unstructured: Haradhvala, N. J. et al. Distinct mutational signatures characterize
+    concurrent loss of polymerase proofreading and mismatch repair. Nat. Commun. 9,
+    1746 (2018).
+  volume: '9'
+  year: '2018'
+- author: LB Alexandrov
+  doi: 10.1038/s41586-020-1943-3
+  first-page: '94'
+  journal-title: Nature
+  unstructured: Alexandrov, L. B. et al. The repertoire of mutational signatures in
+    human cancer. Nature 578, 94–101 (2020).
+  volume: '578'
+  year: '2020'
+- author: FG Osorio
+  doi: 10.1016/j.celrep.2018.11.014
+  first-page: '2308'
+  journal-title: Cell Rep.
+  unstructured: Osorio, F. G. et al. Somatic mutations reveal lineage relationships
+    and age-related mutagenesis in human hematopoiesis. Cell Rep. 25, 2308–2316.e4
+    (2018).
+  volume: '25'
+  year: '2018'
+- author: N Williams
+  doi: 10.1038/s41586-021-04312-6
+  first-page: '162'
+  journal-title: Nature
+  unstructured: Williams, N. et al. Life histories of myeloproliferative neoplasms
+    inferred from phylogenies. Nature 602, 162–168 (2022).
+  volume: '602'
+  year: '2022'
+- author: M Litviňuková
+  doi: 10.1038/s41586-020-2797-4
+  first-page: '466'
+  journal-title: Nature
+  unstructured: Litviňuková, M. et al. Cells of the adult human heart. Nature 588,
+    466–472 (2020).
+  volume: '588'
+  year: '2020'
+- author: S Choudhury
+  doi: 10.1038/s43587-022-00261-5
+  first-page: '714'
+  journal-title: Nat. Aging
+  unstructured: Choudhury, S. et al. Somatic mutations in single human cardiomyocytes
+    reveal age-associated DNA damage and widespread oxidative genotoxicity. Nat. Aging
+    2, 714–725 (2022).
+  volume: '2'
+  year: '2022'
+- author: G Eraslan
+  doi: 10.1126/science.abl4290
+  first-page: eabl4290
+  journal-title: Science
+  unstructured: Eraslan, G. et al. Single-nucleus cross-tissue molecular reference
+    maps toward understanding disease gene function. Science 376, eabl4290 (2022).
+  volume: '376'
+  year: '2022'
+- author: K Zhang
+  doi: 10.1016/j.cell.2021.10.024
+  first-page: '5985'
+  journal-title: Cell
+  unstructured: Zhang, K. et al. A single-cell atlas of chromatin accessibility in
+    the human genome. Cell 184, 5985–6001.e19 (2021).
+  volume: '184'
+  year: '2021'
+- author: SWK Ng
+  doi: 10.1038/s41586-021-03974-6
+  first-page: '473'
+  journal-title: Nature
+  unstructured: Ng, S. W. K. et al. Convergent somatic mutations in metabolism genes
+    in chronic liver disease. Nature 598, 473–478 (2021).
+  volume: '598'
+  year: '2021'
+- author: T Gao
+  doi: 10.1038/s41587-022-01468-y
+  first-page: '417'
+  journal-title: Nat. Biotechnol.
+  unstructured: Gao, T. et al. Haplotype-aware analysis of somatic copy number variations
+    from single-cell transcriptomes. Nat. Biotechnol. 41, 417–426 (2023).
+  volume: '41'
+  year: '2023'
+- author: D Van Egeren
+  doi: 10.1016/j.exphem.2021.12.364
+  first-page: '14'
+  journal-title: Exp. Hematol.
+  unstructured: Van Egeren, D. et al. Transcriptional differences between JAK2-V617F
+    and wild-type bone marrow cells in patients with myeloproliferative neoplasms.
+    Exp. Hematol. 107, 14–19 (2022).
+  volume: '107'
+  year: '2022'
+- author: A Regev
+  doi: 10.7554/eLife.27041
+  first-page: e27041
+  journal-title: eLife
+  unstructured: Regev, A. et al. The Human Cell Atlas. eLife 6, e27041 (2017).
+  volume: '6'
+  year: '2017'
+- author: O Rozenblatt-Rosen
+  doi: 10.1016/j.cell.2020.03.053
+  first-page: '236'
+  journal-title: Cell
+  unstructured: 'Rozenblatt-Rosen, O. et al. The Human Tumor Atlas Network: charting
+    tumor transitions across space and time at single-cell resolution. Cell 181, 236–249
+    (2020).'
+  volume: '181'
+  year: '2020'
+- author: GXY Zheng
+  doi: 10.1038/ncomms14049
+  journal-title: Nat. Commun.
+  unstructured: Zheng, G. X. Y. et al. Massively parallel digital transcriptional
+    profiling of single cells. Nat. Commun. 8, 14049 (2017).
+  volume: '8'
+  year: '2017'
+- doi: 10.48550/arXiv.1303.3997
+  unstructured: Li, H. Aligning sequence reads, clone sequences and assembly contigs
+    with BWA-MEM. Preprint at arXiv https://doi.org/10.48550/arXiv.1303.3997 (2013).
+- unstructured: 'Van der Auwera, G. A. & O’Connor, B. D. Genomics in the cloud: using
+    Docker, GATK, and WDL in Terra (O’Reilly Media, 2020).'
+- author: F Muyas
+  doi: 10.1186/s13073-020-00746-1
+  journal-title: Genome Med.
+  unstructured: Muyas, F., Zapata, L., Guigó, R. & Ossowski, S. The rate and spectrum
+    of mosaic mutations during embryogenesis revealed by RNA sequencing of 49 tissues.
+    Genome Med. 12, 49 (2020).
+  volume: '12'
+  year: '2020'
+- doi: 10.1093/gigascience/giab007
+  unstructured: 'Bonfield, J. K. et al. HTSlib: C library for reading/writing high-throughput
+    sequencing data. Gigascience 10, giab007 (2021).https://github.com/pysam-developers/pysam'
+- author: C Lo Giudice
+  doi: 10.1038/s41596-019-0279-7
+  first-page: '1098'
+  journal-title: Nat. Protoc.
+  unstructured: Lo Giudice, C., Tangaro, M. A., Pesole, G. & Picardi, E. Investigating
+    RNA editing in deep transcriptome datasets with REDItools and REDIportal. Nat.
+    Protoc. 15, 1098–1131 (2020).
+  volume: '15'
+  year: '2020'
+- author: A Kiran
+  doi: 10.1093/bioinformatics/btq285
+  first-page: '1772'
+  journal-title: Bioinformatics
+  unstructured: 'Kiran, A. & Baranov, P. V. DARNED: a DAtabase of RNa EDiting in humans.
+    Bioinformatics 26, 1772–1776 (2010).'
+  volume: '26'
+  year: '2010'
+- author: K Nakamura
+  doi: 10.1093/nar/gkr344
+  first-page: e90
+  journal-title: Nucleic Acids Res.
+  unstructured: Nakamura, K. et al. Sequence-specific error profile of Illumina sequencers.
+    Nucleic Acids Res. 39, e90 (2011).
+  volume: '39'
+  year: '2011'
+- author: F Blokzijl
+  doi: 10.1186/s13073-018-0539-0
+  journal-title: Genome Med.
+  unstructured: 'Blokzijl, F., Janssen, R., van Boxtel, R. & Cuppen, E. MutationalPatterns:
+    comprehensive genome-wide analysis of mutational processes. Genome Med. 10, 33
+    (2018).'
+  volume: '10'
+  year: '2018'
+- author: MA DePristo
+  doi: 10.1038/ng.806
+  first-page: '491'
+  journal-title: Nat. Genet.
+  unstructured: DePristo, M. A. et al. A framework for variation discovery and genotyping
+    using next-generation DNA sequencing data. Nat. Genet. 43, 491–498 (2011).
+  volume: '43'
+  year: '2011'
+- author: Y Fan
+  doi: 10.1186/s13059-016-1029-6
+  journal-title: Genome Biol.
+  unstructured: 'Fan, Y. et al. MuSE: accounting for tumor heterogeneity using a sample-specific
+    error model improves sensitivity and specificity in mutation calling from sequencing
+    data. Genome Biol. 17, 178 (2016).'
+  volume: '17'
+  year: '2016'
+- author: SC Dentro
+  doi: 10.1016/j.cell.2021.03.009
+  first-page: '2239'
+  journal-title: Cell
+  unstructured: Dentro, S. C. et al. Characterizing genetic intra-tumor heterogeneity
+    across 2,658 human cancer genomes. Cell 184, 2239–2254.e39 (2021).
+  volume: '184'
+  year: '2021'
+- author: H Li
+  doi: 10.1093/bioinformatics/btp352
+  first-page: '2078'
+  journal-title: Bioinformatics
+  unstructured: Li, H. et al. The sequence alignment/map format and SAMtools. Bioinformatics
+    25, 2078–2079 (2009).
+  volume: '25'
+  year: '2009'
+- author: DC Koboldt
+  doi: 10.1101/gr.129684.111
+  first-page: '568'
+  journal-title: Genome Res.
+  unstructured: 'Koboldt, D. C. et al. VarScan 2: somatic mutation and copy number
+    alteration discovery in cancer by exome sequencing. Genome Res. 22, 568–576 (2012).'
+  volume: '22'
+  year: '2012'
+- author: KJ Karczewski
+  doi: 10.1093/nar/gkw971
+  first-page: D840
+  journal-title: Nucleic Acids Res.
+  unstructured: 'Karczewski, K. J. et al. The ExAC browser: displaying reference data
+    information from over 60 000 exomes. Nucleic Acids Res. 45, D840–D845 (2017).'
+  volume: '45'
+  year: '2017'
+- author: X Huang
+  doi: 10.1093/bioinformatics/btab358
+  first-page: '4569'
+  journal-title: Bioinformatics
+  unstructured: 'Huang, X. & Huang, Y. Cellsnp-lite: an efficient tool for genotyping
+    single cells. Bioinformatics 37, 4569–4571 (2021).'
+  volume: '37'
+  year: '2021'
+- author: P-R Loh
+  doi: 10.1038/ng.3679
+  first-page: '1443'
+  journal-title: Nat. Genet.
+  unstructured: Loh, P.-R. et al. Reference-based phasing using the Haplotype Reference
+    Consortium panel. Nat. Genet. 48, 1443–1448 (2016).
+  volume: '48'
+  year: '2016'
+- author: Z Sondka
+  doi: 10.1038/s41568-018-0060-1
+  first-page: '696'
+  journal-title: Nat. Rev. Cancer
+  unstructured: 'Sondka, Z. et al. The COSMIC Cancer Gene Census: describing genetic
+    dysfunction across all human cancers. Nat. Rev. Cancer 18, 696–705 (2018).'
+  volume: '18'
+  year: '2018'
+- author: K Wang
+  doi: 10.1093/nar/gkq603
+  first-page: e164
+  journal-title: Nucleic Acids Res.
+  unstructured: 'Wang, K., Li, M. & Hakonarson, H. ANNOVAR: functional annotation
+    of genetic variants from high-throughput sequencing data. Nucleic Acids Res. 38,
+    e164 (2010).'
+  volume: '38'
+  year: '2010'
+doc_url: https://www.nature.com/articles/s41587-023-01863-z.pdf
+doi: 10.1038/s41587-023-01863-z
+files:
+- denovodetectimuyas2023.pdf
+journal: Nature Biotechnology
+language: en
+month: 7
+papis_id: 744eff1b7a455384665057042489d36c
+publisher: Springer Science and Business Media LLC
+ref: DeNovoDetectiMuyas2023
+time-added: 2023-11-21-15:09:31
+title: De novo detection of somatic mutations in high-throughput single-cell profiling
+  data sets
+type: article
+url: http://dx.doi.org/10.1038/s41587-023-01863-z
+year: 2023

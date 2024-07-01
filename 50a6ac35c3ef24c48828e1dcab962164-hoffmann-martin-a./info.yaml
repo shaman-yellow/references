@@ -1,0 +1,52 @@
+abstract: Abstract                        Untargeted metabolomics experiments rely
+  on spectral libraries for structure annotation, but these libraries are vastly incomplete;             in
+  silico             methods search in structure databases but cannot distinguish
+  between correct and incorrect annotations. As biological interpretation relies on
+  accurate structure annotations, the ability to assign confidence to such annotations
+  is a key outstanding problem. We introduce the COSMIC workflow that combines structure
+  database generation,             in silico             annotation, and a confidence
+  score consisting of kernel density p-value estimation and a Support Vector Machine
+  with enforced directionality of features. In evaluation, COSMIC annotates a substantial
+  number of hits at small false discovery rates, and outperforms spectral library
+  search for this purpose. To demonstrate that COSMIC can annotate structures never
+  reported before, we annotated twelve novel bile acid conjugates; nine structures
+  were confirmed by manual evaluation and two structures using synthetic standards.
+  Second, we annotated and manually evaluated 315 molecular structures in human samples
+  currently absent from the Human Metabolome Database. Third, we applied COSMIC to
+  17,400 experimental runs and annotated 1,715 structures with high confidence that
+  were absent from spectral libraries.
+author: Hoffmann, Martin A. and Nothias, Louis-Félix and Ludwig, Marcus and Fleischauer,
+  Markus and Gentry, Emily C. and Witting, Michael and Dorrestein, Pieter C. and Dührkop,
+  Kai and Böcker, Sebastian
+author_list:
+- family: Hoffmann
+  given: Martin A.
+- family: Nothias
+  given: Louis-Félix
+- family: Ludwig
+  given: Marcus
+- family: Fleischauer
+  given: Markus
+- family: Gentry
+  given: Emily C.
+- family: Witting
+  given: Michael
+- family: Dorrestein
+  given: Pieter C.
+- family: Dührkop
+  given: Kai
+- family: Böcker
+  given: Sebastian
+doi: 10.1101/2021.03.18.435634
+file: /mnt/data/wizard/Zotero/storage/86JWAANZ/Hoffmann et al. - 2021 - Assigning
+  confidence to structural annotations fro.pdf
+files: []
+institution: '{Bioinformatics}'
+langid: english
+month: March
+papis_id: 9cca0baa99be01242db1ff169309a353
+ref: AssigningConfiHoffma2021
+title: Assigning Confidence to Structural Annotations from Mass Spectra with COSMIC
+type: Preprint
+urldate: '2021-11-14'
+year: '2021'

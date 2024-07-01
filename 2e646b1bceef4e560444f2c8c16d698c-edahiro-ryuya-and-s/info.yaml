@@ -1,0 +1,1051 @@
+abstract: Abstract                            Mechanisms underpinning the dysfunctional
+  immune response in severe acute respiratory syndrome coronavirus 2 infection are
+  elusive. We analyzed single-cell transcriptomes and T and B cell receptors (BCR)
+  of {$>$}895,000 peripheral blood mononuclear cells from 73 coronavirus disease 2019
+  (COVID-19) patients and 75 healthy controls of Japanese ancestry with host genetic
+  data. COVID-19 patients showed a low fraction of nonclassical monocytes (ncMono).
+  We report downregulated cell transitions from classical monocytes to ncMono in COVID-19
+  with reduced               CXCL10               expression in ncMono in severe disease.
+  Cell\textendash cell communication analysis inferred decreased cellular interactions
+  involving ncMono in severe COVID-19. Clonal expansions of BCR were evident in the
+  plasmablasts of patients. Putative disease genes identified by COVID-19 genome-wide
+  association study showed cell type-specific expressions in monocytes and dendritic
+  cells. A COVID-19-associated risk variant at the               IFNAR2               locus
+  (rs13050728) had context-specific and monocyte-specific expression quantitative
+  trait loci effects. Our study highlights biological and host genetic involvement
+  of innate immune cells in COVID-19 severity.
+author: Edahiro, Ryuya and Shirai, Yuya and Takeshima, Yusuke and Sakakibara, Shuhei
+  and Yamaguchi, Yuta and Murakami, Teruaki and Morita, Takayoshi and Kato, Yasuhiro
+  and Liu, Yu-Chen and Motooka, Daisuke and Naito, Yoko and Takuwa, Ayako and Sugihara,
+  Fuminori and Tanaka, Kentaro and Wing, James B. and Sonehara, Kyuto and Tomofuji,
+  Yoshihiko and Force, Japan COVID-19 Task and Wang, Qingbo S. and Hasegawa, Takanori
+  and Saiki, Ryunosuke and Hyugaji, Takayoshi and Shimizu, Eigo and Katayama, Kotoe
+  and Kanai, Masahiro and Naito, Tatsuhiko and Sasa, Noah and Yamamoto, Kenichi and
+  Takahashi, Kazuhisa and Harada, Norihiro and Naito, Toshio and Hiki, Makoto and
+  Matsushita, Yasushi and Takagi, Haruhi and Ichikawa, Masako and Nakamura, Ai and
+  Harada, Sonoko and Sandhu, Yuuki and Kabata, Hiroki and Masaki, Katsunori and Kamata,
+  Hirofumi and Ikemura, Shinnosuke and Chubachi, Shotaro and Okamori, Satoshi and
+  Terai, Hideki and Morita, Atsuho and Asakura, Takanori and Sasaki, Junichi and Morisaki,
+  Hiroshi and Uwamino, Yoshifumi and Nanki, Kosaku and Uchida, Sho and Uno, Shunsuke
+  and Nishimura, Tomoyasu and Ishiguro, Takashi and Isono, Taisuke and Shibata, Shun
+  and Matsui, Yuma and Hosoda, Chiaki and Takano, Kenji and Nishida, Takashi and Kobayashi,
+  Yoichi and Takaku, Yotaro and Takayanagi, Noboru and Ueda, Soichiro and Tada, Ai
+  and Miyawaki, Masayoshi and Yamamoto, Masaomi and Yoshida, Eriko and Hayashi, Reina
+  and Nagasaka, Tomoki and Arai, Sawako and Kaneko, Yutaro and Sasaki, Kana and Tagaya,
+  Etsuko and Kawana, Masatoshi and Arimura, Ken and Takahashi, Kunihiko and Anzai,
+  Tatsuhiko and Ito, Satoshi and Endo, Akifumi and Uchimura, Yuji and Miyazaki, Yasunari
+  and Honda, Takayuki and Tateishi, Tomoya and Tohda, Shuji and Ichimura, Naoya and
+  Sonobe, Kazunari and Sassa, Chihiro Tani and Nakajima, Jun and Nakano, Yasushi and
+  Nakajima, Yukiko and Anan, Ryusuke and Arai, Ryosuke and Kurihara, Yuko and Harada,
+  Yuko and Nishio, Kazumi and Ueda, Tetsuya and Azuma, Masanori and Saito, Ryuichi
+  and Sado, Toshikatsu and Miyazaki, Yoshimune and Sato, Ryuichi and Haruta, Yuki
+  and Nagasaki, Tadao and Yasui, Yoshinori and Hasegawa, Yoshinori and Mutoh, Yoshikazu
+  and Kimura, Tomoki and Sato, Tomonori and Takei, Reoto and Hagimoto, Satoshi and
+  Noguchi, Yoichiro and Yamano, Yasuhiko and Sasano, Hajime and Ota, Sho and Nakamori,
+  Yasushi and Yoshiya, Kazuhisa and Saito, Fukuki and Yoshihara, Tomoyuki and Wada,
+  Daiki and Iwamura, Hiromu and Kanayama, Syuji and Maruyama, Shuhei and Yoshiyama,
+  Takashi and Ohta, Ken and Kokuto, Hiroyuki and Ogata, Hideo and Tanaka, Yoshiaki
+  and Arakawa, Kenichi and Shimoda, Masafumi and Osawa, Takeshi and Tateno, Hiroki
+  and Hase, Isano and Yoshida, Shuichi and Suzuki, Shoji and Kawada, Miki and Horinouchi,
+  Hirohisa and Saito, Fumitake and Mitamura, Keiko and Hagihara, Masao and Ochi, Junichi
+  and Uchida, Tomoyuki and Baba, Rie and Arai, Daisuke and Ogura, Takayuki and Takahashi,
+  Hidenori and Hagiwara, Shigehiro and Nagao, Genta and Konishi, Shunichiro and Nakachi,
+  Ichiro and Murakami, Koji and Yamada, Mitsuhiro and Sugiura, Hisatoshi and Sano,
+  Hirohito and Matsumoto, Shuichiro and Kimura, Nozomu and Ono, Yoshinao and Baba,
+  Hiroaki and Suzuki, Yusuke and Nakayama, Sohei and Masuzawa, Keita and Namba, Shinichi
+  and Shiroyama, Takayuki and Noda, Yoshimi and Niitsu, Takayuki and Adachi, Yuichi
+  and Enomoto, Takatoshi and Amiya, Saori and Hara, Reina and Kuge, Tomoki and Matsumoto,
+  Kinnosuke and Yamamoto, Yuji and Yamamoto, Makoto and Yoneda, Midori and Tomono,
+  Kazunori and Kato, Kazuto and Koh, Hidefumi and Manabe, Tadashi and Funatsu, Yohei
+  and Ito, Fumimaro and Fukui, Takahiro and Shinozuka, Keisuke and Kohashi, Sumiko
+  and Miyazaki, Masatoshi and Shoko, Tomohisa and Kojima, Mitsuaki and Adachi, Tomohiro
+  and Ishikawa, Motonao and Takahashi, Kenichiro and Inoue, Takashi and Hirano, Toshiyuki
+  and Kobayashi, Keigo and Takaoka, Hatsuyo and Watanabe, Kazuyoshi and Miyazawa,
+  Naoki and Kimura, Yasuhiro and Sado, Reiko and Sugimoto, Hideyasu and Kamiya, Akane
+  and Kuwahara, Naota and Fujiwara, Akiko and Matsunaga, Tomohiro and Sato, Yoko and
+  Okada, Takenori and Hirai, Yoshihiro and Kawashima, Hidetoshi and Narita, Atsuya
+  and Niwa, Kazuki and Sekikawa, Yoshiyuki and Nishi, Koichi and Nishitsuji, Masaru
+  and Tani, Mayuko and Suzuki, Junya and Nakatsumi, Hiroki and Ogura, Takashi and
+  Kitamura, Hideya and Hagiwara, Eri and Murohashi, Kota and Okabayashi, Hiroko and
+  Mochimaru, Takao and Nukaga, Shigenari and Satomi, Ryosuke and Oyamada, Yoshitaka
+  and Mori, Nobuaki and Baba, Tomoya and Fukui, Yasutaka and Odate, Mitsuru and Mashimo,
+  Shuko and Makino, Yasushi and Yagi, Kazuma and Hashiguchi, Mizuha and Kagyo, Junko
+  and Shiomi, Tetsuya and Fuke, Satoshi and Saito, Hiroshi and Tsuchida, Tomoya and
+  Fujitani, Shigeki and Takita, Mumon and Morikawa, Daiki and Yoshida, Toru and Izumo,
+  Takehiro and Inomata, Minoru and Kuse, Naoyuki and Awano, Nobuyasu and Tone, Mari
+  and Ito, Akihiro and Nakamura, Yoshihiko and Hoshino, Kota and Maruyama, Junichi
+  and Ishikura, Hiroyasu and Takata, Tohru and Odani, Toshio and Amishima, Masaru
+  and Hattori, Takeshi and Shichinohe, Yasuo and Kagaya, Takashi and Kita, Toshiyuki
+  and Ohta, Kazuhide and Sakagami, Satoru and Koshida, Kiyoshi and Hayashi, Kentaro
+  and Shimizu, Tetsuo and Kozu, Yutaka and Hiranuma, Hisato and Gon, Yasuhiro and
+  Izumi, Namiki and Nagata, Kaoru and Ueda, Ken and Taki, Reiko and Hanada, Satoko
+  and Kawamura, Kodai and Ichikado, Kazuya and Nishiyama, Kenta and Muranaka, Hiroyuki
+  and Nakamura, Kazunori and Hashimoto, Naozumi and Wakahara, Keiko and Koji, Sakamoto
+  and Omote, Norihito and Ando, Akira and Kodama, Nobuhiro and Kaneyama, Yasunari
+  and Maeda, Shunsuke and Kuraki, Takashige and Matsumoto, Takemasa and Yokote, Koutaro
+  and Nakada, Taka-Aki and Abe, Ryuzo and Oshima, Taku and Shimada, Tadanaga and Harada,
+  Masahiro and Takahashi, Takeshi and Ono, Hiroshi and Sakurai, Toshihiro and Shibusawa,
+  Takayuki and Kimizuka, Yoshifumi and Kawana, Akihiko and Sano, Tomoya and Watanabe,
+  Chie and Suematsu, Ryohei and Sageshima, Hisako and Yoshifuji, Ayumi and Ito, Kazuto
+  and Takahashi, Saeko and Ishioka, Kota and Nakamura, Morio and Masuda, Makoto and
+  Wakabayashi, Aya and Watanabe, Hiroki and Ueda, Suguru and Nishikawa, Masanori and
+  Chihara, Yusuke and Takeuchi, Mayumi and Onoi, Keisuke and Shinozuka, Jun and Sueyoshi,
+  Atsushi and Nagasaki, Yoji and Okamoto, Masaki and Ishihara, Sayoko and Shimo, Masatoshi
+  and Tokunaga, Yoshihisa and Kusaka, Yu and Ohba, Takehiko and Isogai, Susumu and
+  Ogawa, Aki and Inoue, Takuya and Fukuyama, Satoru and Eriguchi, Yoshihiro and Yonekawa,
+  Akiko and Kan-o, Keiko and Matsumoto, Koichiro and Kanaoka, Kensuke and Ihara, Shoichi
+  and Komuta, Kiyoshi and Inoue, Yoshiaki and Chiba, Shigeru and Yamagata, Kunihiro
+  and Hiramatsu, Yuji and Kai, Hirayasu and Asano, Koichiro and Oguma, Tsuyoshi and
+  Ito, Yoko and Hashimoto, Satoru and Yamasaki, Masaki and Kasamatsu, Yu and Komase,
+  Yuko and Hida, Naoya and Tsuburai, Takahiro and Oyama, Baku and Takada, Minoru and
+  Kanda, Hidenori and Kitagawa, Yuichiro and Fukuta, Tetsuya and Miyake, Takahito
+  and Yoshida, Shozo and Ogura, Shinji and Abe, Shinji and Kono, Yuta and Togashi,
+  Yuki and Takoi, Hiroyuki and Kikuchi, Ryota and Ogawa, Shinichi and Ogata, Tomouki
+  and Ishihara, Shoichiro and Kanehiro, Arihiko and Ozaki, Shinji and Fuchimoto, Yasuko
+  and Wada, Sae and Fujimoto, Nobukazu and Nishiyama, Kei and Terashima, Mariko and
+  Beppu, Satoru and Yoshida, Kosuke and Narumoto, Osamu and Nagai, Hideaki and Ooshima,
+  Nobuharu and Motegi, Mitsuru and Umeda, Akira and Miyagawa, Kazuya and Shimada,
+  Hisato and Endo, Mayu and Ohira, Yoshiyuki and Watanabe, Masafumi and Inoue, Sumito
+  and Igarashi, Akira and Sato, Masamichi and Sagara, Hironori and Tanaka, Akihiko
+  and Ohta, Shin and Kimura, Tomoyuki and Shibata, Yoko and Tanino, Yoshinori and
+  Nikaido, Takefumi and Minemura, Hiroyuki and Sato, Yuki and Yamada, Yuichiro and
+  Hashino, Takuya and Shinoki, Masato and Iwagoe, Hajime and Takahashi, Hiroshi and
+  Fujii, Kazuhiko and Kishi, Hiroto and Kanai, Masayuki and Imamura, Tomonori and
+  Yamashita, Tatsuya and Yatomi, Masakiyo and Maeno, Toshitaka and Hayashi, Shinichi
+  and Takahashi, Mai and Kuramochi, Mizuki and Kamimaki, Isamu and Tominaga, Yoshiteru
+  and Ishii, Tomoo and Utsugi, Mitsuyoshi and Ono, Akihiro and Tanaka, Toru and Kashiwada,
+  Takeru and Fujita, Kazue and Saito, Yoshinobu and Seike, Masahiro and Watanabe,
+  Hiroko and Matsuse, Hiroto and Kodaka, Norio and Nakano, Chihiro and Oshio, Takeshi
+  and Hirouchi, Takatomo and Makino, Shohei and Egi, Moritoki and Omae, Yosuke and
+  Nannya, Yasuhito and Ueno, Takafumi and Takano, Tomomi and Katayama, Kazuhiko and
+  Ai, Masumi and Sato, Toshiro and Hasegawa, Naoki and Tokunaga, Katsushi and Ishii,
+  Makoto and Koike, Ryuji and Kitagawa, Yuko and Kimura, Akinori and Imoto, Seiya
+  and Miyano, Satoru and Ogawa, Seishi and Kanai, Takanori and Namkoong, Ho and Tanaka,
+  Hiromu and Lee, Ho and Fukunaga, Koichi and Hirata, Haruhiko and Takeda, Yoshito
+  and Okuzaki, Daisuke and Kumanogoh, Atsushi and Okada, Yukinori
+author_list:
+- family: Edahiro
+  given: Ryuya
+- family: Shirai
+  given: Yuya
+- family: Takeshima
+  given: Yusuke
+- family: Sakakibara
+  given: Shuhei
+- family: Yamaguchi
+  given: Yuta
+- family: Murakami
+  given: Teruaki
+- family: Morita
+  given: Takayoshi
+- family: Kato
+  given: Yasuhiro
+- family: Liu
+  given: Yu-Chen
+- family: Motooka
+  given: Daisuke
+- family: Naito
+  given: Yoko
+- family: Takuwa
+  given: Ayako
+- family: Sugihara
+  given: Fuminori
+- family: Tanaka
+  given: Kentaro
+- family: Wing
+  given: James B.
+- family: Sonehara
+  given: Kyuto
+- family: Tomofuji
+  given: Yoshihiko
+- family: Force
+  given: Japan COVID-19 Task
+- family: Wang
+  given: Qingbo S.
+- family: Hasegawa
+  given: Takanori
+- family: Saiki
+  given: Ryunosuke
+- family: Hyugaji
+  given: Takayoshi
+- family: Shimizu
+  given: Eigo
+- family: Katayama
+  given: Kotoe
+- family: Kanai
+  given: Masahiro
+- family: Naito
+  given: Tatsuhiko
+- family: Sasa
+  given: Noah
+- family: Yamamoto
+  given: Kenichi
+- family: Takahashi
+  given: Kazuhisa
+- family: Harada
+  given: Norihiro
+- family: Naito
+  given: Toshio
+- family: Hiki
+  given: Makoto
+- family: Matsushita
+  given: Yasushi
+- family: Takagi
+  given: Haruhi
+- family: Ichikawa
+  given: Masako
+- family: Nakamura
+  given: Ai
+- family: Harada
+  given: Sonoko
+- family: Sandhu
+  given: Yuuki
+- family: Kabata
+  given: Hiroki
+- family: Masaki
+  given: Katsunori
+- family: Kamata
+  given: Hirofumi
+- family: Ikemura
+  given: Shinnosuke
+- family: Chubachi
+  given: Shotaro
+- family: Okamori
+  given: Satoshi
+- family: Terai
+  given: Hideki
+- family: Morita
+  given: Atsuho
+- family: Asakura
+  given: Takanori
+- family: Sasaki
+  given: Junichi
+- family: Morisaki
+  given: Hiroshi
+- family: Uwamino
+  given: Yoshifumi
+- family: Nanki
+  given: Kosaku
+- family: Uchida
+  given: Sho
+- family: Uno
+  given: Shunsuke
+- family: Nishimura
+  given: Tomoyasu
+- family: Ishiguro
+  given: Takashi
+- family: Isono
+  given: Taisuke
+- family: Shibata
+  given: Shun
+- family: Matsui
+  given: Yuma
+- family: Hosoda
+  given: Chiaki
+- family: Takano
+  given: Kenji
+- family: Nishida
+  given: Takashi
+- family: Kobayashi
+  given: Yoichi
+- family: Takaku
+  given: Yotaro
+- family: Takayanagi
+  given: Noboru
+- family: Ueda
+  given: Soichiro
+- family: Tada
+  given: Ai
+- family: Miyawaki
+  given: Masayoshi
+- family: Yamamoto
+  given: Masaomi
+- family: Yoshida
+  given: Eriko
+- family: Hayashi
+  given: Reina
+- family: Nagasaka
+  given: Tomoki
+- family: Arai
+  given: Sawako
+- family: Kaneko
+  given: Yutaro
+- family: Sasaki
+  given: Kana
+- family: Tagaya
+  given: Etsuko
+- family: Kawana
+  given: Masatoshi
+- family: Arimura
+  given: Ken
+- family: Takahashi
+  given: Kunihiko
+- family: Anzai
+  given: Tatsuhiko
+- family: Ito
+  given: Satoshi
+- family: Endo
+  given: Akifumi
+- family: Uchimura
+  given: Yuji
+- family: Miyazaki
+  given: Yasunari
+- family: Honda
+  given: Takayuki
+- family: Tateishi
+  given: Tomoya
+- family: Tohda
+  given: Shuji
+- family: Ichimura
+  given: Naoya
+- family: Sonobe
+  given: Kazunari
+- family: Sassa
+  given: Chihiro Tani
+- family: Nakajima
+  given: Jun
+- family: Nakano
+  given: Yasushi
+- family: Nakajima
+  given: Yukiko
+- family: Anan
+  given: Ryusuke
+- family: Arai
+  given: Ryosuke
+- family: Kurihara
+  given: Yuko
+- family: Harada
+  given: Yuko
+- family: Nishio
+  given: Kazumi
+- family: Ueda
+  given: Tetsuya
+- family: Azuma
+  given: Masanori
+- family: Saito
+  given: Ryuichi
+- family: Sado
+  given: Toshikatsu
+- family: Miyazaki
+  given: Yoshimune
+- family: Sato
+  given: Ryuichi
+- family: Haruta
+  given: Yuki
+- family: Nagasaki
+  given: Tadao
+- family: Yasui
+  given: Yoshinori
+- family: Hasegawa
+  given: Yoshinori
+- family: Mutoh
+  given: Yoshikazu
+- family: Kimura
+  given: Tomoki
+- family: Sato
+  given: Tomonori
+- family: Takei
+  given: Reoto
+- family: Hagimoto
+  given: Satoshi
+- family: Noguchi
+  given: Yoichiro
+- family: Yamano
+  given: Yasuhiko
+- family: Sasano
+  given: Hajime
+- family: Ota
+  given: Sho
+- family: Nakamori
+  given: Yasushi
+- family: Yoshiya
+  given: Kazuhisa
+- family: Saito
+  given: Fukuki
+- family: Yoshihara
+  given: Tomoyuki
+- family: Wada
+  given: Daiki
+- family: Iwamura
+  given: Hiromu
+- family: Kanayama
+  given: Syuji
+- family: Maruyama
+  given: Shuhei
+- family: Yoshiyama
+  given: Takashi
+- family: Ohta
+  given: Ken
+- family: Kokuto
+  given: Hiroyuki
+- family: Ogata
+  given: Hideo
+- family: Tanaka
+  given: Yoshiaki
+- family: Arakawa
+  given: Kenichi
+- family: Shimoda
+  given: Masafumi
+- family: Osawa
+  given: Takeshi
+- family: Tateno
+  given: Hiroki
+- family: Hase
+  given: Isano
+- family: Yoshida
+  given: Shuichi
+- family: Suzuki
+  given: Shoji
+- family: Kawada
+  given: Miki
+- family: Horinouchi
+  given: Hirohisa
+- family: Saito
+  given: Fumitake
+- family: Mitamura
+  given: Keiko
+- family: Hagihara
+  given: Masao
+- family: Ochi
+  given: Junichi
+- family: Uchida
+  given: Tomoyuki
+- family: Baba
+  given: Rie
+- family: Arai
+  given: Daisuke
+- family: Ogura
+  given: Takayuki
+- family: Takahashi
+  given: Hidenori
+- family: Hagiwara
+  given: Shigehiro
+- family: Nagao
+  given: Genta
+- family: Konishi
+  given: Shunichiro
+- family: Nakachi
+  given: Ichiro
+- family: Murakami
+  given: Koji
+- family: Yamada
+  given: Mitsuhiro
+- family: Sugiura
+  given: Hisatoshi
+- family: Sano
+  given: Hirohito
+- family: Matsumoto
+  given: Shuichiro
+- family: Kimura
+  given: Nozomu
+- family: Ono
+  given: Yoshinao
+- family: Baba
+  given: Hiroaki
+- family: Suzuki
+  given: Yusuke
+- family: Nakayama
+  given: Sohei
+- family: Masuzawa
+  given: Keita
+- family: Namba
+  given: Shinichi
+- family: Shiroyama
+  given: Takayuki
+- family: Noda
+  given: Yoshimi
+- family: Niitsu
+  given: Takayuki
+- family: Adachi
+  given: Yuichi
+- family: Enomoto
+  given: Takatoshi
+- family: Amiya
+  given: Saori
+- family: Hara
+  given: Reina
+- family: Kuge
+  given: Tomoki
+- family: Matsumoto
+  given: Kinnosuke
+- family: Yamamoto
+  given: Yuji
+- family: Yamamoto
+  given: Makoto
+- family: Yoneda
+  given: Midori
+- family: Tomono
+  given: Kazunori
+- family: Kato
+  given: Kazuto
+- family: Koh
+  given: Hidefumi
+- family: Manabe
+  given: Tadashi
+- family: Funatsu
+  given: Yohei
+- family: Ito
+  given: Fumimaro
+- family: Fukui
+  given: Takahiro
+- family: Shinozuka
+  given: Keisuke
+- family: Kohashi
+  given: Sumiko
+- family: Miyazaki
+  given: Masatoshi
+- family: Shoko
+  given: Tomohisa
+- family: Kojima
+  given: Mitsuaki
+- family: Adachi
+  given: Tomohiro
+- family: Ishikawa
+  given: Motonao
+- family: Takahashi
+  given: Kenichiro
+- family: Inoue
+  given: Takashi
+- family: Hirano
+  given: Toshiyuki
+- family: Kobayashi
+  given: Keigo
+- family: Takaoka
+  given: Hatsuyo
+- family: Watanabe
+  given: Kazuyoshi
+- family: Miyazawa
+  given: Naoki
+- family: Kimura
+  given: Yasuhiro
+- family: Sado
+  given: Reiko
+- family: Sugimoto
+  given: Hideyasu
+- family: Kamiya
+  given: Akane
+- family: Kuwahara
+  given: Naota
+- family: Fujiwara
+  given: Akiko
+- family: Matsunaga
+  given: Tomohiro
+- family: Sato
+  given: Yoko
+- family: Okada
+  given: Takenori
+- family: Hirai
+  given: Yoshihiro
+- family: Kawashima
+  given: Hidetoshi
+- family: Narita
+  given: Atsuya
+- family: Niwa
+  given: Kazuki
+- family: Sekikawa
+  given: Yoshiyuki
+- family: Nishi
+  given: Koichi
+- family: Nishitsuji
+  given: Masaru
+- family: Tani
+  given: Mayuko
+- family: Suzuki
+  given: Junya
+- family: Nakatsumi
+  given: Hiroki
+- family: Ogura
+  given: Takashi
+- family: Kitamura
+  given: Hideya
+- family: Hagiwara
+  given: Eri
+- family: Murohashi
+  given: Kota
+- family: Okabayashi
+  given: Hiroko
+- family: Mochimaru
+  given: Takao
+- family: Nukaga
+  given: Shigenari
+- family: Satomi
+  given: Ryosuke
+- family: Oyamada
+  given: Yoshitaka
+- family: Mori
+  given: Nobuaki
+- family: Baba
+  given: Tomoya
+- family: Fukui
+  given: Yasutaka
+- family: Odate
+  given: Mitsuru
+- family: Mashimo
+  given: Shuko
+- family: Makino
+  given: Yasushi
+- family: Yagi
+  given: Kazuma
+- family: Hashiguchi
+  given: Mizuha
+- family: Kagyo
+  given: Junko
+- family: Shiomi
+  given: Tetsuya
+- family: Fuke
+  given: Satoshi
+- family: Saito
+  given: Hiroshi
+- family: Tsuchida
+  given: Tomoya
+- family: Fujitani
+  given: Shigeki
+- family: Takita
+  given: Mumon
+- family: Morikawa
+  given: Daiki
+- family: Yoshida
+  given: Toru
+- family: Izumo
+  given: Takehiro
+- family: Inomata
+  given: Minoru
+- family: Kuse
+  given: Naoyuki
+- family: Awano
+  given: Nobuyasu
+- family: Tone
+  given: Mari
+- family: Ito
+  given: Akihiro
+- family: Nakamura
+  given: Yoshihiko
+- family: Hoshino
+  given: Kota
+- family: Maruyama
+  given: Junichi
+- family: Ishikura
+  given: Hiroyasu
+- family: Takata
+  given: Tohru
+- family: Odani
+  given: Toshio
+- family: Amishima
+  given: Masaru
+- family: Hattori
+  given: Takeshi
+- family: Shichinohe
+  given: Yasuo
+- family: Kagaya
+  given: Takashi
+- family: Kita
+  given: Toshiyuki
+- family: Ohta
+  given: Kazuhide
+- family: Sakagami
+  given: Satoru
+- family: Koshida
+  given: Kiyoshi
+- family: Hayashi
+  given: Kentaro
+- family: Shimizu
+  given: Tetsuo
+- family: Kozu
+  given: Yutaka
+- family: Hiranuma
+  given: Hisato
+- family: Gon
+  given: Yasuhiro
+- family: Izumi
+  given: Namiki
+- family: Nagata
+  given: Kaoru
+- family: Ueda
+  given: Ken
+- family: Taki
+  given: Reiko
+- family: Hanada
+  given: Satoko
+- family: Kawamura
+  given: Kodai
+- family: Ichikado
+  given: Kazuya
+- family: Nishiyama
+  given: Kenta
+- family: Muranaka
+  given: Hiroyuki
+- family: Nakamura
+  given: Kazunori
+- family: Hashimoto
+  given: Naozumi
+- family: Wakahara
+  given: Keiko
+- family: Koji
+  given: Sakamoto
+- family: Omote
+  given: Norihito
+- family: Ando
+  given: Akira
+- family: Kodama
+  given: Nobuhiro
+- family: Kaneyama
+  given: Yasunari
+- family: Maeda
+  given: Shunsuke
+- family: Kuraki
+  given: Takashige
+- family: Matsumoto
+  given: Takemasa
+- family: Yokote
+  given: Koutaro
+- family: Nakada
+  given: Taka-Aki
+- family: Abe
+  given: Ryuzo
+- family: Oshima
+  given: Taku
+- family: Shimada
+  given: Tadanaga
+- family: Harada
+  given: Masahiro
+- family: Takahashi
+  given: Takeshi
+- family: Ono
+  given: Hiroshi
+- family: Sakurai
+  given: Toshihiro
+- family: Shibusawa
+  given: Takayuki
+- family: Kimizuka
+  given: Yoshifumi
+- family: Kawana
+  given: Akihiko
+- family: Sano
+  given: Tomoya
+- family: Watanabe
+  given: Chie
+- family: Suematsu
+  given: Ryohei
+- family: Sageshima
+  given: Hisako
+- family: Yoshifuji
+  given: Ayumi
+- family: Ito
+  given: Kazuto
+- family: Takahashi
+  given: Saeko
+- family: Ishioka
+  given: Kota
+- family: Nakamura
+  given: Morio
+- family: Masuda
+  given: Makoto
+- family: Wakabayashi
+  given: Aya
+- family: Watanabe
+  given: Hiroki
+- family: Ueda
+  given: Suguru
+- family: Nishikawa
+  given: Masanori
+- family: Chihara
+  given: Yusuke
+- family: Takeuchi
+  given: Mayumi
+- family: Onoi
+  given: Keisuke
+- family: Shinozuka
+  given: Jun
+- family: Sueyoshi
+  given: Atsushi
+- family: Nagasaki
+  given: Yoji
+- family: Okamoto
+  given: Masaki
+- family: Ishihara
+  given: Sayoko
+- family: Shimo
+  given: Masatoshi
+- family: Tokunaga
+  given: Yoshihisa
+- family: Kusaka
+  given: Yu
+- family: Ohba
+  given: Takehiko
+- family: Isogai
+  given: Susumu
+- family: Ogawa
+  given: Aki
+- family: Inoue
+  given: Takuya
+- family: Fukuyama
+  given: Satoru
+- family: Eriguchi
+  given: Yoshihiro
+- family: Yonekawa
+  given: Akiko
+- family: Kan-o
+  given: Keiko
+- family: Matsumoto
+  given: Koichiro
+- family: Kanaoka
+  given: Kensuke
+- family: Ihara
+  given: Shoichi
+- family: Komuta
+  given: Kiyoshi
+- family: Inoue
+  given: Yoshiaki
+- family: Chiba
+  given: Shigeru
+- family: Yamagata
+  given: Kunihiro
+- family: Hiramatsu
+  given: Yuji
+- family: Kai
+  given: Hirayasu
+- family: Asano
+  given: Koichiro
+- family: Oguma
+  given: Tsuyoshi
+- family: Ito
+  given: Yoko
+- family: Hashimoto
+  given: Satoru
+- family: Yamasaki
+  given: Masaki
+- family: Kasamatsu
+  given: Yu
+- family: Komase
+  given: Yuko
+- family: Hida
+  given: Naoya
+- family: Tsuburai
+  given: Takahiro
+- family: Oyama
+  given: Baku
+- family: Takada
+  given: Minoru
+- family: Kanda
+  given: Hidenori
+- family: Kitagawa
+  given: Yuichiro
+- family: Fukuta
+  given: Tetsuya
+- family: Miyake
+  given: Takahito
+- family: Yoshida
+  given: Shozo
+- family: Ogura
+  given: Shinji
+- family: Abe
+  given: Shinji
+- family: Kono
+  given: Yuta
+- family: Togashi
+  given: Yuki
+- family: Takoi
+  given: Hiroyuki
+- family: Kikuchi
+  given: Ryota
+- family: Ogawa
+  given: Shinichi
+- family: Ogata
+  given: Tomouki
+- family: Ishihara
+  given: Shoichiro
+- family: Kanehiro
+  given: Arihiko
+- family: Ozaki
+  given: Shinji
+- family: Fuchimoto
+  given: Yasuko
+- family: Wada
+  given: Sae
+- family: Fujimoto
+  given: Nobukazu
+- family: Nishiyama
+  given: Kei
+- family: Terashima
+  given: Mariko
+- family: Beppu
+  given: Satoru
+- family: Yoshida
+  given: Kosuke
+- family: Narumoto
+  given: Osamu
+- family: Nagai
+  given: Hideaki
+- family: Ooshima
+  given: Nobuharu
+- family: Motegi
+  given: Mitsuru
+- family: Umeda
+  given: Akira
+- family: Miyagawa
+  given: Kazuya
+- family: Shimada
+  given: Hisato
+- family: Endo
+  given: Mayu
+- family: Ohira
+  given: Yoshiyuki
+- family: Watanabe
+  given: Masafumi
+- family: Inoue
+  given: Sumito
+- family: Igarashi
+  given: Akira
+- family: Sato
+  given: Masamichi
+- family: Sagara
+  given: Hironori
+- family: Tanaka
+  given: Akihiko
+- family: Ohta
+  given: Shin
+- family: Kimura
+  given: Tomoyuki
+- family: Shibata
+  given: Yoko
+- family: Tanino
+  given: Yoshinori
+- family: Nikaido
+  given: Takefumi
+- family: Minemura
+  given: Hiroyuki
+- family: Sato
+  given: Yuki
+- family: Yamada
+  given: Yuichiro
+- family: Hashino
+  given: Takuya
+- family: Shinoki
+  given: Masato
+- family: Iwagoe
+  given: Hajime
+- family: Takahashi
+  given: Hiroshi
+- family: Fujii
+  given: Kazuhiko
+- family: Kishi
+  given: Hiroto
+- family: Kanai
+  given: Masayuki
+- family: Imamura
+  given: Tomonori
+- family: Yamashita
+  given: Tatsuya
+- family: Yatomi
+  given: Masakiyo
+- family: Maeno
+  given: Toshitaka
+- family: Hayashi
+  given: Shinichi
+- family: Takahashi
+  given: Mai
+- family: Kuramochi
+  given: Mizuki
+- family: Kamimaki
+  given: Isamu
+- family: Tominaga
+  given: Yoshiteru
+- family: Ishii
+  given: Tomoo
+- family: Utsugi
+  given: Mitsuyoshi
+- family: Ono
+  given: Akihiro
+- family: Tanaka
+  given: Toru
+- family: Kashiwada
+  given: Takeru
+- family: Fujita
+  given: Kazue
+- family: Saito
+  given: Yoshinobu
+- family: Seike
+  given: Masahiro
+- family: Watanabe
+  given: Hiroko
+- family: Matsuse
+  given: Hiroto
+- family: Kodaka
+  given: Norio
+- family: Nakano
+  given: Chihiro
+- family: Oshio
+  given: Takeshi
+- family: Hirouchi
+  given: Takatomo
+- family: Makino
+  given: Shohei
+- family: Egi
+  given: Moritoki
+- family: Omae
+  given: Yosuke
+- family: Nannya
+  given: Yasuhito
+- family: Ueno
+  given: Takafumi
+- family: Takano
+  given: Tomomi
+- family: Katayama
+  given: Kazuhiko
+- family: Ai
+  given: Masumi
+- family: Sato
+  given: Toshiro
+- family: Hasegawa
+  given: Naoki
+- family: Tokunaga
+  given: Katsushi
+- family: Ishii
+  given: Makoto
+- family: Koike
+  given: Ryuji
+- family: Kitagawa
+  given: Yuko
+- family: Kimura
+  given: Akinori
+- family: Imoto
+  given: Seiya
+- family: Miyano
+  given: Satoru
+- family: Ogawa
+  given: Seishi
+- family: Kanai
+  given: Takanori
+- family: Namkoong
+  given: Ho
+- family: Tanaka
+  given: Hiromu
+- family: Lee
+  given: Ho
+- family: Fukunaga
+  given: Koichi
+- family: Hirata
+  given: Haruhiko
+- family: Takeda
+  given: Yoshito
+- family: Okuzaki
+  given: Daisuke
+- family: Kumanogoh
+  given: Atsushi
+- family: Okada
+  given: Yukinori
+doi: 10.1038/s41588-023-01375-1
+file: /mnt/data/wizard/Zotero/storage/7Z38ATVI/Edahiro et al. - 2023 - Single-cell
+  analyses and host genetics highlight t.pdf
+files: []
+issn: 1061-4036, 1546-1718
+journal: Nature Genetics
+langid: english
+month: April
+papis_id: 9d9674da8a838a5b2db5524eb178cd9a
+ref: SingleCellAnaEdahir2023
+title: Single-Cell Analyses and Host Genetics Highlight the Role of Innate Immune
+  Cells in COVID-19 Severity
+type: article
+urldate: '2023-04-26'
+year: '2023'

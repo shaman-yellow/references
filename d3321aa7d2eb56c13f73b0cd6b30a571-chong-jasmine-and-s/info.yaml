@@ -1,0 +1,59 @@
+abstract: 'We present a new update to MetaboAnalyst (version 4.0) for comprehensive
+  metabolomic data analysis, interpretation, and integration with other omics data.
+  Since the last major update in 2015, MetaboAnalyst has continued to evolve based
+  on user feedback and technological advancements in the field. For this year''s update,
+  four new key features have been added to MetaboAnalyst 4.0, including: (1) real-time
+  R command tracking and display coupled with the release of a companion MetaboAnalystR
+  package; (2) a MS Peaks to Pathways module for prediction of pathway activity from
+  untargeted mass spectral data using the mummichog algorithm; (3) a Biomarker Meta-analysis
+  module for robust biomarker identification through the combination of multiple metabolomic
+  datasets and (4) a Network Explorer module for integrative analysis of metabolomics,
+  metagenomics, and/or transcriptomics data. The user interface of MetaboAnalyst 4.0
+  has been reengineered to provide a more modern look and feel, as well as to give
+  more space and flexibility to introduce new functions. The underlying knowledgebases
+  (compound libraries, metabolite sets, and metabolic pathways) have also been updated
+  based on the latest data from the Human Metabolome Database (HMDB). A Docker image
+  of MetaboAnalyst is also available to facilitate download and local installation
+  of MetaboAnalyst. MetaboAnalyst 4.0 is freely available at http://metaboanalyst.ca.'
+author: Chong, Jasmine and Soufan, Othman and Li, Carin and Caraus, Iurie and Li,
+  Shuzhao and Bourque, Guillaume and Wishart, David S. and Xia, Jianguo
+author_list:
+- family: Chong
+  given: Jasmine
+- family: Soufan
+  given: Othman
+- family: Li
+  given: Carin
+- family: Caraus
+  given: Iurie
+- family: Li
+  given: Shuzhao
+- family: Bourque
+  given: Guillaume
+- family: Wishart
+  given: David S.
+- family: Xia
+  given: Jianguo
+doi: 10.1093/nar/gky310
+file: /mnt/data/wizard/Zotero/storage/TTCM734F/Chong et al. - 2018 - MetaboAnalyst
+  4.0 towards more transparent and in.pdf
+files:
+- metaboanalyst4chong2018-a.pdf
+issn: 1362-4962
+journal: Nucleic Acids Research
+keywords: Algorithms,Biomarkers,{Databases, Factual},Datasets as Topic,Humans,Mass
+  Spectrometry,Metabolic Networks and Pathways,Metabolome,Metabolomics,User-Computer
+  Interface
+langid: english
+month: July
+number: W1
+pages: W486-W494
+papis_id: b5dcce5aec519bcdee06f9fec9e6502d
+pmcid: PMC6030889
+pmid: '29762782'
+ref: Metaboanalyst4Chong2018
+shorttitle: '{{MetaboAnalyst}} 4.0'
+title: 'MetaboAnalyst 4.0: Towards More Transparent and Integrative Metabolomics Analysis'
+type: article
+volume: '46'
+year: '2018'

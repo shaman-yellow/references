@@ -1,0 +1,67 @@
+abstract: In mass spectrometry-based untargeted metabolomics, rarely more than 30\%
+  of the compounds are identified. Without the true identity of these molecules it
+  is impossible to draw conclusions about the biological mechanisms, pathway relationships
+  and provenance of compounds. The only way at present to address this discrepancy
+  is to use in silico fragmentation software to identify unknown compounds by comparing
+  and ranking theoretical MS/MS fragmentations from target structures to experimental
+  tandem mass spectra (MS/MS). We compared the performance of four publicly available
+  in silico fragmentation algorithms (MetFragCL, CFM-ID, MAGMa+ and MS-FINDER) that
+  participated in the 2016 CASMI challenge. We found that optimizing the use of metadata,
+  weighting factors and the manner of combining different tools eventually defined
+  the ultimate outcomes of each method. We comprehensively analysed how outcomes of
+  different tools could be combined and reached a final success rate of 93\% for the
+  training data, and 87\% for the challenge data, using a combination of MAGMa+, CFM-ID
+  and compound importance information along with MS/MS matching. Matching MS/MS spectra
+  against the MS/MS libraries without using any in silico tool yielded 60\% correct
+  hits, showing that the use of in silico methods is still important.
+author: Blaženović, Ivana and Kind, Tobias and Hrvoje, Torbašinovi\,́ and ́Slobodan,
+  Obrenovi\' and Mehta, Sajjan S. and Tsugawa, Hiroshi and Wermuth, Tobias and Schauer,
+  Nicolas and Jahn, Martina and Biedendieck, Rebekka and Jahn, Dieter and Fiehn, Oliver
+author_list:
+- family: Blaženović
+  given: Ivana
+- family: Kind
+  given: Tobias
+- family: Hrvoje
+  given: Torbašinovi\,́
+- family: ́Slobodan
+  given: Obrenovi\'
+- family: Mehta
+  given: Sajjan S.
+- family: Tsugawa
+  given: Hiroshi
+- family: Wermuth
+  given: Tobias
+- family: Schauer
+  given: Nicolas
+- family: Jahn
+  given: Martina
+- family: Biedendieck
+  given: Rebekka
+- family: Jahn
+  given: Dieter
+- family: Fiehn
+  given: Oliver
+doi: 10.1186/s13321-017-0219-x
+file: /mnt/data/wizard/Zotero/storage/33BMYGVI/Blaženović et al. - 2017 - Comprehensive
+  comparison of in silico MSMS fragme.pdf
+files: []
+issn: 1758-2946
+journal: Journal of Cheminformatics
+keywords: Compound identification,In silico fragmentation,Mass spectrometry,Metabolomics,MS/MS,Structure
+  elucidation
+langid: english
+month: May
+number: '1'
+pages: '32'
+papis_id: e8736522356f910d08bb8b49ff351d39
+pmcid: PMC5445034
+pmid: '29086039'
+ref: ComprehensiveCBlazen2017
+shorttitle: Comprehensive Comparison of in Silico {{MS}}/{{MS}} Fragmentation Tools
+  of the {{CASMI}} Contest
+title: 'Comprehensive Comparison of in Silico MS/MS Fragmentation Tools of the CASMI
+  Contest: Database Boosting Is Needed to Achieve 93% Accuracy'
+type: article
+volume: '9'
+year: '2017'

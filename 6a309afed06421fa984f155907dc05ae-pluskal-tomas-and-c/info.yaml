@@ -1,0 +1,30 @@
+author: Pluskal, Tomáš and Castillo, Sandra and Villar-Briones, Alejandro and Orešič,
+  Matej
+author_list:
+- family: Pluskal
+  given: Tomáš
+- family: Castillo
+  given: Sandra
+- family: Villar-Briones
+  given: Alejandro
+- family: Orešič
+  given: Matej
+doi: 10/bxbwnj
+file: /mnt/data/wizard/Zotero/storage/ZHLPH5RD/Pluskal et al. - 2010 - MZmine 2 Modular
+  framework for processing, visual.pdf
+files: []
+issn: 1471-2105
+journal: BMC Bioinformatics
+langid: english
+month: December
+number: '1'
+pages: '395'
+papis_id: 27b1d9752edf8fc03a3e5a6c4515e1a1
+ref: Mzmine2ModulPluska2010
+shorttitle: '{{MZmine}} 2'
+title: 'MZmine 2: Modular Framework for Processing, Visualizing, and Analyzing Mass
+  Spectrometry-Based Molecular Profile Data'
+type: article
+urldate: '2021-12-21'
+volume: '11'
+year: '2010'

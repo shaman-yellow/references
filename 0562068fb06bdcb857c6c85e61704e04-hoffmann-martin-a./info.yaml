@@ -1,0 +1,51 @@
+abstract: Abstract                            Untargeted metabolomics experiments
+  rely on spectral libraries for structure annotation, but, typically, only a small
+  fraction of spectra can be matched. Previous in silico methods search in structure
+  databases but cannot distinguish between correct and incorrect annotations. Here
+  we introduce the COSMIC workflow that combines in silico structure database generation
+  and annotation with a confidence score consisting of kernel density               P               value
+  estimation and a support vector machine with enforced directionality of features.
+  On diverse datasets, COSMIC annotates a substantial number of hits at low false
+  discovery rates and outperforms spectral library search. To demonstrate that COSMIC
+  can annotate structures never reported before, we annotated 12 natural bile acids.
+  The annotation of nine structures was confirmed by manual evaluation and two structures
+  using synthetic standards. In human samples, we annotated and manually validated
+  315 molecular structures currently absent from the Human Metabolome Database. Application
+  of COSMIC to data from 17,400 metabolomics experiments led to 1,715 high-confidence
+  structural annotations that were absent from spectral libraries.
+author: Hoffmann, Martin A. and Nothias, Louis-Félix and Ludwig, Marcus and Fleischauer,
+  Markus and Gentry, Emily C. and Witting, Michael and Dorrestein, Pieter C. and Dührkop,
+  Kai and Böcker, Sebastian
+author_list:
+- family: Hoffmann
+  given: Martin A.
+- family: Nothias
+  given: Louis-Félix
+- family: Ludwig
+  given: Marcus
+- family: Fleischauer
+  given: Markus
+- family: Gentry
+  given: Emily C.
+- family: Witting
+  given: Michael
+- family: Dorrestein
+  given: Pieter C.
+- family: Dührkop
+  given: Kai
+- family: Böcker
+  given: Sebastian
+doi: 10.1038/s41587-021-01045-9
+file: /mnt/data/wizard/Zotero/storage/EDV4HQJH/Hoffmann et al. - 2021 - High-confidence
+  structural annotation of metabolit.pdf
+files: []
+issn: 1087-0156, 1546-1696
+journal: Nature Biotechnology
+langid: english
+month: October
+papis_id: ef1e9d8cd7fcb3995c4c08d525b8c904
+ref: HighConfidenceHoffma2021
+title: High-Confidence Structural Annotation of Metabolites Absent from Spectral Libraries
+type: article
+urldate: '2021-11-14'
+year: '2021'

@@ -1,0 +1,25 @@
+author: Zhang, Yuqi and Forli, Stefano and Omelchenko, Anna and Sanner, Michel F
+author_list:
+- family: Zhang
+  given: Yuqi
+- family: Forli
+  given: Stefano
+- family: Omelchenko
+  given: Anna
+- family: Sanner
+  given: Michel F
+doi: 10.1002/jcc.26054
+files: []
+issn: 0192-8651
+issue: '32'
+journal: Journal of computational chemistry
+pages: 2882--2886
+papis_id: b97a8652593f8fabf2312bf186b8d8ce
+pmid: '31436329'
+ref: AutogridfrImpZhang2019
+time-added: 2024-02-01-11:13:53
+title: 'AutoGridFR: Improvements on AutoDock Affinity Maps and Associated Software
+  Tools'
+type: article
+volume: '40'
+year: 2019

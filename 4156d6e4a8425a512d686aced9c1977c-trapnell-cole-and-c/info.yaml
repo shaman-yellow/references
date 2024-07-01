@@ -1,0 +1,40 @@
+author: Trapnell, Cole and Cacchiarelli, Davide and Grimsby, Jonna and Pokharel, Prapti
+  and Li, Shuqiang and Morse, Michael and Lennon, Niall J and Livak, Kenneth J and
+  Mikkelsen, Tarjei S and Rinn, John L
+author_list:
+- family: Trapnell
+  given: Cole
+- family: Cacchiarelli
+  given: Davide
+- family: Grimsby
+  given: Jonna
+- family: Pokharel
+  given: Prapti
+- family: Li
+  given: Shuqiang
+- family: Morse
+  given: Michael
+- family: Lennon
+  given: Niall J
+- family: Livak
+  given: Kenneth J
+- family: Mikkelsen
+  given: Tarjei S
+- family: Rinn
+  given: John L
+doi: 10.1038/nbt.2859
+files:
+- thedynamicsantrapne2014-a.pdf
+issue: '4'
+journal: Nature Biotechnology
+month: '3'
+page: 381-386
+papis_id: 4cd3f2e9cb4caebaf0ef30a1f7802d11
+publisher: Springer Science and Business Media LLC
+ref: TheDynamicsAnTrapne2014
+title: The dynamics and regulators of cell fate decisions are revealed by pseudotemporal
+  ordering of single cells
+type: article
+url: http://dx.doi.org/10.1038/nbt.2859
+volume: '32'
+year: '2014'

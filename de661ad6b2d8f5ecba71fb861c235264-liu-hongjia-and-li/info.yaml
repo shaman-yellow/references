@@ -1,0 +1,35 @@
+author: Liu, Hongjia and Li, Huamei and Sharma, Amit and Huang, Wenjuan and Pan, Duo
+  and Gu, Yu and Lin, Lu and Sun, Xiao and Liu, Hongde
+author_list:
+- family: Liu
+  given: Hongjia
+- family: Li
+  given: Huamei
+- family: Sharma
+  given: Amit
+- family: Huang
+  given: Wenjuan
+- family: Pan
+  given: Duo
+- family: Gu
+  given: Yu
+- family: Lin
+  given: Lu
+- family: Sun
+  given: Xiao
+- family: Liu
+  given: Hongde
+doi: 10.1093/bib/bbad179
+files: []
+issn: 1467-5463
+issue: '3'
+journal: Briefings in bioinformatics
+papis_id: 402dc087e677793bc51b34e6480bfd0a
+pmid: '37183449'
+ref: ScannoADeconLiuH2023
+time-added: 2023-10-10-17:40:52
+title: 'scAnno: a deconvolution strategy-based automatic cell type annotation tool
+  for single-cell RNA-sequencing data sets'
+type: article
+volume: '24'
+year: 2023

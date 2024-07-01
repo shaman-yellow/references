@@ -1,0 +1,55 @@
+abstract: Differential expression analysis of genomic data types, such as RNA-sequencing
+  experiments, use linear models to determine the size and direction of the changes
+  in gene expression. For RNA-sequencing, there are several established software packages
+  for this purpose accompanied with analysis pipelines that are well described. However,
+  there are two crucial steps in the analysis process that can be a stumbling block
+  for many -- the set up an appropriate model via design matrices and the set up of
+  comparisons of interest via contrast matrices. These steps are particularly troublesome
+  because an extensive catalogue for design and contrast matrices does not currently
+  exist. One would usually search for example case studies across different platforms
+  and mix and match the advice from those sources to suit the dataset they have at
+  hand. This article guides the reader through the basics of how to set up design
+  and contrast matrices. We take a practical approach by providing code and graphical
+  representation of each case study, starting with simpler examples (e.g. models with
+  a single explanatory variable) and move onto more complex ones (e.g. interaction
+  models, mixed effects models, higher order time series and cyclical models). Although
+  our work has been written specifically with a               limma               -style
+  pipeline in mind, most of it is also applicable to other software packages for differential
+  expression analysis, and the ideas covered can be adapted to data analysis of other
+  high-throughput technologies. Where appropriate, we explain the interpretation and
+  differences between models to aid readers in their own model choices. Unnecessary
+  jargon and theory is omitted where possible so that our work is accessible to a
+  wide audience of readers, from beginners to those with experience in genomics data
+  analysis.
+author: Law, Charity W. and Zeglinski, Kathleen and Dong, Xueyi and Alhamdoosh, Monther
+  and Smyth, Gordon K. and Ritchie, Matthew E.
+author_list:
+- family: Law
+  given: Charity W.
+- family: Zeglinski
+  given: Kathleen
+- family: Dong
+  given: Xueyi
+- family: Alhamdoosh
+  given: Monther
+- family: Smyth
+  given: Gordon K.
+- family: Ritchie
+  given: Matthew E.
+doi: 10.12688/f1000research.27893.1
+file: /mnt/data/wizard/Zotero/storage/239UP2N8/Law et al. - 2020 - A guide to creating
+  design matrices for gene expre.pdf
+files:
+- aguidetocrealawc2020-a.pdf
+issn: 2046-1402
+journal: F1000Research
+langid: english
+month: December
+pages: '1444'
+papis_id: 9257686b96591ff574b30653a880efc6
+ref: AGuideToCreaLawC2020
+title: A Guide to Creating Design Matrices for Gene Expression Experiments
+type: article
+urldate: '2022-06-16'
+volume: '9'
+year: '2020'

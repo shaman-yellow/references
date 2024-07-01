@@ -1,0 +1,71 @@
+abstract: "<jats:title>Abstract</jats:title>\n               <jats:p>Summary: The\
+  \ rtracklayer package supports the integration of existing genome browsers with\
+  \ experimental data analyses performed in R. The user may (i) transfer annotation\
+  \ tracks to and from a genome browser and (ii) create and manipulate browser views\
+  \ to focus on a particular set of annotations in a specific genomic region. Currently,\
+  \ the UCSC genome browser is supported.</jats:p>\n               <jats:p>Availability:\
+  \ The package is freely available from http://www.bioconductor.org/. A quick-start\
+  \ vignette is included with the package.</jats:p>\n               <jats:p>Contact:\
+  \  mflawren@fhcrc.org</jats:p>"
+author: Lawrence, Michael and Gentleman, Robert and Carey, Vincent
+author_list:
+- affiliation:
+  - name: 1 Program in Computational Biology, Fred Hutchinson Cancer Research Center,
+      Seattle, WA 98102 and 2 Channing Laboratory, Harvard Medical School, Boston,
+      MA 02115, USA
+  family: Lawrence
+  given: Michael
+- affiliation:
+  - name: 1 Program in Computational Biology, Fred Hutchinson Cancer Research Center,
+      Seattle, WA 98102 and 2 Channing Laboratory, Harvard Medical School, Boston,
+      MA 02115, USA
+  family: Gentleman
+  given: Robert
+- affiliation:
+  - name: 1 Program in Computational Biology, Fred Hutchinson Cancer Research Center,
+      Seattle, WA 98102 and 2 Channing Laboratory, Harvard Medical School, Boston,
+      MA 02115, USA
+  family: Carey
+  given: Vincent
+citations:
+- author: Durbin
+  volume-title: General Feature Format
+  year: '2000'
+- article-title: 'GenomeGraphs: integrated genomic data visualization with R'
+  author: Durinck
+  doi: 10.1186/1471-2105-10-2
+  first-page: '2'
+  journal-title: BMC Bioinformatics
+  volume: '10'
+  year: '2009'
+- article-title: The human genome browser at UCSC
+  author: Kent
+  doi: 10.1101/gr.229102
+  first-page: '996'
+  journal-title: Genome Res.
+  volume: '12'
+  year: '2002'
+- author: UCSC Genome Bioinformatics Group
+  journal-title: Browser Extended Display Format
+  year: '2008'
+- author: UCSC Genome Bioinformatics Group
+  journal-title: Wiggle Format
+  year: '2008'
+doc_url: https://academic.oup.com/bioinformatics/article-pdf/25/14/1841/48993754/bioinformatics_25_14_1841.pdf
+doi: 10.1093/bioinformatics/btp328
+files:
+- rtracklayeranlawren2009.pdf
+issue: '14'
+journal: Bioinformatics
+language: en
+month: 7
+pages: 1841--1842
+papis_id: ede95e7d58905a278602c57b039c0066
+publisher: Oxford University Press (OUP)
+ref: RtracklayerAnLawren2009
+time-added: 2024-05-24-17:13:02
+title: 'rtracklayer: an R package for interfacing with genome browsers'
+type: article
+url: http://dx.doi.org/10.1093/bioinformatics/btp328
+volume: '25'
+year: 2009

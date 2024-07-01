@@ -1,0 +1,23 @@
+author: Melnikov, Arsenty D. and Tsentalovich, Yuri P. and Yanshole, Vadim V.
+author_list:
+- family: Melnikov
+  given: Arsenty D.
+- family: Tsentalovich
+  given: Yuri P.
+- family: Yanshole
+  given: Vadim V.
+doi: 10.1021/acs.analchem.9b04811
+files: []
+issn: 0003-2700, 1520-6882
+journal: Analytical Chemistry
+langid: english
+month: January
+number: '1'
+pages: 588--592
+papis_id: 6963b04ac23a60099b5b93478d22df12
+ref: DeepLearningFMelnik2020
+title: Deep Learning for the Precise Peak Detection in High-Resolution LC–MS Data
+type: article
+urldate: '2023-03-18'
+volume: '92'
+year: '2020'

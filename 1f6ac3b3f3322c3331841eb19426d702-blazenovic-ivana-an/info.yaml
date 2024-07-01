@@ -1,0 +1,77 @@
+abstract: Urine metabolites are used in many clinical and biomedical studies but usually
+  only for a few classic compounds. Metabolomics detects vastly more metabolic  signals
+  that may be used to precisely define the health status of individuals.  However,
+  many compounds remain unidentified, hampering biochemical conclusions.  Here, we
+  annotate all metabolites detected by two untargeted metabolomic assays,  hydrophilic
+  interaction chromatography (HILIC)-Q Exactive HF mass spectrometry  and charged
+  surface hybrid (CSH)-Q Exactive HF mass spectrometry. Over 9,000  unique metabolite
+  signals were detected, of which 42\% triggered MS/MS  fragmentations in data-dependent
+  mode. On the highest Metabolomics Standards  Initiative (MSI) confidence level 1,
+  we identified 175 compounds using authentic  standards with precursor mass, retention
+  time, and MS/MS matching. An additional  578 compounds were annotated by precursor
+  accurate mass and MS/MS matching alone,  MSI level 2, including a novel library
+  specifically geared at acylcarnitines  (CarniBlast). The rest of the metabolome
+  is usually left unannotated. To fill  this gap, we used the in silico fragmentation
+  tool CSI:FingerID and the new NIST  hybrid search to annotate all further compounds
+  (MSI level 3). Testing the  top-ranked metabolites in CSI:Finger ID annotations
+  yielded 40\% accuracy when  applied to the MSI level 1 identified compounds. We
+  classified all MSI level 3  annotations by the NIST hybrid search using the ClassyFire
+  ontology into 21  superclasses that were further distinguished into 184 chemical
+  classes.  ClassyFire annotations showed that the previously unannotated urine metabolome  consists
+  of 28\% derivatives of organic acids, 16\% heterocyclics, and 16\% lipids  as major
+  classes.
+address: '{United States}'
+author: Blaženović, Ivana and Kind, Tobias and Sa, Michael R. and Ji, Jian and Vaniya,
+  Arpana and Wancewicz, Benjamin and Roberts, Bryan S. and Hrvoje, Torbašinovi\,́
+  and Lee, Tack and Mehta, Sajjan S. and Showalter, Megan R. and Song, Hosook and
+  Kwok, Jessica and Jahn, Dieter and Kim, Jayoung and Fiehn, Oliver
+author_list:
+- family: Blaženović
+  given: Ivana
+- family: Kind
+  given: Tobias
+- family: Sa
+  given: Michael R.
+- family: Ji
+  given: Jian
+- family: Vaniya
+  given: Arpana
+- family: Wancewicz
+  given: Benjamin
+- family: Roberts
+  given: Bryan S.
+- family: Hrvoje
+  given: Torbašinovi\,́
+- family: Lee
+  given: Tack
+- family: Mehta
+  given: Sajjan S.
+- family: Showalter
+  given: Megan R.
+- family: Song
+  given: Hosook
+- family: Kwok
+  given: Jessica
+- family: Jahn
+  given: Dieter
+- family: Kim
+  given: Jayoung
+- family: Fiehn
+  given: Oliver
+doi: 10.1021/acs.analchem.8b04698
+files: []
+issn: 1520-6882 0003-2700
+journal: Analytical chemistry
+keywords: '*Metabolomics,Carnitine/analogs \& derivatives/*metabolism/urine,{Chromatography,
+  High Pressure Liquid},Humans,Hydrophobic and Hydrophilic Interactions,Mass Spectrometry,Phenotype'
+langid: english
+month: February
+number: '3'
+pages: 2155--2162
+papis_id: 1dcf50c63b21b5770912f24471d74b75
+pmid: '30608141'
+ref: StructureAnnotBlazen2019
+title: Structure Annotation of All Mass Spectra in Untargeted Metabolomics.
+type: article
+volume: '91'
+year: '2019'

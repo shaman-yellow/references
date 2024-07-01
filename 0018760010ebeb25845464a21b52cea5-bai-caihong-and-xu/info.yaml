@@ -1,0 +1,31 @@
+author: Bai, Caihong and Xu, Suyun and Tang, Jingyi and Zhang, Yuxi and Yang, Jiahui
+  and Hu, Kaifeng
+author_list:
+- family: Bai
+  given: Caihong
+- family: Xu
+  given: Suyun
+- family: Tang
+  given: Jingyi
+- family: Zhang
+  given: Yuxi
+- family: Yang
+  given: Jiahui
+- family: Hu
+  given: Kaifeng
+doi: 10.1016/j.chroma.2022.463086
+files: []
+issn: 00219673
+journal: Journal of Chromatography A
+langid: english
+month: June
+pages: '463086'
+papis_id: 11e2eac464bc77acb89fb8eb443218ee
+ref: AShapeOrientBaiC2022
+title: A `Shape-Orientated' Algorithm Employing an Adapted Marr Wavelet and Shape
+  Matching Index Improves the Performance of Continuous Wavelet Transform for Chromatographic
+  Peak Detection and Quantification
+type: article
+urldate: '2023-03-18'
+volume: '1673'
+year: '2022'

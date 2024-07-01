@@ -1,0 +1,25 @@
+author: Rauf, Imran and Rasche, Florian and Nicolas, François and Böcker, Sebastian
+author_list:
+- family: Rauf
+  given: Imran
+- family: Rasche
+  given: Florian
+- family: Nicolas
+  given: François
+- family: Böcker
+  given: Sebastian
+doi: 10.1089/cmb.2012.0083
+files: []
+issn: 1066-5277, 1557-8666
+journal: Journal of Computational Biology
+langid: english
+month: April
+number: '4'
+pages: 311--321
+papis_id: e062e8cba6a4b562a4785f36752b92d0
+ref: FindingMaximumRauf2013
+title: Finding Maximum Colorful Subtrees in Practice
+type: article
+urldate: '2021-11-14'
+volume: '20'
+year: '2013'

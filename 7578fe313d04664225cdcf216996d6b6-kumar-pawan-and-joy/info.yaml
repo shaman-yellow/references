@@ -1,0 +1,23 @@
+author: Kumar, Pawan and Joy, Joseph and Pandey, Ashutosh and Gupta, Dinesh
+author_list:
+- family: Kumar
+  given: Pawan
+- family: Joy
+  given: Joseph
+- family: Pandey
+  given: Ashutosh
+- family: Gupta
+  given: Dinesh
+doi: 10.1371/journal.pone.0183318
+files: []
+issn: 1932-6203
+issue: '8'
+journal: PloS one
+papis_id: 7ee362062b8937e763d4d09df17134c6
+pmid: '28813517'
+ref: PrmepredAProKumar2017
+time-added: 2024-03-08-16:39:49
+title: 'PRmePRed: A protein arginine methylation prediction tool'
+type: article
+volume: '12'
+year: 2017

@@ -1,0 +1,62 @@
+abstract: Conjugated linoleic acids (CLAs) and conjugated linolenic acids (CLNAs)
+  have gained significant attention due to their anticarcinogenic and lipid/energy
+  metabolism-modulatory effects. However, their concentration in foodstuffs is insufficient
+  for any therapeutic application to be implemented. From a biotechnological standpoint,
+  microbial production of these conjugated fatty acids (CFAs) has been explored as
+  an alternative, and strains of the genera Propionibacterium, Lactobacillus, and
+  Bifidobacterium have shown promising producing capacities. Current screening research
+  works are generally based on direct analytical determination of production capacity
+  (e.g., trial and error), representing an important bottleneck in these studies.
+  This review aims to summarize the available information regarding identified genes
+  and proteins involved in CLA/CLNA production by these groups of bacteria and, consequently,
+  the possible enzymatic reactions behind such metabolic processes. Linoleate isomerase
+  (LAI) was the first enzyme to be described to be involved in the microbiological
+  transformation of linoleic acids (LAs) and linolenic acids (LNAs) into CFA isomers.
+  Thus, the availability of lai gene sequences has allowed the development of genetic
+  screening tools. Nevertheless, several studies have reported that LAIs have significant
+  homology with myosin-cross-reactive antigen (MCRA) proteins, which are involved
+  in the synthesis of hydroxy fatty acids, as shown by hydratase activity. Furthermore,
+  it has been suggested that CLA and/or CLNA production results from a stress response
+  performed by the activation of more than one gene in a multiple-step reaction. Studies
+  on CFA biochemical pathways are essential to understand and characterize the metabolic
+  mechanism behind this process, unraveling all the gene products that may be involved.
+  As some of these bacteria have shown modulation of lipid metabolism in vivo, further
+  research to be focused on this topic may help us to understand the role of the gut
+  microbiota in human health.
+author: Salsinha, Ana S. and Pimentel, Lígia L. and Fontes, Ana L. and Gomes, Ana
+  M. and Rodr\ǵuez-Alcalá, Luis M.
+author_list:
+- family: Salsinha
+  given: Ana S.
+- family: Pimentel
+  given: Lígia L.
+- family: Fontes
+  given: Ana L.
+- family: Gomes
+  given: Ana M.
+- family: Rodr\ǵuez-Alcalá
+  given: Luis M.
+doi: 10.1128/MMBR.00019-18
+file: /mnt/data/wizard/Zotero/storage/ST6CRMWC/Salsinha et al. - 2018 - Microbial
+  Production of Conjugated Linoleic Acid a.pdf
+files: []
+issn: 1098-5557
+journal: 'Microbiology and molecular biology reviews: MMBR'
+keywords: Animals,Bacterial Proteins,bifidobacteria,bifidobacterium,Bifidobacterium,conjugated
+  linoleic acid,conjugated linolenic acid,genetic screening,Humans,hydratases,Isomerases,lactic
+  acid bacteria,Lactobacillus,linoleate isomerases,{Linoleic Acids, Conjugated},Linolenic
+  Acids,Lipid Metabolism,myosin-cross-reactive antigen protein,Propionibacterium,Rats,{Rats,
+  Wistar},rumen biohydrogenation
+langid: english
+month: December
+number: '4'
+pages: e00019-18
+papis_id: e3dcb34132874ab4ad652b26ea3bea5c
+pmcid: PMC6298612
+pmid: '30158254'
+ref: MicrobialProduSalsin2018
+title: Microbial Production of Conjugated Linoleic Acid and Conjugated Linolenic Acid
+  Relies on a Multienzymatic System
+type: article
+volume: '82'
+year: '2018'

@@ -1,0 +1,33 @@
+author: Yeung, Jake and Mermet, Jérôme and Jouffe, Céline and Marquis, Julien and
+  Charpagne, Aline and Gachon, Frédéric and Naef, Felix
+author_list:
+- family: Yeung
+  given: Jake
+- family: Mermet
+  given: Jérôme
+- family: Jouffe
+  given: Céline
+- family: Marquis
+  given: Julien
+- family: Charpagne
+  given: Aline
+- family: Gachon
+  given: Frédéric
+- family: Naef
+  given: Felix
+doi: 10.1101/gr.222430.117
+files:
+- transcriptionfyeung2017-a.pdf
+issue: '2'
+journal: Genome Research
+month: '12'
+page: 182-191
+papis_id: e3a522cdffada894dd0b9318a2f65025
+publisher: Cold Spring Harbor Laboratory
+ref: TranscriptionFYeung2017
+title: Transcription factor activity rhythms and tissue-specific chromatin interactions
+  explain circadian gene expression across organs
+type: article
+url: http://dx.doi.org/10.1101/gr.222430.117
+volume: '28'
+year: '2017'

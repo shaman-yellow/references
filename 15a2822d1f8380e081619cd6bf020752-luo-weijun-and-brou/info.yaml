@@ -1,0 +1,21 @@
+author: Luo, Weijun and Brouwer, Cory
+author_list:
+- family: Luo
+  given: Weijun
+- family: Brouwer
+  given: Cory
+doi: 10.1093/bioinformatics/btt285
+files: []
+issn: 1367-4803
+issue: '14'
+journal: Bioinformatics (Oxford, England)
+pages: 1830--1831
+papis_id: 416b5dc746057539aef4d752e460fb29
+pmid: '23740750'
+ref: PathviewAnRLuoW2013
+time-added: 2024-04-07-15:02:55
+title: 'Pathview: an R/Bioconductor package for pathway-based data integration and
+  visualization'
+type: article
+volume: '29'
+year: 2013

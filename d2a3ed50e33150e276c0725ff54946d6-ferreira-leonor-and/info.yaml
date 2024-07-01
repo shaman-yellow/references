@@ -1,0 +1,57 @@
+abstract: The Blue Biotechnology and Ecotoxicology Culture Collection (LEGE-CC) holds
+  a vast number of cyanobacteria whose chemical richness is still largely unknown.
+  To  expedite its bioactivity screening we developed a natural products library.
+  Sixty  strains and four environmental samples were chromatographed, using a  semiautomatic
+  HPLC system, yielding 512 fractions that were tested for their  cytotoxic activity
+  against 2D and 3D models of human colon carcinoma (HCT 116),  and non-cancerous
+  cell line hCMEC/D3. Six fractions showed high cytotoxicity  against 2D and 3D cell
+  models (group A), and six other fractions were selected by  their effects on 3D
+  cells (group B). The metabolome of each group was organized  and characterized using
+  the MolNetEnhancer workflow, and its processing with  MetaboAnalyst allowed discrimination
+  of the mass features with the highest fold  change, and thus the ones that might
+  be bioactive. Of those, mass features  without precedented identification were mostly
+  found in group A, indicating seven  possible novel bioactive molecules, alongside
+  in silico putative annotation of  five cytotoxic compounds. Manual dereplication
+  of group B tentatively identified  nine pheophytin and pheophorbide derivatives.
+  Our approach enabled the selection  of 7 out of 60 cyanobacterial strains for anticancer
+  drug discovery, providing  new data concerning the chemical composition of these
+  cyanobacteria.
+author: Ferreira, Leonor and Morais, João and Preto, Marco and Silva, Raquel and Urbatzka,
+  Ralph and Vasconcelos, Vitor and Reis, Mariana
+author_list:
+- family: Ferreira
+  given: Leonor
+- family: Morais
+  given: João
+- family: Preto
+  given: Marco
+- family: Silva
+  given: Raquel
+- family: Urbatzka
+  given: Ralph
+- family: Vasconcelos
+  given: Vitor
+- family: Reis
+  given: Mariana
+doi: 10.3390/md19110633
+file: /mnt/data/wizard/Zotero/storage/TMM2NX66/Ferreira et al. - 2021 - Uncovering
+  the Bioactive Potential of a Cyanobacte.pdf
+files: []
+issn: 1660-3397
+journal: Marine drugs
+keywords: '*Cyanobacteria,3D spheroids,Animals,Antineoplastic Agents/chemistry/*pharmacology,Aquatic
+  Organisms,Biological Products,{Cell Line, Tumor/drug effects},cyanobacteria,cytotoxicity,Drug
+  Discovery,GNPS,Humans,MetaboAnalyst,Metabolomics,natural products library,untargeted
+  metabolomics'
+langid: english
+month: November
+number: '11'
+papis_id: e82e6ce8097bd4d274ecb7096fdffb66
+pmcid: PMC8624515
+pmid: '34822504'
+ref: UncoveringTheFerrei2021
+title: Uncovering the Bioactive Potential of a Cyanobacterial Natural Products Library
+  Aided by Untargeted Metabolomics.
+type: article
+volume: '19'
+year: '2021'

@@ -1,0 +1,63 @@
+abstract: A toxicogenomics approach was used to qualitatively and quantitatively compare
+  the gene expression changes in human and rat primary hepatocytes exposed to 2,3,7,8-tetrachlorodibenzo-p-dioxin
+  (TCDD). Hepatocytes from five individual rats and five individual humans were exposed
+  for 24 h to 11 concentrations of TCDD ranging from 0.00001 to 100nM and a vehicle
+  control. Gene expression changes were analyzed using whole-genome microarrays containing
+  13,002 orthologs. Significant changes in expression of individual orthologs at any
+  concentration (fold change [FC] {$\pm$} 1.5 and false discovery rate {$<$} 0.05)
+  were higher in the rat (1547) compared with human hepatocytes (475). Only 158 differentially
+  expressed orthologs were common between rats and humans. Enrichment analysis was
+  performed on the differentially expressed orthologs in each species with 49 and
+  34 enriched human and rat pathways, respectively. Only 12 enriched pathways were
+  shared between the two species. The results demonstrate significant cross-species
+  differences in expression at both the gene and pathway level. Benchmark dose analysis
+  of gene expression changes showed an average 18-fold cross-species difference in
+  potency among differentially expressed orthologs with the rat more sensitive than
+  the human. Similar cross-species differences in potency were observed for signaling
+  pathways. Using the maximum FC in gene expression as a measure of efficacy, the
+  human hepatocytes showed on average a 20\% lower efficacy among the individual orthologs
+  showing differential expression. The results provide evidence for divergent cross-species
+  gene expression changes in response to TCDD and are consistent with epidemiological
+  and clinical evidence showing humans to be less sensitive to TCDD-induced hepatotoxicity.
+author: Black, Michael B. and Budinsky, Robert A. and Dombkowski, Alan and Cukovic,
+  Daniela and LeCluyse, Edward L. and Ferguson, Stephen S. and Thomas, Russell S.
+  and Rowlands, J. Craig
+author_list:
+- family: Black
+  given: Michael B.
+- family: Budinsky
+  given: Robert A.
+- family: Dombkowski
+  given: Alan
+- family: Cukovic
+  given: Daniela
+- family: LeCluyse
+  given: Edward L.
+- family: Ferguson
+  given: Stephen S.
+- family: Thomas
+  given: Russell S.
+- family: Rowlands
+  given: J. Craig
+doi: 10.1093/toxsci/kfs069
+file: /mnt/data/wizard/Zotero/storage/GREEI9NT/Black et al. - 2012 - Cross-species
+  comparisons of transcriptomic altera.pdf
+files: []
+issn: 1096-0929
+journal: 'Toxicological Sciences: An Official Journal of the Society of Toxicology'
+keywords: Adult,Animals,{Cells, Cultured},{Dose-Response Relationship, Drug},Environmental
+  Pollutants,Female,Gene Expression,Gene Expression Profiling,Genome-Wide Association
+  Study,Hepatocytes,Humans,Middle Aged,Oligonucleotide Array Sequence Analysis,Polychlorinated
+  Dibenzodioxins,Rats,{Rats, Sprague-Dawley},Risk Assessment,Species Specificity,Transcriptome
+langid: english
+month: May
+number: '1'
+pages: 199--215
+papis_id: b3d2f23e9f3da6f288e482f4933e5ed8
+pmid: '22298810'
+ref: CrossSpeciesCBlack2012
+title: Cross-Species Comparisons of Transcriptomic Alterations in Human and Rat Primary
+  Hepatocytes Exposed to 2,3,7,8-Tetrachlorodibenzo-p-Dioxin
+type: article
+volume: '127'
+year: '2012'

@@ -1,0 +1,21 @@
+author: Seeliger, Daniel and de Groot, Bert L.
+author_list:
+- family: Seeliger
+  given: Daniel
+- family: de Groot
+  given: Bert L.
+doi: 10.1007/s10822-010-9352-6
+files:
+- liganddockingseelig2010-a.pdf
+issue: '5'
+journal: Journal of Computer-Aided Molecular Design
+month: '4'
+page: 417-422
+papis_id: b61019f4e81a6eb41a855799beaefd80
+publisher: Springer Science and Business Media LLC
+ref: LigandDockingSeelig2010
+title: Ligand docking and binding site analysis with PyMOL and Autodock/Vina
+type: article
+url: http://dx.doi.org/10.1007/s10822-010-9352-6
+volume: '24'
+year: '2010'

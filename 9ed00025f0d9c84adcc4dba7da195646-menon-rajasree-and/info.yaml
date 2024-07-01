@@ -1,0 +1,116 @@
+abstract: COVID-19 morbidity and mortality are increased via unknown mechanisms in
+  patients with diabetes and kidney disease. SARS-CoV-2 uses angiotensin-converting
+  enzyme 2 (ACE2) for entry into host cells. Because ACE2 is a susceptibility factor
+  for infection, we investigated how diabetic kidney disease and medications alter
+  ACE2 receptor expression in kidneys. Single cell RNA profiling of kidney biopsies
+  from healthy living donors and patients with diabetic kidney disease revealed ACE2
+  expression primarily in proximal tubular epithelial cells. This cell-specific localization
+  was confirmed by in situ hybridization. ACE2 expression levels were unaltered by
+  exposures to renin-angiotensin-aldosterone system inhibitors in diabetic kidney
+  disease. Bayesian integrative analysis of a large compendium of public -omics datasets
+  identified molecular network modules induced in ACE2-expressing proximal tubular
+  epithelial cells in diabetic kidney disease (searchable at hb.flatironinstitute.org/covid-kidney)
+  that were linked to viral entry, immune activation, endomembrane reorganization,
+  and RNA processing. The diabetic kidney disease ACE2-positive proximal tubular epithelial
+  cell module overlapped with expression patterns seen in SARS-CoV-2-infected cells.
+  Similar cellular programs were seen in ACE2-positive proximal tubular epithelial
+  cells obtained from urine samples of 13 hospitalized patients with COVID-19, suggesting
+  a consistent ACE2-coregulated proximal tubular epithelial cell expression program
+  that may interact with the SARS-CoV-2 infection processes. Thus SARS-CoV-2 receptor
+  networks can seed further research into risk stratification and therapeutic strategies
+  for COVID-19-related kidney damage.
+author: Menon, Rajasree and Otto, Edgar A. and Sealfon, Rachel and Nair, Viji and
+  Wong, Aaron K. and Theesfeld, Chandra L. and Chen, Xi and Wang, Yuan and Boppana,
+  Avinash S. and Luo, Jinghui and Yang, Yingbao and Kasson, Peter M. and Schaub, Jennifer
+  A. and Berthier, Celine C. and Eddy, Sean and Lienczewski, Chrysta C. and Godfrey,
+  Bradley and Dagenais, Susan L. and Sohaney, Ryann and Hartman, John and Fermin,
+  Damian and Subramanian, Lalita and Looker, Helen C. and Harder, Jennifer L. and
+  Mariani, Laura H. and Hodgin, Jeffrey B. and Sexton, Jonathan Z. and Wobus, Christiane
+  E. and Naik, Abhijit S. and Nelson, Robert G. and Troyanskaya, Olga G. and Kretzler,
+  Matthias
+author_list:
+- family: Menon
+  given: Rajasree
+- family: Otto
+  given: Edgar A.
+- family: Sealfon
+  given: Rachel
+- family: Nair
+  given: Viji
+- family: Wong
+  given: Aaron K.
+- family: Theesfeld
+  given: Chandra L.
+- family: Chen
+  given: Xi
+- family: Wang
+  given: Yuan
+- family: Boppana
+  given: Avinash S.
+- family: Luo
+  given: Jinghui
+- family: Yang
+  given: Yingbao
+- family: Kasson
+  given: Peter M.
+- family: Schaub
+  given: Jennifer A.
+- family: Berthier
+  given: Celine C.
+- family: Eddy
+  given: Sean
+- family: Lienczewski
+  given: Chrysta C.
+- family: Godfrey
+  given: Bradley
+- family: Dagenais
+  given: Susan L.
+- family: Sohaney
+  given: Ryann
+- family: Hartman
+  given: John
+- family: Fermin
+  given: Damian
+- family: Subramanian
+  given: Lalita
+- family: Looker
+  given: Helen C.
+- family: Harder
+  given: Jennifer L.
+- family: Mariani
+  given: Laura H.
+- family: Hodgin
+  given: Jeffrey B.
+- family: Sexton
+  given: Jonathan Z.
+- family: Wobus
+  given: Christiane E.
+- family: Naik
+  given: Abhijit S.
+- family: Nelson
+  given: Robert G.
+- family: Troyanskaya
+  given: Olga G.
+- family: Kretzler
+  given: Matthias
+doi: 10.1016/j.kint.2020.09.015
+files: []
+issn: 1523-1755
+journal: Kidney International
+keywords: ACE inhibitors,acute kidney injury,Adult,Aged,Angiotensin Receptor Antagonists,Angiotensin-Converting
+  Enzyme 2,Angiotensin-Converting Enzyme Inhibitors,Case-Control Studies,COVID-19,Diabetic
+  Nephropathies,diabetic nephropathy,Female,Gene Expression Profiling,Gene Regulatory
+  Networks,Host-Pathogen Interactions,Humans,{Kidney Tubules, Proximal},Male,Middle
+  Aged,molecular networks,proximal tubules,SARS-CoV-2,scRNAseq
+langid: english
+month: December
+number: '6'
+pages: 1502--1518
+papis_id: c74c19272beccbeef6816f29b0b2741e
+pmcid: PMC7543950
+pmid: '33038424'
+ref: SarsCov2ReceMenon2020
+title: SARS-CoV-2 Receptor Networks in Diabetic and COVID-19-associated Kidney Disease
+type: article
+volume: '98'
+year: '2020'

@@ -1,0 +1,33 @@
+author: Li, Shengyu and Zhang, Pengzhi and Chen, Weiqing and Ye, Lingqun and Brannan,
+  Kristopher W. and Le, Nhat-Tu and Abe, Jun-ichi and Cooke, John P. and Wang, Guangyu
+author_list:
+- family: Li
+  given: Shengyu
+- family: Zhang
+  given: Pengzhi
+- family: Chen
+  given: Weiqing
+- family: Ye
+  given: Lingqun
+- family: Brannan
+  given: Kristopher W.
+- family: Le
+  given: Nhat-Tu
+- family: Abe
+  given: Jun-ichi
+- family: Cooke
+  given: John P.
+- family: Wang
+  given: Guangyu
+doi: 10.1038/s41587-023-01728-5
+files:
+- arelayvelocitlish2023-a.pdf
+journal: Nature Biotechnology
+month: '4'
+papis_id: 08022ec7a120b51a92ce36fa8ade3c6b
+publisher: Springer Science and Business Media LLC
+ref: ARelayVelocitLiSh2023
+title: A relay velocity model infers cell-dependent RNA velocity
+type: article
+url: http://dx.doi.org/10.1038/s41587-023-01728-5
+year: '2023'

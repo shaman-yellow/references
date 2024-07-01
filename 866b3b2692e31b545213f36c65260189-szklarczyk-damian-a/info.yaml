@@ -1,0 +1,551 @@
+abstract: '<jats:title>Abstract</jats:title><jats:p>Cellular life depends on a complex
+  web of functional associations between biomolecules. Among these associations, protein–protein
+  interactions are particularly important due to their versatility, specificity and
+  adaptability. The STRING database aims to integrate all known and predicted associations
+  between proteins, including both physical interactions as well as functional associations.
+  To achieve this, STRING collects and scores evidence from a number of sources: (i)
+  automated text mining of the scientific literature, (ii) databases of interaction
+  experiments and annotated complexes/pathways, (iii) computational interaction predictions
+  from co-expression and from conserved genomic context and (iv) systematic transfers
+  of interaction evidence from one organism to another. STRING aims for wide coverage;
+  the upcoming version 11.5 of the resource will contain more than 14 000 organisms.
+  In this update paper, we describe changes to the text-mining system, a new scoring-mode
+  for physical interactions, as well as extensive user interface features for customizing,
+  extending and sharing protein networks. In addition, we describe how to query STRING
+  with genome-wide, experimental data, including the automated detection of enriched
+  functionalities and potential biases in the user''s query data. The STRING resource
+  is available online, at https://string-db.org/.</jats:p>'
+author: Szklarczyk, Damian and Gable, Annika L and Nastou, Katerina C and Lyon, David
+  and Kirsch, Rebecca and Pyysalo, Sampo and Doncheva, Nadezhda T and Legeay, Marc
+  and Fang, Tao and Bork, Peer and Jensen, Lars J and von Mering, Christian
+author_list:
+- affiliation:
+  - name: Department of Molecular Life Sciences and Swiss Institute of Bioinformatics,
+      University of Zurich, 8057 Zurich, Switzerland
+  family: Szklarczyk
+  given: Damian
+- affiliation:
+  - name: Department of Molecular Life Sciences and Swiss Institute of Bioinformatics,
+      University of Zurich, 8057 Zurich, Switzerland
+  family: Gable
+  given: Annika L
+- affiliation:
+  - name: Novo Nordisk Foundation Center for Protein Research, University of Copenhagen,
+      2200 Copenhagen N, Denmark
+  family: Nastou
+  given: Katerina C
+- affiliation:
+  - name: Department of Molecular Life Sciences and Swiss Institute of Bioinformatics,
+      University of Zurich, 8057 Zurich, Switzerland
+  family: Lyon
+  given: David
+- affiliation:
+  - name: Novo Nordisk Foundation Center for Protein Research, University of Copenhagen,
+      2200 Copenhagen N, Denmark
+  family: Kirsch
+  given: Rebecca
+- affiliation:
+  - name: TurkuNLP Group, Department of Future Technologies, University of Turku, 20014
+      Turun Yliopisto, Finland
+  family: Pyysalo
+  given: Sampo
+- affiliation:
+  - name: Novo Nordisk Foundation Center for Protein Research, University of Copenhagen,
+      2200 Copenhagen N, Denmark
+  family: Doncheva
+  given: Nadezhda T
+- affiliation:
+  - name: Novo Nordisk Foundation Center for Protein Research, University of Copenhagen,
+      2200 Copenhagen N, Denmark
+  family: Legeay
+  given: Marc
+- affiliation:
+  - name: Department of Molecular Life Sciences and Swiss Institute of Bioinformatics,
+      University of Zurich, 8057 Zurich, Switzerland
+  family: Fang
+  given: Tao
+- affiliation:
+  - name: Structural and Computational Biology Unit, European Molecular Biology Laboratory,
+      69117 Heidelberg, Germany
+  - name: Molecular Medicine Partnership Unit, University of Heidelberg and European
+      Molecular Biology Laboratory, 69117 Heidelberg, Germany
+  - name: Max Delbrück Centre for Molecular Medicine, 13125 Berlin, Germany
+  - name: Department of Bioinformatics, Biozentrum, University of Würzburg, 97074
+      Würzburg, Germany
+  family: Bork
+  given: Peer
+- affiliation:
+  - name: Novo Nordisk Foundation Center for Protein Research, University of Copenhagen,
+      2200 Copenhagen N, Denmark
+  family: Jensen
+  given: Lars J
+- affiliation:
+  - name: Department of Molecular Life Sciences and Swiss Institute of Bioinformatics,
+      University of Zurich, 8057 Zurich, Switzerland
+  family: von Mering
+  given: Christian
+citations:
+- article-title: 'Network biology: understanding the cell''s functional organization'
+  author: Barabasi
+  doi: 10.1038/nrg1272
+  first-page: '101'
+  journal-title: Nat. Rev. Genet.
+  volume: '5'
+  year: '2004'
+- article-title: Network biology concepts in complex disease comorbidities
+  author: Hu
+  doi: 10.1038/nrg.2016.87
+  first-page: '615'
+  journal-title: Nat. Rev. Genet.
+  volume: '17'
+  year: '2016'
+- article-title: 'A paradigm shift in medicine: A comprehensive review of network-based
+    approaches'
+  author: Conte
+  doi: 10.1016/j.bbagrm.2019.194416
+  first-page: '194416'
+  journal-title: Biochim. Biophys. Acta Gene Regul. Mech.
+  volume: '1863'
+  year: '2020'
+- article-title: 'Network propagation: a universal amplifier of genetic associations'
+  author: Cowen
+  doi: 10.1038/nrg.2017.38
+  first-page: '551'
+  journal-title: Nat. Rev. Genet.
+  volume: '18'
+  year: '2017'
+- article-title: Combining guilt-by-association and guilt-by-profiling to predict
+    Saccharomyces cerevisiae gene function
+  author: Tian
+  doi: 10.1186/gb-2008-9-s1-s7
+  first-page: S7
+  issue: Suppl.1
+  journal-title: Genome Biol.
+  volume: '9'
+  year: '2008'
+- article-title: Exploring modularity in biological networks
+  author: Serban
+  doi: 10.1098/rstb.2019.0316
+  first-page: '20190316'
+  journal-title: Philos. Trans. R. Soc. Lond. B Biol. Sci.
+  volume: '375'
+  year: '2020'
+- article-title: Modular organization of protein interaction networks
+  author: Luo
+  doi: 10.1093/bioinformatics/btl562
+  first-page: '207'
+  journal-title: Bioinformatics
+  volume: '23'
+  year: '2007'
+- article-title: Assessment of network module identification across complex diseases
+  author: Choobdar
+  doi: 10.1038/s41592-019-0509-5
+  first-page: '843'
+  journal-title: Nat. Methods
+  volume: '16'
+  year: '2019'
+- article-title: Next-generation machine learning for biological networks
+  author: Camacho
+  doi: 10.1016/j.cell.2018.05.015
+  first-page: '1581'
+  journal-title: Cell
+  volume: '173'
+  year: '2018'
+- article-title: 'deepNF: deep network fusion for protein function prediction'
+  author: Gligorijevic
+  doi: 10.1093/bioinformatics/bty440
+  first-page: '3873'
+  journal-title: Bioinformatics
+  volume: '34'
+  year: '2018'
+- article-title: 'Drug repurposing: progress, challenges and recommendations'
+  author: Pushpakom
+  doi: 10.1038/nrd.2018.168
+  first-page: '41'
+  journal-title: Nat. Rev. Drug Discov.
+  volume: '18'
+  year: '2019'
+- article-title: A review of network-based approaches to drug repositioning
+  author: Lotfi Shahreza
+  doi: 10.1093/bib/bbx017
+  first-page: '878'
+  journal-title: Brief. Bioinform.
+  volume: '19'
+  year: '2018'
+- article-title: Leveraging multiple gene networks to prioritize GWAS candidate genes
+    via network representation learning
+  author: Wu
+  doi: 10.1016/j.ymeth.2018.06.002
+  first-page: '41'
+  journal-title: Methods
+  volume: '145'
+  year: '2018'
+- article-title: 'Genome-wide functional association networks: background, data &
+    state-of-the-art resources'
+  author: Guala
+  doi: 10.1093/bib/bbz064
+  first-page: '1224'
+  journal-title: Brief. Bioinform.
+  volume: '21'
+  year: '2020'
+- article-title: A combined algorithm for genome-wide prediction of protein function
+  author: Marcotte
+  doi: 10.1038/47048
+  first-page: '83'
+  journal-title: Nature
+  volume: '402'
+  year: '1999'
+- article-title: 'Predicting protein function by genomic context: quantitative evaluation
+    and qualitative inferences'
+  author: Huynen
+  doi: 10.1101/gr.10.8.1204
+  first-page: '1204'
+  journal-title: Genome Res.
+  volume: '10'
+  year: '2000'
+- article-title: Functional associations of proteins in entire genomes by means of
+    exhaustive detection of gene fusions
+  author: Enright
+  doi: 10.1186/gb-2001-2-9-research0034
+  first-page: RESEARCH0034
+  journal-title: Genome Biol.
+  volume: '2'
+  year: '2001'
+- article-title: A Bayesian networks approach for predicting protein-protein interactions
+    from genomic data
+  author: Jansen
+  doi: 10.1126/science.1087361
+  first-page: '449'
+  journal-title: Science
+  volume: '302'
+  year: '2003'
+- article-title: Assessing the limits of genomic data integration for predicting protein
+    networks
+  author: Lu
+  doi: 10.1101/gr.3610305
+  first-page: '945'
+  journal-title: Genome Res.
+  volume: '15'
+  year: '2005'
+- article-title: Bayesian inference for genomic data integration reduces misclassification
+    rate in predicting protein-protein interactions
+  author: Xing
+  doi: 10.1371/journal.pcbi.1002110
+  first-page: e1002110
+  journal-title: PLoS Comput. Biol.
+  volume: '7'
+  year: '2011'
+- article-title: 'Integrating multiple protein-protein interaction networks to prioritize
+    disease genes: a Bayesian regression approach'
+  author: Zhang
+  doi: 10.1186/1471-2105-12-S1-S11
+  first-page: S11
+  issue: Suppl.1
+  journal-title: BMC Bioinformatics
+  volume: '12'
+  year: '2011'
+- article-title: Systematic evaluation of molecular networks for discovery of disease
+    genes
+  author: Huang
+  doi: 10.1016/j.cels.2018.03.001
+  first-page: '484'
+  journal-title: Cell Syst.
+  volume: '6'
+  year: '2018'
+- article-title: 'FunCoup 4: new species, data, and visualization'
+  author: Ogris
+  doi: 10.1093/nar/gkx1138
+  first-page: D601
+  journal-title: Nucleic Acids Res.
+  volume: '46'
+  year: '2018'
+- article-title: 'The GeneMANIA prediction server: biological network integration
+    for gene prioritization and predicting gene function'
+  author: Warde-Farley
+  doi: 10.1093/nar/gkq537
+  first-page: W214
+  journal-title: Nucleic Acids Res.
+  volume: '38'
+  year: '2010'
+- article-title: Understanding multicellular function and disease with human tissue-specific
+    networks
+  author: Greene
+  doi: 10.1038/ng.3259
+  first-page: '569'
+  journal-title: Nat. Genet.
+  volume: '47'
+  year: '2015'
+- article-title: 'IMP 2.0: a multi-species functional genomics portal for integration,
+    visualization and prediction of protein functions and networks'
+  author: Wong
+  doi: 10.1093/nar/gkv486
+  first-page: W128
+  journal-title: Nucleic Acids Res.
+  volume: '43'
+  year: '2015'
+- article-title: 'IID 2018 update: context-specific physical protein-protein interactions
+    in human, model organisms and domesticated species'
+  author: Kotlyar
+  doi: 10.1093/nar/gky1037
+  first-page: D581
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2019'
+- article-title: 'The ConsensusPathDB interaction database: 2013 update'
+  author: Kamburov
+  doi: 10.1093/nar/gks1055
+  first-page: D793
+  journal-title: Nucleic Acids Res.
+  volume: '41'
+  year: '2013'
+- article-title: 'HumanNet v2: human gene networks for disease research'
+  author: Hwang
+  doi: 10.1093/nar/gky1126
+  first-page: D573
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2019'
+- article-title: 'Cytoscape StringApp: network analysis and visualization of proteomics
+    data'
+  author: Doncheva
+  doi: 10.1021/acs.jproteome.8b00702
+  first-page: '623'
+  journal-title: J. Proteome Res.
+  volume: '18'
+  year: '2019'
+- article-title: 'STRING v10: protein-protein interaction networks, integrated over
+    the tree of life'
+  author: Szklarczyk
+  doi: 10.1093/nar/gku1003
+  first-page: D447
+  journal-title: Nucleic Acids Res.
+  volume: '43'
+  year: '2015'
+- article-title: 'The ELIXIR Core Data Resources: fundamental infrastructure for the
+    life sciences'
+  author: Drysdale
+  doi: 10.1093/bioinformatics/btz959
+  first-page: '2636'
+  journal-title: Bioinformatics
+  volume: '36'
+  year: '2020'
+- article-title: 'STRING v9.1: protein-protein interaction networks, with increased
+    coverage and integration'
+  author: Franceschini
+  doi: 10.1093/nar/gks1094
+  first-page: D808
+  journal-title: Nucleic Acids Res.
+  volume: '41'
+  year: '2013'
+- article-title: 'STRING: known and predicted protein-protein associations, integrated
+    and transferred across organisms'
+  author: von Mering
+  doi: 10.1093/nar/gki005
+  first-page: D433
+  journal-title: Nucleic Acids Res.
+  volume: '33'
+  year: '2005'
+- article-title: 'The IMEx Coronavirus interactome: an evolving map of Coronaviridae-Host
+    molecular interactions'
+  author: Perfetto
+  doi: 10.1093/database/baaa096
+  year: '2020'
+- article-title: Genome-wide CRISPR screen reveals host genes that regulate SARS-CoV-2
+    infection
+  author: Wei
+  doi: 10.1101/2020.06.16.155101
+  year: '2020'
+- article-title: 'SVD-phy: improved prediction of protein functional associations
+    through singular value decomposition of phylogenetic profiles'
+  author: Franceschini
+  doi: 10.1093/bioinformatics/btv696
+  first-page: '1085'
+  journal-title: Bioinformatics
+  volume: '32'
+  year: '2016'
+- article-title: Co-regulation map of the human proteome enables identification of
+    protein functions
+  author: Kustatscher
+  doi: 10.1038/s41587-019-0298-5
+  first-page: '1361'
+  journal-title: Nat. Biotechnol.
+  volume: '37'
+  year: '2019'
+- article-title: 'Protein interaction data curation: the International Molecular Exchange
+    (IMEx) consortium'
+  author: Orchard
+  doi: 10.1038/nmeth.1931
+  first-page: '345'
+  journal-title: Nat. Methods
+  volume: '9'
+  year: '2012'
+- article-title: 'The BioGRID interaction database: 2019 update'
+  author: Oughtred
+  doi: 10.1093/nar/gky1079
+  first-page: D529
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2019'
+- article-title: KEGG as a reference resource for gene and protein annotation
+  author: Kanehisa
+  doi: 10.1093/nar/gkv1070
+  first-page: D457
+  journal-title: Nucleic Acids Res.
+  volume: '44'
+  year: '2016'
+- article-title: The reactome pathway knowledgebase
+  author: Jassal
+  first-page: D498
+  journal-title: Nucleic Acids Res.
+  volume: '48'
+  year: '2020'
+- article-title: The MetaCyc database of metabolic pathways and enzymes—a 2019 update
+  author: Caspi
+  doi: 10.1093/nar/gkz862
+  first-page: D445
+  journal-title: Nucleic Acids Res.
+  volume: '48'
+  year: '2020'
+- article-title: 'Complex Portal 2018: extended content and enhanced visualization
+    tools for macromolecular complexes'
+  author: Meldal
+  doi: 10.1093/nar/gky1001
+  first-page: D550
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2019'
+- article-title: 'The Gene Ontology Resource: 20 years and still GOing strong'
+  author: The Gene Ontology Consortium
+  doi: 10.1093/nar/gky1055
+  first-page: D330
+  journal-title: NucleicAcidsRes.
+  volume: '47'
+  year: '2019'
+- author: McKusick
+  doi: 10.56021/9780801857423
+  edition: 12th edn
+  volume-title: Mendelian Inheritance in Man. A Catalog of Human Genes and Genetic
+    Disorders
+  year: '1998'
+- article-title: 'Saccharomyces Genome Database: the genomics resource of budding
+    yeast'
+  author: Cherry
+  doi: 10.1093/nar/gkr1029
+  first-page: D700
+  journal-title: Nucleic Acids Res.
+  volume: '40'
+  year: '2012'
+- article-title: 'UniProt: a worldwide hub of protein knowledge'
+  author: The UniProt Consortium
+  doi: 10.1093/nar/gky1049
+  first-page: D506
+  journal-title: NucleicAcidsRes.
+  volume: '47'
+  year: '2019'
+- article-title: The Pfam protein families database in 2019
+  author: El-Gebali
+  doi: 10.1093/nar/gky995
+  first-page: D427
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2019'
+- article-title: 20 years of the SMART protein domain annotation resource
+  author: Letunic
+  doi: 10.1093/nar/gkx922
+  first-page: D493
+  journal-title: Nucleic Acids Res.
+  volume: '46'
+  year: '2018'
+- article-title: 'InterPro in 2019: improving coverage, classification and access
+    to protein sequence annotations'
+  author: Mitchell
+  doi: 10.1093/nar/gky1100
+  first-page: D351
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2019'
+- article-title: 'Controlling the false discovery rate: a practical and powerful approach
+    to multiple testing'
+  author: Benyamini
+  first-page: '289'
+  journal-title: J. R. Stat. Soc. B
+  volume: '57'
+  year: '1995'
+- article-title: A strategy for evaluating pathway analysis methods
+  author: Yu
+  doi: 10.1186/s12859-017-1866-7
+  first-page: '453'
+  journal-title: BMC Bioinformatics
+  volume: '18'
+  year: '2017'
+- article-title: 'One tagger, many uses: Illustrating the power of ontologies in dictionary-based
+    named entity recognition'
+  author: Jensen
+  doi: 10.1101/067132
+  year: '2016'
+- article-title: Large-scale event extraction from literature with multi-level gene
+    normalization
+  author: Van Landeghem
+  doi: 10.1371/journal.pone.0055814
+  first-page: e55814
+  journal-title: PLoS One
+  volume: '8'
+  year: '2013'
+- article-title: 'PubTator: a web-based text mining tool for assisting biocuration'
+  author: Wei
+  doi: 10.1093/nar/gkt441
+  first-page: W518
+  journal-title: Nucleic Acids Res.
+  volume: '41'
+  year: '2013'
+- article-title: 'BioBERT: a pre-trained biomedical language representation model
+    for biomedical text mining'
+  author: Lee
+  doi: 10.1093/bioinformatics/btz682
+  first-page: '1234'
+  journal-title: Bioinformatics
+  volume: '36'
+  year: '2020'
+- article-title: Multiple sources of bias confound functional enrichment analysis
+    of global -omics data
+  author: Timmons
+  doi: 10.1186/s13059-015-0761-7
+  first-page: '186'
+  journal-title: Genome Biol.
+  volume: '16'
+  year: '2015'
+- article-title: 'MitoMiner v4.0: an updated database of mitochondrial localization
+    evidence, phenotypes and diseases'
+  author: Smith
+  doi: 10.1093/nar/gky1072
+  first-page: D1225
+  journal-title: Nucleic Acids Res.
+  volume: '47'
+  year: '2019'
+- article-title: 'Version 4.0 of PaxDb: Protein abundance data, integrated across
+    model organisms, tissues, and cell-lines'
+  author: Wang
+  doi: 10.1002/pmic.201400441
+  first-page: '3163'
+  journal-title: Proteomics
+  volume: '15'
+  year: '2015'
+doc_url: http://academic.oup.com/nar/article-pdf/49/D1/D605/40395991/gkaa1074.pdf
+doi: 10.1093/nar/gkaa1074
+files:
+- thestringdataszklar2021.pdf
+issue: D1
+journal: Nucleic Acids Research
+language: en
+month: 1
+pages: D605--D612
+papis_id: b685b86cd95f85ec92cf02aacd6447b8
+publisher: Oxford University Press (OUP)
+ref: TheStringDataSzklar2021
+time-added: 2023-10-18-11:33:41
+title: 'The STRING database in 2021: customizable protein–protein networks, and functional
+  characterization of user-uploaded gene/measurement sets'
+type: article
+url: http://dx.doi.org/10.1093/nar/gkaa1074
+volume: '49'
+year: 2021
