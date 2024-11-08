@@ -1,0 +1,1264 @@
+abstract: <jats:title>Abstract</jats:title><jats:p>Scalable, integrative methods to
+  understand mechanisms that link genetic variants with phenotypes are needed. Here
+  we derive a mathematical expression to compute PrediXcan (a gene mapping approach)
+  results using summary data (S-PrediXcan) and show its accuracy and general robustness
+  to misspecified reference sets. We apply this framework to 44 GTEx tissues and 100+
+  phenotypes from GWAS and meta-analysis studies, creating a growing public catalog
+  of associations that seeks to capture the effects of gene expression variation on
+  human phenotypes. Replication in an independent cohort is shown. Most of the associations
+  are tissue specific, suggesting context specificity of the trait etiology. Colocalized
+  significant associations in unexpected tissues underscore the need for an agnostic
+  scanning of multiple contexts to improve our ability to detect causal regulatory
+  mechanisms. Monogenic disease genes are enriched among significant associations
+  for related traits, suggesting that smaller alterations of these genes may cause
+  a spectrum of milder phenotypes.</jats:p>
+author: Barbeira, Alvaro N. and Dickinson, Scott P. and Bonazzola, Rodrigo and Zheng,
+  Jiamao and Wheeler, Heather E. and Torres, Jason M. and Torstenson, Eric S. and
+  Shah, Kaanan P. and Garcia, Tzintzuni and Edwards, Todd L. and Stahl, Eli A. and
+  Huckins, Laura M. and None, None and None, None and Aguet, François and Ardlie,
+  Kristin G. and Cummings, Beryl B. and Gelfand, Ellen T. and Getz, Gad and Hadley,
+  Kane and Handsaker, Robert E. and Huang, Katherine H. and Kashin, Seva and Karczewski,
+  Konrad J. and Lek, Monkol and Li, Xiao and MacArthur, Daniel G. and Nedzel, Jared
+  L. and Nguyen, Duyen T. and Noble, Michael S. and Segrè, Ayellet V. and Trowbridge,
+  Casandra A. and Tukiainen, Taru and None, None and Abell, Nathan S. and Balliu,
+  Brunilda and Barshir, Ruth and Basha, Omer and Battle, Alexis and Bogu, Gireesh
+  K. and Brown, Andrew and Brown, Christopher D. and Castel, Stephane E. and Chen,
+  Lin S. and Chiang, Colby and Conrad, Donald F. and Damani, Farhan N. and Davis,
+  Joe R. and Delaneau, Olivier and Dermitzakis, Emmanouil T. and Engelhardt, Barbara
+  E. and Eskin, Eleazar and Ferreira, Pedro G. and Frésard, Laure and Gamazon, Eric
+  R. and Garrido-Martín, Diego and Gewirtz, Ariel D. H. and Gliner, Genna and Gloudemans,
+  Michael J. and Guigo, Roderic and Hall, Ira M. and Han, Buhm and He, Yuan and Hormozdiari,
+  Farhad and Howald, Cedric and Jo, Brian and Kang, Eun Yong and Kim, Yungil and Kim-Hellmuth,
+  Sarah and Lappalainen, Tuuli and Li, Gen and Li, Xin and Liu, Boxiang and Mangul,
+  Serghei and McCarthy, Mark I. and McDowell, Ian C. and Mohammadi, Pejman and Monlong,
+  Jean and Montgomery, Stephen B. and Muñoz-Aguirre, Manuel and Ndungu, Anne W. and
+  Nobel, Andrew B. and Oliva, Meritxell and Ongen, Halit and Palowitch, John J. and
+  Panousis, Nikolaos and Papasaikas, Panagiotis and Park, YoSon and Parsana, Princy
+  and Payne, Anthony J. and Peterson, Christine B. and Quan, Jie and Reverter, Ferran
+  and Sabatti, Chiara and Saha, Ashis and Sammeth, Michael and Scott, Alexandra J.
+  and Shabalin, Andrey A. and Sodaei, Reza and Stephens, Matthew and Stranger, Barbara
+  E. and Strober, Benjamin J. and Sul, Jae Hoon and Tsang, Emily K. and Urbut, Sarah
+  and van de Bunt, Martijn and Wang, Gao and Wen, Xiaoquan and Wright, Fred A. and
+  Xi, Hualin S. and Yeger-Lotem, Esti and Zappala, Zachary and Zaugg, Judith B. and
+  Zhou, Yi-Hui and None, None and Akey, Joshua M. and Bates, Daniel and Chan, Joanne
+  and Chen, Lin S. and Claussnitzer, Melina and Demanelis, Kathryn and Diegel, Morgan
+  and Doherty, Jennifer A. and Feinberg, Andrew P. and Fernando, Marian S. and Halow,
+  Jessica and Hansen, Kasper D. and Haugen, Eric and Hickey, Peter F. and Hou, Lei
+  and Jasmine, Farzana and Jian, Ruiqi and Jiang, Lihua and Johnson, Audra and Kaul,
+  Rajinder and Kellis, Manolis and Kibriya, Muhammad G. and Lee, Kristen and Li, Jin
+  Billy and Li, Qin and Li, Xiao and Lin, Jessica and Lin, Shin and Linder, Sandra
+  and Linke, Caroline and Liu, Yaping and Maurano, Matthew T. and Molinie, Benoit
+  and Montgomery, Stephen B. and Nelson, Jemma and Neri, Fidencio J. and Oliva, Meritxell
+  and Park, Yongjin and Pierce, Brandon L. and Rinaldi, Nicola J. and Rizzardi, Lindsay
+  F. and Sandstrom, Richard and Skol, Andrew and Smith, Kevin S. and Snyder, Michael
+  P. and Stamatoyannopoulos, John and Stranger, Barbara E. and Tang, Hua and Tsang,
+  Emily K. and Wang, Li and Wang, Meng and Van Wittenberghe, Nicholas and Wu, Fan
+  and Zhang, Rui and None, None and Nierras, Concepcion R. and None, None and Branton,
+  Philip A. and Carithers, Latarsha J. and Guan, Ping and Moore, Helen M. and Rao,
+  Abhi and Vaught, Jimmie B. and None, None and Gould, Sarah E. and Lockart, Nicole
+  C. and Martin, Casey and Struewing, Jeffery P. and Volpi, Simona and None, None
+  and Addington, Anjene M. and Koester, Susan E. and None, None and Little, A. Roger
+  and None, None and Brigham, Lori E. and Hasz, Richard and Hunter, Marcus and Johns,
+  Christopher and Johnson, Mark and Kopen, Gene and Leinweber, William F. and Lonsdale,
+  John T. and McDonald, Alisa and Mestichelli, Bernadette and Myer, Kevin and Roe,
+  Brian and Salvatore, Michael and Shad, Saboor and Thomas, Jeffrey A. and Walters,
+  Gary and Washington, Michael and Wheeler, Joseph and None, None and Bridge, Jason
+  and Foster, Barbara A. and Gillard, Bryan M. and Karasik, Ellen and Kumar, Rachna
+  and Miklos, Mark and Moser, Michael T. and None, None and Jewell, Scott D. and Montroy,
+  Robert G. and Rohrer, Daniel C. and Valley, Dana R. and None, None and Davis, David
+  A. and Mash, Deborah C. and None, None and Undale, Anita H. and Smith, Anna M. and
+  Tabor, David E. and Roche, Nancy V. and McLean, Jeffrey A. and Vatanian, Negin and
+  Robinson, Karna L. and Sobin, Leslie and Barcus, Mary E. and Valentino, Kimberly
+  M. and Qi, Liqun and Hunter, Steven and Hariharan, Pushpa and Singh, Shilpi and
+  Um, Ki Sung and Matose, Takunda and Tomaszewski, Maria M. and None, None and Barker,
+  Laura K. and Mosavel, Maghboeba and Siminoff, Laura A. and Traino, Heather M. and
+  None, None and Flicek, Paul and Juettemann, Thomas and Ruffier, Magali and Sheppard,
+  Dan and Taylor, Kieron and Trevanion, Stephen J. and Zerbino, Daniel R. and None,
+  None and Craft, Brian and Goldman, Mary and Haeussler, Maximilian and Kent, W. James
+  and Lee, Christopher M. and Paten, Benedict and Rosenbloom, Kate R. and Vivian,
+  John and Zhu, Jingchun and Nicolae, Dan L. and Cox, Nancy J. and Im, Hae Kyung
+author_list:
+- affiliation: []
+  family: Barbeira
+  given: Alvaro N.
+- affiliation: []
+  family: Dickinson
+  given: Scott P.
+- affiliation: []
+  family: Bonazzola
+  given: Rodrigo
+- affiliation: []
+  family: Zheng
+  given: Jiamao
+- affiliation: []
+  family: Wheeler
+  given: Heather E.
+- affiliation: []
+  family: Torres
+  given: Jason M.
+- affiliation: []
+  family: Torstenson
+  given: Eric S.
+- affiliation: []
+  family: Shah
+  given: Kaanan P.
+- affiliation: []
+  family: Garcia
+  given: Tzintzuni
+- affiliation: []
+  family: Edwards
+  given: Todd L.
+- affiliation: []
+  family: Stahl
+  given: Eli A.
+- affiliation: []
+  family: Huckins
+  given: Laura M.
+- affiliation: []
+  family: null
+  given: null
+- affiliation: []
+  family: null
+  given: null
+- affiliation: []
+  family: Aguet
+  given: François
+- affiliation: []
+  family: Ardlie
+  given: Kristin G.
+- affiliation: []
+  family: Cummings
+  given: Beryl B.
+- affiliation: []
+  family: Gelfand
+  given: Ellen T.
+- affiliation: []
+  family: Getz
+  given: Gad
+- affiliation: []
+  family: Hadley
+  given: Kane
+- affiliation: []
+  family: Handsaker
+  given: Robert E.
+- affiliation: []
+  family: Huang
+  given: Katherine H.
+- affiliation: []
+  family: Kashin
+  given: Seva
+- affiliation: []
+  family: Karczewski
+  given: Konrad J.
+- affiliation: []
+  family: Lek
+  given: Monkol
+- affiliation: []
+  family: Li
+  given: Xiao
+- affiliation: []
+  family: MacArthur
+  given: Daniel G.
+- affiliation: []
+  family: Nedzel
+  given: Jared L.
+- affiliation: []
+  family: Nguyen
+  given: Duyen T.
+- affiliation: []
+  family: Noble
+  given: Michael S.
+- affiliation: []
+  family: Segrè
+  given: Ayellet V.
+- affiliation: []
+  family: Trowbridge
+  given: Casandra A.
+- affiliation: []
+  family: Tukiainen
+  given: Taru
+- affiliation: []
+  family: null
+  given: null
+- affiliation: []
+  family: Abell
+  given: Nathan S.
+- affiliation: []
+  family: Balliu
+  given: Brunilda
+- affiliation: []
+  family: Barshir
+  given: Ruth
+- affiliation: []
+  family: Basha
+  given: Omer
+- affiliation: []
+  family: Battle
+  given: Alexis
+- affiliation: []
+  family: Bogu
+  given: Gireesh K.
+- affiliation: []
+  family: Brown
+  given: Andrew
+- affiliation: []
+  family: Brown
+  given: Christopher D.
+- affiliation: []
+  family: Castel
+  given: Stephane E.
+- affiliation: []
+  family: Chen
+  given: Lin S.
+- affiliation: []
+  family: Chiang
+  given: Colby
+- affiliation: []
+  family: Conrad
+  given: Donald F.
+- affiliation: []
+  family: Damani
+  given: Farhan N.
+- affiliation: []
+  family: Davis
+  given: Joe R.
+- affiliation: []
+  family: Delaneau
+  given: Olivier
+- affiliation: []
+  family: Dermitzakis
+  given: Emmanouil T.
+- affiliation: []
+  family: Engelhardt
+  given: Barbara E.
+- affiliation: []
+  family: Eskin
+  given: Eleazar
+- affiliation: []
+  family: Ferreira
+  given: Pedro G.
+- affiliation: []
+  family: Frésard
+  given: Laure
+- affiliation: []
+  family: Gamazon
+  given: Eric R.
+- affiliation: []
+  family: Garrido-Martín
+  given: Diego
+- affiliation: []
+  family: Gewirtz
+  given: Ariel D. H.
+- affiliation: []
+  family: Gliner
+  given: Genna
+- affiliation: []
+  family: Gloudemans
+  given: Michael J.
+- affiliation: []
+  family: Guigo
+  given: Roderic
+- affiliation: []
+  family: Hall
+  given: Ira M.
+- affiliation: []
+  family: Han
+  given: Buhm
+- affiliation: []
+  family: He
+  given: Yuan
+- affiliation: []
+  family: Hormozdiari
+  given: Farhad
+- affiliation: []
+  family: Howald
+  given: Cedric
+- affiliation: []
+  family: Jo
+  given: Brian
+- affiliation: []
+  family: Kang
+  given: Eun Yong
+- affiliation: []
+  family: Kim
+  given: Yungil
+- affiliation: []
+  family: Kim-Hellmuth
+  given: Sarah
+- affiliation: []
+  family: Lappalainen
+  given: Tuuli
+- affiliation: []
+  family: Li
+  given: Gen
+- affiliation: []
+  family: Li
+  given: Xin
+- affiliation: []
+  family: Liu
+  given: Boxiang
+- affiliation: []
+  family: Mangul
+  given: Serghei
+- affiliation: []
+  family: McCarthy
+  given: Mark I.
+- affiliation: []
+  family: McDowell
+  given: Ian C.
+- affiliation: []
+  family: Mohammadi
+  given: Pejman
+- affiliation: []
+  family: Monlong
+  given: Jean
+- affiliation: []
+  family: Montgomery
+  given: Stephen B.
+- affiliation: []
+  family: Muñoz-Aguirre
+  given: Manuel
+- affiliation: []
+  family: Ndungu
+  given: Anne W.
+- affiliation: []
+  family: Nobel
+  given: Andrew B.
+- affiliation: []
+  family: Oliva
+  given: Meritxell
+- affiliation: []
+  family: Ongen
+  given: Halit
+- affiliation: []
+  family: Palowitch
+  given: John J.
+- affiliation: []
+  family: Panousis
+  given: Nikolaos
+- affiliation: []
+  family: Papasaikas
+  given: Panagiotis
+- affiliation: []
+  family: Park
+  given: YoSon
+- affiliation: []
+  family: Parsana
+  given: Princy
+- affiliation: []
+  family: Payne
+  given: Anthony J.
+- affiliation: []
+  family: Peterson
+  given: Christine B.
+- affiliation: []
+  family: Quan
+  given: Jie
+- affiliation: []
+  family: Reverter
+  given: Ferran
+- affiliation: []
+  family: Sabatti
+  given: Chiara
+- affiliation: []
+  family: Saha
+  given: Ashis
+- affiliation: []
+  family: Sammeth
+  given: Michael
+- affiliation: []
+  family: Scott
+  given: Alexandra J.
+- affiliation: []
+  family: Shabalin
+  given: Andrey A.
+- affiliation: []
+  family: Sodaei
+  given: Reza
+- affiliation: []
+  family: Stephens
+  given: Matthew
+- affiliation: []
+  family: Stranger
+  given: Barbara E.
+- affiliation: []
+  family: Strober
+  given: Benjamin J.
+- affiliation: []
+  family: Sul
+  given: Jae Hoon
+- affiliation: []
+  family: Tsang
+  given: Emily K.
+- affiliation: []
+  family: Urbut
+  given: Sarah
+- affiliation: []
+  family: van de Bunt
+  given: Martijn
+- affiliation: []
+  family: Wang
+  given: Gao
+- affiliation: []
+  family: Wen
+  given: Xiaoquan
+- affiliation: []
+  family: Wright
+  given: Fred A.
+- affiliation: []
+  family: Xi
+  given: Hualin S.
+- affiliation: []
+  family: Yeger-Lotem
+  given: Esti
+- affiliation: []
+  family: Zappala
+  given: Zachary
+- affiliation: []
+  family: Zaugg
+  given: Judith B.
+- affiliation: []
+  family: Zhou
+  given: Yi-Hui
+- affiliation: []
+  family: null
+  given: null
+- affiliation: []
+  family: Akey
+  given: Joshua M.
+- affiliation: []
+  family: Bates
+  given: Daniel
+- affiliation: []
+  family: Chan
+  given: Joanne
+- affiliation: []
+  family: Chen
+  given: Lin S.
+- affiliation: []
+  family: Claussnitzer
+  given: Melina
+- affiliation: []
+  family: Demanelis
+  given: Kathryn
+- affiliation: []
+  family: Diegel
+  given: Morgan
+- affiliation: []
+  family: Doherty
+  given: Jennifer A.
+- affiliation: []
+  family: Feinberg
+  given: Andrew P.
+- affiliation: []
+  family: Fernando
+  given: Marian S.
+- affiliation: []
+  family: Halow
+  given: Jessica
+- affiliation: []
+  family: Hansen
+  given: Kasper D.
+- affiliation: []
+  family: Haugen
+  given: Eric
+- affiliation: []
+  family: Hickey
+  given: Peter F.
+- affiliation: []
+  family: Hou
+  given: Lei
+- affiliation: []
+  family: Jasmine
+  given: Farzana
+- affiliation: []
+  family: Jian
+  given: Ruiqi
+- affiliation: []
+  family: Jiang
+  given: Lihua
+- affiliation: []
+  family: Johnson
+  given: Audra
+- affiliation: []
+  family: Kaul
+  given: Rajinder
+- affiliation: []
+  family: Kellis
+  given: Manolis
+- affiliation: []
+  family: Kibriya
+  given: Muhammad G.
+- affiliation: []
+  family: Lee
+  given: Kristen
+- affiliation: []
+  family: Li
+  given: Jin Billy
+- affiliation: []
+  family: Li
+  given: Qin
+- affiliation: []
+  family: Li
+  given: Xiao
+- affiliation: []
+  family: Lin
+  given: Jessica
+- affiliation: []
+  family: Lin
+  given: Shin
+- affiliation: []
+  family: Linder
+  given: Sandra
+- affiliation: []
+  family: Linke
+  given: Caroline
+- affiliation: []
+  family: Liu
+  given: Yaping
+- affiliation: []
+  family: Maurano
+  given: Matthew T.
+- affiliation: []
+  family: Molinie
+  given: Benoit
+- affiliation: []
+  family: Montgomery
+  given: Stephen B.
+- affiliation: []
+  family: Nelson
+  given: Jemma
+- affiliation: []
+  family: Neri
+  given: Fidencio J.
+- affiliation: []
+  family: Oliva
+  given: Meritxell
+- affiliation: []
+  family: Park
+  given: Yongjin
+- affiliation: []
+  family: Pierce
+  given: Brandon L.
+- affiliation: []
+  family: Rinaldi
+  given: Nicola J.
+- affiliation: []
+  family: Rizzardi
+  given: Lindsay F.
+- affiliation: []
+  family: Sandstrom
+  given: Richard
+- affiliation: []
+  family: Skol
+  given: Andrew
+- affiliation: []
+  family: Smith
+  given: Kevin S.
+- affiliation: []
+  family: Snyder
+  given: Michael P.
+- affiliation: []
+  family: Stamatoyannopoulos
+  given: John
+- affiliation: []
+  family: Stranger
+  given: Barbara E.
+- affiliation: []
+  family: Tang
+  given: Hua
+- affiliation: []
+  family: Tsang
+  given: Emily K.
+- affiliation: []
+  family: Wang
+  given: Li
+- affiliation: []
+  family: Wang
+  given: Meng
+- affiliation: []
+  family: Van Wittenberghe
+  given: Nicholas
+- affiliation: []
+  family: Wu
+  given: Fan
+- affiliation: []
+  family: Zhang
+  given: Rui
+- affiliation: []
+  family: null
+  given: null
+- affiliation: []
+  family: Nierras
+  given: Concepcion R.
+- affiliation: []
+  family: null
+  given: null
+- affiliation: []
+  family: Branton
+  given: Philip A.
+- affiliation: []
+  family: Carithers
+  given: Latarsha J.
+- affiliation: []
+  family: Guan
+  given: Ping
+- affiliation: []
+  family: Moore
+  given: Helen M.
+- affiliation: []
+  family: Rao
+  given: Abhi
+- affiliation: []
+  family: Vaught
+  given: Jimmie B.
+- affiliation: []
+  family: null
+  given: null
+- affiliation: []
+  family: Gould
+  given: Sarah E.
+- affiliation: []
+  family: Lockart
+  given: Nicole C.
+- affiliation: []
+  family: Martin
+  given: Casey
+- affiliation: []
+  family: Struewing
+  given: Jeffery P.
+- affiliation: []
+  family: Volpi
+  given: Simona
+- affiliation: []
+  family: null
+  given: null
+- affiliation: []
+  family: Addington
+  given: Anjene M.
+- affiliation: []
+  family: Koester
+  given: Susan E.
+- affiliation: []
+  family: null
+  given: null
+- affiliation: []
+  family: Little
+  given: A. Roger
+- affiliation: []
+  family: null
+  given: null
+- affiliation: []
+  family: Brigham
+  given: Lori E.
+- affiliation: []
+  family: Hasz
+  given: Richard
+- affiliation: []
+  family: Hunter
+  given: Marcus
+- affiliation: []
+  family: Johns
+  given: Christopher
+- affiliation: []
+  family: Johnson
+  given: Mark
+- affiliation: []
+  family: Kopen
+  given: Gene
+- affiliation: []
+  family: Leinweber
+  given: William F.
+- affiliation: []
+  family: Lonsdale
+  given: John T.
+- affiliation: []
+  family: McDonald
+  given: Alisa
+- affiliation: []
+  family: Mestichelli
+  given: Bernadette
+- affiliation: []
+  family: Myer
+  given: Kevin
+- affiliation: []
+  family: Roe
+  given: Brian
+- affiliation: []
+  family: Salvatore
+  given: Michael
+- affiliation: []
+  family: Shad
+  given: Saboor
+- affiliation: []
+  family: Thomas
+  given: Jeffrey A.
+- affiliation: []
+  family: Walters
+  given: Gary
+- affiliation: []
+  family: Washington
+  given: Michael
+- affiliation: []
+  family: Wheeler
+  given: Joseph
+- affiliation: []
+  family: null
+  given: null
+- affiliation: []
+  family: Bridge
+  given: Jason
+- affiliation: []
+  family: Foster
+  given: Barbara A.
+- affiliation: []
+  family: Gillard
+  given: Bryan M.
+- affiliation: []
+  family: Karasik
+  given: Ellen
+- affiliation: []
+  family: Kumar
+  given: Rachna
+- affiliation: []
+  family: Miklos
+  given: Mark
+- affiliation: []
+  family: Moser
+  given: Michael T.
+- affiliation: []
+  family: null
+  given: null
+- affiliation: []
+  family: Jewell
+  given: Scott D.
+- affiliation: []
+  family: Montroy
+  given: Robert G.
+- affiliation: []
+  family: Rohrer
+  given: Daniel C.
+- affiliation: []
+  family: Valley
+  given: Dana R.
+- affiliation: []
+  family: null
+  given: null
+- affiliation: []
+  family: Davis
+  given: David A.
+- affiliation: []
+  family: Mash
+  given: Deborah C.
+- affiliation: []
+  family: null
+  given: null
+- affiliation: []
+  family: Undale
+  given: Anita H.
+- affiliation: []
+  family: Smith
+  given: Anna M.
+- affiliation: []
+  family: Tabor
+  given: David E.
+- affiliation: []
+  family: Roche
+  given: Nancy V.
+- affiliation: []
+  family: McLean
+  given: Jeffrey A.
+- affiliation: []
+  family: Vatanian
+  given: Negin
+- affiliation: []
+  family: Robinson
+  given: Karna L.
+- affiliation: []
+  family: Sobin
+  given: Leslie
+- affiliation: []
+  family: Barcus
+  given: Mary E.
+- affiliation: []
+  family: Valentino
+  given: Kimberly M.
+- affiliation: []
+  family: Qi
+  given: Liqun
+- affiliation: []
+  family: Hunter
+  given: Steven
+- affiliation: []
+  family: Hariharan
+  given: Pushpa
+- affiliation: []
+  family: Singh
+  given: Shilpi
+- affiliation: []
+  family: Um
+  given: Ki Sung
+- affiliation: []
+  family: Matose
+  given: Takunda
+- affiliation: []
+  family: Tomaszewski
+  given: Maria M.
+- affiliation: []
+  family: null
+  given: null
+- affiliation: []
+  family: Barker
+  given: Laura K.
+- affiliation: []
+  family: Mosavel
+  given: Maghboeba
+- affiliation: []
+  family: Siminoff
+  given: Laura A.
+- affiliation: []
+  family: Traino
+  given: Heather M.
+- affiliation: []
+  family: null
+  given: null
+- affiliation: []
+  family: Flicek
+  given: Paul
+- affiliation: []
+  family: Juettemann
+  given: Thomas
+- affiliation: []
+  family: Ruffier
+  given: Magali
+- affiliation: []
+  family: Sheppard
+  given: Dan
+- affiliation: []
+  family: Taylor
+  given: Kieron
+- affiliation: []
+  family: Trevanion
+  given: Stephen J.
+- affiliation: []
+  family: Zerbino
+  given: Daniel R.
+- affiliation: []
+  family: null
+  given: null
+- affiliation: []
+  family: Craft
+  given: Brian
+- affiliation: []
+  family: Goldman
+  given: Mary
+- affiliation: []
+  family: Haeussler
+  given: Maximilian
+- affiliation: []
+  family: Kent
+  given: W. James
+- affiliation: []
+  family: Lee
+  given: Christopher M.
+- affiliation: []
+  family: Paten
+  given: Benedict
+- affiliation: []
+  family: Rosenbloom
+  given: Kate R.
+- affiliation: []
+  family: Vivian
+  given: John
+- affiliation: []
+  family: Zhu
+  given: Jingchun
+- affiliation: []
+  family: Nicolae
+  given: Dan L.
+- affiliation: []
+  family: Cox
+  given: Nancy J.
+- affiliation: []
+  family: Im
+  given: Hae Kyung
+citations:
+- author: AC Nica
+  doi: 10.1371/journal.pgen.1000895
+  first-page: '1000895'
+  journal-title: PLOS Genet.
+  unstructured: Nica, A. C. et al. Candidate causal regulatory effects by integration
+    of expression QTLs with complex trait genetic associations. PLOS Genet. 6, 1000895
+    (2010).
+  volume: '6'
+  year: '2010'
+- author: DL Nicolae
+  doi: 10.1371/journal.pgen.1000888
+  first-page: e1000888
+  journal-title: PLOS Genet.
+  unstructured: 'Nicolae, D. L. et al. Trait-associated SNPs are more likely to be
+    eQTLs: annotation to enhance discovery from GWAS. PLOS Genet. 6, e1000888, (2010).'
+  volume: '6'
+  year: '2010'
+- author: YI Li
+  doi: 10.1126/science.aad9417
+  first-page: '600'
+  journal-title: Science
+  unstructured: Li, Y. I. et al. RNA splicing is a primary link between genetic variation
+    and disease. Science 352, 600–604 (2016).
+  volume: '352'
+  year: '2016'
+- author: A Gusev
+  doi: 10.1016/j.ajhg.2014.10.004
+  first-page: '535'
+  journal-title: Am. J. Hum. Genet.
+  unstructured: Gusev, A. et al. Partitioning heritability of regulatory and cell-type-specific
+    variants across 11 common diseases. Am. J. Hum. Genet. 95, 535–552 (2014).
+  volume: '95'
+  year: '2014'
+- author: A Battle
+  doi: 10.1101/gr.155192.113
+  first-page: '14'
+  journal-title: Genome Res.
+  unstructured: Battle, A. et al. Characterizing the genetic basis of transcriptome
+    diversity through RNA-sequencing of 922 individuals. Genome Res. 24, 14–24 (2014).
+  volume: '24'
+  year: '2014'
+- author: T Lappalainen
+  doi: 10.1038/nature12531
+  first-page: '506'
+  journal-title: Nature
+  unstructured: Lappalainen, T. et al. Transcriptome and genome sequencing uncovers
+    functional variation in humans. Nature 501, 506–511 (2013).
+  volume: '501'
+  year: '2013'
+- author: X Zhang
+  doi: 10.1038/ng.3220
+  first-page: '345'
+  journal-title: Nat. Genet.
+  unstructured: Zhang, X. et al. Identification of common genetic variants controlling
+    transcript isoform variation in human whole blood. Nat. Genet. 47, 345–352 (2015).
+  volume: '47'
+  year: '2015'
+- author: BE Stranger
+  doi: 10.1371/journal.pgen.1002639
+  first-page: e1002639
+  journal-title: PLOS Genet.
+  unstructured: Stranger, B. E. et al. Patterns of Cis regulatory variation in diverse
+    human populations. PLOS Genet. 8, e1002639 (2012).
+  volume: '8'
+  year: '2012'
+- author: The GTEx Consortium.
+  doi: 10.1038/ng.2653
+  first-page: '580'
+  journal-title: Nat. Genet.
+  unstructured: The GTEx Consortium. The genotype-tissue expression (GTEx) project.
+    Nat. Genet. 45, 580–5 (2013).
+  volume: '45'
+  year: '2013'
+- unstructured: 'Aguet F., et al. Local genetic effects on gene expression across
+    44 human tissues. Preprint at bioRxiv: http://biorxiv.org/content/early/2016/09/09/074450
+    (2016).'
+- author: ER Gamazon
+  doi: 10.1038/ng.3367
+  first-page: '1091'
+  journal-title: Nat. Genet.
+  unstructured: Gamazon, E. R. et al. A genebased association method for mapping traits
+    using reference transcriptome data. Nat. Genet. 47, 1091–1098 (2015).
+  volume: '47'
+  year: '2015'
+- author: JW Smoller
+  doi: 10.1016/S0140-6736(12)62129-1
+  first-page: '1371'
+  journal-title: Lancet
+  unstructured: 'Smoller, J. W. et al. Identification of risk loci with shared effects
+    on five major psychiatric disorders: a genome-wide analysis. Lancet 381, 1371–9
+    (2013).'
+  volume: '381'
+  year: '2013'
+- author: P Deloukas
+  doi: 10.1038/ng.2480
+  first-page: '25'
+  journal-title: Nat. Genet.
+  unstructured: Deloukas, P. et al. Large scale association analysis identifies new
+    risk loci for coronary artery disease. Nat. Genet. 45, 25–33 (2013).
+  volume: '45'
+  year: '2013'
+- author: AP Morris
+  doi: 10.1038/ng.2383
+  first-page: '981'
+  journal-title: Nat. Genet.
+  unstructured: Morris, A. P. et al. Large-scale association analysis provides insights
+    into the genetic architecture and pathophysiology of type 2 diabetes. Nat. Genet.
+    44, 981–990 (2012).
+  volume: '44'
+  year: '2012'
+- author: A Gusev
+  doi: 10.1038/ng.3506
+  first-page: '245'
+  journal-title: Nat. Genet.
+  unstructured: Gusev, A. et al. Integrative approaches for large-scale transcriptome-wide
+    association studies. Nat. Genet. 48, 245–252 (2016).
+  volume: '48'
+  year: '2016'
+- author: Z Zhu
+  doi: 10.1038/ng.3538
+  first-page: '481'
+  journal-title: Nat. Genet.
+  unstructured: Zhu, Z. et al. Integration of summary data from GWAS and eQTL studies
+    predicts complex trait gene targets. Nat. Genet. 48, 481–7 (2016).
+  volume: '48'
+  year: '2016'
+- author: X He
+  doi: 10.1016/j.ajhg.2013.03.022
+  first-page: '667'
+  journal-title: Am. J. Hum. Genet.
+  unstructured: 'He, X. et al. Sherlock: detecting gene-disease associations by matching
+    patterns of expression QTL and GWAS.  Am. J. Hum. Genet. 92, 667–680 (2013).'
+  volume: '92'
+  year: '2013'
+- author: C Giambartolomei
+  doi: 10.1371/journal.pgen.1004383
+  first-page: e1004383
+  journal-title: PLOS Genet.
+  unstructured: Giambartolomei, C. et al. Bayesian test for colocalisation between
+    pairs of genetic association studies using summary statistics. PLOS Genet. 10,
+    e1004383 (2014).
+  volume: '10'
+  year: '2014'
+- author: F Hormozdiari
+  doi: 10.1016/j.ajhg.2016.10.003
+  first-page: '1245'
+  journal-title: Am. J. Hum. Genet.
+  unstructured: Hormozdiari, F. et al. Colocalization of GWAS and eQTL signals detects
+    target genes. Am. J. Hum. Genet. 99, 1245–1260 (2016).
+  volume: '99'
+  year: '2016'
+- author: X Wen
+  doi: 10.1371/journal.pgen.1006646
+  first-page: e1006646
+  journal-title: PLOS Genet.
+  unstructured: 'Wen, X., Pique-Regi, R. & Luca, F. Integrating molecular QTL data
+    into genome-wide genetic association analysis: Probabilistic assessment of enrichment
+    and colocalization. PLOS Genet. 13, e1006646 (2017).'
+  volume: '13'
+  year: '2017'
+- author: WTCCC.
+  doi: 10.1038/nature05911
+  first-page: '661'
+  journal-title: Nature
+  unstructured: WTCCC. Genome-wide association study of 14,000 cases of seven common
+    diseases and 3,000 shared controls. Nature 447, 661–78 (2007).
+  volume: '447'
+  year: '2007'
+- author: O Manor
+  doi: 10.1371/journal.pgen.1003396
+  first-page: e1003396
+  journal-title: PLOS Genet.
+  unstructured: Manor, O. & Segal, E. Robust prediction of expression differences
+    among human individuals using only genotype information. PLOS Genet. 9, e1003396
+    (2013).
+  volume: '9'
+  year: '2013'
+- unstructured: 'Hamilton N. ggtern: an extension to’ggplot2’, for the creation of
+    ternary diagrams https://CRAN.R-project.org/package=ggtern (R package version
+    2.2.0, 2016).'
+- author: N Mancuso
+  doi: 10.1016/j.ajhg.2017.01.031
+  first-page: '473'
+  journal-title: Am. J. Hum. Genet.
+  unstructured: Mancuso, N. et al. Integrating gene expression with summary association
+    statistics to identify genes associated with 30 complex traits.  Am. J. Hum. Genet.
+    100, 473–487 (2017).
+  volume: '100'
+  year: '2017'
+- author: X Zhou
+  doi: 10.1371/journal.pgen.1003264
+  first-page: e1003264
+  journal-title: PLOS Genet.
+  unstructured: Zhou, X., Carbonetto, P. & Stephens, M. Polygenic modeling with bayesian
+    sparse linear mixed models. PLOS Genet. 9, e1003264 (2013).
+  volume: '9'
+  year: '2013'
+- author: H Zou
+  doi: 10.1111/j.1467-9868.2005.00503.x
+  first-page: '301'
+  journal-title: J. R. Stat. Soc.
+  unstructured: Zou, H. & Hastie, T. Regularization and variable selection via the
+    elastic-net. J. R. Stat. Soc. 67, 301–320 (2005).
+  volume: '67'
+  year: '2005'
+- author: HE Wheeler
+  doi: 10.1371/journal.pgen.1006423
+  first-page: e1006423
+  journal-title: PLOS Genet.
+  unstructured: Wheeler, H. E. et al. Survey of the heritability and sparse architecture
+    of gene expression traits across human tissues. PLOS Genet. 12, e1006423 (2016).
+  volume: '12'
+  year: '2016'
+- author: JMW Pavlides
+  doi: 10.1186/s13073-016-0338-4
+  first-page: '1'
+  journal-title: Genome Med.
+  unstructured: Pavlides, J. M. W. et al. Predicting gene targets from integrative
+    analyses of summary data from GWAS and eQTL studies for 28 human complex traits.
+    Genome Med. 8, 1–6 (2016).
+  volume: '8'
+  year: '2016'
+- author: HJ Westra
+  doi: 10.1038/ng.2756
+  first-page: '1238'
+  journal-title: Nat. Genet.
+  unstructured: Westra, H. J. et al. Systematic identification of trans eQTLs as putative
+    drivers of known disease associations. Nat. Genet. 45, 1238–1243 (2013).
+  volume: '45'
+  year: '2013'
+- author: MJ Landrum
+  doi: 10.1093/nar/gkv1222
+  first-page: D862
+  journal-title: Nucleic acids Res.
+  unstructured: 'Landrum, M. J. et al. ClinVar: public archive of interpretations
+    of clinically relevant variants. Nucleic acids Res. 44, D862–8 (2015).'
+  volume: '44'
+  year: '2015'
+- unstructured: Shah N., et al. Identification of misclassified ClinVar variants using
+    disease population prevalence. Preprint at biorxiv. http://biorxiv.org/lookup/doi/10.1101/075416
+    (2016).
+- author: A Sekar
+  doi: 10.1038/nature16549
+  first-page: '177'
+  journal-title: Nature
+  unstructured: Sekar, A. et al. Schizophrenia risk from complex variation of complement
+    component 4. Nature 530, 177–83 (2016).
+  volume: '530'
+  year: '2016'
+- author: K Musunuru
+  doi: 10.1038/nature09266
+  first-page: '714'
+  journal-title: Nature
+  unstructured: Musunuru, K. et al. From noncoding variant to phenotype via SORT1
+    at the 1p13 cholesterol locus. Nature 466, 714–9 (2010).
+  volume: '466'
+  year: '2010'
+- author: RT Dadu
+  first-page: '563'
+  journal-title: Nat. Publ. Group.
+  unstructured: Dadu, R. T. & Ballantyne, C. M. Lipid lowering with PCSK9 inhibitors.
+    Nat. Publ. Group. 11, 563–575 (2014).
+  volume: '11'
+  year: '2014'
+- author: O Franzén
+  doi: 10.1126/science.aad6970
+  first-page: '827'
+  journal-title: Science
+  unstructured: Franzén, O. et al. Cardiometabolic risk loci share downstream cis-
+    and trans-gene regulation across tissues and diseases. Science 353, 827–830 (2016).
+  volume: '353'
+  year: '2016'
+- author: TJ Hoffmann
+  doi: 10.1038/ng.3715
+  first-page: '54'
+  journal-title: Nat. Genet.
+  unstructured: Hoffmann, T. J. et al. Genome-wide association analyses using electronic
+    health records identify new loci influencing blood pressure variation. Nat. Genet.
+    49, 54–64 (2016).
+  volume: '49'
+  year: '2016'
+- author: JP Cook
+  doi: 10.1038/ejhg.2016.17
+  first-page: '1175'
+  journal-title: Eur. J. Hum. Genet.
+  unstructured: Cook, J. P. & Morris, A. P. Multi-ethnic genome-wide association study
+    identifies novel locus for type 2 diabetes susceptibility. Eur. J. Hum. Genet.
+    24, 1175–1180 (2016).
+  volume: '24'
+  year: '2016'
+- doi: 10.1101/108134
+  unstructured: Torres J. M., et al. Integrative cross tissue analysis of gene expression
+    identifies novel type 2 diabetes genes. Preprint at bioRxiv http://biorxiv.org/content/early/2017/02/27/108134
+    (2017).
+- author: EA Boyle
+  doi: 10.1016/j.cell.2017.05.038
+  first-page: '1177'
+  journal-title: Cell
+  unstructured: 'Boyle, E. A., Li, Y. I. & Pritchard, J. K. An expanded view of complex
+    traits: from polygenic to omnigenic. Cell 169, 1177–1186 (2017).'
+  volume: '169'
+  year: '2017'
+- doi: 10.1101/190397
+  unstructured: Castel S. E., et al. Modified penetrance of coding variants by cis-regulatory
+    variation shapes human traits. Preprint at bioRxiv. https://www.biorxiv.org/content/early/2017/09/18/190397
+    (2017).
+- author: JD Storey
+  doi: 10.1073/pnas.1530509100
+  first-page: '9440'
+  journal-title: Proc. Natl Acad. Sci. USA
+  unstructured: Storey, J. D. & Tibshirani, R. Statistical significance for genomewide
+    studies. Proc. Natl Acad. Sci. USA 100, 9440–9445 (2003).
+  volume: '100'
+  year: '2003'
+- author: A Auton
+  doi: 10.1038/nature15393
+  first-page: '68'
+  journal-title: Nature
+  unstructured: Auton, A. et al. A global reference for human genetic variation. Nature
+    526, 68–74 (2015).
+  volume: '526'
+  year: '2015'
+- author: CC Chang
+  doi: 10.1186/s13742-015-0047-8
+  journal-title: GigaScience
+  unstructured: 'Chang, C. C. et al. Second-generation PLINK: rising to the challenge
+    of larger and richer datasets. GigaScience 4, 7 (2015).'
+  volume: '4'
+  year: '2015'
+- author: PR Loh
+  doi: 10.1038/ng.3679
+  first-page: '1443'
+  journal-title: Nat. Genet.
+  unstructured: Loh, P. R. et al. Reference-based phasing using the Haplotype Reference
+    Consortium panel. Nat. Genet. 48, 1443–1448 (2016).
+  volume: '48'
+  year: '2016'
+- author: S McCarthy
+  doi: 10.1038/ng.3643
+  first-page: '1279'
+  journal-title: Nat. Genet.
+  unstructured: McCarthy, S. et al. A reference panel of 64,976 haplotypes for genotype
+    imputation. Nat. Genet. 48, 1279–1283 (2016).
+  volume: '48'
+  year: '2016'
+- author: S Das
+  doi: 10.1038/ng.3656
+  first-page: '1284'
+  journal-title: Nat. Genet.
+  unstructured: Das, S. et al. Next-generation genotype imputation service and methods.
+    Nat. Genet. 48, 1284–1287 (2016).
+  volume: '48'
+  year: '2016'
+- author: AP Heath
+  doi: 10.1136/amiajnl-2013-002155
+  first-page: '969'
+  journal-title: J. Am. Med. Inform. Assoc.
+  unstructured: 'Heath, A. P. et al. Bionimbus: a cloud for managing, analyzing and
+    sharing large genomics datasets. J. Am. Med. Inform. Assoc. 21, 969–975 (2014).'
+  volume: '21'
+  year: '2014'
+doc_url: https://www.nature.com/articles/s41467-018-03621-1.pdf
+doi: 10.1038/s41467-018-03621-1
+files:
+- exploringthepbarbei2018.pdf
+issue: '1'
+journal: Nature Communications
+language: en
+month: 5
+papis_id: 6cf778151712ed9e50a2def247c2202e
+publisher: Springer Science and Business Media LLC
+ref: ExploringThePBarbei2018
+time-added: 2024-11-06-14:28:00
+title: Exploring the phenotypic consequences of tissue specific gene expression variation
+  inferred from GWAS summary statistics
+type: article
+url: http://dx.doi.org/10.1038/s41467-018-03621-1
+volume: '9'
+year: 2018

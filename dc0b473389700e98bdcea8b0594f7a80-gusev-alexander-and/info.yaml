@@ -1,0 +1,597 @@
+author: Gusev, Alexander and Ko, Arthur and Shi, Huwenbo and Bhatia, Gaurav and Chung,
+  Wonil and Penninx, Brenda W J H and Jansen, Rick and de Geus, Eco J C and Boomsma,
+  Dorret I and Wright, Fred A and Sullivan, Patrick F and Nikkola, Elina and Alvarez,
+  Marcus and Civelek, Mete and Lusis, Aldons J and Lehtimäki, Terho and Raitoharju,
+  Emma and Kähönen, Mika and Seppälä, Ilkka and Raitakari, Olli T and Kuusisto, Johanna
+  and Laakso, Markku and Price, Alkes L and Pajukanta, Päivi and Pasaniuc, Bogdan
+author_list:
+- affiliation: []
+  family: Gusev
+  given: Alexander
+- affiliation: []
+  family: Ko
+  given: Arthur
+- affiliation: []
+  family: Shi
+  given: Huwenbo
+- affiliation: []
+  family: Bhatia
+  given: Gaurav
+- affiliation: []
+  family: Chung
+  given: Wonil
+- affiliation: []
+  family: Penninx
+  given: Brenda W J H
+- affiliation: []
+  family: Jansen
+  given: Rick
+- affiliation: []
+  family: de Geus
+  given: Eco J C
+- affiliation: []
+  family: Boomsma
+  given: Dorret I
+- affiliation: []
+  family: Wright
+  given: Fred A
+- affiliation: []
+  family: Sullivan
+  given: Patrick F
+- affiliation: []
+  family: Nikkola
+  given: Elina
+- affiliation: []
+  family: Alvarez
+  given: Marcus
+- affiliation: []
+  family: Civelek
+  given: Mete
+- affiliation: []
+  family: Lusis
+  given: Aldons J
+- affiliation: []
+  family: Lehtimäki
+  given: Terho
+- affiliation: []
+  family: Raitoharju
+  given: Emma
+- affiliation: []
+  family: Kähönen
+  given: Mika
+- affiliation: []
+  family: Seppälä
+  given: Ilkka
+- affiliation: []
+  family: Raitakari
+  given: Olli T
+- affiliation: []
+  family: Kuusisto
+  given: Johanna
+- affiliation: []
+  family: Laakso
+  given: Markku
+- affiliation: []
+  family: Price
+  given: Alkes L
+- affiliation: []
+  family: Pajukanta
+  given: Päivi
+- affiliation: []
+  family: Pasaniuc
+  given: Bogdan
+citations:
+- author: PM Visscher
+  doi: 10.1016/j.ajhg.2011.11.029
+  first-page: '7'
+  journal-title: Am. J. Hum. Genet.
+  unstructured: Visscher, P.M., Brown, M.A., McCarthy, M.I. & Yang, J. Five years
+    of GWAS discovery. Am. J. Hum. Genet. 90, 7–24 (2012).
+  volume: '90'
+  year: '2012'
+- author: J Yang
+  doi: 10.1038/ng.2213
+  first-page: '369'
+  journal-title: Nat. Genet.
+  unstructured: Yang, J. et al. Conditional and joint multiple-SNP analysis of GWAS
+    summary statistics identifies additional variants influencing complex traits.
+    Nat. Genet. 44, 369–375, S1–S3 (2012).
+  volume: '44'
+  year: '2012'
+- author: D Lee
+  doi: 10.1093/bioinformatics/btt500
+  first-page: '2925'
+  journal-title: Bioinformatics
+  unstructured: 'Lee, D., Bigdeli, T.B., Riley, B.P., Fanous, A.H. & Bacanu, S.A.
+    DIST: direct imputation of summary statistics for unmeasured SNPs. Bioinformatics
+    29, 2925–2927 (2013).'
+  volume: '29'
+  year: '2013'
+- author: B Pasaniuc
+  doi: 10.1093/bioinformatics/btu416
+  first-page: '2906'
+  journal-title: Bioinformatics
+  unstructured: Pasaniuc, B. et al. Fast and accurate imputation of summary statistics
+    enhances evidence of functional enrichment. Bioinformatics 30, 2906–2914 (2014).
+  volume: '30'
+  year: '2014'
+- doi: 10.1038/ng.2797
+  unstructured: Global Lipids Genetics Consortium. Discovery and refinement of loci
+    associated with lipid levels. Nat. Genet. 45, 1274–1283 (2013).
+- author: AE Locke
+  doi: 10.1038/nature14177
+  first-page: '197'
+  journal-title: Nature
+  unstructured: Locke, A.E. et al. Genetic studies of body mass index yield new insights
+    for obesity biology. Nature 518, 197–206 (2015).
+  volume: '518'
+  year: '2015'
+- author: AR Wood
+  doi: 10.1038/ng.3097
+  first-page: '1173'
+  journal-title: Nat. Genet.
+  unstructured: Wood, A.R. et al. Defining the role of common variation in the genomic
+    and biological architecture of adult human height. Nat. Genet. 46, 1173–1186 (2014).
+  volume: '46'
+  year: '2014'
+- author: K Musunuru
+  doi: 10.1038/nature09266
+  first-page: '714'
+  journal-title: Nature
+  unstructured: Musunuru, K. et al. From noncoding variant to phenotype via SORT1
+    at the 1p13 cholesterol locus. Nature 466, 714–719 (2010).
+  volume: '466'
+  year: '2010'
+- author: T Lappalainen
+  doi: 10.1038/nature12531
+  first-page: '506'
+  journal-title: Nature
+  unstructured: Lappalainen, T. et al. Transcriptome and genome sequencing uncovers
+    functional variation in humans. Nature 501, 506–511 (2013).
+  volume: '501'
+  year: '2013'
+- author: X Zhang
+  doi: 10.1038/ng.3220
+  first-page: '345'
+  journal-title: Nat. Genet.
+  unstructured: Zhang, X. et al. Identification of common genetic variants controlling
+    transcript isoform variation in human whole blood. Nat. Genet. 47, 345–352 (2015).
+  volume: '47'
+  year: '2015'
+- author: HJ Westra
+  doi: 10.1038/ng.2756
+  first-page: '1238'
+  journal-title: Nat. Genet.
+  unstructured: Westra, H.J. et al. Systematic identification of trans eQTLs as putative
+    drivers of known disease associations. Nat. Genet. 45, 1238–1243 (2013).
+  volume: '45'
+  year: '2013'
+- author: FW Albert
+  doi: 10.1038/nrg3891
+  first-page: '197'
+  journal-title: Nat. Rev. Genet.
+  unstructured: Albert, F.W. & Kruglyak, L. The role of regulatory variation in complex
+    traits and disease. Nat. Rev. Genet. 16, 197–212 (2015).
+  volume: '16'
+  year: '2015'
+- author: T Raj
+  doi: 10.1126/science.1249547
+  first-page: '519'
+  journal-title: Science
+  unstructured: Raj, T. et al. Polarization of the effects of autoimmune and neurodegenerative
+    risk alleles in leukocytes. Science 344, 519–523 (2014).
+  volume: '344'
+  year: '2014'
+- author: A Letourneau
+  doi: 10.1038/nature13200
+  first-page: '345'
+  journal-title: Nature
+  unstructured: Letourneau, A. et al. Domains of genome-wide gene expression dysregulation
+    in Down's syndrome. Nature 508, 345–350 (2014).
+  volume: '508'
+  year: '2014'
+- author: LK Davis
+  doi: 10.1371/journal.pgen.1003864
+  first-page: e1003864
+  journal-title: PLoS Genet.
+  unstructured: Davis, L.K. et al. Partitioning the heritability of Tourette syndrome
+    and obsessive compulsive disorder reveals differences in genetic architecture.
+    PLoS Genet. 9, e1003864 (2013).
+  volume: '9'
+  year: '2013'
+- author: ER Gamazon
+  doi: 10.1038/ng.3367
+  first-page: '1091'
+  journal-title: Nat. Genet.
+  unstructured: Gamazon, E.R. et al. A gene-based association method for mapping traits
+    using reference transcriptome data. Nat. Genet. 47, 1091–1098 (2015).
+  volume: '47'
+  year: '2015'
+- author: TM Teslovich
+  doi: 10.1038/nature09270
+  first-page: '707'
+  journal-title: Nature
+  unstructured: Teslovich, T.M. et al. Biological, clinical and population relevance
+    of 95 loci for blood lipids. Nature 466, 707–713 (2010).
+  volume: '466'
+  year: '2010'
+- author: J Yang
+  doi: 10.1038/ng.608
+  first-page: '565'
+  journal-title: Nat. Genet.
+  unstructured: Yang, J. et al. Common SNPs explain a large proportion of the heritability
+    for human height. Nat. Genet. 42, 565–569 (2010).
+  volume: '42'
+  year: '2010'
+- author: J Yang
+  doi: 10.1016/j.ajhg.2010.11.011
+  first-page: '76'
+  journal-title: Am. J. Hum. Genet.
+  unstructured: 'Yang, J., Lee, S.H., Goddard, M.E. & Visscher, P.M. GCTA: a tool
+    for genome-wide complex trait analysis. Am. J. Hum. Genet. 88, 76–82 (2011).'
+  volume: '88'
+  year: '2011'
+- author: A Gusev
+  doi: 10.1016/j.ajhg.2014.10.004
+  first-page: '535'
+  journal-title: Am. J. Hum. Genet.
+  unstructured: Gusev, A. et al. Partitioning heritability of regulatory and cell-type-specific
+    variants across 11 common diseases. Am. J. Hum. Genet. 95, 535–552 (2014).
+  volume: '95'
+  year: '2014'
+- author: NR Wray
+  doi: 10.1038/nrg3457
+  first-page: '507'
+  journal-title: Nat. Rev. Genet.
+  unstructured: Wray, N.R. et al. Pitfalls of predicting complex traits from SNPs.
+    Nat. Rev. Genet. 14, 507–515 (2013).
+  volume: '14'
+  year: '2013'
+- author: J Nuotio
+  doi: 10.1177/1403494814541597
+  first-page: '563'
+  journal-title: Scand. J. Public Health
+  unstructured: 'Nuotio, J. et al. Cardiovascular risk factors in 2011 and secular
+    trends since 2007: the Cardiovascular Risk in Young Finns Study. Scand. J. Public
+    Health 42, 563–571 (2014).'
+  volume: '42'
+  year: '2014'
+- author: OT Raitakari
+  doi: 10.1093/ije/dym225
+  first-page: '1220'
+  journal-title: Int. J. Epidemiol.
+  unstructured: 'Raitakari, O.T. et al. Cohort profile: the cardiovascular risk in
+    Young Finns Study. Int. J. Epidemiol. 37, 1220–1226 (2008).'
+  volume: '37'
+  year: '2008'
+- author: FA Wright
+  doi: 10.1038/ng.2951
+  first-page: '430'
+  journal-title: Nat. Genet.
+  unstructured: Wright, F.A. et al. Heritability and genomics of gene expression in
+    peripheral blood. Nat. Genet. 46, 430–437 (2014).
+  volume: '46'
+  year: '2014'
+- author: E Grundberg
+  doi: 10.1038/ng.2394
+  first-page: '1084'
+  journal-title: Nat. Genet.
+  unstructured: Grundberg, E. et al. Mapping cis- and trans-regulatory effects across
+    multiple tissues in twins. Nat. Genet. 44, 1084–1089 (2012).
+  volume: '44'
+  year: '2012'
+- author: DL Nicolae
+  doi: 10.1371/journal.pgen.1000888
+  first-page: e1000888
+  journal-title: PLoS Genet.
+  unstructured: 'Nicolae, D.L. et al. Trait-associated SNPs are more likely to be
+    eQTLs: annotation to enhance discovery from GWAS. PLoS Genet. 6, e1000888 (2010).'
+  volume: '6'
+  year: '2010'
+- author: JM Torres
+  doi: 10.1016/j.ajhg.2014.10.001
+  first-page: '521'
+  journal-title: Am. J. Hum. Genet.
+  unstructured: 'Torres, J.M. et al. Cross-tissue and tissue-specific eQTLs: partitioning
+    the heritability of a complex trait. Am. J. Hum. Genet. 95, 521–534 (2014).'
+  volume: '95'
+  year: '2014'
+- author: A Buil
+  doi: 10.1038/ng.3162
+  first-page: '88'
+  journal-title: Nat. Genet.
+  unstructured: Buil, A. et al. Gene-gene and gene-environment interactions detected
+    by transcriptome sequence analysis in twins. Nat. Genet. 47, 88–91 (2015).
+  volume: '47'
+  year: '2015'
+- author: AC Nica
+  doi: 10.1371/journal.pgen.1000895
+  first-page: e1000895
+  journal-title: PLoS Genet.
+  unstructured: Nica, A.C. et al. Candidate causal regulatory effects by integration
+    of expression QTLs with complex trait genetic associations. PLoS Genet. 6, e1000895
+    (2010).
+  volume: '6'
+  year: '2010'
+- author: GK Robinson
+  doi: 10.1214/ss/1177011926
+  first-page: '15'
+  journal-title: Stat. Sci.
+  unstructured: 'Robinson, G.K. That BLUP is a good thing: the estimation of random
+    effects. Stat. Sci. 6, 15–32 (1991).'
+  volume: '6'
+  year: '1991'
+- author: X Zhou
+  doi: 10.1371/journal.pgen.1003264
+  first-page: e1003264
+  journal-title: PLoS Genet.
+  unstructured: Zhou, X., Carbonetto, P. & Stephens, M. Polygenic modeling with Bayesian
+    sparse linear mixed models. PLoS Genet. 9, e1003264 (2013).
+  volume: '9'
+  year: '2013'
+- author: F Dudbridge
+  doi: 10.1371/journal.pgen.1003348
+  first-page: e1003348
+  journal-title: PLoS Genet.
+  unstructured: Dudbridge, F. Power and predictive accuracy of polygenic risk scores.
+    PLoS Genet. 9, e1003348 (2013).
+  volume: '9'
+  year: '2013'
+- author: N Chatterjee
+  doi: 10.1038/ng.2579
+  first-page: '400'
+  journal-title: Nat. Genet.
+  unstructured: Chatterjee, N. et al. Projecting the performance of risk prediction
+    based on polygenic analyses of genome-wide association studies. Nat. Genet. 45,
+    400–405, e1–e3 (2013).
+  volume: '45'
+  year: '2013'
+- author: CD Brown
+  doi: 10.1371/journal.pgen.1003649
+  first-page: e1003649
+  journal-title: PLoS Genet.
+  unstructured: Brown, C.D., Mangravite, L.M. & Engelhardt, B.E. Integrative modeling
+    of eQTLs and cis-regulatory elements suggests mechanisms underlying cell type
+    specificity of eQTLs. PLoS Genet. 9, e1003649 (2013).
+  volume: '9'
+  year: '2013'
+- author: X Wen
+  doi: 10.1371/journal.pgen.1005176
+  first-page: e1005176
+  journal-title: PLoS Genet.
+  unstructured: 'Wen, X., Luca, F. & Pique-Regi, R. Cross-population joint analysis
+    of eQTLs: fine mapping and functional annotation. PLoS Genet. 11, e1005176 (2015).'
+  volume: '11'
+  year: '2015'
+- author: AR Wood
+  doi: 10.1038/nature13691
+  first-page: E3
+  journal-title: Nature
+  unstructured: Wood, A.R. et al. Another explanation for apparent epistasis. Nature
+    514, E3–E5 (2014).
+  volume: '514'
+  year: '2014'
+- author: B Bulik-Sullivan
+  doi: 10.1038/ng.3406
+  first-page: '1236'
+  journal-title: Nat. Genet.
+  unstructured: Bulik-Sullivan, B. et al. An atlas of genetic correlations across
+    human diseases and traits. Nat. Genet. 47, 1236–1241 (2015).
+  volume: '47'
+  year: '2015'
+- author: C Giambartolomei
+  doi: 10.1371/journal.pgen.1004383
+  first-page: e1004383
+  journal-title: PLoS Genet.
+  unstructured: Giambartolomei, C. et al. Bayesian test for colocalisation between
+    pairs of genetic association studies using summary statistics. PLoS Genet. 10,
+    e1004383 (2014).
+  volume: '10'
+  year: '2014'
+- author: D Lee
+  doi: 10.1093/bioinformatics/btu816
+  first-page: '1176'
+  journal-title: Bioinformatics
+  unstructured: 'Lee, D. et al. JEPEG: a summary statistics based tool for gene-level
+    joint testing of functional variants. Bioinformatics 31, 1176–1182 (2015).'
+  volume: '31'
+  year: '2015'
+- author: JK Pritchard
+  doi: 10.1093/hmg/11.20.2417
+  first-page: '2417'
+  journal-title: Hum. Mol. Genet.
+  unstructured: 'Pritchard, J.K. & Cox, N.J. The allelic architecture of human disease
+    genes: common disease–common variant...or not? Hum. Mol. Genet. 11, 2417–2423
+    (2002).'
+  volume: '11'
+  year: '2002'
+- author: W Wen
+  doi: 10.1093/hmg/ddu248
+  first-page: '5492'
+  journal-title: Hum. Mol. Genet.
+  unstructured: Wen, W. et al. Meta-analysis of genome-wide association studies in
+    East Asian–ancestry populations identifies four new loci for body mass index.
+    Hum. Mol. Genet. 23, 5492–5504 (2014).
+  volume: '23'
+  year: '2014'
+- author: TH Pers
+  doi: 10.1038/ncomms6890
+  first-page: '5890'
+  journal-title: Nat. Commun.
+  unstructured: Pers, T.H. et al. Biological interpretation of genome-wide association
+    studies using predicted gene functions. Nat. Commun. 6, 5890 (2015).
+  volume: '6'
+  year: '2015'
+- author: GD Smith
+  doi: 10.1093/ije/dyg070
+  first-page: '1'
+  journal-title: Int. J. Epidemiol.
+  unstructured: 'Smith, G.D. & Ebrahim, S. ''Mendelian randomization'': can genetic
+    epidemiology contribute to understanding environmental determinants of disease?
+    Int. J. Epidemiol. 32, 1–22 (2003).'
+  volume: '32'
+  year: '2003'
+- doi: 10.1101/018150
+  unstructured: "Pickrell, J. Fulfilling the promise of Mendelian randomization. bioRxiv\
+    \ \n                    doi:10.1101/018150\n                    \n           \
+    \        (16 April 2015)."
+- author: BL Pierce
+  doi: 10.1093/aje/kwt084
+  first-page: '1177'
+  journal-title: Am. J. Epidemiol.
+  unstructured: 'Pierce, B.L. & Burgess, S. Efficient design for Mendelian randomization
+    studies: subsample and 2-sample instrumental variable estimators. Am. J. Epidemiol.
+    178, 1177–1184 (2013).'
+  volume: '178'
+  year: '2013'
+- author: A Gusev
+  doi: 10.1371/journal.pgen.1003993
+  first-page: e1003993
+  journal-title: PLoS Genet.
+  unstructured: Gusev, A. et al. Quantifying missing heritability at known GWAS loci.
+    PLoS Genet. 9, e1003993 (2013).
+  volume: '9'
+  year: '2013'
+- author: AS Dimas
+  doi: 10.1126/science.1174148
+  first-page: '1246'
+  journal-title: Science
+  unstructured: Dimas, A.S. et al. Common regulatory variation impacts gene expression
+    in a cell type–dependent manner. Science 325, 1246–1250 (2009).
+  volume: '325'
+  year: '2009'
+- author: SB Montgomery
+  doi: 10.1038/nature08903
+  first-page: '773'
+  journal-title: Nature
+  unstructured: Montgomery, S.B. et al. Transcriptome genetics using second generation
+    sequencing in a Caucasian population. Nature 464, 773–777 (2010).
+  volume: '464'
+  year: '2010'
+- author: JK Pickrell
+  doi: 10.1016/j.ajhg.2014.03.004
+  first-page: '559'
+  journal-title: Am. J. Hum. Genet.
+  unstructured: Pickrell, J.K. Joint analysis of functional genomic data and genome-wide
+    association studies of 18 human traits. Am. J. Hum. Genet. 94, 559–573 (2014).
+  volume: '94'
+  year: '2014'
+- author: G Kichaev
+  doi: 10.1371/journal.pgen.1004722
+  first-page: e1004722
+  journal-title: PLoS Genet.
+  unstructured: Kichaev, G. et al. Integrating functional data to prioritize causal
+    variants in statistical fine-mapping studies. PLoS Genet. 10, e1004722 (2014).
+  volume: '10'
+  year: '2014'
+- author: HK Finucane
+  doi: 10.1038/ng.3404
+  first-page: '1228'
+  journal-title: Nat. Genet.
+  unstructured: Finucane, H.K. et al. Partitioning heritability by functional annotation
+    using genome-wide association summary statistics. Nat. Genet. 47, 1228–1235 (2015).
+  volume: '47'
+  year: '2015'
+- author: A Stancáková
+  doi: 10.2337/db11-1378
+  first-page: '1895'
+  journal-title: Diabetes
+  unstructured: Stancáková, A. et al. Hyperglycemia and a common variant of GCKR are
+    associated with the levels of eight amino acids in 9,369 Finnish men. Diabetes
+    61, 1895–1902 (2012).
+  volume: '61'
+  year: '2012'
+- author: A Stancáková
+  doi: 10.2337/db08-1607
+  first-page: '1212'
+  journal-title: Diabetes
+  unstructured: Stancáková, A. et al. Changes in insulin sensitivity and insulin release
+    in relation to glycemia and glucose tolerance in 6,414 Finnish men. Diabetes 58,
+    1212–1221 (2009).
+  volume: '58'
+  year: '2009'
+- author: MC Turchin
+  doi: 10.1038/ng.2368
+  first-page: '1015'
+  journal-title: Nat. Genet.
+  unstructured: Turchin, M.C. et al. Evidence of widespread selection on standing
+    variation in Europe at height-associated SNPs. Nat. Genet. 44, 1015–1019 (2012).
+  volume: '44'
+  year: '2012'
+- author: DI Boomsma
+  doi: 10.1375/twin.9.6.849
+  first-page: '849'
+  journal-title: Twin Res. Hum. Genet.
+  unstructured: 'Boomsma, D.I. et al. Netherlands Twin Register: from twins to twin
+    families. Twin Res. Hum. Genet. 9, 849–857 (2006).'
+  volume: '9'
+  year: '2006'
+- author: BK Bulik-Sullivan
+  doi: 10.1038/ng.3211
+  first-page: '291'
+  journal-title: Nat. Genet.
+  unstructured: Bulik-Sullivan, B.K. et al. LD Score regression distinguishes confounding
+    from polygenicity in genome-wide association studies. Nat. Genet. 47, 291–295
+    (2015).
+  volume: '47'
+  year: '2015'
+- author: H Lango Allen
+  doi: 10.1038/nature09410
+  first-page: '832'
+  journal-title: Nature
+  unstructured: Lango Allen, H. et al. Hundreds of variants clustered in genomic loci
+    and biological pathways affect human height. Nature 467, 832–838 (2010).
+  volume: '467'
+  year: '2010'
+- author: S Bolormaa
+  doi: 10.1371/journal.pgen.1004198
+  first-page: e1004198
+  journal-title: PLoS Genet.
+  unstructured: Bolormaa, S. et al. A multi-trait, meta-analysis for detecting pleiotropic
+    polymorphisms for stature, fatness and reproduction in beef cattle. PLoS Genet.
+    10, e1004198 (2014).
+  volume: '10'
+  year: '2014'
+- author: X Zhu
+  doi: 10.1016/j.ajhg.2014.11.011
+  first-page: '21'
+  journal-title: Am. J. Hum. Genet.
+  unstructured: Zhu, X. et al. Meta-analysis of correlated traits via summary statistics
+    from GWASs with an application in hypertension. Am. J. Hum. Genet. 96, 21–36 (2015).
+  volume: '96'
+  year: '2015'
+- author: N Zaitlen
+  doi: 10.1016/j.ajhg.2009.11.016
+  first-page: '23'
+  journal-title: Am. J. Hum. Genet.
+  unstructured: Zaitlen, N., Pas¸aniuc, B., Gur, T., Ziv, E. & Halperin, E. Leveraging
+    genetic variability across populations for the identification of causal variants.
+    Am. J. Hum. Genet. 86, 23–33 (2010).
+  volume: '86'
+  year: '2010'
+- author: B Han
+  doi: 10.1371/journal.pgen.1000456
+  first-page: e1000456
+  journal-title: PLoS Genet.
+  unstructured: Han, B., Kang, H.M. & Eskin, E. Rapid and accurate multiple testing
+    correction and power estimation for millions of correlated markers. PLoS Genet.
+    5, e1000456 (2009).
+  volume: '5'
+  year: '2009'
+doc_url: http://www.nature.com/articles/ng.3506.pdf
+doi: 10.1038/ng.3506
+files: []
+issue: '3'
+journal: Nature Genetics
+language: en
+month: 3
+pages: 245--252
+papis_id: 98241e0d3738ab0b267d9eb2e8579755
+publisher: Springer Science and Business Media LLC
+ref: IntegrativeAppGusev2016
+time-added: 2024-11-06-10:39:03
+title: Integrative approaches for large-scale transcriptome-wide association studies
+type: article
+url: http://dx.doi.org/10.1038/ng.3506
+volume: '48'
+year: 2016

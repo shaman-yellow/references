@@ -1,0 +1,21 @@
+author: Richardson, Tom G and Zheng, Jie and Gaunt, Tom R
+author_list:
+- family: Richardson
+  given: Tom G
+- family: Zheng
+  given: Jie
+- family: Gaunt
+  given: Tom R
+doi: 10.1101/cshperspect.a039248
+files: []
+issn: 2157-1422
+issue: '6'
+journal: Cold Spring Harbor perspectives in medicine
+papis_id: 1f11a21f03fd30cad092e2f7ffa1d2bb
+pmid: '33288654'
+ref: ComputationalTRichar2021
+time-added: 2024-11-08-09:58:41
+title: Computational Tools for Causal Inference in Genetics
+type: article
+volume: '11'
+year: 2021

@@ -1,0 +1,417 @@
+author: Pearl, Judea
+author_list:
+- affiliation: []
+  family: Pearl
+  given: Judea
+citations:
+- doi: 10.3386/t0117
+  unstructured: Angrist, J. and Imbens, G. (1991). Source of identifying information
+    in evaluation models. Tech. Rep. Discussion Paper 1568, Department of Economics,
+    Harvard University, Cambridge, MA.
+- unstructured: Avin, C., Shpitser, I. and Pearl, J. (2005). Identifiability of path-specific
+    effects. In, <i>Proceedings of the Nineteenth International Joint Conference on
+    Artificial Intelligence IJCAI-05</i>. Morgan-Kaufmann Publishers, Edinburgh, UK.
+- unstructured: Balke, A. and Pearl, J. (1995). Counterfactuals and policy analysis
+    in structural models. In, <i>Uncertainty in Artificial Intelligence 11</i> (P.
+    Besnard and S. Hanks, eds.). Morgan Kaufmann, San Francisco, 11–18.
+- unstructured: 'Bishop, Y., Fienberg, S. and Holland, P. (1975)., <i>Discrete multivariate
+    analysis: theory and practice</i>. MIT Press, Cambridge, MA.'
+- doi: 10.1002/9781118619179
+  unstructured: Bollen, K. (1989)., <i>Structural Equations with Latent Variables</i>.
+    John Wiley, New York.
+- unstructured: Bonet, B. (2001). Instrumentality tests revisited. In, <i>Proceedings
+    of the Seventeenth Conference on Uncertainty in Artificial Intelligence</i>. Morgan
+    Kaufmann, San Francisco, CA, 48–55.
+- unstructured: Bowden, R. and Turkington, D. (1984)., <i>Instrumental Variables</i>.
+    Cambridge University Press, Cambridge, England.
+- unstructured: Chalak, K. and White, H. (2006). An extended class of instrumental
+    variables for the estimation of causal effects. Tech. Rep. Discussion Paper, UCSD,
+    Department of, Economics.
+- unstructured: Cox, D. (1958)., <i>The Planning of Experiments</i>. John Wiley and
+    Sons, NY.
+- unstructured: 'DeFinetti, B. (1974)., <i>Theory of Probability: A Critical Introductory
+    Treatment</i>. Wiley, London. 2 volumes. Translated by A. Machi and A. Smith.'
+- unstructured: Duncan, O. (1975)., <i>Introduction to Structural Equation Models</i>.
+    Academic Press, New York.
+- unstructured: Eells, E. (1991)., <i>Probabilistic Causality</i>. Cambridge University
+    Press, Cambridge, MA.
+- unstructured: Glymour, M. and Greenland, S. (2008). Causal diagrams. In, <i>Modern
+    Epidemiology</i> (K. Rothman, S. Greenland and T. Lash, eds.), 3rd ed. Lippincott
+    Williams &amp; Wilkins, Philadelphia, PA, 183–209.
+- unstructured: 'Goldberger, A. (1973). Structural equation models: An overview. In,
+    <i>Structural Equation Models in the Social Sciences</i> (A. Goldberger and O.
+    Duncan, eds.). Seminar Press, New York, NY, 1–18.'
+- unstructured: 'Heckman, J. (1992). Randomization and social policy evaluation. In,
+    <i>Evaluations: Welfare and Training Programs</i> (C. Manski and I. Garfinkle,
+    eds.). Harvard University Press, Cambridge, MA, 201–230.'
+- unstructured: Holland, P. (1988). Causal inference, path analysis, and recursive
+    structural equations models. In, <i>Sociological Methodology</i> (C. Clogg, ed.).
+    American Sociological Association, Washington, D.C., 449–484.
+- unstructured: Hurwicz, L. (1950). Generalization of the concept of identification.
+    In, <i>Statistical Inference in Dynamic Economic Models</i> (T. Koopmans, ed.).
+    Cowles Commission, Monograph 10, Wiley, New York, 245–257.
+- unstructured: Imai, K., Keele, L. and Yamamoto, T. (2008). Identification, inference,
+    and sensitivity analysis for causal mediation effects. Tech. rep., Department
+    of Politics, Princton, University.
+- unstructured: Koopmans, T. (1953). Identification problems in econometric model
+    construction. In, <i>Studies in Econometric Method</i> (W. Hood and T. Koopmans,
+    eds.). Wiley, New York, 27–48.
+- unstructured: Lauritzen, S. (1996)., <i>Graphical Models</i>. Clarendon Press, Oxford.
+- unstructured: Lauritzen, S. (2001). Causal inference from graphical models. In,
+    <i>Complex Stochastic Systems</i> (D. Cox and C. Kluppelberg, eds.). Chapman and
+    Hall/CRC Press, Boca Raton, FL, 63–107.
+- unstructured: Marschak, J. (1950). Statistical inference in economics. In, <i>Statistical
+    Inference in Dynamic Economic Models</i> (T. Koopmans, ed.). Wiley, New York,
+    1–50. Cowles Commission for Research in Economics, Monograph 10.
+- unstructured: 'Morgan, S. and Winship, C. (2007)., <i>Counterfactuals and Causal
+    Inference: Methods and Principles for Social Research (Analytical Methods for
+    Social Research)</i>. Cambridge University Press, New York, NY.'
+- doi: 10.1093/humrep/dep211
+  unstructured: 'Mortensen, L., Diderichsen, F., Smith, G. and Andersen, A. (2009).
+    The social gradient in birthweight at term: quantification of the mediating role
+    of maternal smoking and body mass index., <i>Human Reproduction</i> To appear,
+    doi:10.1093/humrep/dep211.'
+- unstructured: Pearl, J. (1988)., <i>Probabilistic Reasoning in Intelligent Systems</i>.
+    Morgan Kaufmann, San Mateo, CA.
+- unstructured: Pearl, J. (1993b). Mediating instrumental variables. Tech. Rep. TR-210,
+    http://ftp.cs.ucla.edu/pub/stat_ser/R210.pdf, Department of Computer Science,
+    University of California, Los, Angeles.
+- unstructured: Pearl, J. (1995b). On the testability of causal models with latent
+    and instrumental variables. In, <i>Uncertainty in Artificial Intelligence 11</i>
+    (P. Besnard and S. Hanks, eds.). Morgan Kaufmann, San Francisco, CA, 435–443.
+- doi: 10.1017/CBO9780511803161
+  unstructured: 'Pearl, J. (2000a)., <i>Causality: Models, Reasoning, and Inference</i>.
+    Cambridge University Press, New York. 2nd edition, 2009.'
+- unstructured: Pearl, J. (2001). Direct and indirect effects. In, <i>Proceedings
+    of the Seventeenth Conference on Uncertainty in Artificial Intelligence</i>. Morgan
+    Kaufmann, San Francisco, CA, 411–420.
+- unstructured: Pearl, J. (2005). Direct and indirect effects. In, <i>Proceedings
+    of the American Statistical Association, Joint Statistical Meetings</i>. MIRA
+    Digital Publishing, Minn., MN, 1572–1581.
+- doi: 10.1017/CBO9780511803161
+  unstructured: 'Pearl, J. (2009a)., <i>Causality: Models, Reasoning, and Inference</i>.
+    2nd ed. Cambridge University Press, New York.'
+- unstructured: Pearl, J. (2009c). Myth, confusion, and science in causal analysis.
+    Tech. Rep. R-348, University of California, Los Angeles, CA., http://ftp.cs.ucla.edu/pub/stat<sub>s</sub>er/r348.pdf.
+- unstructured: Pearl, J. and Paz, A. (2009). Confounding equivalence in observational
+    studies. Tech. Rep. TR-343, University of California, Los Angeles, CA., http://ftp.cs.ucla.edu/pub/stat_ser/r343.pdf.
+- unstructured: Pearl, J. and Robins, J. (1995). Probabilistic evaluation of sequential
+    plans from causal models with hidden variables. In, <i>Uncertainty in Artificial
+    Intelligence 11</i> (P. Besnard and S. Hanks, eds.). Morgan Kaufmann, San Francisco,
+    444–453.
+- unstructured: 'Pearl, J. and Verma, T. (1991). A theory of inferred causation. In,
+    <i>Principles of Knowledge Representation and Reasoning: Proceedings of the Second
+    International Conference</i> (J. Allen, R. Fikes and E. Sandewall, eds.). Morgan
+    Kaufmann, San Mateo, CA, 441–452.'
+- unstructured: 'Robins, J. (1989). The analysis of randomized and non-randomized
+    aids treatment trials using a new approach to causal inference in longitudinal
+    studies. In, <i>Health Service Research Methodology: A Focus on AIDS</i> (L. Sechrest,
+    H. Freeman and A. Mulley, eds.). NCHSR, U.S. Public Health Service, Washington,
+    D.C., 113–159.'
+- unstructured: Robins, J. (1999). Testing and estimation of directed effects by reparameterizing
+    directed acyclic with structural nested models. In, <i>Computation, Causation,
+    and Discovery</i> (C. Glymour and G. Cooper, eds.). AAAI/MIT Press, Cambridge,
+    MA, 349–405.
+- unstructured: Rosenbaum, P. (2002)., <i>Observational Studies</i>. 2nd ed. Springer-Verlag,
+    New York.
+- unstructured: Shpitser, I. and Pearl, J. (2006). Identification of conditional interventional
+    distributions. In, <i>Proceedings of the Twenty-Second Conference on Uncertainty
+    in Artificial Intelligence</i> (R. Dechter and T. Richardson, eds.). AUAI Press,
+    Corvallis, OR, 437–444.
+- unstructured: Shpitser, I. and Pearl, J. (2007). What counterfactuals can be tested.
+    In, <i>Proceedings of the Twenty-Third Conference on Uncertainty in Artificial
+    Intelligence</i>. AUAI Press, Vancouver, BC, Canada, 352–359. Also, <i>Journal
+    of Machine Learning Research</i>, 9:1941–1979, 2008.
+- unstructured: Shpitser, I. and Pearl, J. (2008). Dormant independence. In, <i>Proceedings
+    of the Twenty-Third Conference on Artificial Intelligence</i>. AAAI Press, Menlo
+    Park, CA, 1081–1087.
+- unstructured: 'Shpitser, I. and Pearl, J. (2009). Effects of treatment on the treated:
+    Identification and generalization. In, <i>Proceedings of the Twenty-Fifth Conference
+    on Uncertainty in Artificial Intelligence</i>. AUAI Press, Montreal, Quebec.'
+- unstructured: Simon, H. (1953). Causal ordering and identifiability. In, <i>Studies
+    in Econometric Method</i> (W. C. Hood and T. Koopmans, eds.). Wiley and Sons,
+    Inc., New York, NY, 49–74.
+- doi: 10.1007/978-1-4612-2748-9
+  unstructured: Spirtes, P., Glymour, C. and Scheines, R. (1993)., <i>Causation, Prediction,
+    and Search</i>. Springer-Verlag, New York.
+- unstructured: Spirtes, P., Glymour, C. and Scheines, R. (2000)., <i>Causation, Prediction,
+    and Search</i>. 2nd ed. MIT Press, Cambridge, MA.
+- unstructured: Stock, J. and Watson, M. (2003)., <i>Introduction to Econometrics</i>.
+    Addison Wesley, New York.
+- unstructured: Suppes, P. (1970)., <i>A Probabilistic Theory of Causality</i>. North-Holland
+    Publishing Co., Amsterdam.
+- unstructured: Tian, J., Paz, A. and Pearl, J. (1998). Finding minimal separating
+    sets. Tech. Rep. R-254, University of California, Los Angeles, CA.
+- unstructured: Tian, J. and Pearl, J. (2002). A general identification condition
+    for causal effects. In, <i>Proceedings of the Eighteenth National Conference on
+    Artificial Intelligence</i>. AAAI Press/The MIT Press, Menlo Park, CA, 567–573.
+- doi: 10.1007/978-0-387-21736-9
+  unstructured: 'Wasserman, L. (2004)., <i>All of Statistics: A Concise Course in
+    Statistical Inference</i>. Springer Science+Business Media, Inc., New York, NY.'
+- unstructured: Wermuth, N. (1992). On block-recursive regression equations., <i>Brazilian
+    Journal of Probability and Statistics</i> (with discussion) <b>6</b> 1–56.
+- unstructured: Whittaker, J. (1990)., <i>Graphical Models in Applied Multivariate
+    Statistics</i>. John Wiley, Chichester, England.
+- unstructured: Woodward, J. (2003)., <i>Making Things Happen</i>. Oxford University
+    Press, New York, NY.
+- unstructured: Wooldridge, J. (2002)., <i>Econometric Analysis of Cross Section and
+    Panel Data</i>. MIT Press, Cambridge and London.
+- unstructured: Wooldridge, J. (2009). Should instrumental variables be used as matching
+    variables? Tech. Rep. https://www.msu.edu/ ec/faculty/wooldridge/current%20research/treat1r6.pdf,
+    Michigan State University, MI.
+- unstructured: Angrist, J., Imbens, G. and Rubin, D. (1996). Identification of causal
+    effects using instrumental variables (with comments)., <i>Journal of the American
+    Statistical Association</i> <b>91</b> 444–472.
+- doi: 10.1186/1742-7622-5-5
+  unstructured: 'Arah, O. (2008). The role of causal reasoning in understanding Simpson’s
+    paradox, Lord’s paradox, and the suppression effect: Covariate selection in the
+    analysis of observational studies., <i>Emerging Themes in Epidemiology</i> <b>4</b>
+    doi:10.1186/1742–7622–5–5. Online at http://www.ete-online.com/content/5/1/5.'
+- doi: 10.1111/j.1467-9469.2004.02-134.x
+  unstructured: Arjas, E. and Parner, J. (2004). Causal reasoning from longitudinal
+    data., <i>Scandinavian Journal of Statistics</i> <b>31</b> 171–187.
+- doi: 10.1080/01621459.1997.10474074
+  unstructured: Balke, A. and Pearl, J. (1997). Bounds on treatment effects from studies
+    with imperfect compliance., <i>Journal of the American Statistical Association</i>
+    <b>92</b> 1172–1176.
+- doi: 10.2307/3002000
+  unstructured: Berkson, J. (1946). Limitations of the application of fourfold table
+    analysis to hospital data., <i>Biometrics Bulletin</i> <b>2</b> 47–53.
+- doi: 10.1080/01621459.1972.10482387
+  unstructured: Blyth, C. (1972). On Simpson’s paradox and the sure-thing principle.,
+    <i>Journal of the American Statistical Association</i> <b>67</b> 364–366.
+- doi: 10.1126/science.1110535
+  unstructured: Brent, R. and Lok, L. (2005). A fishing buddy for hypothesis generators.,
+    <i>Science</i> <b>308</b> 523–529.
+- unstructured: Cai, Z. and Kuroki, M. (2006). Variance estimators for three ‘probabilities
+    of causation’., <i>Risk Analysis</i> <b>25</b> 1611–1620.
+- doi: 10.1198/tast.2009.08220
+  unstructured: 'Chen, A., Bengtsson, T. and Ho, T. (2009). A regression paradox for
+    linear models: Sufficient conditions and relation to Simpson’s paradox., <i>The
+    American Statistician</i> <b>63</b> 218–225.'
+- unstructured: Chickering, D. and Pearl, J. (1997). A clinician’s tool for analyzing
+    non-compliance., <i>Computing Science and Statistics</i> <b>29</b> 424–431.
+- unstructured: Cole, P. (1997). Causality in epidemiology, health policy, and law.,
+    <i>Journal of Marketing Research</i> <b>27</b> 10279–10285.
+- doi: 10.1093/ije/31.1.163
+  unstructured: Cole, S. and Hernán, M. (2002). Fallibility in estimating direct effects.,
+    <i>International Journal of Epidemiology</i> <b>31</b> 163–165.
+- doi: 10.1111/1467-9868.00424
+  unstructured: Cox, D. and Wermuth, N. (2003). A general condition for avoiding effect
+    reversal after marginalization., <i>Journal of the Royal Statistical Society,
+    Series B (Statistical Methodology)</i> <b>65</b> 937–941.
+- doi: 10.1111/j.1751-5823.2004.tb00237.x
+  unstructured: 'Cox, D. and Wermuth, N. (2004). Causality: A statistical view., <i>International
+    Statistical Review</i> <b>72</b> 285–305.'
+- doi: 10.1111/j.2517-6161.1979.tb01052.x
+  unstructured: Dawid, A. (1979). Conditional independence in statistical theory.,
+    <i>Journal of the Royal Statistical Society, Series B</i> <b>41</b> 1–31.
+- doi: 10.2307/2669377
+  unstructured: Dawid, A. (2000). Causal inference without counterfactuals (with comments
+    and rejoinder)., <i>Journal of the American Statistical Association</i> <b>95</b>
+    407–448.
+- unstructured: Dawid, A. (2002). Influence diagrams for causal modelling and inference.,
+    <i>International Statistical Review</i> <b>70</b> 161–189.
+- doi: 10.1111/j.0006-341X.2002.00021.x
+  unstructured: Frangakis, C. and Rubin, D. (2002). Principal stratification in causal
+    inference., <i>Biometrics</i> <b>1</b> 21–29.
+- doi: 10.2307/1913851
+  unstructured: 'Goldberger, A. (1972). Structural equation models in the social sciences.,
+    <i>Econometrica: Journal of the Econometric Society</i> <b>40</b> 979–1001.'
+- doi: 10.1214/aos/1176350369
+  unstructured: Good, I. and Mittal, Y. (1987). The amalgamation and geometry of two-by-two
+    contingency tables., <i>The Annals of Statistics</i> <b>15</b> 694–711.
+- doi: 10.2105/AJPH.89.8.1166
+  unstructured: 'Greenland, S. (1999). Relation of probability of causation, relative
+    risk, and doubling dose: A methodologic error that has become a social problem.,
+    <i>American Journal of Public Health</i> <b>89</b> 1166–1169.'
+- doi: 10.1097/00001648-199901000-00008
+  unstructured: Greenland, S., Pearl, J. and Robins, J. (1999). Causal diagrams for
+    epidemiologic research., <i>Epidemiology</i> <b>10</b> 37–48.
+- doi: 10.1093/ije/15.3.413
+  unstructured: Greenland, S. and Robins, J. (1986). Identifiability, exchangeability,
+    and epidemiological confounding., <i>International Journal of Epidemiology</i>
+    <b>15</b> 413–419.
+- doi: 10.2307/1905714
+  unstructured: Haavelmo, T. (1943). The statistical implications of a system of simultaneous
+    equations., <i>Econometrica</i> <b>11</b> 1–12. Reprinted in D.F. Hendry and M.S.
+    Morgan (Eds.), <i>The Foundations of Econometric Analysis</i>, Cambridge University
+    Press, 477–490, 1995.
+- doi: 10.1093/ije/dyn372
+  unstructured: 'Hafeman, D. and Schwartz, S. (2009). Opening the black box: A motivation
+    for the assessment of mediation., <i>International Journal of Epidemiology</i>
+    <b>3</b> 838–845.'
+- doi: 10.1111/j.1751-5823.2007.00024.x
+  unstructured: Heckman, J. (2008). Econometric causality., <i>International Statistical
+    Review</i> <b>76</b> 1–27.
+- doi: 10.1162/003465304323023660
+  unstructured: Heckman, J. and Navarro-Lozano, S. (2004). Using matching, instrumental
+    variables, and control functions to estimate economic choice models., <i>The Review
+    of Economics and Statistics</i> <b>86</b> 30–57.
+- doi: 10.1111/j.1468-0262.2005.00594.x
+  unstructured: Heckman, J. and Vytlacil, E. (2005). Structural equations, treatment
+    effects and econometric policy evaluation., <i>Econometrica</i> <b>73</b> 669–738.
+- doi: 10.1257/jel.47.1.5
+  unstructured: Imbens, G. and Wooldridge, J. (2009). Recent developments in the econometrics
+    of program evaluation., <i>Journal of Economic Literature</i> <b>47</b>.
+- doi: 10.1017/S1446788700027312
+  unstructured: Kiiveri, H., Speed, T. and Carlin, J. (1984). Recursive causal models.,
+    <i>Journal of Australian Math Society</i> <b>36</b> 30–52.
+- doi: 10.14490/jjss1995.29.105
+  unstructured: Kuroki, M. and Miyakawa, M. (1999). Identifiability criteria for causal
+    effects of joint interventions., <i>Journal of the Royal Statistical Society</i>
+    <b>29</b> 105–117.
+- doi: 10.1111/j.1751-5823.2002.tb00355.x
+  unstructured: 'Lindley, D. (2002). Seeing and doing: The concept of causation.,
+    <i>International Statistical Review</i> <b>70</b> 191–214.'
+- doi: 10.1214/aos/1176345331
+  unstructured: Lindley, D. and Novick, M. (1981). The role of exchangeability in
+    inference., <i>The Annals of Statistics</i> <b>9</b> 45–58.
+- doi: 10.1146/annurev.psych.58.110405.085542
+  unstructured: MacKinnon, D., Fairchild, A. and Fritz, M. (2007). Mediation analysis.,
+    <i>Annual Review of Psychology</i> <b>58</b> 593–614.
+- unstructured: Manski, C. (1990). Nonparametric bounds on treatment effects., <i>American
+    Economic Review, Papers and Proceedings</i> <b>80</b> 319–323.
+- doi: 10.1093/bjps/45.4.1001
+  unstructured: Meek, C. and Glymour, C. (1994). Conditioning and intervening., <i>British
+    Journal of Philosophy Science</i> <b>45</b> 1001–1021.
+- unstructured: Miettinen, O. (1974). Proportion of disease caused or prevented by
+    a given exposure, trait, or intervention., <i>Journal of Epidemiology</i> <b>99</b>
+    325–332.
+- unstructured: Neyman, J. (1923). On the application of probability theory to agricultural
+    experiments. Essay on principles. Section 9., <i>Statistical Science</i> <b>5</b>
+    465–480.
+- doi: 10.1198/tast.2009.09007
+  unstructured: Pavlides, M. and Perlman, M. (2009). How likely is Simpson’s paradox?,
+    <i>The American Statistician</i> <b>63</b> 226–233.
+- doi: 10.1214/ss/1177010894
+  unstructured: 'Pearl, J. (1993a). Comment: Graphical models, causality, and intervention.,
+    <i>Statistical Science</i> <b>8</b> 266–269.'
+- doi: 10.1093/biomet/82.4.669
+  unstructured: Pearl, J. (1995a). Causal diagrams for empirical research., <i>Biometrika</i>
+    <b>82</b> 669–710.
+- doi: 10.1177/0049124198027002004
+  unstructured: Pearl, J. (1998). Graphs, causality, and structural equation models.,
+    <i>Sociological Methods and Research</i> <b>27</b> 226–284.
+- doi: 10.2307/2669380
+  unstructured: Pearl, J. (2000b). Comment on A.P. Dawid’s, Causal inference without
+    counterfactuals., <i>Journal of the American Statistical Association</i> <b>95</b>
+    428–431.
+- doi: 10.1007/BF02595718
+  unstructured: 'Pearl, J. (2003). Statistics and causal inference: A review., <i>Test
+    Journal</i> <b>12</b> 281–345.'
+- doi: 10.1002/sim.3521
+  unstructured: 'Pearl, J. (2009b). Letter to the editor: Remarks on the method of
+    propensity scores., <i>Statistics in Medicine</i> <b>28</b> 1415–1416. http://ftp.cs.ucla.edu/pub/stat<sub>s</sub>er/r345-sim.pdf.'
+- unstructured: 'Pearson, K., Lee, A. and Bramley-Moore, L. (1899). Genetic (reproductive)
+    selection: Inheritance of fertility in man., <i>Philosophical Transactions of
+    the Royal Society A</i> <b>73</b> 534–539.'
+- doi: 10.1097/01.ede.0000208475.99429.2d
+  unstructured: Petersen, M., Sinisi, S. and van der Laan, M. (2006). Estimation of
+    direct causal effects., <i>Epidemiology</i> <b>17</b> 276–284.
+- unstructured: Robertson, D. (1997). The common sense of cause in fact., <i>Texas
+    Law Review</i> <b>75</b> 1765–1800.
+- doi: 10.1016/0270-0255(86)90088-6
+  unstructured: Robins, J. (1986). A new approach to causal inference in mortality
+    studies with a sustained exposure period – applications to control of the healthy
+    workers survivor effect., <i>Mathematical Modeling</i> <b>7</b> 1393–1512.
+- doi: 10.1016/S0021-9681(87)80018-8
+  unstructured: Robins, J. (1987). A graphical approach to the identification and
+    estimation of causal parameters in mortality studies with sustained exposure periods.,
+    <i>Journal of Chronic Diseases</i> <b>40</b> 139S–161S.
+- doi: 10.1097/00001648-200105000-00011
+  unstructured: Robins, J. (2001). Data, design, and background knowledge in etiologic
+    inference., <i>Epidemiology</i> <b>12</b> 313–320.
+- doi: 10.2307/2531765
+  unstructured: Robins, J. and Greenland, S. (1989a). The probability of causation
+    under a stochastic model for individual risk., <i>Biometrics</i> <b>45</b> 1125–1138.
+- doi: 10.1002/sim.4780080709
+  unstructured: Robins, J. and Greenland, S. (1989b). Estimability and estimation
+    of excess and etiologic fractions., <i>Statistics in Medicine</i> <b>8</b> 845–859.
+- doi: 10.1097/00001648-199203000-00013
+  unstructured: Robins, J. and Greenland, S. (1992). Identifiability and exchangeability
+    for direct and indirect effects., <i>Epidemiology</i> <b>3</b> 143–155.
+- doi: 10.1093/biomet/70.1.41
+  unstructured: Rosenbaum, P. and Rubin, D. (1983). The central role of propensity
+    score in observational studies for causal effects., <i>Biometrika</i> <b>70</b>
+    41–55.
+- doi: 10.1093/oxfordjournals.aje.a112335
+  unstructured: Rothman, K. (1976). Causes., <i>American Journal of Epidemiology</i>
+    <b>104</b> 587–592.
+- doi: 10.1037/h0037350
+  unstructured: Rubin, D. (1974). Estimating causal effects of treatments in randomized
+    and nonrandomized studies., <i>Journal of Educational Psychology</i> <b>66</b>
+    688–701.
+- doi: 10.1111/j.1467-9469.2004.02-123.x
+  unstructured: Rubin, D. (2004). Direct and indirect causal effects via potential
+    outcomes., <i>Scandinavian Journal of Statistics</i> <b>31</b> 161–170.
+- doi: 10.1198/016214504000001880
+  unstructured: 'Rubin, D. (2005). Causal inference using potential outcomes: Design,
+    modeling, decisions., <i>Journal of the American Statistical Association</i> <b>100</b>
+    322–331.'
+- doi: 10.1002/sim.2739
+  unstructured: 'Rubin, D. (2007). The design, <i>versus</i> the analysis of observational
+    studies for causal effects: Parallels with the design of randomized trials. <i>Statistics
+    in Medicine</i> <b>26</b> 20–36.'
+- doi: 10.1002/sim.3565
+  unstructured: 'Rubin, D. (2009). Author’s reply: Should observational studies be
+    designed to allow lack of balance in covariate distributions across treatment
+    group?, <i>Statistics in Medicine</i> <b>28</b> 1420–1423.'
+- unstructured: 'Shrier, I. (2009). Letter to the editor: Propensity scores., <i>Statistics
+    in Medicine</i> <b>28</b> 1317–1318. See also Pearl 2009 http://ftp.cs.ucla.edu/pub/stat_ser/r348.pdf.'
+- doi: 10.1037/1082-989X.7.4.422
+  unstructured: 'Shrout, P. and Bolger, N. (2002). Mediation in experimental and nonexperimental
+    studies: New procedures and recommendations., <i>Psychological Methods</i> <b>7</b>
+    422–445.'
+- doi: 10.1086/288105
+  unstructured: Simon, H. and Rescher, N. (1966). Cause and counterfactual., <i>Philosophy
+    and Science</i> <b>33</b> 323–340.
+- doi: 10.1111/j.2517-6161.1951.tb00088.x
+  unstructured: Simpson, E. (1951). The interpretation of interaction in contingency
+    tables., <i>Journal of the Royal Statistical Society, Series B</i> <b>13</b> 238–241.
+- doi: 10.1177/0049124198027002006
+  unstructured: Sobel, M. (1998). Causal inference in statistical models of the process
+    of socioeconomic achievement., <i>Sociological Methods &amp; Research</i> <b>27</b>
+    318–348.
+- doi: 10.3102/1076998607307239
+  unstructured: Sobel, M. (2008). Identification of causal parameters in randomized
+    studies with mediating variables., <i>Journal of Educational and Behavioral Statistics</i>
+    <b>33</b> 230–231.
+- doi: 10.2307/1907731
+  unstructured: 'Strotz, R. and Wold, H. (1960). Recursive versus nonrecursive systems:
+    An attempt at synthesis., <i>Econometrica</i> <b>28</b> 417–427.'
+- doi: 10.1023/A:1018912507879
+  unstructured: 'Tian, J. and Pearl, J. (2000). Probabilities of causation: Bounds
+    and identification., <i>Annals of Mathematics and Artificial Intelligence</i>
+    <b>28</b> 287–313.'
+- doi: 10.1097/EDE.0b013e31818f69ce
+  unstructured: VanderWeele, T. (2009). Marginal structural models for the estimation
+    of direct and indirect effects., <i>Epidemiology</i> <b>20</b> 18–26.
+- doi: 10.1097/EDE.0b013e318127181b
+  unstructured: 'VanderWeele, T. and Robins, J. (2007). Four types of effect modification:
+    A classification based on directed acyclic graphs., <i>Epidemiology</i> <b>18</b>
+    561–568.'
+- doi: 10.1214/ss/1177010887
+  unstructured: Wermuth, N. and Cox, D. (1993). Linear dependencies represented by
+    chain graphs., <i>Statistical Science</i> <b>8</b> 204–218.
+- unstructured: Wright, S. (1921). Correlation and causation., <i>Journal of Agricultural
+    Research</i> <b>20</b> 557–585.
+- doi: 10.1093/biomet/2.2.121
+  unstructured: Yule, G. (1903). Notes on the theory of association of attributes
+    in statistics., <i>Biometrika</i> <b>2</b> 121–134.
+doc_url: http://projecteuclid.org/download/pdfview_1/euclid.ssu/1255440554
+doi: 10.1214/09-ss057
+files:
+- causalinferencpearl2009.pdf
+issue: none
+journal: Statistics Surveys
+month: 1
+papis_id: 6446b0ce31e2e7d8685a8bb134894138
+publisher: Institute of Mathematical Statistics
+ref: CausalInferencPearl2009
+time-added: 2024-11-06-16:26:17
+title: 'Causal inference in statistics: An overview'
+type: article
+url: http://dx.doi.org/10.1214/09-ss057
+volume: '3'
+year: 2009

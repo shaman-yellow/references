@@ -1,0 +1,543 @@
+abstract: <jats:title>Abstract</jats:title><jats:p>We introduce Proteome-Wide Association
+  Study (PWAS), a new method for detecting gene-phenotype associations mediated by
+  protein function alterations. PWAS aggregates the signal of all variants jointly
+  affecting a protein-coding gene and assesses their overall impact on the protein’s
+  function using machine learning and probabilistic models. Subsequently, it tests
+  whether the gene exhibits functional variability between individuals that correlates
+  with the phenotype of interest. PWAS can capture complex modes of heritability,
+  including recessive inheritance. A comparison with GWAS and other existing methods
+  proves its capacity to recover causal protein-coding genes and highlight new associations.
+  PWAS is available as a command-line tool.</jats:p>
+author: Brandes, Nadav and Linial, Nathan and Linial, Michal
+author_list:
+- affiliation: []
+  family: Brandes
+  given: Nadav
+- affiliation: []
+  family: Linial
+  given: Nathan
+- affiliation: []
+  family: Linial
+  given: Michal
+citations:
+- author: CM Lewis
+  doi: 10.1101/pdb.top068163
+  first-page: pdb--top068163
+  issue: '3'
+  journal-title: Cold Spring Harb Protoc
+  unstructured: Lewis CM, Knight J. Introduction to genetic association studies. Cold
+    Spring Harb Protoc. 2012;2012(3):pdb--top068163.
+  volume: '2012'
+  year: '2012'
+- doi: 10.1186/1746-4811-9-29
+  unstructured: 'Korte A, Farlow A. The advantages and limitations of trait analysis
+    with GWAS: a review. Plant Methods. 2013 Jan [cited 2014 Jul 11];9(1):29. Available
+    from: http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3750305&tool=pmcentrez&rendertype=abstract.'
+- author: P-R Loh
+  doi: 10.1038/ng.3190
+  first-page: '284'
+  issue: '3'
+  journal-title: Nat Genet
+  unstructured: Loh P-R, Tucker G, Bulik-Sullivan BK, Vilhjalmsson BJ, Finucane HK,
+    Salem RM, et al. Efficient Bayesian mixed-model analysis increases association
+    power in large cohorts. Nat Genet. 2015;47(3):284.
+  volume: '47'
+  year: '2015'
+- author: CC Chang
+  doi: 10.1186/s13742-015-0047-8
+  first-page: '7'
+  issue: '1'
+  journal-title: Gigascience.
+  unstructured: 'Chang CC, Chow CC, Tellier LCAM, Vattikuti S, Purcell SM, Lee JJ.
+    Second-generation PLINK: rising to the challenge of larger and richer datasets.
+    Gigascience. 2015;4(1):7.'
+  volume: '4'
+  year: '2015'
+- author: A Buniello
+  doi: 10.1093/nar/gky1120
+  first-page: D1005
+  issue: D1
+  journal-title: Nucleic Acids Res
+  unstructured: Buniello A, MacArthur JAL, Cerezo M, Harris LW, Hayhurst J, Malangone
+    C, et al. The NHGRI-EBI GWAS Catalog of published genome-wide association studies,
+    targeted arrays and summary statistics 2019. Nucleic Acids Res. 2018;47(D1):D1005–12.
+  volume: '47'
+  year: '2018'
+- author: PM Visscher
+  doi: 10.1016/j.ajhg.2011.11.029
+  first-page: '7'
+  issue: '1'
+  journal-title: Am J Hum Genet
+  unstructured: Visscher PM, Brown MA, McCarthy MI, Yang J. Five years of GWAS discovery.
+    Am J Hum Genet. 2012;90(1):7–24.
+  volume: '90'
+  year: '2012'
+- author: PM Visscher
+  doi: 10.1016/j.ajhg.2017.06.005
+  first-page: '5'
+  issue: '1'
+  journal-title: Am J Hum Genet
+  unstructured: 'Visscher PM, Wray NR, Zhang Q, Sklar P, McCarthy MI, Brown MA, et
+    al. 10 years of GWAS discovery: biology, function, and translation. Am J Hum Genet.
+    2017;101(1):5–22.'
+  volume: '101'
+  year: '2017'
+- author: C Sudlow
+  doi: 10.1371/journal.pmed.1001779
+  issue: '3'
+  journal-title: PLoS Med
+  unstructured: 'Sudlow C, Gallacher J, Allen N, Beral V, Burton P, Danesh J, et al.
+    UK Biobank: an open access resource for identifying the causes of a wide range
+    of complex diseases of middle and old age. PLoS Med. 2015;12(3):e1001779.'
+  volume: '12'
+  year: '2015'
+- doi: 10.1101/166298
+  unstructured: Bycroft C, Freeman C, Petkova D, Band G, Elliott LT, Sharp K, et al.
+    Genome-wide genetic data on ~500,000 UK Biobank participants. BioRxiv. 2017;166298.
+- author: TA Manolio
+  doi: 10.1038/nature08494
+  first-page: '747'
+  issue: '7265'
+  journal-title: Nature.
+  unstructured: Manolio TA, Collins FS, Cox NJ, Goldstein DB, Hindorff LA, Hunter
+    DJ, et al. Finding the missing heritability of complex diseases. Nature. 2009;461(7265):747.
+  volume: '461'
+  year: '2009'
+- author: SL Spain
+  doi: 10.1093/hmg/ddv260
+  first-page: R111
+  issue: R1
+  journal-title: Hum Mol Genet
+  unstructured: Spain SL, Barrett JC. Strategies for fine-mapping complex traits.
+    Hum Mol Genet. 2015;24(R1):R111–9.
+  volume: '24'
+  year: '2015'
+- author: DJ Schaid
+  doi: 10.1038/s41576-018-0016-z
+  first-page: '491'
+  issue: '8'
+  journal-title: Nat Rev Genet
+  unstructured: Schaid DJ, Chen W, Larson NB. From genome-wide associations to candidate
+    causal variants by statistical fine-mapping. Nat Rev Genet. 2018;19(8):491.
+  volume: '19'
+  year: '2018'
+- author: M de Bunt
+  issue: '9'
+  journal-title: PLoS Genet
+  unstructured: de Bunt M, Cortes A, Brown MA, Morris AP, McCarthy MI, Consortium
+    I, et al. Evaluating the performance of fine-mapping strategies at common variant
+    GWAS loci. PLoS Genet. 2015;11(9):e1005535.
+  volume: '11'
+  year: '2015'
+- author: Z Zhu
+  doi: 10.1038/ng.3538
+  first-page: '481'
+  journal-title: Nat Genet.
+  unstructured: 'Zhu Z, Zhang F, Hu H, Bakshi A, Robinson MR, Powell JE, et al. Integration
+    of summary data from GWAS and eQTL studies predicts complex trait gene targets.
+    Nat Genet. 2016;48:481 Available from: https://doi.org/10.1038/ng.3538.'
+  volume: '48'
+  year: '2016'
+- author: F Hormozdiari
+  doi: 10.1016/j.ajhg.2016.10.003
+  first-page: '1245'
+  issue: '6'
+  journal-title: Am J Hum Genet
+  unstructured: Hormozdiari F, Van De Bunt M, Segre AV, Li X, Joo JWJ, Bilow M, et
+    al. Colocalization of GWAS and eQTL signals detects target genes. Am J Hum Genet.
+    2016;99(6):1245–60.
+  volume: '99'
+  year: '2016'
+- author: TH Pers
+  doi: 10.1038/ncomms6890
+  first-page: '5890'
+  journal-title: Nat Commun.
+  unstructured: 'Pers TH, Karjalainen JM, Chan Y, Westra H-J, Wood AR, Yang J, et
+    al. Biological interpretation of genome-wide association studies using predicted
+    gene functions. Nat Commun. 2015;6:5890 Available from: https://doi.org/10.1038/ncomms6890.'
+  volume: '6'
+  year: '2015'
+- author: F Hormozdiari
+  doi: 10.1093/bioinformatics/btv240
+  first-page: i206
+  issue: '12'
+  journal-title: Bioinformatics
+  unstructured: 'Hormozdiari F, Kichaev G, Yang W-Y, Pasaniuc B, Eskin E. Identification
+    of causal genes for complex traits. Bioinformatics. 2015;31(12):i206–13 Available
+    from: https://doi.org/10.1093/bioinformatics/btv240.'
+  volume: '31'
+  year: '2015'
+- author: MC Wu
+  doi: 10.1016/j.ajhg.2011.05.029
+  first-page: '82'
+  issue: '1'
+  journal-title: Am J Hum Genet
+  unstructured: Wu MC, Lee S, Cai T, Li Y, Boehnke M, Lin X. Rare-variant association
+    testing for sequencing data with the sequence kernel association test. Am J Hum
+    Genet. 2011;89(1):82–93.
+  volume: '89'
+  year: '2011'
+- author: S Lee
+  doi: 10.1016/j.ajhg.2012.06.007
+  first-page: '224'
+  issue: '2'
+  journal-title: Am J Hum Genet
+  unstructured: Lee S, Emond MJ, Bamshad MJ, Barnes KC, Rieder MJ, Nickerson DA, et
+    al. Optimal unified approach for rare-variant association testing with application
+    to small-sample case-control whole-exome sequencing studies. Am J Hum Genet. 2012;91(2):224–37.
+  volume: '91'
+  year: '2012'
+- author: ER Gamazon
+  doi: 10.1038/ng.3367
+  first-page: '1091'
+  journal-title: Nat Genet.
+  unstructured: 'Gamazon ER, Wheeler HE, Shah KP, Mozaffari SV, Aquino-Michaels K,
+    Carroll RJ, et al. A gene-based association method for mapping traits using reference
+    transcriptome data. Nat Genet. 2015;47:1091 Available from: https://doi.org/10.1038/ng.3367.'
+  volume: '47'
+  year: '2015'
+- author: A Gusev
+  doi: 10.1038/ng.3506
+  first-page: '245'
+  journal-title: Nat Genet.
+  unstructured: 'Gusev A, Ko A, Shi H, Bhatia G, Chung W, Penninx BWJH, et al. Integrative
+    approaches for large-scale transcriptome-wide association studies. Nat Genet.
+    2016;48:245 Available from: https://doi.org/10.1038/ng.3506.'
+  volume: '48'
+  year: '2016'
+- unstructured: Brandes N, Linial N, Linial M. Quantifying gene selection in cancer
+    through protein functional alteration bias. Nucleic Acids Res. 2019;27(24). https://ascopubs.org/doi/full/10.1200/JCO.2008.21.6853?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&.
+- doi: 10.1200/JCO.2008.21.6853
+  unstructured: Lubbe SJ, Di Bernardo MC, Chandler IP, Houlston RS, others. Clinical
+    implications of the colorectal cancer risk associated with MUTYH mutation. J Clin
+    Oncol 2009;27(24):3975–3980.
+- author: C Niu
+  doi: 10.1002/iub.502
+  first-page: '764'
+  issue: '9'
+  journal-title: IUBMB Life
+  unstructured: Niu C, Yan Z, Cheng L, Zhu J, Zhang H, Xu X, et al. Downregulation
+    and antiproliferative role of FHL3 in breast cancer. IUBMB Life. 2011;63(9):764–71.
+  volume: '63'
+  year: '2011'
+- author: CL Sambrooks
+  doi: 10.1158/0008-5472.CAN-18-0505
+  first-page: '5094'
+  issue: '17'
+  journal-title: Cancer Res
+  unstructured: Sambrooks CL, Baro M, Quijano A, Narayan A, Cui W, Greninger P, et
+    al. Oligosaccharyltransferase inhibition overcomes therapeutic resistance to EGFR
+    tyrosine kinase inhibitors. Cancer Res. 2018;78(17):5094–106.
+  volume: '78'
+  year: '2018'
+- author: P Vaňhara
+  doi: 10.3892/ijo.2013.1824
+  first-page: '1383'
+  issue: '4'
+  journal-title: Int J Oncol
+  unstructured: Vaňhara P, Horak P, Pils D, Anees M, Petz M, Gregor W, et al. Loss
+    of the oligosaccharyl transferase subunit TUSC3 promotes proliferation and migration
+    of ovarian cancer cells. Int J Oncol. 2013;42(4):1383–9.
+  volume: '42'
+  year: '2013'
+- author: Q Liu
+  doi: 10.7150/ijbs.5763
+  first-page: '541'
+  issue: '6'
+  journal-title: Int J Biol Sci
+  unstructured: Liu Q, Liu X, Gao J, Shi X, Hu X, Wang S, et al. Overexpression of
+    DOC-1R inhibits cell cycle G1/S transition by repressing CDK2 expression and activation.
+    Int J Biol Sci. 2013;9(6):541.
+  volume: '9'
+  year: '2013'
+- author: A Ertekin
+  doi: 10.1074/jbc.M112.343863
+  first-page: '16541'
+  issue: '20'
+  journal-title: J Biol Chem
+  unstructured: Ertekin A, Aramini JM, Rossi P, Leonard PG, Janjua H, Xiao R, et al.
+    Human cyclin-dependent kinase 2-associated protein 1 (CDK2AP1) is dimeric in its
+    disulfide-reduced state, with natively disordered N-terminal region. J Biol Chem.
+    2012;287(20):16541–9.
+  volume: '287'
+  year: '2012'
+- author: H Hayashi
+  doi: 10.1038/onc.2013.547
+  first-page: '199'
+  issue: '2'
+  journal-title: Oncogene.
+  unstructured: Hayashi H, Arao T, Togashi Y, Kato H, Fujita Y, De Velasco MA, et
+    al. The OCT4 pseudogene POU5F1B is amplified and promotes an aggressive phenotype
+    in gastric cancer. Oncogene. 2015;34(2):199.
+  volume: '34'
+  year: '2015'
+- author: Y Pan
+  doi: 10.1016/j.biopha.2018.02.023
+  first-page: '374'
+  journal-title: Biomed Pharmacother
+  unstructured: Pan Y, Zhan L, Chen L, Zhang H, Sun C, Xing C. POU5F1B promotes hepatocellular
+    carcinoma proliferation by activating AKT. Biomed Pharmacother. 2018;100:374–80.
+  volume: '100'
+  year: '2018'
+- author: L Yao
+  doi: 10.1038/ncomms6114
+  first-page: '5114'
+  journal-title: Nat Commun
+  unstructured: Yao L, Tak YG, Berman BP, Farnham PJ. Functional annotation of colon
+    cancer risk SNPs. Nat Commun. 2014;5:5114.
+  volume: '5'
+  year: '2014'
+- author: D Carvalho-Silva
+  doi: 10.1093/nar/gky1133
+  first-page: D1056
+  issue: D1
+  journal-title: Nucleic Acids Res
+  unstructured: 'Carvalho-Silva D, Pierleoni A, Pignatelli M, Ong C, Fumis L, Karamanis
+    N, et al. Open targets platform: new developments and updates two years on. Nucleic
+    Acids Res. 2018;47(D1):D1056–65.'
+  volume: '47'
+  year: '2018'
+- author: A Hamosh
+  first-page: D514
+  issue: suppl_1
+  journal-title: Nucleic Acids Res.
+  unstructured: Hamosh A, Scott AF, Amberger JS, Bocchini CA, McKusick VA. Online
+    Mendelian Inheritance in Man (OMIM), a knowledgebase of human genes and genetic
+    disorders. Nucleic Acids Res. 2005;33(suppl_1):D514–7.
+  volume: '33'
+  year: '2005'
+- author: BJ McCranor
+  doi: 10.1016/j.bcmd.2013.09.004
+  first-page: '126'
+  issue: 2–3
+  journal-title: Blood Cells Mol Dis
+  unstructured: McCranor BJ, Kim MJ, Cruz NM, Xue Q-L, Berger AE, Walston JD, et al.
+    Interleukin-6 directly impairs the erythroid development of human TF-1 erythroleukemic
+    cells. Blood Cells Mol Dis. 2014;52(2–3):126–33.
+  volume: '52'
+  year: '2014'
+- unstructured: Ulich TR, Yin SM, Egrie JC, others. The erythropoietic effects of
+    interleukin 6 and erythropoietin in vivo. Exp Hematol 1991;19(1):29–34.
+- author: C Pina
+  doi: 10.1016/j.stem.2008.01.013
+  first-page: '264'
+  issue: '3'
+  journal-title: Cell Stem Cell
+  unstructured: Pina C, May G, Soneji S, Hong D, Enver T. MLLT3 regulates early human
+    erythroid and megakaryocytic cell fate. Cell Stem Cell. 2008;2(3):264–73.
+  volume: '2'
+  year: '2008'
+- author: N Tamura
+  doi: 10.1046/j.1365-3083.1996.d01-303.x
+  first-page: '229'
+  issue: '3'
+  journal-title: Scand J Immunol
+  unstructured: Tamura N, Ishii N, Nakazawa M, Nagoya M, Yoshinari M, Amano T, et
+    al. Requirement of CD80 and CD86 molecules for antigen presentation by eosinophils.
+    Scand J Immunol. 1996;44(3):229–38.
+  volume: '44'
+  year: '1996'
+- author: C Shi
+  doi: 10.1182/blood-2008-01-137018
+  first-page: '4699'
+  issue: '12'
+  journal-title: Blood.
+  unstructured: Shi C, Sakuma M, Mooroka T, Liscoe A, Gao H, Croce KJ, et al. Down-regulation
+    of the forkhead transcription factor Foxp1 is required for monocyte differentiation
+    and macrophage function. Blood. 2008;112(12):4699–711.
+  volume: '112'
+  year: '2008'
+- author: A Picker
+  doi: 10.1371/journal.pbio.1000214
+  issue: '10'
+  journal-title: PLoS Biol
+  unstructured: Picker A, Cavodeassi F, Machate A, Bernauer S, Hans S, Abe G, et al.
+    Dynamic coupling of pattern formation and morphogenesis in the developing vertebrate
+    retina. PLoS Biol. 2009;7(10):e1000214.
+  volume: '7'
+  year: '2009'
+- author: EM Boggio
+  doi: 10.1016/j.neuroscience.2016.03.027
+  first-page: '496'
+  journal-title: Neuroscience
+  unstructured: Boggio EM, Pancrazi L, Gennaro M, Lo RC, Mari F, Meloni I, et al.
+    Visual impairment in FOXG1-mutated individuals and mice. Neuroscience. 2016;324:496–508.
+  volume: '324'
+  year: '2016'
+- author: FJ Serajee
+  doi: 10.1136/jmg.40.11.e119
+  first-page: e119
+  issue: '11'
+  journal-title: J Med Genet
+  unstructured: 'Serajee FJ, Nabi R, Zhong H, Huq AHMM. Association of INPP1, PIK3CG,
+    and TSC2 gene variants with autistic disorder: implications for phosphatidylinositol
+    signalling in autism. J Med Genet. 2003;40(11):e119.'
+  volume: '40'
+  year: '2003'
+- author: Y Liu
+  doi: 10.1189/jlb.0208087
+  first-page: '842'
+  issue: '3'
+  journal-title: J Leukoc Biol
+  unstructured: Liu Y, Zhang W. Identification of a new transmembrane adaptor protein
+    that constitutively binds Grb2 in B cells. J Leukoc Biol. 2008;84(3):842–51.
+  volume: '84'
+  year: '2008'
+- author: K Saito
+  first-page: '719'
+  issue: '6'
+  journal-title: Biochim Biophys Acta (BBA)-Molecular Cell Biol Lipids.
+  unstructured: Saito K, Tautz L, Mustelin T. The lipid-binding SEC14 domain. Biochim
+    Biophys Acta (BBA)-Molecular Cell Biol Lipids. 2007;1771(6):719–26.
+  volume: '1771'
+  year: '2007'
+- author: D Welter
+  doi: 10.1093/nar/gkt1229
+  first-page: D1001
+  issue: D1
+  journal-title: Nucleic Acids Res
+  unstructured: Welter D, MacArthur J, Morales J, Burdett T, Hall P, Junkins H, et
+    al. The NHGRI GWAS Catalog, a curated resource of SNP-trait associations. Nucleic
+    Acids Res. 2013;42(D1):D1001–6.
+  volume: '42'
+  year: '2013'
+- author: D Speed
+  doi: 10.1038/ng.3865
+  first-page: '986'
+  issue: '7'
+  journal-title: Nat Genet
+  unstructured: Speed D, Cai N, Johnson MR, Nejentsev S, Balding DJ, Consortium U,
+    et al. Reevaluation of SNP heritability in complex human traits. Nat Genet. 2017;49(7):986.
+  volume: '49'
+  year: '2017'
+- author: WG Hill
+  issue: '2'
+  journal-title: PLoS Genet
+  unstructured: Hill WG, Goddard ME, Visscher PM. Data and theory point to mainly
+    additive genetic variance for complex traits. PLoS Genet. 2008;4(2):e1000008.
+  volume: '4'
+  year: '2008'
+- author: JH Moore
+  doi: 10.1016/j.ajhg.2009.08.006
+  first-page: '309'
+  issue: '3'
+  journal-title: Am J Hum Genet
+  unstructured: Moore JH, Williams SM. Epistasis and its implications for personal
+    genetics. Am J Hum Genet. 2009;85(3):309–20.
+  volume: '85'
+  year: '2009'
+- author: C Niel
+  doi: 10.3389/fgene.2015.00285
+  first-page: '285'
+  journal-title: Front Genet
+  unstructured: Niel C, Sinoquet C, Dina C, Rocheleau G. A survey about methods dedicated
+    to epistasis detection. Front Genet. 2015;6:285.
+  volume: '6'
+  year: '2015'
+- author: G Gibson
+  doi: 10.1038/nrg3118
+  first-page: '135'
+  issue: '2'
+  journal-title: Nat Rev Genet.
+  unstructured: 'Gibson G. Rare and common variants: twenty arguments. Nat Rev Genet.
+    2012;13(2):135.'
+  volume: '13'
+  year: '2012'
+- author: N Mancuso
+  doi: 10.1038/s41467-018-06302-1
+  first-page: '1'
+  issue: '1'
+  journal-title: Nat Commun
+  unstructured: Mancuso N, Gayther S, Gusev A, Zheng W, Penney KL, Kote-Jarai Z, et
+    al. Large-scale transcriptome-wide association study identifies new prostate cancer
+    risk regions. Nat Commun. 2018;9(1):1–11.
+  volume: '9'
+  year: '2018'
+- author: P Feliciano
+  doi: 10.1016/j.neuron.2018.01.015
+  first-page: '488'
+  issue: '3'
+  journal-title: Neuron.
+  unstructured: 'Feliciano P, Daniels AM, Snyder LG, Beaumont A, Camba A, Esler A,
+    et al. SPARK: a US cohort of 50,000 families to accelerate autism research. Neuron.
+    2018;97(3):488–93.'
+  volume: '97'
+  year: '2018'
+- author: M Kircher
+  doi: 10.1038/ng.2892
+  first-page: '310'
+  issue: '3'
+  journal-title: Nat Genet
+  unstructured: Kircher M, Witten DM, Jain P, O’Roak BJ, Cooper GM, Shendure J. A
+    general framework for estimating the relative pathogenicity of human genetic variants.
+    Nat Genet. 2014;46(3):310.
+  volume: '46'
+  year: '2014'
+- doi: 10.1093/nar/gkg509
+  unstructured: 'Ng PC. SIFT: predicting amino acid changes that affect protein function.
+    Nucleic Acids Res. 2003 Jul 1 [cited 2016 Jan 21];31(13):3812–4. Available from:
+    http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkg509.'
+- author: I Adzhubei
+  first-page: '7'
+  issue: '1'
+  journal-title: Curr Protoc Hum Genet
+  unstructured: Adzhubei I, Jordan DM, Sunyaev SR. Predicting functional effect of
+    human missense mutations using PolyPhen-2. Curr Protoc Hum Genet. 2013;76(1):7–20.
+  volume: '76'
+  year: '2013'
+- author: JM Schwarz
+  doi: 10.1038/nmeth.2890
+  first-page: '361'
+  issue: '4'
+  journal-title: Nat Methods
+  unstructured: 'Schwarz JM, Cooper DN, Schuelke M, Seelow D. MutationTaster2: mutation
+    prediction for the deep-sequencing age. Nat Methods. 2014;11(4):361.'
+  volume: '11'
+  year: '2014'
+- author: U Consortium
+  doi: 10.1093/nar/gku989
+  first-page: D204
+  issue: D1
+  journal-title: Nucleic Acids Res
+  unstructured: 'Consortium U. UniProt: a hub for protein information. Nucleic Acids
+    Res. 2014;43(D1):D204–12.'
+  volume: '43'
+  year: '2014'
+- doi: 10.1093/nar/gkt1223
+  unstructured: 'Finn RD, Bateman A, Clements J, Coggill P, Eberhardt RY, Eddy SR,
+    et al. Pfam: the protein families database. Nucleic Acids Res. 2014;42(Database
+    issue):D222-30. Available from: http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3965110&tool=pmcentrez&rendertype=abstract.'
+- unstructured: Karczewski KJ, Francioli LC, Tiao G, Cummings BB, Alföldi J, Wang
+    Q, et al. Variation across 141,456 human exomes and genomes reveals the spectrum
+    of loss-of-function intolerance across human protein-coding genes. BioRxiv. 2005;344:1-20.
+    https://www.sciencedirect.com/science/article/abs/pii/S037811190400650X?via%3Dihub.
+- author: S Stamm
+  doi: 10.1016/j.gene.2004.10.022
+  first-page: '1'
+  journal-title: Gene.
+  unstructured: Stamm S, Ben-Ari S, Rafalska I, Tang Y, Zhang Z, Toiber D, et al.
+    Function of alternative splicing. Gene. 2005;344:1–20.
+  volume: '344'
+  year: '2005'
+- unstructured: Brandes N. pwas. Github. 2020. https://github.com/nadavbra/pwas. Accessed
+    11 Apr 2020.
+- unstructured: Brandes N. pwas 1.0.4. zenodo. 2020. https://doi.org/105281/zenodo3902592.
+    Accessed 11 Apr 2020.
+doc_url: https://link.springer.com/content/pdf/10.1186/s13059-020-02089-x.pdf
+doi: 10.1186/s13059-020-02089-x
+files:
+- pwasproteomebrande2020.pdf
+issue: '1'
+journal: Genome Biology
+language: en
+month: 12
+papis_id: e5371b862cd6d3ff92a0baeb523f60ec
+publisher: Springer Science and Business Media LLC
+ref: PwasProteomeBrande2020
+time-added: 2024-11-06-16:33:49
+title: 'PWAS: proteome-wide association study—linking genes and phenotypes by functional
+  variation in proteins'
+type: article
+url: http://dx.doi.org/10.1186/s13059-020-02089-x
+volume: '21'
+year: 2020
