@@ -1,0 +1,913 @@
+author: Hao, Yuhan and Stuart, Tim and Kowalski, Madeline H. and Choudhary, Saket
+  and Hoffman, Paul and Hartman, Austin and Srivastava, Avi and Molla, Gesmira and
+  Madad, Shaista and Fernandez-Granda, Carlos and Satija, Rahul
+author_list:
+- affiliation: []
+  family: Hao
+  given: Yuhan
+- affiliation: []
+  family: Stuart
+  given: Tim
+- affiliation: []
+  family: Kowalski
+  given: Madeline H.
+- affiliation: []
+  family: Choudhary
+  given: Saket
+- affiliation: []
+  family: Hoffman
+  given: Paul
+- affiliation: []
+  family: Hartman
+  given: Austin
+- affiliation: []
+  family: Srivastava
+  given: Avi
+- affiliation: []
+  family: Molla
+  given: Gesmira
+- affiliation: []
+  family: Madad
+  given: Shaista
+- affiliation: []
+  family: Fernandez-Granda
+  given: Carlos
+- affiliation: []
+  family: Satija
+  given: Rahul
+citations:
+- author: WJ Kent
+  first-page: '656'
+  journal-title: Genome Res.
+  unstructured: Kent, W. J. BLAT—the BLAST-like alignment tool. Genome Res. 12, 656–664
+    (2002).
+  volume: '12'
+  year: '2002'
+- author: B Langmead
+  journal-title: Genome Biol.
+  unstructured: Langmead, B., Trapnell, C., Pop, M. & Salzberg, S. L. Ultrafast and
+    memory-efficient alignment of short DNA sequences to the human genome. Genome
+    Biol. 10, R25 (2009).
+  volume: '10'
+  year: '2009'
+- author: H Li
+  doi: 10.1093/bioinformatics/btp324
+  first-page: '1754'
+  journal-title: Bioinformatics
+  unstructured: Li, H. & Durbin, R. Fast and accurate short read alignment with Burrows–Wheeler
+    transform. Bioinformatics 25, 1754–1760 (2009).
+  volume: '25'
+  year: '2009'
+- doi: 10.1016/j.cell.2021.04.048
+  unstructured: Hao, Y. et al. Integrated analysis of multimodal single-cell data.
+    Cell 184, 3573–3587 (2021).
+- author: JB Kang
+  journal-title: Nat. Commun.
+  unstructured: Kang, J. B. et al. Efficient and precise single-cell reference atlas
+    mapping with Symphony. Nat. Commun. 12, 5890 (2021).
+  volume: '12'
+  year: '2021'
+- author: VY Kiselev
+  doi: 10.1038/nmeth.4644
+  first-page: '359'
+  journal-title: Nat. Methods
+  unstructured: 'Kiselev, V. Y., Yiu, A. & Hemberg, M. scmap: projection of single-cell
+    RNA-seq data across data sets. Nat. Methods 15, 359–362 (2018).'
+  volume: '15'
+  year: '2018'
+- unstructured: Domínguez Conde, C. et al. Cross-tissue immune cell analysis reveals
+    tissue-specific features in humans. Science 376, eabl5197 (2022).
+- author: C Xu
+  doi: 10.15252/msb.20209620
+  first-page: e9620
+  journal-title: Mol. Syst. Biol.
+  unstructured: Xu, C. et al. Probabilistic harmonization and annotation of single-cell
+    transcriptomics data with deep generative models. Mol. Syst. Biol. 17, e9620 (2021).
+  volume: '17'
+  year: '2021'
+- author: M Lotfollahi
+  doi: 10.1038/s41587-021-01001-7
+  first-page: '121'
+  journal-title: Nat. Biotechnol.
+  unstructured: Lotfollahi, M. et al. Mapping single-cell data to reference atlases
+    by transfer learning. Nat. Biotechnol. 40, 121–130 (2022).
+  volume: '40'
+  year: '2022'
+- author: A Regev
+  doi: 10.7554/eLife.27041
+  first-page: e27041
+  journal-title: eLife
+  unstructured: Regev, A. et al. The human cell atlas. eLife 6, e27041 (2017).
+  volume: '6'
+  year: '2017'
+- author: BC Hu
+  doi: 10.1038/s41586-019-1629-x
+  first-page: '187'
+  journal-title: Nature
+  unstructured: 'Hu, B. C. The human body at cellular resolution: the NIH Human Biomolecular
+    Atlas Program. Nature 574, 187–192 (2019).'
+  volume: '574'
+  year: '2019'
+- author: Tabula Muris Consortium
+  doi: 10.1038/s41586-018-0590-4
+  first-page: '367'
+  journal-title: Nature
+  unstructured: Tabula Muris Consortium et al. Single-cell transcriptomics of 20 mouse
+    organs creates a Tabula Muris. Nature 562, 367–372 (2018).
+  volume: '562'
+  year: '2018'
+- author: JD Buenrostro
+  doi: 10.1038/nature14590
+  first-page: '486'
+  journal-title: Nature
+  unstructured: Buenrostro, J. D. et al. Single-cell chromatin accessibility reveals
+    principles of regulatory variation. Nature 523, 486–490 (2015).
+  volume: '523'
+  year: '2015'
+- author: DA Cusanovich
+  doi: 10.1126/science.aab1601
+  first-page: '910'
+  journal-title: Science
+  unstructured: Cusanovich, D. A. et al. Multiplex single cell profiling of chromatin
+    accessibility by combinatorial cellular indexing. Science 348, 910–914 (2015).
+  volume: '348'
+  year: '2015'
+- author: SJ Clark
+  doi: 10.1038/nprot.2016.187
+  first-page: '534'
+  journal-title: Nat. Protoc.
+  unstructured: Clark, S. J. et al. Genome-wide base-resolution mapping of DNA methylation
+    in single cells using single-cell bisulfite sequencing (scBS-seq). Nat. Protoc.
+    12, 534–547 (2017).
+  volume: '12'
+  year: '2017'
+- author: SJ Wu
+  doi: 10.1038/s41587-021-00865-z
+  first-page: '819'
+  journal-title: Nat. Biotechnol.
+  unstructured: Wu, S. J. et al. Single-cell CUT&Tag analysis of chromatin modifications
+    in differentiation and tumor progression. Nat. Biotechnol. 39, 819–824 (2021).
+  volume: '39'
+  year: '2021'
+- author: M Bartosovic
+  doi: 10.1038/s41587-021-00869-9
+  first-page: '825'
+  journal-title: Nat. Biotechnol.
+  unstructured: Bartosovic, M., Kabbe, M. & Castelo-Branco, G. Single-cell CUT&Tag
+    profiles histone modifications and transcription factors in complex tissues. Nat.
+    Biotechnol. 39, 825–835 (2021).
+  volume: '39'
+  year: '2021'
+- author: SC Bendall
+  doi: 10.1126/science.1198704
+  first-page: '687'
+  journal-title: Science
+  unstructured: Bendall, S. C. et al. Single-cell mass cytometry of differential immune
+    and drug responses across a human hematopoietic continuum. Science 332, 687–696
+    (2011).
+  volume: '332'
+  year: '2011'
+- author: T Stuart
+  doi: 10.1016/j.cell.2019.05.031
+  first-page: '1888'
+  journal-title: Cell
+  unstructured: Stuart, T. et al. Comprehensive integration of single-cell data. Cell
+    177, 1888–1902 (2019).
+  volume: '177'
+  year: '2019'
+- author: N Barkas
+  doi: 10.1038/s41592-019-0466-z
+  first-page: '695'
+  journal-title: Nat. Methods
+  unstructured: Barkas, N. et al. Joint analysis of heterogeneous single-cell RNA-seq
+    dataset collections. Nat. Methods 16, 695–698 (2019).
+  volume: '16'
+  year: '2019'
+- author: JD Welch
+  doi: 10.1016/j.cell.2019.05.006
+  first-page: '1873'
+  journal-title: Cell
+  unstructured: Welch, J. D. et al. Single-cell multi-omic integration compares and
+    contrasts features of brain cell identity. Cell 177, 1873–1887 (2019).
+  volume: '177'
+  year: '2019'
+- author: D Lara-Astiaso
+  doi: 10.1126/science.1256271
+  first-page: '943'
+  journal-title: Science
+  unstructured: Lara-Astiaso, D. et al. Immunogenetics. Chromatin state dynamics during
+    blood formation. Science 345, 943–949 (2014).
+  volume: '345'
+  year: '2014'
+- author: S Chen
+  doi: 10.1038/s41587-019-0290-0
+  first-page: '1452'
+  journal-title: Nat. Biotechnol.
+  unstructured: Chen, S., Lake, B. B. & Zhang, K. High-throughput sequencing of the
+    transcriptome and chromatin accessibility in the same cell. Nat. Biotechnol. 37,
+    1452–1457 (2019).
+  volume: '37'
+  year: '2019'
+- author: S Ma
+  doi: 10.1016/j.cell.2020.09.056
+  first-page: '1103'
+  journal-title: Cell
+  unstructured: Ma, S. et al. Chromatin potential identified by shared single-cell
+    profiling of RNA and chromatin. Cell 183, 1103–1116 (2020).
+  volume: '183'
+  year: '2020'
+- author: C Zhu
+  doi: 10.1038/s41594-019-0323-x
+  first-page: '1063'
+  journal-title: Nat. Struct. Mol. Biol.
+  unstructured: Zhu, C. et al. An ultra high-throughput method for single-cell joint
+    analysis of open chromatin and transcriptome. Nat. Struct. Mol. Biol. 26, 1063–1070
+    (2019).
+  volume: '26'
+  year: '2019'
+- author: C Zhu
+  doi: 10.1038/s41592-021-01060-3
+  first-page: '283'
+  journal-title: Nat. Methods
+  unstructured: Zhu, C. et al. Joint profiling of histone modifications and transcriptome
+    in single cells from mouse brain. Nat. Methods 18, 283–292 (2021).
+  volume: '18'
+  year: '2021'
+- author: H Xiong
+  doi: 10.1038/s41592-021-01129-z
+  first-page: '652'
+  journal-title: Nat. Methods
+  unstructured: Xiong, H., Luo, Y., Wang, Q., Yu, X. & He, A. Single-cell joint detection
+    of chromatin occupancy and transcriptome enables higher-dimensional epigenomic
+    reconstructions. Nat. Methods 18, 652–660 (2021).
+  volume: '18'
+  year: '2021'
+- doi: 10.1016/j.xgen.2022.100107
+  unstructured: Luo, C. et al. Single nucleus multi-omics identifies human cortical
+    cell regulatory genome diversity. Cell Genomics 2, 100107 (2022).
+- author: SJ Clark
+  journal-title: Nat. Commun.
+  unstructured: Clark, S. J. et al. scNMT-seq enables joint profiling of chromatin
+    accessibility DNA methylation and transcription in single cells. Nat. Commun.
+    9, 781 (2018).
+  volume: '9'
+  year: '2018'
+- author: M Stoeckius
+  doi: 10.1038/nmeth.4380
+  first-page: '865'
+  journal-title: Nat. Methods
+  unstructured: Stoeckius, M. et al. Simultaneous epitope and transcriptome measurement
+    in single cells. Nat. Methods 14, 865–868 (2017).
+  volume: '14'
+  year: '2017'
+- author: H Chung
+  doi: 10.1038/s41592-021-01278-1
+  first-page: '1204'
+  journal-title: Nat. Methods
+  unstructured: Chung, H. et al. Joint single-cell measurements of nuclear proteins
+    and RNA in vivo. Nat. Methods 18, 1204–1212 (2021).
+  volume: '18'
+  year: '2021'
+- doi: 10.1038/s41592-022-01461-y
+  unstructured: 'Chen, A.F. et al. NEAT-seq: simultaneous profiling of intra-nuclear
+    proteins, chromatin accessibility and gene expression in single cells. Nat. Meth.ods
+    19, 547–553 (2022).'
+- author: M Elad
+  doi: 10.1109/TIP.2006.881969
+  first-page: '3736'
+  journal-title: IEEE Trans. Image Process.
+  unstructured: Elad, M. & Aharon, M. Image denoising via sparse and redundant representations
+    over learned dictionaries. IEEE Trans. Image Process. 15, 3736–3745 (2006).
+  volume: '15'
+  year: '2006'
+- author: M Rams
+  doi: 10.1186/s12864-021-08276-9
+  journal-title: BMC Genomics
+  unstructured: Rams, M. & Conrad, T. O. F. Dictionary learning allows model-free
+    pseudotime estimation of transcriptomic data. BMC Genomics 23, 56 (2022).
+  volume: '23'
+  year: '2022'
+- unstructured: Ramirez, I., Sprechmann, P. & Sapiro, G. in 2010 IEEE Computer Society
+    Conference on Computer Vision and Pattern Recognition 3501–3508 (IEEE, 2010).
+- unstructured: Zhang, Q. & Li, B. in 2010 IEEE Computer Society Conference on Computer
+    Vision and Pattern Recognition 2691–2698 (IEEE, 2010).
+- author: M Aharon
+  doi: 10.1109/TSP.2006.881199
+  first-page: '4311'
+  journal-title: IEEE Trans. Signal Process.
+  unstructured: 'Aharon, M., Elad, M. & Bruckstein, A. K-SVD: an algorithm for designing
+    overcomplete dictionaries for sparse representation. IEEE Trans. Signal Process.
+    54, 4311–4322 (2006).'
+  volume: '54'
+  year: '2006'
+- author: I Korsunsky
+  doi: 10.1038/s41592-019-0619-0
+  first-page: '1289'
+  journal-title: Nat. Methods
+  unstructured: Korsunsky, I. et al. Fast, sensitive and accurate integration of single-cell
+    data with Harmony. Nat. Methods 16, 1289–1296 (2019).
+  volume: '16'
+  year: '2019'
+- author: L Haghverdi
+  doi: 10.1038/nbt.4091
+  first-page: '421'
+  journal-title: Nat. Biotechnol.
+  unstructured: Haghverdi, L., Lun, A. T. L., Morgan, M. D. & Marioni, J. C. Batch
+    effects in single-cell RNA-sequencing data are corrected by matching mutual nearest
+    neighbors. Nat. Biotechnol. 36, 421–427 (2018).
+  volume: '36'
+  year: '2018'
+- author: B Hie
+  doi: 10.1038/s41587-019-0113-3
+  first-page: '685'
+  journal-title: Nat. Biotechnol.
+  unstructured: Hie, B., Bryson, B. & Berger, B. Efficient integration of heterogeneous
+    single-cell transcriptomes using Scanorama. Nat. Biotechnol. 37, 685–691 (2019).
+  volume: '37'
+  year: '2019'
+- author: R Lopez
+  doi: 10.1038/s41592-018-0229-2
+  first-page: '1053'
+  journal-title: Nat. Methods
+  unstructured: Lopez, R., Regier, J., Cole, M. B., Jordan, M. I. & Yosef, N. Deep
+    generative modeling for single-cell transcriptomics. Nat. Methods 15, 1053–1058
+    (2018).
+  volume: '15'
+  year: '2018'
+- author: M Belkin
+  doi: 10.1162/089976603321780317
+  first-page: '1373'
+  journal-title: Neural Comput.
+  unstructured: Belkin, M. & Niyogi, P. Laplacian eigenmaps for dimensionality reduction
+    and data representation. Neural Comput. 15, 1373–1396 (2003).
+  volume: '15'
+  year: '2003'
+- author: JM Granja
+  doi: 10.1038/s41587-019-0332-7
+  first-page: '1458'
+  journal-title: Nat. Biotechnol.
+  unstructured: Granja, J. M. et al. Single-cell multiomic analysis identifies regulatory
+    programs in mixed-phenotype acute leukemia. Nat. Biotechnol. 37, 1458–1465 (2019).
+  volume: '37'
+  year: '2019'
+- unstructured: Luecken, M. D. et al. in 35th Conference on Neural Information Processing
+    Systems Datasets and Benchmarks Track (Round 2) (NeurIPS, 2021).
+- author: AC Villani
+  doi: 10.1126/science.aah4573
+  first-page: eaah4573
+  journal-title: Science
+  unstructured: Villani, A. C. et al. Single-cell RNA-seq reveals new types of human
+    blood dendritic cells, monocytes, and progenitors. Science 356, eaah4573 (2017).
+  volume: '356'
+  year: '2017'
+- author: P See
+  doi: 10.1126/science.aag3009
+  first-page: eaag3009
+  journal-title: Science
+  unstructured: See, P. et al. Mapping the human DC lineage through the integration
+    of high-dimensional techniques. Science 356, eaag3009 (2017).
+  volume: '356'
+  year: '2017'
+- author: F Paul
+  doi: 10.1016/j.cell.2015.11.013
+  first-page: '1663'
+  journal-title: Cell
+  unstructured: Paul, F. et al. Transcriptional heterogeneity and lineage commitment
+    in myeloid progenitors. Cell 163, 1663–1677 (2015).
+  volume: '163'
+  year: '2015'
+- author: S Zheng
+  doi: 10.15252/msb.20178041
+  first-page: e8041
+  journal-title: Mol. Syst. Biol.
+  unstructured: Zheng, S., Papalexi, E., Butler, A., Stephenson, W. & Satija, R. Molecular
+    transitions in early progenitors during human cord blood hematopoiesis. Mol. Syst.
+    Biol. 14, e8041 (2018).
+  volume: '14'
+  year: '2018'
+- doi: 10.1101/2021.08.20.457057
+  unstructured: 'Ashuach, T., Gabitto, M. I., Jordan, M. I. & Yosef, N. MultiVI: deep
+    generative model for the integration of multi-modal data. Preprint at bioRxiv
+    https://doi.org/10.1101/2021.08.20.457057 (2021).'
+- author: B Gong
+  journal-title: Genome Biol
+  unstructured: 'Gong, B., Zhou, Y. & Purdom, E. Cobolt: integrative analysis of multimodal
+    single-cell sequencing data. Genome Biol. 22, 351 (2021).'
+  volume: '22'
+  year: '2021'
+- author: C Luo
+  doi: 10.1126/science.aan3351
+  first-page: '600'
+  journal-title: Science
+  unstructured: Luo, C. et al. Single-cell methylomes identify neuronal subtypes and
+    regulatory elements in mammalian cortex. Science 357, 600–604 (2017).
+  volume: '357'
+  year: '2017'
+- author: TE Bakken
+  doi: 10.1038/s41586-021-03465-8
+  first-page: '111'
+  journal-title: Nature
+  unstructured: Bakken, T. E. et al. Comparative cellular analysis of motor cortex
+    in human, marmoset and mouse. Nature 598, 111–119 (2021).
+  volume: '598'
+  year: '2021'
+- author: B Hie
+  doi: 10.1016/j.cels.2019.05.003
+  first-page: '483'
+  journal-title: Cell Syst.
+  unstructured: Hie, B., Cho, H., DeMeo, B., Bryson, B. & Berger, B. Geometric sketching
+    compactly summarizes the single-cell transcriptomic landscape. Cell Syst. 8, 483–493
+    (2019).
+  volume: '8'
+  year: '2019'
+- author: B DeMeo
+  doi: 10.1093/bioinformatics/btaa408
+  first-page: i236
+  journal-title: Bioinformatics
+  unstructured: 'DeMeo, B. & Berger, B. Hopper: a mathematically optimal algorithm
+    for sketching biological data. Bioinformatics 36, i236–i241 (2020).'
+  volume: '36'
+  year: '2020'
+- author: SC Hicks
+  doi: 10.1371/journal.pcbi.1008625
+  first-page: e1008625
+  journal-title: PLoS Comput. Biol.
+  unstructured: 'Hicks, S. C., Liu, R., Ni, Y., Purdom, E. & Risso, D. mbkmeans: fast
+    clustering for single cell data using mini-batch k-means. PLoS Comput. Biol. 17,
+    e1008625 (2021).'
+  volume: '17'
+  year: '2021'
+- author: KL Clarkson
+  doi: 10.1145/3019134
+  first-page: '1'
+  journal-title: JACM
+  unstructured: Clarkson, K. L. & Woodruff, D. P. Low-rank approximation and regression
+    in input sparsity time. JACM 63, 1–45 (2017).
+  volume: '63'
+  year: '2017'
+- author: HB Schiller
+  doi: 10.1165/rcmb.2018-0416TR
+  first-page: '31'
+  journal-title: Am. J. Respir. Cell Mol. Biol.
+  unstructured: 'Schiller, H. B. et al. The Human Lung Cell Atlas: a high-resolution
+    reference map of the human lung in health and disease. Am. J. Respir. Cell Mol.
+    Biol. 61, 31–41 (2019).'
+  volume: '61'
+  year: '2019'
+- author: V Svensson
+  doi: 10.1093/database/baaa073
+  first-page: baaa073
+  journal-title: Database
+  unstructured: Svensson, V., da Veiga Beltrame, E. & Pachter, L. A curated database
+    reveals trends in single-cell transcriptomics. Database 2020, baaa073 (2020).
+  volume: '2020'
+  year: '2020'
+- author: LW Plasschaert
+  doi: 10.1038/s41586-018-0394-6
+  first-page: '377'
+  journal-title: Nature
+  unstructured: Plasschaert, L. W. et al. A single-cell atlas of the airway epithelium
+    reveals the CFTR-rich pulmonary ionocyte. Nature 560, 377–381 (2018).
+  volume: '560'
+  year: '2018'
+- author: Y Tian
+  doi: 10.1038/s41587-021-01131-y
+  first-page: '30'
+  journal-title: Nat. Biotechnol.
+  unstructured: Tian, Y. et al. Single-cell immunology of SARS-CoV-2 infection. Nat.
+    Biotechnol. 40, 30–41 (2022).
+  volume: '40'
+  year: '2022'
+- author: JS Lee
+  doi: 10.1038/s41577-020-00429-3
+  first-page: '585'
+  journal-title: Nat. Rev. Immunol.
+  unstructured: 'Lee, J. S. & Shin, E. C. The type I interferon response in COVID-19:
+    implications for treatment. Nat. Rev. Immunol. 20, 585–586 (2020).'
+  volume: '20'
+  year: '2020'
+- author: AJ Wilk
+  doi: 10.1038/s41591-020-0944-y
+  first-page: '1070'
+  journal-title: Nat. Med.
+  unstructured: Wilk, A. J. et al. A single-cell atlas of the peripheral immune response
+    in patients with severe COVID-19. Nat. Med. 26, 1070–1076 (2020).
+  volume: '26'
+  year: '2020'
+- unstructured: COvid-19 Multi-omics Blood ATlas (COMBAT) Consortium. A blood atlas
+    of COVID-19 defines hallmarks of disease severity and specificity. Cell 185, 916–938.e58
+    (2022).
+- author: AY Rudensky
+  doi: 10.1111/j.1600-065X.2011.01018.x
+  first-page: '260'
+  journal-title: Immunol. Rev.
+  unstructured: Rudensky, A. Y. Regulatory T cells and Foxp3. Immunol. Rev. 241, 260–268
+    (2011).
+  volume: '241'
+  year: '2011'
+- author: R Thimme
+  doi: 10.1128/JVI.79.18.12112-12116.2005
+  first-page: '12112'
+  journal-title: J. Virol.
+  unstructured: Thimme, R. et al. Increased expression of the NK cell receptor KLRG1
+    by virus-specific CD8 T cells during persistent antigen stimulation. J. Virol.
+    79, 12112–12116 (2005).
+  volume: '79'
+  year: '2005'
+- author: A Kurioka
+  doi: 10.1038/mi.2014.81
+  first-page: '429'
+  journal-title: Mucosal Immunol.
+  unstructured: Kurioka, A. et al. MAIT cells are licensed through granzyme exchange
+    to kill bacterially sensitized targets. Mucosal Immunol. 8, 429–440 (2015).
+  volume: '8'
+  year: '2015'
+- author: AK Bjorklund
+  doi: 10.1038/ni.3368
+  first-page: '451'
+  journal-title: Nat. Immunol.
+  unstructured: Bjorklund, A. K. et al. The heterogeneity of human CD127+ innate lymphoid
+    cells revealed by single-cell RNA sequencing. Nat. Immunol. 17, 451–460 (2016).
+  volume: '17'
+  year: '2016'
+- unstructured: 'Tabula Sapiens Consortium. The Tabula Sapiens: A multiple-organ,
+    single-cell transcriptomic atlas of humans. Science 376, eabl4896 (2022).'
+- author: X Han
+  doi: 10.1038/s41586-020-2157-4
+  first-page: '303'
+  journal-title: Nature
+  unstructured: Han, X. et al. Construction of a human cell landscape at single-cell
+    level. Nature 581, 303–309 (2020).
+  volume: '581'
+  year: '2020'
+- unstructured: 'Li, H. et al. Fly Cell Atlas: A single-nucleus transcriptomic atlas
+    of the adult fruit fly. Science 375, eabk2432 (2022).'
+- author: Plant Cell Atlas Consortium
+  doi: 10.7554/eLife.66877
+  first-page: e66877
+  journal-title: eLife
+  unstructured: Plant Cell Atlas Consortium et al. Vision, challenges and opportunities
+    for a Plant Cell Atlas. eLife 10, e66877 (2021).
+  volume: '10'
+  year: '2021'
+- author: CA Lareau
+  doi: 10.1038/s41587-019-0147-6
+  first-page: '916'
+  journal-title: Nat. Biotechnol.
+  unstructured: Lareau, C. A. et al. Droplet-based combinatorial indexing for massive-scale
+    single-cell chromatin accessibility. Nat. Biotechnol. 37, 916–924 (2019).
+  volume: '37'
+  year: '2019'
+- author: P Datlinger
+  doi: 10.1038/s41592-021-01153-z
+  first-page: '635'
+  journal-title: Nat. Methods
+  unstructured: Datlinger, P. et al. Ultra-high-throughput single-cell RNA sequencing
+    and perturbation screening with combinatorial fluidic indexing. Nat. Methods 18,
+    635–642 (2021).
+  volume: '18'
+  year: '2021'
+- author: Y Goltsev
+  doi: 10.1016/j.cell.2018.07.010
+  first-page: '968'
+  journal-title: Cell
+  unstructured: Goltsev, Y. et al. Deep profiling of mouse splenic architecture with
+    CODEX multiplexed imaging. Cell 174, 968–981 (2018).
+  volume: '174'
+  year: '2018'
+- author: Z Li
+  journal-title: Nat. Commun.
+  unstructured: Li, Z. et al. Single-cell lipidomics with high structural specificity
+    by mass spectrometry. Nat. Commun. 12, 2869 (2021).
+  volume: '12'
+  year: '2021'
+- doi: 10.1101/2021.02.23.432420
+  unstructured: Capolupo, L. et al. Sphingolipid control of fibroblast heterogeneity
+    revealed by single-cell lipidomics. Preprint at bioRxiv https://doi.org/10.1101/2021.02.23.432420
+    (2021).
+- author: E Barshan
+  doi: 10.1016/j.patcog.2010.12.015
+  first-page: '1357'
+  journal-title: Pattern Recognit.
+  unstructured: 'Barshan, E., Ghodsi, A., Azimifar, Z. & Jahromi, M. Z. Supervised
+    principal component analysis: visualization, classification and regression on
+    subspaces and submanifolds. Pattern Recognit. 44, 1357–1371 (2011).'
+  volume: '44'
+  year: '2011'
+- doi: 10.48550/arXiv.1411.4357
+  unstructured: Woodruff, D. P. Sketching as a tool for numerical linear algebra.
+    Preprint at https://doi.org/10.48550/arXiv.1411.4357 (2014).
+- author: JH Levine
+  doi: 10.1016/j.cell.2015.05.047
+  first-page: '184'
+  journal-title: Cell
+  unstructured: Levine, J. H. et al. Data-driven phenotypic dissection of AML reveals
+    progenitor-like cells that correlate with prognosis. Cell 162, 184–197 (2015).
+  volume: '162'
+  year: '2015'
+- doi: 10.1007/3-540-45465-9_59
+  unstructured: Charikar, M., Chen, K. & Farach-Colton, M. in International Colloquium
+    on Automata, Languages, and Programming 693–703 (Springer, 2002).
+- unstructured: Li, P., Hastie, T. J. & Church, K. W. in Proceedings of the 12th ACM
+    SIGKDD International Conference on Knowledge Discovery and Data Mining 287–296
+    (Association for Computing Machinery, 2006).
+- author: R Siddharth
+  doi: 10.1016/j.softx.2020.100629
+  first-page: '100629'
+  journal-title: SoftwareX
+  unstructured: Siddharth, R. & Aghila, G. RandPro—a practical implementation of random
+    projection-based feature extraction for high dimensional multivariate data analysis
+    in R. SoftwareX 12, 100629 (2020).
+  volume: '12'
+  year: '2020'
+- author: C Hafemeister
+  doi: 10.1186/s13059-019-1874-1
+  journal-title: Genome Biol
+  unstructured: Hafemeister, C. & Satija, R. Normalization and variance stabilization
+    of single-cell RNA-seq data using regularized negative binomial regression. Genome
+    Biol. 20, 296 (2019).
+  volume: '20'
+  year: '2019'
+- doi: 10.1038/s41587-023-01716-9
+  unstructured: Persad, S. et al. SEACells infers transcriptional and epigenomic cellular
+    states from single-cell genomics data. Nat. Biotechnol., 1–12 (2023).
+- author: TS Adams
+  doi: 10.1126/sciadv.aba1983
+  first-page: eaba1983
+  journal-title: Sci. Adv.
+  unstructured: Adams, T. S. et al. Single-cell RNA-seq reveals ectopic and aberrant
+    lung-resident cell populations in idiopathic pulmonary fibrosis. Sci. Adv. 6,
+    eaba1983 (2020).
+  volume: '6'
+  year: '2020'
+- author: P Bischoff
+  doi: 10.1038/s41388-021-02054-3
+  first-page: '6748'
+  journal-title: Oncogene
+  unstructured: Bischoff, P. et al. Single-cell RNA sequencing reveals distinct tumor
+    microenvironmental patterns in lung adenocarcinoma. Oncogene 40, 6748–6758 (2021).
+  volume: '40'
+  year: '2021'
+- author: RL Chua
+  doi: 10.1038/s41587-020-0602-4
+  first-page: '970'
+  journal-title: Nat. Biotechnol.
+  unstructured: Chua, R. L. et al. COVID-19 severity correlates with airway epithelium–immune
+    cell interactions identified by single-cell analysis. Nat. Biotechnol. 38, 970–979
+    (2020).
+  volume: '38'
+  year: '2020'
+- doi: 10.1038/s41586-021-03570-8
+  unstructured: Delorey, T.M. et al. COVID-19 tissue atlases reveal SARS-CoV-2 pathology
+    and cellular targets. Nature 595, 107-113 (2021).
+- author: M Deprez
+  doi: 10.1164/rccm.201911-2199OC
+  first-page: '1636'
+  journal-title: Am. J. Respir. Crit. Care Med.
+  unstructured: Deprez, M. et al. A single-cell atlas of the human healthy airways.
+    Am. J. Respir. Crit. Care Med. 202, 1636–1645 (2020).
+  volume: '202'
+  year: '2020'
+- doi: 10.1126/science.abl4290
+  unstructured: Eraslan, G. et al. Single-nucleus cross-tissue molecular reference
+    maps toward understanding disease gene function. Science 376, eabl4290 (2022).
+- author: AC Habermann
+  doi: 10.1126/sciadv.aba1972
+  first-page: eaba1972
+  journal-title: Sci. Adv.
+  unstructured: Habermann, A. C. et al. Single-cell RNA sequencing reveals profibrotic
+    roles of distinct epithelial and mesenchymal lineages in pulmonary fibrosis. Sci.
+    Adv. 6, eaba1972 (2020).
+  volume: '6'
+  year: '2020'
+- author: S Lukassen
+  doi: 10.15252/embj.20105114
+  first-page: e105114
+  journal-title: EMBO J.
+  unstructured: Lukassen, S. et al. SARS-CoV-2 receptor ACE2 and TMPRSS2 are primarily
+    expressed in bronchial transient secretory cells. EMBO J. 39, e105114 (2020).
+  volume: '39'
+  year: '2020'
+- author: E Madissoon
+  journal-title: Genome Biol.
+  unstructured: Madissoon, E. et al. scRNA-seq assessment of the human lung, spleen,
+    and esophagus tissue stability after cold preservation. Genome Biol. 21, 1 (2019).
+  volume: '21'
+  year: '2019'
+- doi: 10.15252/emmm.202012871
+  unstructured: Mayr, C.H. et al. Integrative analysis of cell state changes in lung
+    fibrosis with peripheral protein biomarkers. EMBO Mol. Med. 13, e12871 (2021).
+- author: JC Melms
+  doi: 10.1038/s41586-021-03569-1
+  first-page: '114'
+  journal-title: Nature
+  unstructured: Melms, J. C. et al. A molecular single-cell lung atlas of lethal COVID-19.
+    Nature 595, 114–119 (2021).
+  volume: '595'
+  year: '2021'
+- author: C Morse
+  doi: 10.1183/13993003.02441-2018
+  first-page: '1802441'
+  journal-title: Eur. Respir. J.
+  unstructured: Morse, C. et al. Proliferating SPP1/MERTK-expressing macrophages in
+    idiopathic pulmonary fibrosis. Eur. Respir. J. 54, 1802441 (2019).
+  volume: '54'
+  year: '2019'
+- author: PA Reyfman
+  doi: 10.1164/rccm.201712-2410OC
+  first-page: '1517'
+  journal-title: Am. J. Respir. Crit. Care Med.
+  unstructured: Reyfman, P. A. et al. Single-cell transcriptomic analysis of human
+    lung provides insights into the pathobiology of pulmonary fibrosis. Am. J. Respir.
+    Crit. Care Med. 199, 1517–1536 (2019).
+  volume: '199'
+  year: '2019'
+- author: KJ Travaglini
+  doi: 10.1038/s41586-020-2922-4
+  first-page: '619'
+  journal-title: Nature
+  unstructured: Travaglini, K. J. et al. A molecular cell atlas of the human lung
+    from single-cell RNA sequencing. Nature 587, 619–625 (2020).
+  volume: '587'
+  year: '2020'
+- author: A Wang
+  doi: 10.7554/eLife.62522
+  first-page: e62522
+  journal-title: eLife
+  unstructured: Wang, A. et al. Single-cell multiomic profiling of human lungs reveals
+    cell-type-specific and age-dynamic control of SARS-CoV2 host genes. eLife 9, e62522
+    (2020).
+  volume: '9'
+  year: '2020'
+- doi: 10.1165/rcmb.2021-0555OC
+  unstructured: Watanabe, N. et al. Anomalous epithelial variations and ectopic inflammatory
+    response in chronic obstructive pulmonary disease. Am. J. Respir. Cell Mol. Biol.
+    67, 708–719 (2022).
+- author: E Wauters
+  doi: 10.1038/s41422-020-00455-9
+  first-page: '272'
+  journal-title: Cell Res.
+  unstructured: Wauters, E. et al. Discriminating mild from critical COVID-19 by innate
+    and adaptive immune single-cell profiling of bronchoalveolar lavages. Cell Res.
+    31, 272–290 (2021).
+  volume: '31'
+  year: '2021'
+- author: PS Arunachalam
+  doi: 10.1126/science.abc6261
+  first-page: '1210'
+  journal-title: Science
+  unstructured: Arunachalam, P. S. et al. Systems biological assessment of immunity
+    to mild versus severe COVID-19 infection in humans. Science 369, 1210–1220 (2020).
+  volume: '369'
+  year: '2020'
+- author: AJ Combes
+  doi: 10.1038/s41586-021-03234-7
+  first-page: '124'
+  journal-title: Nature
+  unstructured: Combes, A. J. et al. Global absence and targeting of protective immune
+    states in severe COVID-19. Nature 591, 124–130 (2021).
+  volume: '591'
+  year: '2021'
+- author: JS Lee
+  doi: 10.1126/sciimmunol.abd1554
+  first-page: eabd1554
+  journal-title: Sci. Immunol.
+  unstructured: Lee, J. S. et al. Immunophenotyping of COVID-19 and influenza highlights
+    the role of type I interferons in development of severe COVID-19. Sci. Immunol.
+    5, eabd1554 (2020).
+  volume: '5'
+  year: '2020'
+- author: X Ren
+  doi: 10.1016/j.cell.2021.01.053
+  first-page: '1895'
+  journal-title: Cell
+  unstructured: Ren, X. et al. COVID-19 immune features revealed by a large-scale
+    single-cell transcriptome atlas. Cell 184, 1895–1913 (2021).
+  volume: '184'
+  year: '2021'
+- author: J Schulte-Schrepping
+  doi: 10.1016/j.cell.2020.08.001
+  first-page: '1419'
+  journal-title: Cell
+  unstructured: Schulte-Schrepping, J. et al. Severe COVID-19 is marked by a dysregulated
+    myeloid cell compartment. Cell 182, 1419–1440 (2020).
+  volume: '182'
+  year: '2020'
+- author: A Silvin
+  doi: 10.1016/j.cell.2020.08.002
+  first-page: '1401'
+  journal-title: Cell
+  unstructured: Silvin, A. et al. Elevated calprotectin and abnormal myeloid cell
+    subsets discriminate severe from mild COVID-19. Cell 182, 1401–1418 (2020).
+  volume: '182'
+  year: '2020'
+- author: E Stephenson
+  doi: 10.1038/s41591-021-01329-2
+  first-page: '904'
+  journal-title: Nat. Med.
+  unstructured: Stephenson, E. et al. Single-cell multi-omics analysis of the immune
+    response in COVID-19. Nat. Med. 27, 904–916 (2021).
+  volume: '27'
+  year: '2021'
+- author: Y Su
+  doi: 10.1016/j.cell.2020.10.037
+  first-page: '1479'
+  journal-title: Cell
+  unstructured: Su, Y. et al. Multi-omics resolves a sharp disease-state shift between
+    mild and moderate COVID-19. Cell 183, 1479–1495 (2020).
+  volume: '183'
+  year: '2020'
+- author: C Yao
+  doi: 10.1016/j.celrep.2021.108943
+  first-page: '108943'
+  journal-title: Cell Rep.
+  unstructured: Yao, C. et al. Cell-type-specific immune dysregulation in severely
+    ill COVID-19 patients. Cell Rep. 34, 108943 (2021).
+  volume: '34'
+  year: '2021'
+- author: K Yu
+  doi: 10.1038/s41422-020-0391-9
+  first-page: '814'
+  journal-title: Cell Res.
+  unstructured: Yu, K. et al. Dysregulated adaptive immune response contributes to
+    severe COVID-19. Cell Res. 30, 814–816 (2020).
+  volume: '30'
+  year: '2020'
+- author: L Zhu
+  doi: 10.1016/j.immuni.2020.07.009
+  first-page: '685'
+  journal-title: Immunity
+  unstructured: Zhu, L. et al. Single-cell sequencing of peripheral mononuclear cells
+    reveals distinct immune response landscapes of COVID-19 and influenza patients.
+    Immunity 53, 685–696 (2020).
+  volume: '53'
+  year: '2020'
+- author: L Haghverdi
+  doi: 10.1093/bioinformatics/btv325
+  first-page: '2989'
+  journal-title: Bioinformatics
+  unstructured: Haghverdi, L., Buettner, F. & Theis, F. J. Diffusion maps for high-dimensional
+    single-cell analysis of differentiation data. Bioinformatics 31, 2989–2998 (2015).
+  volume: '31'
+  year: '2015'
+- author: X Qiu
+  doi: 10.1038/nmeth.4402
+  first-page: '979'
+  journal-title: Nat. Methods
+  unstructured: Qiu, X. et al. Reversed graph embedding resolves complex single-cell
+    trajectories. Nat. Methods 14, 979–982 (2017).
+  volume: '14'
+  year: '2017'
+- unstructured: 'R Core Team. R: a language and environment for statistical computing
+    (R Foundation for Statistical Computing, 2013).'
+- unstructured: Bishop, C. M. & Nasrabadi, N. M. Pattern Recognition and Machine Learning,
+    Vol. 4 (Springer, 2006).
+- author: DJ McCarthy
+  doi: 10.1093/bioinformatics/btw777
+  first-page: '1179'
+  journal-title: Bioinformatics
+  unstructured: 'McCarthy, D. J., Campbell, K. R., Lun, A. T. & Wills, Q. F. Scater:
+    pre-processing, quality control, normalization and visualization of single-cell
+    RNA-seq data in R. Bioinformatics 33, 1179–1186 (2017).'
+  volume: '33'
+  year: '2017'
+- author: L Waltman
+  doi: 10.1140/epjb/e2013-40829-0
+  journal-title: Eur. Phys. J. B
+  unstructured: Waltman, L. & Van Eck, N. J. A smart local moving algorithm for large-scale
+    modularity-based community detection. Eur. Phys. J. B 86, 471 (2013).
+  volume: '86'
+  year: '2013'
+- author: K Borner
+  doi: 10.1038/s41556-021-00788-6
+  first-page: '1117'
+  journal-title: Nat. Cell Biol.
+  unstructured: Borner, K. et al. Anatomical structures, cell types and biomarkers
+    of the Human Reference Atlas. Nat. Cell Biol. 23, 1117–1128 (2021).
+  volume: '23'
+  year: '2021'
+- doi: 10.48539/HBM323.SGDF.945
+  unstructured: Gloria Pryhuber, X.S. HuBMAP ASCT+B Tables. Lung v1.1 https://doi.org/10.48539/HBM323.SGDF.945
+    (2021).
+- doi: 10.1101/653253
+  unstructured: Korsunsky, I., Nathan, A., Millard, N. & Raychaudhuri, S. Presto scales
+    Wilcoxon and auROC analyses to millions of observations. Preprint at bioRxiv https://doi.org/10.1101/653253
+    (2019).
+doc_url: https://www.nature.com/articles/s41587-023-01767-y.pdf
+doi: 10.1038/s41587-023-01767-y
+files:
+- dictionarylearhaoy2024.pdf
+issue: '2'
+journal: Nature Biotechnology
+language: en
+month: 2
+pages: 293--304
+papis_id: 5101e0d4bc42b7bb52f5dc8c5d0e11f1
+publisher: Springer Science and Business Media LLC
+ref: DictionaryLearHaoY2024
+time-added: 2024-11-09-10:40:00
+title: Dictionary learning for integrative, multimodal and scalable single-cell analysis
+type: article
+url: http://dx.doi.org/10.1038/s41587-023-01767-y
+volume: '42'
+year: 2024
