@@ -1,0 +1,34 @@
+author: Zhou, Qin and Huang, Lifen and Liu, Yong and Huang, Junbin and Wen, Luping
+  and Yang, Jing and Liang, Jintang and Chen, Yun and Chen, Chun
+author_list:
+- family: Zhou
+  given: Qin
+- family: Huang
+  given: Lifen
+- family: Liu
+  given: Yong
+- family: Huang
+  given: Junbin
+- family: Wen
+  given: Luping
+- family: Yang
+  given: Jing
+- family: Liang
+  given: Jintang
+- family: Chen
+  given: Yun
+- family: Chen
+  given: Chun
+doi: 10.3389/fonc.2023.1075408
+files: []
+issn: 2234-943X
+journal: Frontiers in oncology
+papis_id: 3ca7444a85a5626f4d21bfdab3b46807
+pmid: '37064094'
+ref: Single_cell_RNA_Zhou_2023
+time-added: 2024-11-27-10:51:23
+title: Single-cell RNA sequencing depicts metabolic changes in children with aplastic
+  anemia
+type: article
+volume: '13'
+year: 2023
