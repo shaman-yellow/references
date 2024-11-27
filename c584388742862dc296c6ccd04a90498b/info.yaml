@@ -1,0 +1,2056 @@
+abstract: <jats:title>Abstract</jats:title><jats:p>Liquid–liquid phase separation
+  (LLPS) is a novel principle for interpreting precise spatiotemporal coordination
+  in living cells through biomolecular condensate (BMC) formation via dynamic aggregation.
+  LLPS changes individual molecules into membrane-free, droplet-like BMCs with specific
+  functions, which coordinate various cellular activities. The formation and regulation
+  of LLPS are closely associated with oncogenesis, tumor progressions and metastasis,
+  the specific roles and mechanisms of LLPS in tumors still need to be further investigated
+  at present. In this review, we comprehensively summarize the conditions of LLPS
+  and identify mechanisms involved in abnormal LLPS in cancer processes, including
+  tumor growth, metastasis, and angiogenesis from the perspective of cancer hallmarks.
+  We have also reviewed the clinical applications of LLPS in oncologic areas. This
+  systematic summary of dysregulated LLPS from the different dimensions of cancer
+  hallmarks will build a bridge for determining its specific functions to further
+  guide basic research, finding strategies to intervene in LLPS, and developing relevant
+  therapeutic approaches.</jats:p>
+author: Zheng, Le-Wei and Liu, Cui-Cui and Yu, Ke-Da
+author_list:
+- affiliation: []
+  family: Zheng
+  given: Le-Wei
+- affiliation: []
+  family: Liu
+  given: Cui-Cui
+- affiliation: []
+  family: Yu
+  given: Ke-Da
+citations:
+- author: H Zhang
+  doi: 10.1016/j.molcel.2015.09.017
+  first-page: '220'
+  journal-title: Mol Cell
+  unstructured: Zhang H, Elbaum-Garfinkle S, Langdon EM, Taylor N, Occhipinti P, Bridges
+    AA, Brangwynne CP, Gladfelter AS. RNA controls PolyQ protein phase transitions.
+    Mol Cell. 2015;60:220–30.
+  volume: '60'
+  year: '2015'
+- doi: 10.1101/cshperspect.a000638
+  unstructured: Pederson T The nucleolus, Cold Spring Harb Perspect Biol, 3 (2011)
+- author: SF Shimobayashi
+  doi: 10.1038/s41586-021-03905-5
+  first-page: '503'
+  journal-title: Nature
+  unstructured: Shimobayashi SF, Ronceray P, Sanders DW, Haataja MP, Brangwynne CP.
+    Nucleation landscape of biomolecular condensates. Nature. 2021;599:503–6.
+  volume: '599'
+  year: '2021'
+- author: DLJ Lafontaine
+  doi: 10.1038/s41580-020-0272-6
+  first-page: '165'
+  journal-title: Nat Rev Mol Cell Biol
+  unstructured: Lafontaine DLJ, Riback JA, Bascetin R, Brangwynne CP. The nucleolus
+    as a multiphase liquid condensate. Nat Rev Mol Cell Biol. 2021;22:165–82.
+  volume: '22'
+  year: '2021'
+- author: JR Wheeler
+  doi: 10.7554/eLife.18413
+  first-page: e18413
+  journal-title: Elife
+  unstructured: Wheeler JR, Matheny T, Jain S, Abrisch R, Parker R. Distinct stages
+    in stress granule assembly and disassembly. Elife. 2016;5:e18413.
+  volume: '5'
+  year: '2016'
+- author: M Wang
+  doi: 10.1016/j.celrep.2018.07.040
+  first-page: '1713'
+  journal-title: Cell Rep
+  unstructured: Wang M, Tao X, Jacob MD, Bennett CA, Ho JJD, Gonzalgo ML, Audas TE,
+    Lee S. Stress-induced low complexity RNA activates physiological amyloidogenesis.
+    Cell Rep. 2018;24:1713-1721.e1714.
+  volume: '24'
+  year: '2018'
+- author: X Gui
+  doi: 10.1038/s41467-019-09902-7
+  first-page: '2006'
+  journal-title: Nat Commun
+  unstructured: Gui X, Luo F, Li Y, Zhou H, Qin Z, Liu Z, Gu J, Xie M, Zhao K, Dai
+    B, Shin WS, He J, He L, Jiang L, Zhao M, Sun B, Li X, Liu C, Li D. Structural
+    basis for reversible amyloids of hnRNPA1 elucidates their role in stress granule
+    assembly. Nat Commun. 2019;10:2006.
+  volume: '10'
+  year: '2019'
+- author: S Liu
+  doi: 10.1038/s41418-021-00763-6
+  first-page: '2482'
+  journal-title: Cell Death Differ
+  unstructured: Liu S, Wang T, Shi Y, Bai L, Wang S, Guo D, Zhang Y, Qi Y, Chen C,
+    Zhang J, Zhang Y, Liu Q, Yang Q, Wang Y, Liu H. USP42 drives nuclear speckle mRNA
+    splicing via directing dynamic phase separation to promote tumorigenesis. Cell
+    Death Differ. 2021;28:2482–98.
+  volume: '28'
+  year: '2021'
+- author: SE Liao
+  doi: 10.1093/nar/gkaa1209
+  first-page: '636'
+  journal-title: Nucleic Acids Res
+  unstructured: 'Liao SE, Regev O. Splicing at the phase-separated nuclear speckle
+    interface: a model. Nucleic Acids Res. 2021;49:636–45.'
+  volume: '49'
+  year: '2021'
+- author: YE Guo
+  doi: 10.1038/s41586-019-1464-0
+  first-page: '543'
+  journal-title: Nature
+  unstructured: Guo YE, Manteiga JC, Henninger JE, Sabari BR, Dall’Agnese A, Hannett
+    NM, Spille JH, Afeyan LK, Zamudio AV, Shrinivas K, Abraham BJ, Boija A, Decker
+    TM, Rimel JK, Fant CB, Lee TI, Cisse II, Sharp PA, Taatjes DJ, Young RA. Pol II
+    phosphorylation regulates a switch between transcriptional and splicing condensates.
+    Nature. 2019;572:543–8.
+  volume: '572'
+  year: '2019'
+- author: SF Banani
+  doi: 10.1038/nrm.2017.7
+  first-page: '285'
+  journal-title: Nat Rev Mol Cell Biol
+  unstructured: 'Banani SF, Lee HO, Hyman AA, Rosen MK. Biomolecular condensates:
+    organizers of cellular biochemistry. Nat Rev Mol Cell Biol. 2017;18:285–98.'
+  volume: '18'
+  year: '2017'
+- author: AA Hyman
+  doi: 10.1146/annurev-cellbio-100913-013325
+  first-page: '39'
+  journal-title: Annu Rev Cell Dev Biol
+  unstructured: Hyman AA, Weber CA, Jülicher F. Liquid-liquid phase separation in
+    biology. Annu Rev Cell Dev Biol. 2014;30:39–58.
+  volume: '30'
+  year: '2014'
+- author: Q Xiao
+  doi: 10.1038/s41577-021-00572-5
+  first-page: '188'
+  journal-title: Nat Rev Immunol
+  unstructured: Xiao Q, McAtee CK, Su X. Phase separation in immune signalling. Nat
+    Rev Immunol. 2022;22:188–99.
+  volume: '22'
+  year: '2022'
+- author: Y Shin
+  doi: 10.1126/science.aaf4382
+  first-page: eaaf4382
+  journal-title: Science
+  unstructured: Shin Y, Brangwynne CP. Liquid phase condensation in cell physiology
+    and disease. Science. 2017;357:eaaf4382.
+  volume: '357'
+  year: '2017'
+- author: C Roden
+  doi: 10.1038/s41580-020-0264-6
+  first-page: '183'
+  journal-title: Nat Rev Mol Cell Biol
+  unstructured: Roden C, Gladfelter AS. RNA contributions to the form and function
+    of biomolecular condensates. Nat Rev Mol Cell Biol. 2021;22:183–95.
+  volume: '22'
+  year: '2021'
+- author: EM Langdon
+  doi: 10.1146/annurev-micro-090817-062814
+  first-page: '255'
+  journal-title: Annu Rev Microbiol
+  unstructured: 'Langdon EM, Gladfelter AS. A new lens for RNA localization: liquid-liquid
+    phase separation. Annu Rev Microbiol. 2018;72:255–71.'
+  volume: '72'
+  year: '2018'
+- author: S Alberti
+  doi: 10.1016/j.cub.2017.08.069
+  first-page: R1097
+  journal-title: Curr Biol
+  unstructured: Alberti S. Phase separation in biology. Curr Biol. 2017;27:R1097-r1102.
+  volume: '27'
+  year: '2017'
+- author: B Wang
+  doi: 10.1038/s41392-021-00678-1
+  first-page: '290'
+  journal-title: Signal Transduct Target Ther
+  unstructured: Wang B, Zhang L, Dai T, Qin Z, Lu H, Zhang L, Zhou F. Liquid-liquid
+    phase separation in human health and diseases. Signal Transduct Target Ther. 2021;6:290.
+  volume: '6'
+  year: '2021'
+- author: X Tong
+  doi: 10.1038/s41392-022-01076-x
+  first-page: '221'
+  journal-title: Signal Transduct Target Ther
+  unstructured: Tong X, Tang R, Xu J, Wang W, Zhao Y, Yu X, Shi S. Liquid-liquid phase
+    separation in tumor biology. Signal Transduct Target Ther. 2022;7:221.
+  volume: '7'
+  year: '2022'
+- author: D Hanahan
+  doi: 10.1158/2159-8290.CD-21-1059
+  first-page: '31'
+  journal-title: Cancer Discov
+  unstructured: 'Hanahan D. Hallmarks of cancer: new dimensions. Cancer Discov. 2022;12:31–46.'
+  volume: '12'
+  year: '2022'
+- author: S Mehta
+  doi: 10.1038/s41568-022-00444-7
+  first-page: '239'
+  journal-title: Nat Rev Cancer
+  unstructured: Mehta S, Zhang J. Liquid-liquid phase separation drives cellular function
+    and dysfunction in cancer. Nat Rev Cancer. 2022;22:239–52.
+  volume: '22'
+  year: '2022'
+- author: RS Nozawa
+  doi: 10.1111/cas.14551
+  first-page: '3155'
+  journal-title: Cancer Sci
+  unstructured: 'Nozawa RS, Yamamoto T, Takahashi M, Tachiwana H, Maruyama R, Hirota
+    T, Saitoh N. Nuclear microenvironment in cancer: control through liquid-liquid
+    phase separation. Cancer Sci. 2020;111:3155–63.'
+  volume: '111'
+  year: '2020'
+- author: VN Uversky
+  doi: 10.1016/j.sbi.2016.10.015
+  first-page: '18'
+  journal-title: Curr Opin Struct Biol
+  unstructured: 'Uversky VN. Intrinsically disordered proteins in overcrowded milieu:
+    membrane-less organelles, phase separation, and intrinsic disorder. Curr Opin
+    Struct Biol. 2017;44:18–30.'
+  volume: '44'
+  year: '2017'
+- author: S Boeynaems
+  doi: 10.1016/j.tcb.2018.02.004
+  first-page: '420'
+  journal-title: Trends Cell Biol
+  unstructured: 'Boeynaems S, Alberti S, Fawzi NL, Mittag T, Polymenidou M, Rousseau
+    F, Schymkowitz J, Shorter J, Wolozin B, Van Den Bosch L, Tompa P, Fuxreiter M.
+    Protein phase separation: a new phase in cell biology. Trends Cell Biol. 2018;28:420–35.'
+  volume: '28'
+  year: '2018'
+- author: A Boija
+  doi: 10.1016/j.ccell.2020.12.003
+  first-page: '174'
+  journal-title: Cancer Cell
+  unstructured: Boija A, Klein IA, Young RA. Biomolecular condensates and cancer.
+    Cancer Cell. 2021;39:174–92.
+  volume: '39'
+  year: '2021'
+- author: CP Brangwynne
+  doi: 10.1126/science.1172046
+  first-page: '1729'
+  journal-title: Science
+  unstructured: Brangwynne CP, Eckmann CR, Courson DS, Rybarska A, Hoege C, Gharakhani
+    J, Jülicher F, Hyman AA. Germline P granules are liquid droplets that localize
+    by controlled dissolution/condensation. Science. 2009;324:1729–32.
+  volume: '324'
+  year: '2009'
+- author: V Iglesias
+  doi: 10.3389/fmolb.2021.718301
+  journal-title: Front Mol Biosci
+  unstructured: 'Iglesias V, Santos J, Santos-Suárez J, Pintado-Grima C, Ventura S.
+    SGnn: a web server for the prediction of prion-like domains recruitment to stress
+    granules upon heat stress. Front Mol Biosci. 2021;8: 718301.'
+  volume: '8'
+  year: '2021'
+- author: C Hou
+  first-page: D460
+  issue: '2023'
+  journal-title: Nucleic Acids Res
+  unstructured: 'Hou C, Wang X, Xie H, Chen T, Zhu P, Xu X, You K, Li T. PhaSepDB
+    in 2022: annotating phase separation-related proteins with droplet states, co-phase
+    separation partners and other experimental information. Nucleic Acids Res. 2022;51(2023):D460-d465.'
+  volume: '51'
+  year: '2022'
+- author: ME Oates
+  doi: 10.1093/nar/gks1226
+  first-page: D508
+  journal-title: Nucleic Acids Res
+  unstructured: 'Oates ME, Romero P, Ishida T, Ghalwash M, Mizianty MJ, Xue B, Dosztányi
+    Z, Uversky VN, Obradovic Z, Kurgan L, Dunker AK, Gough J. D2P2: database of disordered
+    protein predictions. Nucleic Acids Res. 2013;41:D508-516.'
+  volume: '41'
+  year: '2013'
+- author: AK Lancaster
+  doi: 10.1093/bioinformatics/btu310
+  first-page: '2501'
+  journal-title: Bioinformatics
+  unstructured: 'Lancaster AK, Nutter-Upham A, Lindquist S, King OD. PLAAC: a web
+    and command-line application to identify proteins with prion-like amino acid composition.
+    Bioinformatics. 2014;30:2501–2.'
+  volume: '30'
+  year: '2014'
+- author: W Ning
+  doi: 10.1093/nar/gkz1027
+  first-page: D288
+  journal-title: Nucleic Acids Res
+  unstructured: 'Ning W, Guo Y, Lin S, Mei B, Wu Y, Jiang P, Tan X, Zhang W, Chen
+    G, Peng D, Chu L, Xue Y. DrLLPS: a data resource of liquid-liquid phase separation
+    in eukaryotes. Nucleic Acids Res. 2020;48:D288-d295.'
+  volume: '48'
+  year: '2020'
+- author: B Mészáros
+  first-page: D360
+  journal-title: Nucleic Acids Res
+  unstructured: 'Mészáros B, Erdős G, Szabó B, Schád É, Tantos Á, Abukhairan R, Horváth
+    T, Murvai N, Kovács OP, Kovács M, Tosatto SCE, Tompa P, Dosztányi Z, Pancsa R.
+    PhaSePro: the database of proteins driving liquid-liquid phase separation. Nucleic
+    Acids Res. 2020;48:D360-d367.'
+  volume: '48'
+  year: '2020'
+- author: R Oughtred
+  doi: 10.1002/pro.3978
+  first-page: '187'
+  journal-title: Protein Sci
+  unstructured: 'Oughtred R, Rust J, Chang C, Breitkreutz BJ, Stark C, Willems A,
+    Boucher L, Leung G, Kolas N, Zhang F, Dolma S, Coulombe-Huntington J, Chatr-Aryamontri
+    A, Dolinski K, Tyers M. The BioGRID database: a comprehensive biomedical resource
+    of curated protein, genetic, and chemical interactions. Protein Sci. 2021;30:187–200.'
+  volume: '30'
+  year: '2021'
+- author: Q Li
+  doi: 10.1093/nar/gkz778
+  first-page: D320
+  journal-title: Nucleic Acids Res
+  unstructured: 'Li Q, Peng X, Li Y, Tang W, Zhu J, Huang J, Qi Y, Zhang Z. LLPSDB:
+    a database of proteins undergoing liquid-liquid phase separation in vitro. Nucleic
+    Acids Res. 2020;48:D320-d327.'
+  volume: '48'
+  year: '2020'
+- author: CD Go
+  doi: 10.1038/s41586-021-03592-2
+  first-page: '120'
+  journal-title: Nature
+  unstructured: Go CD, Knight JDR, Rajasekharan A, Rathod B, Hesketh GG, Abe KT, Youn
+    JY, Samavarchi-Tehrani P, Zhang H, Zhu LY, Popiel E, Lambert JP, Coyaud É, Cheung
+    SWT, Rajendran D, Wong CJ, Antonicka H, Pelletier L, Palazzo AF, Shoubridge EA,
+    Raught B, Gingras AC. A proximity-dependent biotinylation map of a human cell.
+    Nature. 2021;595:120–4.
+  volume: '595'
+  year: '2021'
+- doi: 10.1101/2023.07.23.550222
+  unstructured: Orti F, Fernández ML, Marino-Buslje C MLOsMetaDB, a meta-database
+    to centralize the information on Liquid-liquid phase separation proteins and Membraneless
+    organelles, bioRxiv, (2023)
+- author: B Bolognesi
+  doi: 10.1016/j.celrep.2016.05.076
+  first-page: '222'
+  journal-title: Cell Rep
+  unstructured: Bolognesi B, Lorenzo Gotor N, Dhar R, Cirillo D, Baldrighi M, Tartaglia
+    GG, Lehner B. A concentration-dependent liquid phase separation can cause toxicity
+    upon increased protein expression. Cell Rep. 2016;16:222–31.
+  volume: '16'
+  year: '2016'
+- author: RM Vernon
+  doi: 10.7554/eLife.31486
+  first-page: e31486
+  journal-title: Elife
+  unstructured: Vernon RM, Chong PA, Tsang B, Kim TH, Bah A, Farber P, Lin H, Forman-Kay
+    JD. Pi-Pi contacts are an overlooked protein feature relevant to phase separation.
+    Elife. 2018;7:e31486.
+  volume: '7'
+  year: '2018'
+- author: M Liu
+  doi: 10.1093/nar/gkab986
+  first-page: D347
+  journal-title: Nucleic Acids Res
+  unstructured: 'Liu M, Li H, Luo X, Cai J, Chen T, Xie Y, Ren J, Zuo Z. RPS: a comprehensive
+    database of RNAs involved in liquid-liquid phase separation. Nucleic Acids Res.
+    2022;50:D347-d355.'
+  volume: '50'
+  year: '2022'
+- author: H Zhu
+  doi: 10.1093/nar/gkab985
+  first-page: D340
+  journal-title: Nucleic Acids Res
+  unstructured: 'Zhu H, Fu H, Cui T, Ning L, Shao H, Guo Y, Ke Y, Zheng J, Lin H,
+    Wu X, Liu G, He J, Han X, Li W, Zhao X, Lu H, Wang D, Hu K, Shen X. RNAPhaSep:
+    a resource of RNAs undergoing phase separation. Nucleic Acids Res. 2022;50:D340-d346.'
+  volume: '50'
+  year: '2022'
+- author: JY Youn
+  doi: 10.1016/j.molcel.2019.09.014
+  first-page: '286'
+  journal-title: Mol Cell
+  unstructured: Youn JY, Dyakov BJA, Zhang J, Knight JDR, Vernon RM, Forman-Kay JD,
+    Gingras AC. Properties of stress granule and P-body proteomes. Mol Cell. 2019;76:286–94.
+  volume: '76'
+  year: '2019'
+- author: AM Navarro
+  doi: 10.1016/j.csbj.2022.05.004
+  first-page: '2551'
+  journal-title: Comput Struct Biotechnol J
+  unstructured: 'Navarro AM, Orti F, Martínez-Pérez E, Alonso M, Simonetti FL, Iserte
+    JA, Marino-Buslje C. DisPhaseDB: an integrative database of diseases related variations
+    in liquid-liquid phase separation proteins. Comput Struct Biotechnol J. 2022;20:2551–7.'
+  volume: '20'
+  year: '2022'
+- author: B Mészáros
+  doi: 10.1093/nar/gky384
+  first-page: W329
+  journal-title: Nucleic Acids Res
+  unstructured: 'Mészáros B, Erdos G, Dosztányi Z. IUPred2A: context-dependent prediction
+    of protein disorder as a function of redox state and protein binding. Nucleic
+    Acids Res. 2018;46:W329-w337.'
+  volume: '46'
+  year: '2018'
+- author: B Xue
+  first-page: '996'
+  journal-title: Biochim Biophys Acta
+  unstructured: 'Xue B, Dunbrack RL, Williams RW, Dunker AK, Uversky VN. PONDR-FIT:
+    a meta-predictor of intrinsically disordered amino acids. Biochim Biophys Acta.
+    1804;2010:996–1010.'
+  volume: '2010'
+  year: '1804'
+- author: D Piovesan
+  doi: 10.1093/nar/gkac1065
+  first-page: D438
+  journal-title: Nucleic Acids Res
+  unstructured: 'Piovesan D, Del Conte A, Clementel D, Monzon AM, Bevilacqua M, Aspromonte
+    MC, Iserte JA, Orti FE, Marino-Buslje C, Tosatto SCE. MobiDB: 10 years of intrinsically
+    disordered proteins. Nucleic Acids Res. 2023;51:D438-d444.'
+  volume: '51'
+  year: '2023'
+- author: AS Holehouse
+  doi: 10.1016/j.bpj.2016.11.3200
+  first-page: '16'
+  journal-title: Biophys J
+  unstructured: 'Holehouse AS, Das RK, Ahad JN, Richardson MO, Pappu RV. CIDER: resources
+    to analyze sequence-ensemble relationships of intrinsically disordered proteins.
+    Biophys J. 2017;112:16–21.'
+  volume: '112'
+  year: '2017'
+- author: MJ Thompson
+  doi: 10.1073/pnas.0511295103
+  first-page: '4074'
+  journal-title: Proc Natl Acad Sci U S A
+  unstructured: Thompson MJ, Sievers SA, Karanicolas J, Ivanova MI, Baker D, Eisenberg
+    D. The 3D profile method for identifying fibril-forming segments of proteins.
+    Proc Natl Acad Sci U S A. 2006;103:4074–8.
+  volume: '103'
+  year: '2006'
+- author: LP Kozlowski
+  doi: 10.1186/1471-2105-13-111
+  first-page: '111'
+  journal-title: BMC Bioinformatics
+  unstructured: 'Kozlowski LP, Bujnicki JM. MetaDisorder: a meta-server for the prediction
+    of intrinsic disorder in proteins. BMC Bioinformatics. 2012;13:111.'
+  volume: '13'
+  year: '2012'
+- author: YJ Huang
+  doi: 10.1007/978-1-62703-691-7_1
+  first-page: '3'
+  journal-title: Methods Mol Biol
+  unstructured: 'Huang YJ, Acton TB, Montelione GT. DisMeta: a meta server for construct
+    design and optimization. Methods Mol Biol. 2014;1091:3–16.'
+  volume: '1091'
+  year: '2014'
+- author: S Duvaud
+  doi: 10.1093/nar/gkab225
+  first-page: W216
+  journal-title: Nucleic Acids Res
+  unstructured: Duvaud S, Gabella C, Lisacek F, Stockinger H, Ioannidis V, Durinx
+    C. Expasy, the Swiss bioinformatics resource portal, as designed by its users.
+    Nucleic Acids Res. 2021;49:W216-w227.
+  volume: '49'
+  year: '2021'
+- author: KC Nastou
+  doi: 10.1080/13506129.2019.1603143
+  first-page: '112'
+  journal-title: Amyloid
+  unstructured: 'Nastou KC, Nasi GI, Tsiolaki PL, Litou ZI, Iconomidou VA. AmyCo:
+    the amyloidoses collection. Amyloid. 2019;26:112–7.'
+  volume: '26'
+  year: '2019'
+- author: MJ Mizianty
+  doi: 10.1007/978-1-4939-0366-5_11
+  first-page: '147'
+  journal-title: Methods Mol Biol
+  unstructured: Mizianty MJ, Uversky V, Kurgan L. Prediction of intrinsic disorder
+    in proteins using MFDp2. Methods Mol Biol. 2014;1137:147–62.
+  volume: '1137'
+  year: '2014'
+- author: LB Case
+  doi: 10.1126/science.aau6313
+  first-page: '1093'
+  journal-title: Science
+  unstructured: Case LB, Zhang X, Ditlev JA, Rosen MK. Stoichiometry controls activity
+    of phase-separated clusters of actin signaling proteins. Science. 2019;363:1093–7.
+  volume: '363'
+  year: '2019'
+- author: P Li
+  doi: 10.1038/nature10879
+  first-page: '336'
+  journal-title: Nature
+  unstructured: Li P, Banjade S, Cheng HC, Kim S, Chen B, Guo L, Llaguno M, Hollingsworth
+    JV, King DS, Banani SF, Russo PS, Jiang QX, Nixon BT, Rosen MK. Phase transitions
+    in the assembly of multivalent signalling proteins. Nature. 2012;483:336–40.
+  volume: '483'
+  year: '2012'
+- author: S Chong
+  doi: 10.1126/science.aar2555
+  first-page: '2555'
+  journal-title: Science
+  unstructured: Chong S, Dugast-Darzacq C, Liu Z, Dong P, Dailey GM, Cattoglio C,
+    Heckert A, Banala S, Lavis L, Darzacq X, Tjian R. Imaging dynamic and selective
+    low-complexity domain interactions that control gene transcription. Science. 2018;361:2555.
+  volume: '361'
+  year: '2018'
+- author: S Sanulli
+  doi: 10.1038/s41586-019-1669-2
+  first-page: '390'
+  journal-title: Nature
+  unstructured: Sanulli S, Trnka MJ, Dharmarajan V, Tibble RW, Pascal BD, Burlingame
+    AL, Griffin PR, Gross JD, Narlikar GJ. HP1 reshapes nucleosome core to promote
+    phase separation of heterochromatin. Nature. 2019;575:390–4.
+  volume: '575'
+  year: '2019'
+- author: B Xue
+  doi: 10.1080/07391102.2012.675145
+  first-page: '137'
+  journal-title: J Biomol Struct Dyn
+  unstructured: 'Xue B, Dunker AK, Uversky VN. Orderly order in protein intrinsic
+    disorder distribution: disorder in 3500 proteomes from viruses and the three domains
+    of life. J Biomol Struct Dyn. 2012;30:137–49.'
+  volume: '30'
+  year: '2012'
+- author: CJ Oldfield
+  doi: 10.1146/annurev-biochem-072711-164947
+  first-page: '553'
+  journal-title: Annu Rev Biochem
+  unstructured: Oldfield CJ, Dunker AK. Intrinsically disordered proteins and intrinsically
+    disordered protein regions. Annu Rev Biochem. 2014;83:553–84.
+  volume: '83'
+  year: '2014'
+- author: F Pessina
+  doi: 10.1016/j.tig.2020.09.006
+  first-page: '337'
+  journal-title: Trends Genet
+  unstructured: Pessina F, Gioia U, Brandi O, Farina S, Ceccon M, Francia S, d’Adda
+    di Fagagna F. DNA damage triggers a new phase in neurodegeneration. Trends Genet.
+    2021;37:337–54.
+  volume: '37'
+  year: '2021'
+- author: W Borcherds
+  doi: 10.1016/j.sbi.2020.09.004
+  first-page: '41'
+  journal-title: Curr Opin Struct Biol
+  unstructured: Borcherds W, Bremer A, Borgia MB, Mittag T. How do intrinsically disordered
+    protein regions encode a driving force for liquid-liquid phase separation? Curr
+    Opin Struct Biol. 2021;67:41–50.
+  volume: '67'
+  year: '2021'
+- author: Y Lin
+  doi: 10.1074/jbc.M117.800466
+  first-page: '19110'
+  journal-title: J Biol Chem
+  unstructured: Lin Y, Currie SL, Rosen MK. Intrinsically disordered sequences enable
+    modulation of protein phase separation through distributed tyrosine motifs. J
+    Biol Chem. 2017;292:19110–20.
+  volume: '292'
+  year: '2017'
+- author: J Wang
+  doi: 10.1016/j.cell.2018.06.006
+  first-page: '688'
+  journal-title: Cell
+  unstructured: Wang J, Choi JM, Holehouse AS, Lee HO, Zhang X, Jahnel M, Maharana
+    S, Lemaitre R, Pozniakovsky A, Drechsel D, Poser I, Pappu RV, Alberti S, Hyman
+    AA. A molecular grammar governing the driving forces for phase separation of prion-like
+    RNA binding proteins. Cell. 2018;174:688-699.e616.
+  volume: '174'
+  year: '2018'
+- author: MP Hughes
+  doi: 10.1016/j.jbc.2021.101194
+  journal-title: J Biol Chem
+  unstructured: 'Hughes MP, Goldschmidt L, Eisenberg DS. Prevalence and species distribution
+    of the low-complexity, amyloid-like, reversible, kinked segment structural motif
+    in amyloid-like fibrils. J Biol Chem. 2021;297: 101194.'
+  volume: '297'
+  year: '2021'
+- author: J Li
+  doi: 10.1016/j.biopha.2021.111520
+  journal-title: Biomed Pharmacother
+  unstructured: 'Li J, Zhang Y, Chen X, Ma L, Li P, Yu H. Protein phase separation
+    and its role in chromatin organization and diseases. Biomed Pharmacother. 2021;138:
+    111520.'
+  volume: '138'
+  year: '2021'
+- author: MP Hughes
+  doi: 10.1126/science.aan6398
+  first-page: '698'
+  journal-title: Science
+  unstructured: Hughes MP, Sawaya MR, Boyer DR, Goldschmidt L, Rodriguez JA, Cascio
+    D, Chong L, Gonen T, Eisenberg DS. Atomic structures of low-complexity protein
+    segments reveal kinked β sheets that assemble networks. Science. 2018;359:698–701.
+  volume: '359'
+  year: '2018'
+- author: M Barrio
+  doi: 10.1016/j.ijpharm.2017.04.016
+  first-page: '54'
+  journal-title: Int J Pharm
+  unstructured: Barrio M, Huguet J, Robert B, Rietveld IB, Céolin R, Tamarit JL. Pressure-temperature
+    phase diagram of the dimorphism of the anti-inflammatory drug nimesulide. Int
+    J Pharm. 2017;525:54–9.
+  volume: '525'
+  year: '2017'
+- author: M Yu
+  doi: 10.1016/j.molcel.2021.01.010
+  first-page: '1216'
+  journal-title: Mol Cell
+  unstructured: Yu M, Peng Z, Qin M, Liu Y, Wang J, Zhang C, Lin J, Dong T, Wang L,
+    Li S, Yang Y, Xu S, Guo W, Zhang X, Shi M, Peng H, Luo X, Zhang H, Zhang L, Li
+    Y, Yang XP, Sun S. Interferon-γ induces tumor resistance to anti-PD-1 immunotherapy
+    by promoting YAP phase separation. Mol Cell. 2021;81:1216-1230.e1219.
+  volume: '81'
+  year: '2021'
+- author: Y Lu
+  doi: 10.1038/s41556-020-0485-0
+  first-page: '453'
+  journal-title: Nat Cell Biol
+  unstructured: Lu Y, Wu T, Gutman O, Lu H, Zhou Q, Henis YI, Luo K. Phase separation
+    of TAZ compartmentalizes the transcription machinery to promote gene expression.
+    Nat Cell Biol. 2020;22:453–64.
+  volume: '22'
+  year: '2020'
+- author: AE Conicella
+  doi: 10.1016/j.str.2016.07.007
+  first-page: '1537'
+  journal-title: Structure
+  unstructured: Conicella AE, Zerze GH, Mittal J, Fawzi NL. ALS mutations disrupt
+    phase separation mediated by α-helical structure in the TDP-43 low-complexity
+    C-terminal domain. Structure. 2016;24:1537–49.
+  volume: '24'
+  year: '2016'
+- author: Y Lin
+  doi: 10.1016/j.jmb.2020.166731
+  journal-title: J Mol Biol
+  unstructured: 'Lin Y, Fichou Y, Longhini AP, Llanes LC, Yin P, Bazan GC, Kosik KS,
+    Han S. Liquid-liquid phase separation of tau driven by hydrophobic interaction
+    facilitates fibrillization of tau. J Mol Biol. 2021;433: 166731.'
+  volume: '433'
+  year: '2021'
+- author: JR Vieregg
+  doi: 10.1021/jacs.7b03567
+  first-page: '1632'
+  journal-title: J Am Chem Soc
+  unstructured: 'Vieregg JR, Lueckheide M, Marciel AB, Leon L, Bologna AJ, Rivera
+    JR, Tirrell MV. Oligonucleotide-peptide complexes: phase control by hybridization.
+    J Am Chem Soc. 2018;140:1632–8.'
+  volume: '140'
+  year: '2018'
+- author: A Jain
+  doi: 10.1038/nature22386
+  first-page: '243'
+  journal-title: Nature
+  unstructured: Jain A, Vale RD. RNA phase transitions in repeat expansion disorders.
+    Nature. 2017;546:243–7.
+  volume: '546'
+  year: '2017'
+- author: A Baudin
+  doi: 10.3389/fmolb.2021.744707
+  journal-title: Front Mol Biosci
+  unstructured: 'Baudin A, Moreno-Romero AK, Xu X, Selig EE, Penalva LOF, Libich DS.
+    Structural characterization of the RNA-binding protein SERBP1 reveals intrinsic
+    disorder and atypical RNA binding modes. Front Mol Biosci. 2021;8: 744707.'
+  volume: '8'
+  year: '2021'
+- author: RJ Ries
+  doi: 10.1038/s41586-019-1374-1
+  first-page: '424'
+  journal-title: Nature
+  unstructured: Ries RJ, Zaccara S, Klein P, Olarerin-George A, Namkoong S, Pickering
+    BF, Patil DP, Kwak H, Lee JH, Jaffrey SR. m(6)A enhances the phase separation
+    potential of mRNA. Nature. 2019;571:424–8.
+  volume: '571'
+  year: '2019'
+- author: M Kato
+  doi: 10.1016/j.cell.2012.04.017
+  first-page: '753'
+  journal-title: Cell
+  unstructured: 'Kato M, Han TW, Xie S, Shi K, Du X, Wu LC, Mirzaei H, Goldsmith EJ,
+    Longgood J, Pei J, Grishin NV, Frantz DE, Schneider JW, Chen S, Li L, Sawaya MR,
+    Eisenberg D, Tycko R, McKnight SL. Cell-free formation of RNA granules: low complexity
+    sequence domains form dynamic fibers within hydrogels. Cell. 2012;149:753–67.'
+  volume: '149'
+  year: '2012'
+- author: AH Fox
+  doi: 10.1016/j.tibs.2017.12.001
+  first-page: '124'
+  journal-title: Trends Biochem Sci
+  unstructured: 'Fox AH, Nakagawa S, Hirose T, Bond CS. Paraspeckles: where long noncoding
+    RNA meets phase separation. Trends Biochem Sci. 2018;43:124–35.'
+  volume: '43'
+  year: '2018'
+- author: Q Lan
+  doi: 10.1158/0008-5472.CAN-18-2965
+  first-page: '1285'
+  journal-title: Cancer Res
+  unstructured: Lan Q, Liu PY, Haase J, Bell JL, Hüttelmaier S, Liu T. The critical
+    role of RNA m(6)A methylation in cancer. Cancer Res. 2019;79:1285–92.
+  volume: '79'
+  year: '2019'
+- author: M Bienz
+  doi: 10.1016/j.cell.2020.07.037
+  first-page: '799'
+  journal-title: Cell
+  unstructured: Bienz M. Head-to-tail polymerization in the assembly of biomolecular
+    condensates. Cell. 2020;182:799–811.
+  volume: '182'
+  year: '2020'
+- author: M Bienz
+  doi: 10.1016/j.tibs.2014.08.006
+  first-page: '487'
+  journal-title: Trends Biochem Sci
+  unstructured: Bienz M. Signalosome assembly by domains undergoing dynamic head-to-tail
+    polymerization. Trends Biochem Sci. 2014;39:487–95.
+  volume: '39'
+  year: '2014'
+- author: T Schwarz-Romond
+  doi: 10.1242/jcs.02646
+  first-page: '5269'
+  journal-title: J Cell Sci
+  unstructured: Schwarz-Romond T, Merrifield C, Nichols BJ, Bienz M. The Wnt signalling
+    effector Dishevelled forms dynamic protein assemblies rather than stable associations
+    with cytoplasmic vesicles. J Cell Sci. 2005;118:5269–77.
+  volume: '118'
+  year: '2005'
+- author: M Gammons
+  doi: 10.1016/j.ceb.2017.10.008
+  first-page: '42'
+  journal-title: Curr Opin Cell Biol
+  unstructured: Gammons M, Bienz M. Multiprotein complexes governing Wnt signal transduction.
+    Curr Opin Cell Biol. 2018;51:42–9.
+  volume: '51'
+  year: '2018'
+- author: SM Huang
+  doi: 10.1038/nature08356
+  first-page: '614'
+  journal-title: Nature
+  unstructured: Huang SM, Mishina YM, Liu S, Cheung A, Stegmeier F, Michaud GA, Charlat
+    O, Wiellette E, Zhang Y, Wiessner S, Hild M, Shi X, Wilson CJ, Mickanin C, Myer
+    V, Fazal A, Tomlinson R, Serluca F, Shao W, Cheng H, Shultz M, Rau C, Schirle
+    M, Schlegl J, Ghidelli S, Fawell S, Lu C, Curtis D, Kirschner MW, Lengauer C,
+    Finan PM, Tallarico JA, Bouwmeester T, Porter JA, Bauer A, Cong F. Tankyrase inhibition
+    stabilizes axin and antagonizes Wnt signalling. Nature. 2009;461:614–20.
+  volume: '461'
+  year: '2009'
+- author: B Chandra
+  doi: 10.1158/2159-8290.CD-21-0674
+  first-page: '1152'
+  journal-title: Cancer Discov
+  unstructured: Chandra B, Michmerhuizen NL, Shirnekhi HK, Tripathi S, Pioso BJ, Baggett
+    DW, Mitrea DM, Iacobucci I, White MR, Chen J, Park CG, Wu H, Pounds S, Medyukhina
+    A, Khairy K, Gao Q, Qu C, Abdelhamed S, Gorman SD, Bawa S, Maslanka C, Kinger
+    S, Dogra P, Ferrolino MC, Di Giacomo D, Mecucci C, Klco JM, Mullighan CG, Kriwacki
+    RW. Phase separation mediates NUP98 fusion oncoprotein leukemic transformation.
+    Cancer Discov. 2022;12:1152–69.
+  volume: '12'
+  year: '2022'
+- author: Z Qin
+  doi: 10.1038/s41421-021-00270-5
+  first-page: '33'
+  journal-title: Cell Discov
+  unstructured: Qin Z, Sun H, Yue M, Pan X, Chen L, Feng X, Yan X, Zhu X, Ji H. Phase
+    separation of EML4-ALK in firing downstream signaling and promoting lung tumorigenesis.
+    Cell Discov. 2021;7:33.
+  volume: '7'
+  year: '2021'
+- author: M Fawal
+  doi: 10.4161/bioa.1.2.16269
+  first-page: '91'
+  journal-title: BioArchitecture
+  unstructured: Fawal M, Espinos E, Jean-Jean O, Morello D. Looking for the functions
+    of RNA granules in ALK-transformed cells. BioArchitecture. 2011;1:91–5.
+  volume: '1'
+  year: '2011'
+- author: RJ Weatheritt
+  doi: 10.1093/bioinformatics/bts072
+  first-page: '976'
+  journal-title: Bioinformatics
+  unstructured: Weatheritt RJ, Luck K, Petsalaki E, Davey NE, Gibson TJ. The identification
+    of short linear motif-mediated interfaces within the human interactome. Bioinformatics.
+    2012;28:976–82.
+  volume: '28'
+  year: '2012'
+- author: P Tompa
+  doi: 10.1002/bies.200800151
+  first-page: '328'
+  journal-title: BioEssays
+  unstructured: 'Tompa P, Fuxreiter M, Oldfield CJ, Simon I, Dunker AK, Uversky VN.
+    Close encounters of the third kind: disordered domains and the interactions of
+    proteins. BioEssays. 2009;31:328–35.'
+  volume: '31'
+  year: '2009'
+- author: S Xiang
+  doi: 10.1016/j.cell.2015.10.040
+  first-page: '829'
+  journal-title: Cell
+  unstructured: Xiang S, Kato M, Wu LC, Lin Y, Ding M, Zhang Y, Yu Y, McKnight SL.
+    The LC domain of hnRNPA2 adopts similar conformations in hydrogel polymers, liquid-like
+    droplets, and nuclei. Cell. 2015;163:829–39.
+  volume: '163'
+  year: '2015'
+- author: R Hancock
+  doi: 10.1016/j.jsb.2003.12.008
+  first-page: '281'
+  journal-title: J Struct Biol
+  unstructured: Hancock R. A role for macromolecular crowding effects in the assembly
+    and function of compartments in the nucleus. J Struct Biol. 2004;146:281–90.
+  volume: '146'
+  year: '2004'
+- author: SC Weber
+  doi: 10.1016/j.cub.2015.01.012
+  first-page: '641'
+  journal-title: Curr Biol
+  unstructured: Weber SC, Brangwynne CP. Inverse size scaling of the nucleolus by
+    a concentration-dependent phase transition. Curr Biol. 2015;25:641–6.
+  volume: '25'
+  year: '2015'
+- author: TM Franzmann
+  doi: 10.1126/science.aao5654
+  first-page: '5654'
+  journal-title: Science
+  unstructured: Franzmann TM, Jahnel M, Pozniakovsky A, Mahamid J, Holehouse AS, Nüske
+    E, Richter D, Baumeister W, Grill SW, Pappu RV, Hyman AA, Alberti S. Phase separation
+    of a yeast prion protein promotes cellular fitness. Science. 2018;359:5654.
+  volume: '359'
+  year: '2018'
+- author: Y Wang
+  doi: 10.1021/jp065608u
+  first-page: '1222'
+  journal-title: J Phys Chem B
+  unstructured: Wang Y, Annunziata O. Comparison between protein-polyethylene glycol
+    (PEG) interactions and the effect of PEG on protein-protein interactions using
+    the liquid-liquid phase transition. J Phys Chem B. 2007;111:1222–30.
+  volume: '111'
+  year: '2007'
+- author: S Alberti
+  doi: 10.1016/j.cell.2018.12.035
+  first-page: '419'
+  journal-title: Cell
+  unstructured: Alberti S, Gladfelter A, Mittag T. Considerations and challenges in
+    studying liquid-liquid phase separation and biomolecular condensates. Cell. 2019;176:419–34.
+  volume: '176'
+  year: '2019'
+- author: A Yamaguchi
+  doi: 10.1371/journal.pone.0049267
+  journal-title: PLoS ONE
+  unstructured: 'Yamaguchi A, Kitajo K. The effect of PRMT1-mediated arginine methylation
+    on the subcellular localization, stress granules, and detergent-insoluble aggregates
+    of FUS/TLS. PLoS ONE. 2012;7: e49267.'
+  volume: '7'
+  year: '2012'
+- author: J Gal
+  first-page: e2327
+  issue: '2323'
+  journal-title: Neurobiol Aging
+  unstructured: Gal J, Zhang J, Kwinter DM, Zhai J, Jia H, Jia J, Zhu H. Nuclear localization
+    sequence of FUS and induction of stress granules by ALS mutants. Neurobiol Aging.
+    2011;32(2323):e2327-2340.
+  volume: '32'
+  year: '2011'
+- author: M Hofweber
+  doi: 10.1074/jbc.TM118.001189
+  first-page: '7137'
+  journal-title: J Biol Chem
+  unstructured: Hofweber M, Dormann D. Friend or foe-Post-translational modifications
+    as regulators of phase separation and RNP granule dynamics. J Biol Chem. 2019;294:7137–50.
+  volume: '294'
+  year: '2019'
+- author: C Tanikawa
+  doi: 10.1016/j.celrep.2018.01.031
+  first-page: '1473'
+  journal-title: Cell Rep
+  unstructured: Tanikawa C, Ueda K, Suzuki A, Iida A, Nakamura R, Atsuta N, Tohnai
+    G, Sobue G, Saichi N, Momozawa Y, Kamatani Y, Kubo M, Yamamoto K, Nakamura Y,
+    Matsuda K. Citrullination of RGG motifs in FET proteins by PAD4 regulates protein
+    aggregation and ALS susceptibility. Cell Rep. 2018;22:1473–83.
+  volume: '22'
+  year: '2018'
+- author: A Bah
+  doi: 10.1074/jbc.R115.695056
+  first-page: '6696'
+  journal-title: J Biol Chem
+  unstructured: Bah A, Forman-Kay JD. Modulation of intrinsically disordered protein
+    function by post-translational modifications. J Biol Chem. 2016;291:6696–705.
+  volume: '291'
+  year: '2016'
+- author: SF Banani
+  doi: 10.1016/j.cell.2016.06.010
+  first-page: '651'
+  journal-title: Cell
+  unstructured: Banani SF, Rice AM, Peeples WB, Lin Y, Jain S, Parker R, Rosen MK.
+    Compositional control of phase-separated cellular bodies. Cell. 2016;166:651–63.
+  volume: '166'
+  year: '2016'
+- author: IA Hendriks
+  doi: 10.1038/nsmb.3366
+  first-page: '325'
+  journal-title: Nat Struct Mol Biol
+  unstructured: Hendriks IA, Lyon D, Young C, Jensen LJ, Vertegaal AC, Nielsen ML.
+    Site-specific mapping of the human SUMO proteome reveals co-modification with
+    phosphorylation. Nat Struct Mol Biol. 2017;24:325–36.
+  volume: '24'
+  year: '2017'
+- author: AM Ishov
+  doi: 10.1083/jcb.147.2.221
+  first-page: '221'
+  journal-title: J Cell Biol
+  unstructured: Ishov AM, Sotnikov AG, Negorev D, Vladimirova OV, Neff N, Kamitani
+    T, Yeh ET, Strauss JF 3rd, Maul GG. PML is critical for ND10 formation and recruits
+    the PML-interacting protein daxx to this nuclear structure when modified by SUMO-1.
+    J Cell Biol. 1999;147:221–34.
+  volume: '147'
+  year: '1999'
+- author: TJ Nott
+  doi: 10.1016/j.molcel.2015.01.013
+  first-page: '936'
+  journal-title: Mol Cell
+  unstructured: Nott TJ, Petsalaki E, Farber P, Jervis D, Fussner E, Plochowietz A,
+    Craggs TD, Bazett-Jones DP, Pawson T, Forman-Kay JD, Baldwin AJ. Phase transition
+    of a disordered nuage protein generates environmentally responsive membraneless
+    organelles. Mol Cell. 2015;57:936–47.
+  volume: '57'
+  year: '2015'
+- author: Q Xia
+  doi: 10.1186/s13578-023-00978-9
+  first-page: '37'
+  journal-title: Cell Biosci
+  unstructured: Xia Q, Li Y, Xu W, Wu C, Zheng H, Liu L, Dong L. Enhanced liquidity
+    of p62 droplets mediated by Smurf1 links Nrf2 activation and autophagy. Cell Biosci.
+    2023;13:37.
+  volume: '13'
+  year: '2023'
+- author: JJ Bouchard
+  doi: 10.1016/j.molcel.2018.08.027
+  first-page: '19'
+  journal-title: Mol Cell
+  unstructured: Bouchard JJ, Otero JH, Scott DC, Szulc E, Martin EW, Sabri N, Granata
+    D, Marzahn MR, Lindorff-Larsen K, Salvatella X, Schulman BA, Mittag T. Cancer
+    mutations of the tumor suppressor SPOP disrupt the formation of active, phase-separated
+    compartments. Mol Cell. 2018;72:19-36.e18.
+  volume: '72'
+  year: '2018'
+- author: Y Cheng
+  doi: 10.1016/j.ccell.2021.04.017
+  first-page: '958'
+  journal-title: Cancer Cell
+  unstructured: Cheng Y, Xie W, Pickering BF, Chu KL, Savino AM, Yang X, Luo H, Nguyen
+    DT, Mo S, Barin E, Velleca A, Rohwetter TM, Patel DJ, Jaffrey SR, Kharas MG. N(6)-Methyladenosine
+    on mRNA facilitates a phase-separated nuclear body that suppresses myeloid leukemic
+    differentiation. Cancer Cell. 2021;39:958-972.e958.
+  volume: '39'
+  year: '2021'
+- author: B Shi
+  doi: 10.1038/s41586-021-03903-7
+  first-page: '726'
+  journal-title: Nature
+  unstructured: Shi B, Li W, Song Y, Wang Z, Ju R, Ulman A, Hu J, Palomba F, Zhao
+    Y, Le JP, Jarrard W, Dimoff D, Digman MA, Gratton E, Zang C, Jiang H. UTX condensation
+    underlies its tumour-suppressive activity. Nature. 2021;597:726–31.
+  volume: '597'
+  year: '2021'
+- author: M Wei
+  doi: 10.1158/0008-5472.CAN-22-4017
+  first-page: '2908'
+  issue: '17'
+  journal-title: Cancer Res
+  unstructured: Wei M, Huang X, Liao L, Tian Y, Zheng X. SENP1 decreases RNF168 phase
+    separation to promote DNA damage repair and drug resistance in colon cancer. Cancer
+    Res. 2023;83(17):2908–23.
+  volume: '83'
+  year: '2023'
+- author: Y Wu
+  doi: 10.1038/s43018-023-00522-1
+  first-page: '382'
+  journal-title: Nat Cancer
+  unstructured: Wu Y, Zhou L, Zou Y, Zhang Y, Zhang M, Xu L, Zheng L, He W, Yu K,
+    Li T, Zhang X, Chen Z, Zhang R, Zhou P, Zhang N, Zheng L, Kang T. Disrupting the
+    phase separation of KAT8-IRF1 diminishes PD-L1 expression and promotes antitumor
+    immunity. Nat Cancer. 2023;4:382–400.
+  volume: '4'
+  year: '2023'
+- author: X Shao
+  doi: 10.1038/s41418-022-00955-8
+  first-page: '1654'
+  journal-title: Cell Death Differ
+  unstructured: Shao X, Chen Y, Xu A, Xiang D, Wang W, Du W, Huang Y, Zhang X, Cai
+    M, Xia Z, Wang Y, Cao J, Zhang Y, Yang B, He Q, Ying M. Deneddylation of PML/RARα
+    reconstructs functional PML nuclear bodies via orchestrating phase separation
+    to eradicate APL. Cell Death Differ. 2022;29:1654–68.
+  volume: '29'
+  year: '2022'
+- author: E Martinelli
+  doi: 10.1016/j.ctrv.2016.12.001
+  first-page: '61'
+  journal-title: Cancer Treat Rev
+  unstructured: 'Martinelli E, Morgillo F, Troiani T, Ciardiello F. Cancer resistance
+    to therapies against the EGFR-RAS-RAF pathway: the role of MEK. Cancer Treat Rev.
+    2017;53:61–9.'
+  volume: '53'
+  year: '2017'
+- author: SI Liang
+  doi: 10.1016/j.celrep.2018.02.031
+  first-page: '2593'
+  journal-title: Cell Rep
+  unstructured: Liang SI, van Lengerich B, Eichel K, Cha M, Patterson DM, Yoon TY,
+    von Zastrow M, Jura N, Gartner ZJ. Phosphorylated EGFR dimers are not sufficient
+    to activate ras. Cell Rep. 2018;22:2593–600.
+  volume: '22'
+  year: '2018'
+- author: A Grabarz
+  first-page: '249'
+  journal-title: Am J Cancer Res
+  unstructured: 'Grabarz A, Barascu A, Guirouilh-Barbat J, Lopez BS. Initiation of
+    DNA double strand break repair: signaling and single-stranded resection dictate
+    the choice between homologous recombination, non-homologous end-joining and alternative
+    end-joining. Am J Cancer Res. 2012;2:249–68.'
+  volume: '2'
+  year: '2012'
+- author: J Zhang
+  doi: 10.1016/j.canlet.2021.05.035
+  first-page: '84'
+  journal-title: Cancer Lett
+  unstructured: Zhang J, Zeng Y, Xing Y, Li X, Zhou L, Hu L, Chin YE, Wu M. Myristoylation-mediated
+    phase separation of EZH2 compartmentalizes STAT3 to promote lung cancer growth.
+    Cancer Lett. 2021;516:84–98.
+  volume: '516'
+  year: '2021'
+- author: MC Lanz
+  doi: 10.15252/embj.2019101801
+  journal-title: Embo j
+  unstructured: 'Lanz MC, Dibitetto D, Smolka MB. DNA damage kinase signaling: checkpoint
+    and repair at 30 years. Embo j. 2019;38: e101801.'
+  volume: '38'
+  year: '2019'
+- author: W Li
+  doi: 10.3390/ijms24032197
+  first-page: '2197'
+  issue: '3'
+  journal-title: Int J Mol Sci
+  unstructured: Li W, Shu X, Zhang X, Zhang Z, Sun S, Li N, Long M. Potential Roles
+    of YAP/TAZ mechanotransduction in spaceflight-induced liver dysfunction. Int J
+    Mol Sci. 2023;24(3):2197.
+  volume: '24'
+  year: '2023'
+- author: Q Liu
+  doi: 10.1016/j.cell.2021.10.001
+  first-page: '5559'
+  journal-title: Cell
+  unstructured: Liu Q, Li J, Zhang W, Xiao C, Zhang S, Nian C, Li J, Su D, Chen L,
+    Zhao Q, Shao H, Zhao H, Chen Q, Li Y, Geng J, Hong L, Lin S, Wu Q, Deng X, Ke
+    R, Ding J, Johnson RL, Liu X, Chen L, Zhou D. Glycogen accumulation and phase
+    separation drives liver tumor initiation. Cell. 2021;184:5559-5576.e5519.
+  volume: '184'
+  year: '2021'
+- author: G Zhu
+  doi: 10.1038/s41422-021-00504-x
+  first-page: '1028'
+  journal-title: Cell Res
+  unstructured: Zhu G, Xie J, Fu Z, Wang M, Zhang Q, He H, Chen Z, Guo X, Zhu J. Pharmacological
+    inhibition of SRC-1 phase separation suppresses YAP oncogenic transcription activity.
+    Cell Res. 2021;31:1028–31.
+  volume: '31'
+  year: '2021'
+- author: K Kamagata
+  doi: 10.1038/s41598-020-57521-w
+  first-page: '580'
+  journal-title: Sci Rep
+  unstructured: Kamagata K, Kanbayashi S, Honda M, Itoh Y, Takahashi H, Kameda T,
+    Nagatsugi F, Takahashi S. Liquid-like droplet formation by tumor suppressor p53
+    induced by multivalent electrostatic interactions between two disordered domains.
+    Sci Rep. 2020;10:580.
+  volume: '10'
+  year: '2020'
+- author: S Kilic
+  doi: 10.15252/embj.2018101379
+  journal-title: Embo j
+  unstructured: 'Kilic S, Lezaja A, Gatti M, Bianco E, Michelena J, Imhof R, Altmeyer
+    M. Phase separation of 53BP1 determines liquid-like behavior of DNA repair compartments.
+    Embo j. 2019;38: e101379.'
+  volume: '38'
+  year: '2019'
+- author: M Esposito
+  doi: 10.1038/s41556-021-00641-w
+  first-page: '257'
+  journal-title: Nat Cell Biol
+  unstructured: Esposito M, Fang C, Cook KC, Park N, Wei Y, Spadazzi C, Bracha D,
+    Gunaratna RT, Laevsky G, DeCoste CJ, Slabodkin H, Brangwynne CP, Cristea IM, Kang
+    Y. TGF-β-induced DACT1 biomolecular condensates repress Wnt signalling to promote
+    bone metastasis. Nat Cell Biol. 2021;23:257–67.
+  volume: '23'
+  year: '2021'
+- author: AV Zamudio
+  doi: 10.1016/j.molcel.2019.08.016
+  first-page: '753'
+  journal-title: Mol Cell
+  unstructured: Zamudio AV, Dall’Agnese A, Henninger JE, Manteiga JC, Afeyan LK, Hannett
+    NM, Coffey EL, Li CH, Oksuz O, Sabari BR, Boija A, Klein IA, Hawken SW, Spille
+    JH, Decker TM, Cisse BJ II, Abraham TI, Lee DJ, Taatjes J, Schuijers RA. Young,
+    mediator condensates localize signaling factors to key cell identity genes. Mol
+    Cell. 2019;76:753–66.
+  volume: '76'
+  year: '2019'
+- author: JZ Zhang
+  doi: 10.1016/j.cell.2020.07.043
+  first-page: '1531'
+  journal-title: Cell
+  unstructured: Zhang JZ, Lu TW, Stolerman LM, Tenner B, Yang JR, Zhang JF, Falcke
+    M, Rangamani P, Taylor SS, Mehta S, Zhang J. Phase Separation of a PKA regulatory
+    subunit controls camp compartmentation and oncogenic signaling. Cell. 2020;182:1531-1544.e1515.
+  volume: '182'
+  year: '2020'
+- author: A Tulpule
+  doi: 10.1016/j.cell.2021.03.031
+  first-page: '2649'
+  journal-title: Cell
+  unstructured: Tulpule A, Guan J, Neel DS, Allegakoen HR, Lin YP, Brown D, Chou YT,
+    Heslin A, Chatterjee N, Perati S, Menon S, Nguyen TA, Debnath J, Ramirez AD, Shi
+    X, Yang B, Feng S, Makhija S, Huang B, Bivona TG. Kinase-mediated RAS signaling
+    via membraneless cytoplasmic protein granules. Cell. 2021;184:2649-2664.e2618.
+  volume: '184'
+  year: '2021'
+- author: J Sampson
+  doi: 10.15252/embr.202153693
+  journal-title: EMBO Rep
+  unstructured: 'Sampson J, Richards MW, Choi J, Fry AM, Bayliss R. Phase-separated
+    foci of EML4-ALK facilitate signalling and depend upon an active kinase conformation.
+    EMBO Rep. 2021;22: e53693.'
+  volume: '22'
+  year: '2021'
+- author: WYC Huang
+  doi: 10.1126/science.aau5721
+  first-page: '1098'
+  journal-title: Science
+  unstructured: Huang WYC, Alvarez S, Kondo Y, Lee YK, Chung JK, Lam HYM, Biswas KH,
+    Kuriyan J, Groves JT. A molecular assembly phase transition and kinetic proofreading
+    modulate Ras activation by SOS. Science. 2019;363:1098–103.
+  volume: '363'
+  year: '2019'
+- author: G Zhu
+  doi: 10.1016/j.cell.2020.09.002
+  first-page: '490'
+  journal-title: Cell
+  unstructured: Zhu G, Xie J, Kong W, Xie J, Li Y, Du L, Zheng Q, Sun L, Guan M, Li
+    H, Zhu T, He H, Liu Z, Xia X, Kan C, Tao Y, Shen HC, Li D, Wang S, Yu Y, Yu ZH,
+    Zhang ZY, Liu C, Zhu J. Phase separation of disease-associated SHP2 mutants underlies
+    MAPK hyperactivation. Cell. 2020;183:490-502.e418.
+  volume: '183'
+  year: '2020'
+- author: KN Schaefer
+  doi: 10.1016/j.devcel.2019.01.025
+  first-page: '429'
+  journal-title: Dev Cell
+  unstructured: Schaefer KN, Peifer M. Wnt/beta-catenin signaling regulation and a
+    role for biomolecular condensates. Dev Cell. 2019;48:429–44.
+  volume: '48'
+  year: '2019'
+- author: EW Cloer
+  doi: 10.1128/MCB.00644-17
+  first-page: '00644'
+  issue: '22'
+  journal-title: Mol Cell Biol
+  unstructured: Cloer EW, Siesser PF, Cousins EM, Goldfarb D, Mowrey DD, Harrison
+    JS, Weir SJ, Dokholyan NV, Major MB. p62-Dependent Phase Separation of Patient-Derived
+    KEAP1 Mutations and NRF2. Mol Cell Biol. 2018;38(22):00644–717.
+  volume: '38'
+  year: '2018'
+- author: F Jobe
+  doi: 10.1128/JVI.01380-20
+  first-page: '10'
+  issue: '22'
+  journal-title: J Virol
+  unstructured: Jobe F, Simpson J, Hawes P, Guzman E, Bailey D. Respiratory syncytial
+    virus sequesters NF-κB subunit p65 to cytoplasmic inclusion bodies to inhibit
+    innate immune signaling. J Virol. 2020;94(22):10–1128.
+  volume: '94'
+  year: '2020'
+- author: F Meng
+  doi: 10.1016/j.molcel.2021.07.040
+  first-page: '4147'
+  journal-title: Mol Cell
+  unstructured: Meng F, Yu Z, Zhang D, Chen S, Guan H, Zhou R, Wu Q, Zhang Q, Liu
+    S, Venkat Ramani MK, Yang B, Ba XQ, Zhang J, Huang J, Bai X, Qin J, Feng XH, Ouyang
+    S, Zhang YJ, Liang T, Xu P. Induced phase separation of mutant NF2 imprisons the
+    cGAS-STING machinery to abrogate antitumor immunity. Mol Cell. 2021;81:4147–64.
+  volume: '81'
+  year: '2021'
+- author: J Todoric
+  doi: 10.1016/j.ccell.2017.10.011
+  first-page: '824'
+  journal-title: Cancer Cell
+  unstructured: Todoric J, Antonucci L, Di Caro G, Li N, Wu X, Lytle NK, Dhar D, Banerjee
+    S, Fagman JB, Browne CD, Umemura A, Valasek MA, Kessler H, Tarin D, Goggins M,
+    Reya T, Diaz-Meco M, Moscat J, Karin M. Stress-activated NRF2-MDM2 cascade controls
+    neoplastic progression in pancreas. Cancer Cell. 2017;32:824-839.e828.
+  volume: '32'
+  year: '2017'
+- author: S Wang
+  doi: 10.1080/2162402X.2018.1503913
+  journal-title: Oncoimmunology
+  unstructured: 'Wang S, Zhang Q, Wang Q, Shen Q, Chen X, Li Z, Zhou Y, Hou J, Xu
+    B, Li N, Cao X. NEAT1 paraspeckle promotes human hepatocellular carcinoma progression
+    by strengthening IL-6/STAT3 signaling. Oncoimmunology. 2018;7: e1503913.'
+  volume: '7'
+  year: '2018'
+- author: R Taub
+  doi: 10.1073/pnas.79.24.7837
+  first-page: '7837'
+  journal-title: Proc Natl Acad Sci U S A
+  unstructured: Taub R, Kirsch I, Morton C, Lenoir G, Swan D, Tronick S, Aaronson
+    S, Leder P. Translocation of the c-myc gene into the immunoglobulin heavy chain
+    locus in human Burkitt lymphoma and murine plasmacytoma cells. Proc Natl Acad
+    Sci U S A. 1982;79:7837–41.
+  volume: '79'
+  year: '1982'
+- author: R Dalla-Favera
+  doi: 10.1126/science.6401867
+  first-page: '963'
+  journal-title: Science
+  unstructured: Dalla-Favera R, Martinotti S, Gallo RC, Erikson J, Croce CM. Translocation
+    and rearrangements of the c-myc oncogene locus in human undifferentiated B-cell
+    lymphomas. Science. 1983;219:963–7.
+  volume: '219'
+  year: '1983'
+- author: CJ Tabin
+  doi: 10.1038/300143a0
+  first-page: '143'
+  journal-title: Nature
+  unstructured: Tabin CJ, Bradley SM, Bargmann CI, Weinberg RA, Papageorge AG, Scolnick
+    EM, Dhar R, Lowy DR, Chang EH. Mechanism of activation of a human oncogene. Nature.
+    1982;300:143–9.
+  volume: '300'
+  year: '1982'
+- author: IB Weinstein
+  doi: 10.1158/0008-5472.CAN-07-3293
+  first-page: '3077'
+  journal-title: Cancer Res
+  unstructured: Weinstein IB, Joe A. Oncogene addiction. Cancer Res. 2008;68:3077–80.
+  volume: '68'
+  year: '2008'
+- author: X Su
+  doi: 10.1126/science.aad9964
+  first-page: '595'
+  journal-title: Science
+  unstructured: Su X, Ditlev JA, Hui E, Xing W, Banjade S, Okrut J, King DS, Taunton
+    J, Rosen MK, Vale RD. Phase separation of signaling molecules promotes T cell
+    receptor signal transduction. Science. 2016;352:595–9.
+  volume: '352'
+  year: '2016'
+- author: WY Huang
+  doi: 10.1073/pnas.1602602113
+  first-page: '8218'
+  journal-title: Proc Natl Acad Sci U S A
+  unstructured: Huang WY, Yan Q, Lin WC, Chung JK, Hansen SD, Christensen SM, Tu HL,
+    Kuriyan J, Groves JT. Phosphotyrosine-mediated LAT assembly on membranes drives
+    kinetic bifurcation in recruitment dynamics of the Ras activator SOS. Proc Natl
+    Acad Sci U S A. 2016;113:8218–23.
+  volume: '113'
+  year: '2016'
+- author: T Yamazaki
+  doi: 10.1242/jcs.115.9.1791
+  first-page: '1791'
+  journal-title: J Cell Sci
+  unstructured: Yamazaki T, Zaal K, Hailey D, Presley J, Lippincott-Schwartz J, Samelson
+    LE. Role of Grb2 in EGF-stimulated EGFR internalization. J Cell Sci. 2002;115:1791–802.
+  volume: '115'
+  year: '2002'
+- author: S Lamouille
+  doi: 10.1038/nrm3758
+  first-page: '178'
+  journal-title: Nat Rev Mol Cell Biol
+  unstructured: Lamouille S, Xu J, Derynck R. Molecular mechanisms of epithelial-mesenchymal
+    transition. Nat Rev Mol Cell Biol. 2014;15:178–96.
+  volume: '15'
+  year: '2014'
+- author: M Cordenonsi
+  doi: 10.1016/j.cell.2011.09.048
+  first-page: '759'
+  journal-title: Cell
+  unstructured: Cordenonsi M, Zanconato F, Azzolin L, Forcato M, Rosato A, Frasson
+    C, Inui M, Montagner M, Parenti AR, Poletti A, Daidone MG, Dupont S, Basso G,
+    Bicciato S, Piccolo S. The Hippo transducer TAZ confers cancer stem cell-related
+    traits on breast cancer cells. Cell. 2011;147:759–72.
+  volume: '147'
+  year: '2011'
+- author: F Zanconato
+  doi: 10.1016/j.ccell.2016.05.005
+  first-page: '783'
+  journal-title: Cancer Cell
+  unstructured: Zanconato F, Cordenonsi M, Piccolo S. YAP/TAZ at the Roots of Cancer.
+    Cancer Cell. 2016;29:783–803.
+  volume: '29'
+  year: '2016'
+- author: H Gao
+  doi: 10.1038/s41388-023-02687-6
+  first-page: '1704'
+  journal-title: Oncogene
+  unstructured: Gao H, Wei H, Yang Y, Li H, Liang J, Ye J, Zhang F, Wang L, Shi H,
+    Wang J, Han A. Phase separation of DDX21 promotes colorectal cancer metastasis
+    via MCM5-dependent EMT pathway. Oncogene. 2023;42:1704–15.
+  volume: '42'
+  year: '2023'
+- author: Y Wang
+  doi: 10.1038/s41419-018-0504-2
+  first-page: '501'
+  journal-title: Cell Death Dis
+  unstructured: Wang Y, Fu D, Chen Y, Su J, Wang Y, Li X, Zhai W, Niu Y, Yue D, Geng
+    H. G3BP1 promotes tumor progression and metastasis through IL-6/G3BP1/STAT3 signaling
+    axis in renal cell carcinomas. Cell Death Dis. 2018;9:501.
+  volume: '9'
+  year: '2018'
+- author: K Taniuchi
+  doi: 10.1158/1541-7786.MCR-10-0574
+  first-page: '856'
+  journal-title: Mol Cancer Res
+  unstructured: Taniuchi K, Nishimori I, Hollingsworth MA. The N-terminal domain of
+    G3BP enhances cell motility and invasion by posttranscriptional regulation of
+    BART. Mol Cancer Res. 2011;9:856–66.
+  volume: '9'
+  year: '2011'
+- author: A Clark
+  first-page: '704'
+  journal-title: Am J Cancer Res
+  unstructured: 'Clark A, Burleson M. SPOP and cancer: a systematic review. Am J Cancer
+    Res. 2020;10:704–26.'
+  volume: '10'
+  year: '2020'
+- author: I Ghodke
+  doi: 10.1016/j.molcel.2021.04.010
+  first-page: '2596'
+  journal-title: Mol Cell
+  unstructured: Ghodke I, Remisova M, Furst A, Kilic S, Reina-San-Martin B, Poetsch
+    AR, Altmeyer M, Soutoglou E. AHNAK controls 53BP1-mediated p53 response by restraining
+    53BP1 oligomerization and phase separation. Mol Cell. 2021;81:2596-2610.e2597.
+  volume: '81'
+  year: '2021'
+- author: J Massagué
+  doi: 10.1016/j.cell.2008.07.001
+  first-page: '215'
+  journal-title: Cell
+  unstructured: Massagué J. TGFbeta in Cancer. Cell. 2008;134:215–30.
+  volume: '134'
+  year: '2008'
+- author: LP Rangel
+  doi: 10.4161/pri.27776
+  first-page: '75'
+  journal-title: Prion
+  unstructured: Rangel LP, Costa DC, Vieira TC, Silva JL. The aggregation of mutant
+    p53 produces prion-like properties in cancer. Prion. 2014;8:75–84.
+  volume: '8'
+  year: '2014'
+- author: AP Ano Bom
+  doi: 10.1074/jbc.M112.340638
+  first-page: '28152'
+  journal-title: J Biol Chem
+  unstructured: 'Ano Bom AP, Rangel LP, Costa DC, de Oliveira GA, Sanches D, Braga
+    CA, Gava LM, Ramos CH, Cepeda AO, Stumbo AC, De Moura Gallo CV, Cordeiro Y, Silva
+    JL. Mutant p53 aggregates into prion-like amyloid oligomers and fibrils: implications
+    for cancer. J Biol Chem. 2012;287:28152–62.'
+  volume: '287'
+  year: '2012'
+- author: J Xu
+  doi: 10.1038/nchembio.546
+  first-page: '285'
+  journal-title: Nat Chem Biol
+  unstructured: Xu J, Reumers J, Couceiro JR, De Smet F, Gallardo R, Rudyak S, Cornelis
+    A, Rozenski J, Zwolinska A, Marine JC, Lambrechts D, Suh YA, Rousseau F, Schymkowitz
+    J. Gain of function of mutant p53 by coaggregation with multiple tumor suppressors.
+    Nat Chem Biol. 2011;7:285–95.
+  volume: '7'
+  year: '2011'
+- author: Y Higashimoto
+  doi: 10.1021/bi051192j
+  first-page: '1608'
+  journal-title: Biochemistry
+  unstructured: Higashimoto Y, Asanomi Y, Takakusagi S, Lewis MS, Uosaki K, Durell
+    SR, Anderson CW, Appella E, Sakaguchi K. Unfolding, aggregation, and amyloid formation
+    by the tetramerization domain from mutant p53 associated with lung cancer. Biochemistry.
+    2006;45:1608–19.
+  volume: '45'
+  year: '2006'
+- author: D Ishimaru
+  doi: 10.1021/bi034218k
+  first-page: '9022'
+  journal-title: Biochemistry
+  unstructured: Ishimaru D, Andrade LR, Teixeira LS, Quesado PA, Maiolino LM, Lopez
+    PM, Cordeiro Y, Costa LT, Heckl WM, Weissmüller G, Foguel D, Silva JL. Fibrillar
+    aggregates of the tumor suppressor p53 core domain. Biochemistry. 2003;42:9022–7.
+  volume: '42'
+  year: '2003'
+- author: F De Smet
+  doi: 10.1002/path.4872
+  first-page: '24'
+  journal-title: J Pathol
+  unstructured: 'De Smet F, Saiz Rubio M, Hompes D, Naus E, De Baets G, Langenberg
+    T, Hipp MS, Houben B, Claes F, Charbonneau S, Delgado Blanco J, Plaisance S, Ramkissoon
+    S, Ramkissoon L, Simons C, van den Brandt P, Weijenberg M, Van England M, Lambrechts
+    S, Amant F, D’Hoore A, Ligon KL, Sagaert X, Schymkowitz J, Rousseau F. Nuclear
+    inclusion bodies of mutant and wild-type p53 in cancer: a hallmark of p53 inactivation
+    and proteostasis remodelling by p53 aggregation. J Pathol. 2017;242:24–38.'
+  volume: '242'
+  year: '2017'
+- author: T Oda
+  doi: 10.1111/cpr.13398
+  journal-title: Cell Prolif
+  unstructured: 'Oda T, Gotoh N, Kasamatsu T, Handa H, Saitoh T, Sasaki N. DNA damage-induced
+    cellular senescence is regulated by 53BP1 accumulation in the nuclear foci and
+    phase separation. Cell Prolif. 2023;56: e13398.'
+  volume: '56'
+  year: '2023'
+- author: L Hayflick
+  doi: 10.1016/0014-4827(65)90211-9
+  first-page: '614'
+  journal-title: Exp Cell Res
+  unstructured: Hayflick L. The limited in vitro lifetime of human diploid cell strains.
+    Exp Cell Res. 1965;37:614–36.
+  volume: '37'
+  year: '1965'
+- author: EH Blackburn
+  doi: 10.1038/350569a0
+  first-page: '569'
+  journal-title: Nature
+  unstructured: Blackburn EH. Structure and function of telomeres. Nature. 1991;350:569–73.
+  volume: '350'
+  year: '1991'
+- author: CW Greider
+  doi: 10.1146/annurev.bi.65.070196.002005
+  first-page: '337'
+  journal-title: Annu Rev Biochem
+  unstructured: Greider CW. Telomere length regulation. Annu Rev Biochem. 1996;65:337–65.
+  volume: '65'
+  year: '1996'
+- author: H Zhang
+  doi: 10.1091/mbc.E19-10-0589
+  first-page: '2048'
+  journal-title: Mol Biol Cell
+  unstructured: Zhang H, Zhao R, Tones J, Liu M, Dilley RL, Chenoweth DM, Greenberg
+    RA, Lampson MA. Nuclear body phase separation drives telomere clustering in ALT
+    cancer cells. Mol Biol Cell. 2020;31:2048–56.
+  volume: '31'
+  year: '2020'
+- author: J Min
+  doi: 10.1101/gad.324905.119
+  first-page: '814'
+  journal-title: Genes Dev
+  unstructured: Min J, Wright WE, Shay JW. Clustered telomeres in phase-separated
+    nuclear condensates engage mitotic DNA synthesis through BLM and RAD52. Genes
+    Dev. 2019;33:814–27.
+  volume: '33'
+  year: '2019'
+- author: AG Larson
+  doi: 10.1038/nature22822
+  first-page: '236'
+  journal-title: Nature
+  unstructured: Larson AG, Elnatan D, Keenen MM, Trnka MJ, Johnston JB, Burlingame
+    AL, Agard DA, Redding S, Narlikar GJ. Liquid droplet formation by HP1α suggests
+    a role for phase separation in heterochromatin. Nature. 2017;547:236–40.
+  volume: '547'
+  year: '2017'
+- author: L Wang
+  doi: 10.1016/j.molcel.2019.08.019
+  first-page: '646'
+  journal-title: Mol Cell
+  unstructured: Wang L, Gao Y, Zheng X, Liu C, Dong S, Li R, Zhang G, Wei Y, Qu H,
+    Li Y, Allis CD, Li G, Li H, Li P. Histone modifications regulate chromatin compartmentalization
+    by contributing to a phase separation mechanism. Mol Cell. 2019;76:646-659.e646.
+  volume: '76'
+  year: '2019'
+- author: S Ma
+  doi: 10.1186/s13045-019-0805-7
+  first-page: '121'
+  journal-title: J Hematol Oncol
+  unstructured: Ma S, Chen C, Ji X, Liu J, Zhou Q, Wang G, Yuan W, Kan Q, Sun Z. The
+    interplay between m6A RNA methylation and noncoding RNA in cancer. J Hematol Oncol.
+    2019;12:121.
+  volume: '12'
+  year: '2019'
+- author: Y Gao
+  doi: 10.1038/s41422-019-0210-3
+  first-page: '767'
+  journal-title: Cell Res
+  unstructured: Gao Y, Pei G, Li D, Li R, Shao Y, Zhang QC, Li P. Multivalent m(6)A
+    motifs promote phase separation of YTHDF proteins. Cell Res. 2019;29:767–9.
+  volume: '29'
+  year: '2019'
+- author: SR Woo
+  doi: 10.1016/j.immuni.2014.10.017
+  first-page: '830'
+  journal-title: Immunity
+  unstructured: Woo SR, Fuertes MB, Corrales L, Spranger S, Furdyna MJ, Leung MY,
+    Duggan R, Wang Y, Barber GN, Fitzgerald KA, Alegre ML, Gajewski TF. STING-dependent
+    cytosolic DNA sensing mediates innate immune recognition of immunogenic tumors.
+    Immunity. 2014;41:830–42.
+  volume: '41'
+  year: '2014'
+- author: L Deng
+  doi: 10.1016/j.immuni.2014.10.019
+  first-page: '843'
+  journal-title: Immunity
+  unstructured: Deng L, Liang H, Xu M, Yang X, Burnette B, Arina A, Li XD, Mauceri
+    H, Beckett M, Darga T, Huang X, Gajewski TF, Chen ZJ, Fu YX, Weichselbaum RR.
+    STING-dependent cytosolic DNA sensing promotes radiation-induced type I interferon-dependent
+    antitumor immunity in immunogenic tumors. Immunity. 2014;41:843–52.
+  volume: '41'
+  year: '2014'
+- author: A Marcus
+  doi: 10.1016/j.immuni.2018.09.016
+  first-page: '754'
+  journal-title: Immunity
+  unstructured: Marcus A, Mao AJ, Lensink-Vasan M, Wang L, Vance RE, Raulet DH. Tumor-derived
+    cGAMP triggers a STING-mediated interferon response in non-tumor cells to activate
+    the nk cell response. Immunity. 2018;49:754-763.e754.
+  volume: '49'
+  year: '2018'
+- author: SI Grivennikov
+  doi: 10.1016/j.cell.2010.01.025
+  first-page: '883'
+  journal-title: Cell
+  unstructured: Grivennikov SI, Greten FR, Karin M. Immunity, inflammation, and cancer.
+    Cell. 2010;140:883–99.
+  volume: '140'
+  year: '2010'
+- author: O Vladimirova
+  doi: 10.1371/journal.ppat.1009231
+  journal-title: PLoS Pathog
+  unstructured: 'Vladimirova O, De Leo A, Deng Z, Wiedmer A, Hayden J, Lieberman PM.
+    Phase separation and DAXX redistribution contribute to LANA nuclear body and KSHV
+    genome dynamics during latency and reactivation. PLoS Pathog. 2021;17: e1009231.'
+  volume: '17'
+  year: '2021'
+- author: Q Peng
+  doi: 10.1128/JVI.01771-19
+  first-page: '10'
+  issue: '7'
+  journal-title: J Virol
+  unstructured: Peng Q, Wang L, Qin Z, Wang J, Zheng X, Wei L, Zhang X, Zhang X, Liu
+    C, Li Z, Wu Y, Li G, Yan Q, Ma J. Phase separation of epstein-barr virus EBNA2
+    and its coactivator EBNALP controls gene expression. J Virol. 2020;94(7):10–1128.
+  volume: '94'
+  year: '2020'
+- author: Q Peng
+  doi: 10.1002/ctm2.504
+  journal-title: Clin Transl Med
+  unstructured: 'Peng Q, Wang L, Wang J, Liu C, Zheng X, Zhang X, Wei L, Li Z, Wu
+    Y, Wen Y, Cao P, Liao Q, Yan Q, Ma J. Epstein-Barr virus EBNA2 phase separation
+    regulates cancer-associated alternative RNA splicing patterns. Clin Transl Med.
+    2021;11: e504.'
+  volume: '11'
+  year: '2021'
+- author: TA Baudino
+  doi: 10.1101/gad.1024602
+  first-page: '2530'
+  journal-title: Genes Dev
+  unstructured: Baudino TA, McKay C, Pendeville-Samain H, Nilsson JA, Maclean KH,
+    White EL, Davis AC, Ihle JN, Cleveland JL. c-Myc is essential for vasculogenesis
+    and angiogenesis during development and tumor progression. Genes Dev. 2002;16:2530–43.
+  volume: '16'
+  year: '2002'
+- author: Y Jiang
+  doi: 10.1186/s12915-023-01580-8
+  first-page: '75'
+  journal-title: BMC Biol
+  unstructured: Jiang Y, Lei G, Lin T, Zhou N, Wu J, Wang Z, Fan Y, Sheng H, Mao R.
+    1,6-Hexanediol regulates angiogenesis via suppression of cyclin A1-mediated endothelial
+    function. BMC Biol. 2023;21:75.
+  volume: '21'
+  year: '2023'
+- author: Y Shi
+  doi: 10.1038/s41421-023-00544-0
+  first-page: '47'
+  journal-title: Cell Discov
+  unstructured: Shi Y, Liao Y, Liu Q, Ni Z, Zhang Z, Shi M, Li P, Li H, Rao Y. BRD4-targeting
+    PROTAC as a unique tool to study biomolecular condensates. Cell Discov. 2023;9:47.
+  volume: '9'
+  year: '2023'
+- author: D Cai
+  doi: 10.1016/j.tibs.2021.01.002
+  first-page: '535'
+  journal-title: Trends Biochem Sci
+  unstructured: Cai D, Liu Z, Lippincott-Schwartz J. Biomolecular condensates and
+    their links to cancer progression. Trends Biochem Sci. 2021;46:535–49.
+  volume: '46'
+  year: '2021'
+- author: X Ma
+  doi: 10.1038/nature25795
+  first-page: '371'
+  journal-title: Nature
+  unstructured: Ma X, Liu Y, Liu Y, Alexandrov LB, Edmonson MN, Gawad C, Zhou X, Li
+    Y, Rusch MC, Easton J, Huether R, Gonzalez-Pena V, Wilkinson MR, Hermida LC, Davis
+    S, Sioson E, Pounds S, Cao X, Ries RE, Wang Z, Chen X, Dong L, Diskin SJ, Smith
+    MA, Guidry Auvil JM, Meltzer PS, Lau CC, Perlman EJ, Maris JM, Meshinchi S, Hunger
+    SP, Gerhard DS, Zhang J. Pan-cancer genome and transcriptome analyses of 1699
+    paediatric leukaemias and solid tumours. Nature. 2018;555:371–6.
+  volume: '555'
+  year: '2018'
+- author: H Bolouri
+  doi: 10.1038/nm.4439
+  first-page: '103'
+  journal-title: Nat Med
+  unstructured: Bolouri H, Farrar JE, Triche T Jr, Ries RE, Lim EL, Alonzo TA, Ma
+    Y, Moore R, Mungall AJ, Marra MA, Zhang J, Ma X, Liu Y, Liu Y, Auvil JMG, Davidsen
+    TM, Gesuwan P, Hermida LC, Salhia B, Capone S, Ramsingh G, Zwaan CM, Noort S,
+    Piccolo SR, Kolb EA, Gamis AS, Smith MA, Gerhard DS, Meshinchi S. The molecular
+    landscape of pediatric acute myeloid leukemia reveals recurrent structural alterations
+    and age-specific mutational interactions. Nat Med. 2018;24:103–12.
+  volume: '24'
+  year: '2018'
+- author: S Struski
+  doi: 10.1038/leu.2016.267
+  first-page: '565'
+  journal-title: Leukemia
+  unstructured: Struski S, Lagarde S, Bories P, Puiseux C, Prade N, Cuccuini W, Pages
+    MP, Bidet A, Gervais C, Lafage-Pochitaloff M, Roche-Lestienne C, Barin C, Penther
+    D, Nadal N, Radford-Weiss I, Collonge-Rame MA, Gaillard B, Mugneret F, Lefebvre
+    C, Bart-Delabesse E, Petit A, Leverger G, Broccardo C, Luquet I, Pasquet M, Delabesse
+    E. NUP98 is rearranged in 3.8% of pediatric AML forming a clinical and molecular
+    homogenous group with a poor prognosis. Leukemia. 2017;31:565–72.
+  volume: '31'
+  year: '2017'
+- author: NA McNeer
+  doi: 10.1038/s41375-019-0402-3
+  first-page: '1934'
+  journal-title: Leukemia
+  unstructured: McNeer NA, Philip J, Geiger H, Ries RE, Lavallée VP, Walsh M, Shah
+    M, Arora K, Emde AK, Robine N, Alonzo TA, Kolb EA, Gamis AS, Smith M, Gerhard
+    DS, Guidry-Auvil J, Meshinchi S, Kentsis A. Genetic mechanisms of primary chemotherapy
+    resistance in pediatric acute myeloid leukemia. Leukemia. 2019;33:1934–43.
+  volume: '33'
+  year: '2019'
+- author: LH Kasper
+  doi: 10.1128/MCB.19.1.764
+  first-page: '764'
+  journal-title: Mol Cell Biol
+  unstructured: Kasper LH, Brindle PK, Schnabel CA, Pritchard CE, Cleary ML, van Deursen
+    JM. CREB binding protein interacts with nucleoporin-specific FG repeats that activate
+    transcription and mediate NUP98-HOXA9 oncogenicity. Mol Cell Biol. 1999;19:764–76.
+  volume: '19'
+  year: '1999'
+- author: GG Wang
+  doi: 10.1038/ncb1608
+  first-page: '804'
+  journal-title: Nat Cell Biol
+  unstructured: Wang GG, Cai L, Pasillas MP, Kamps MP. NUP98-NSD1 links H3K36 methylation
+    to Hox-A gene activation and leukaemogenesis. Nat Cell Biol. 2007;9:804–12.
+  volume: '9'
+  year: '2007'
+- author: SP Somasekharan
+  doi: 10.1083/jcb.201411047
+  first-page: '913'
+  journal-title: J Cell Biol
+  unstructured: Somasekharan SP, El-Naggar A, Leprivier G, Cheng H, Hajee S, Grunewald
+    TG, Zhang F, Ng T, Delattre O, Evdokimova V, Wang Y, Gleave M, Sorensen PH. YB-1
+    regulates stress granule formation and tumor progression by translationally activating
+    G3BP1. J Cell Biol. 2015;208:913–29.
+  volume: '208'
+  year: '2015'
+- author: Y Oda
+  first-page: '2273'
+  journal-title: Clin Cancer Res
+  unstructured: Oda Y, Sakamoto A, Shinohara N, Ohga T, Uchiumi T, Kohno K, Tsuneyoshi
+    M, Kuwano M, Iwamoto Y. Nuclear expression of YB-1 protein correlates with P-glycoprotein
+    expression in human osteosarcoma. Clin Cancer Res. 1998;4:2273–7.
+  volume: '4'
+  year: '1998'
+- author: Y Oda
+  doi: 10.1111/j.1349-7006.2008.00748.x
+  first-page: '726'
+  journal-title: Cancer Sci
+  unstructured: Oda Y, Kohashi K, Yamamoto H, Tamiya S, Kohno K, Kuwano M, Iwamoto
+    Y, Tajiri T, Taguchi T, Tsuneyoshi M. Different expression profiles of Y-box-binding
+    protein-1 and multidrug resistance-associated proteins between alveolar and embryonal
+    rhabdomyosarcoma. Cancer Sci. 2008;99:726–32.
+  volume: '99'
+  year: '2008'
+- author: Y Fujiwara-Okada
+  doi: 10.1038/bjc.2012.579
+  first-page: '836'
+  journal-title: Br J Cancer
+  unstructured: Fujiwara-Okada Y, Matsumoto Y, Fukushi J, Setsu N, Matsuura S, Kamura
+    S, Fujiwara T, Iida K, Hatano M, Nabeshima A, Yamada H, Ono M, Oda Y, Iwamoto
+    Y. Y-box binding protein-1 regulates cell proliferation and is associated with
+    clinical outcomes of osteosarcoma. Br J Cancer. 2013;108:836–47.
+  volume: '108'
+  year: '2013'
+- author: SP Somasekharan
+  doi: 10.1093/nar/gkab1247
+  first-page: '1069'
+  journal-title: Nucleic Acids Res
+  unstructured: Somasekharan SP, Saxena N, Zhang F, Beraldi E, Huang JN, Gentle C,
+    Fazli L, Thi M, Sorensen PH, Gleave M. Regulation of AR mRNA translation in response
+    to acute AR pathway inhibition. Nucleic Acids Res. 2022;50:1069–91.
+  volume: '50'
+  year: '2022'
+- author: C Carmona-Fontaine
+  doi: 10.1073/pnas.1700600114
+  first-page: '2934'
+  journal-title: Proc Natl Acad Sci U S A
+  unstructured: Carmona-Fontaine C, Deforet M, Akkari L, Thompson CB, Joyce JA, Xavier
+    JB. Metabolic origins of spatial organization in the tumor microenvironment. Proc
+    Natl Acad Sci U S A. 2017;114:2934–9.
+  volume: '114'
+  year: '2017'
+- author: M Tajan
+  doi: 10.1016/j.cmet.2018.07.005
+  first-page: '721'
+  journal-title: Cell Metab
+  unstructured: Tajan M, Hock AK, Blagih J, Robertson NA, Labuschagne CF, Kruiswijk
+    F, Humpton TJ, Adams PD, Vousden KH. A role for p53 in the adaptation to glutamine
+    starvation through the expression of SLC1A3. Cell Metab. 2018;28:721-736.e726.
+  volume: '28'
+  year: '2018'
+- author: M Yuneva
+  doi: 10.1083/jcb.200703099
+  first-page: '93'
+  journal-title: J Cell Biol
+  unstructured: Yuneva M, Zamboni N, Oefner P, Sachidanandam R, Lazebnik Y. Deficiency
+    in glutamine but not glucose induces MYC-dependent apoptosis in human cells. J
+    Cell Biol. 2007;178:93–105.
+  volume: '178'
+  year: '2007'
+- author: H Rubin
+  doi: 10.1073/pnas.1815968116
+  first-page: '6964'
+  journal-title: Proc Natl Acad Sci U S A
+  unstructured: Rubin H. Deprivation of glutamine in cell culture reveals its potential
+    for treating cancer. Proc Natl Acad Sci U S A. 2019;116:6964–8.
+  volume: '116'
+  year: '2019'
+- author: R Wang
+  doi: 10.1126/sciadv.abe5708
+  first-page: eabe5708
+  journal-title: Sci Adv
+  unstructured: Wang R, Cao L, Thorne RF, Zhang XD, Li J, Shao F, Zhang L, Wu M. LncRNA
+    GIRGL drives CAPRIN1-mediated phase separation to suppress glutaminase-1 translation
+    under glutamine deprivation. Sci Adv. 2021;7:eabe5708.
+  volume: '7'
+  year: '2021'
+- author: SJ Dixon
+  doi: 10.1016/j.cell.2012.03.042
+  first-page: '1060'
+  journal-title: Cell
+  unstructured: 'Dixon SJ, Lemberg KM, Lamprecht MR, Skouta R, Zaitsev EM, Gleason
+    CE, Patel DN, Bauer AJ, Cantley AM, Yang WS, Morrison B 3rd, Stockwell BR. Ferroptosis:
+    an iron-dependent form of nonapoptotic cell death. Cell. 2012;149:1060–72.'
+  volume: '149'
+  year: '2012'
+- author: VS Viswanathan
+  doi: 10.1038/nature23007
+  first-page: '453'
+  journal-title: Nature
+  unstructured: Viswanathan VS, Ryan MJ, Dhruv HD, Gill S, Eichhoff OM, Seashore-Ludlow
+    B, Kaffenberger SD, Eaton JK, Shimada K, Aguirre AJ, Viswanathan SR, Chattopadhyay
+    S, Tamayo P, Yang WS, Rees MG, Chen S, Boskovic ZV, Javaid S, Huang C, Wu X, Tseng
+    YY, Roider EM, Gao D, Cleary JM, Wolpin BM, Mesirov JP, Haber DA, Engelman JA,
+    Boehm JS, Kotz JD, Hon CS, Chen Y, Hahn WC, Levesque MP, Doench JG, Berens ME,
+    Shamji AF, Clemons PA, Stockwell BR, Schreiber SL. Dependency of a therapy-resistant
+    state of cancer cells on a lipid peroxidase pathway. Nature. 2017;547:453–7.
+  volume: '547'
+  year: '2017'
+- author: MJ Hangauer
+  doi: 10.1038/nature24297
+  first-page: '247'
+  journal-title: Nature
+  unstructured: Hangauer MJ, Viswanathan VS, Ryan MJ, Bole D, Eaton JK, Matov A, Galeas
+    J, Dhruv HD, Berens ME, Schreiber SL, McCormick F, McManus MT. Drug-tolerant persister
+    cancer cells are vulnerable to GPX4 inhibition. Nature. 2017;551:247–50.
+  volume: '551'
+  year: '2017'
+- author: T Nakamura
+  doi: 10.1038/s41586-023-06255-6
+  first-page: '371'
+  journal-title: Nature
+  unstructured: Nakamura T, Hipp C, Mourão ASD, Borggräfe J, Aldrovandi M, Henkelmann
+    B, Wanninger J, Mishima E, Lytton E, Emler D, Proneth B, Sattler M, Conrad M.
+    Phase separation of FSP1 promotes ferroptosis. Nature. 2023;619:371–7.
+  volume: '619'
+  year: '2023'
+- author: T Berg
+  doi: 10.1073/pnas.062036999
+  first-page: '3830'
+  journal-title: Proc Natl Acad Sci U S A
+  unstructured: Berg T, Cohen SB, Desharnais J, Sonderegger C, Maslyar DJ, Goldberg
+    J, Boger DL, Vogt PK. Small-molecule antagonists of Myc/Max dimerization inhibit
+    Myc-induced transformation of chicken embryo fibroblasts. Proc Natl Acad Sci U
+    S A. 2002;99:3830–5.
+  volume: '99'
+  year: '2002'
+- author: HV Erkizan
+  doi: 10.1038/nm.1983
+  first-page: '750'
+  journal-title: Nat Med
+  unstructured: Erkizan HV, Kong Y, Merchant M, Schlottmann S, Barber-Rotenberg JS,
+    Yuan L, Abaan OD, Chou TH, Dakshanamurthy S, Brown ML, Uren A, Toretsky JA. A
+    small molecule blocking oncogenic protein EWS-FLI1 interaction with RNA helicase
+    A inhibits growth of Ewing’s sarcoma. Nat Med. 2009;15:750–6.
+  volume: '15'
+  year: '2009'
+- author: N Gupta
+  doi: 10.1073/pnas.1525387114
+  first-page: '1033'
+  journal-title: Proc Natl Acad Sci U S A
+  unstructured: Gupta N, Badeaux M, Liu Y, Naxerova K, Sgroi D, Munn LL, Jain RK,
+    Garkavtsev I. Stress granule-associated protein G3BP2 regulates breast tumor initiation.
+    Proc Natl Acad Sci U S A. 2017;114:1033–8.
+  volume: '114'
+  year: '2017'
+- author: C Lemos
+  first-page: '101517'
+  journal-title: Science
+  unstructured: Lemos C, Schulze L, Weiske J, Meyer H, Braeuer N, Barak N, Eberspächer
+    U, Werbeck N, Stresemann C, Lange M, Lesche R, Zablowsky N, Juenemann K, Kamburov
+    A, Luh LM, Leissing TM, Mortier J, Steckel M, Steuber H, Eis K, Eheim A, Steigemann
+    P. Identification of small molecules that modulate mutant p53 condensation. Science.
+    2020;23:101517.
+  volume: '23'
+  year: '2020'
+- author: H Mukherjee
+  doi: 10.1021/cb500872g
+  first-page: '855'
+  journal-title: ACS Chem Biol
+  unstructured: Mukherjee H, Chan KP, Andresen V, Hanley ML, Gjertsen BT, Myers AG.
+    Interactions of the natural product (+)-avrainvillamide with nucleophosmin and
+    exportin-1 Mediate the cellular localization of nucleophosmin and its AML-associated
+    mutants. ACS Chem Biol. 2015;10:855–63.
+  volume: '10'
+  year: '2015'
+- author: YN Chen
+  doi: 10.1038/nature18621
+  first-page: '148'
+  journal-title: Nature
+  unstructured: Chen YN, LaMarche MJ, Chan HM, Fekkes P, Garcia-Fortanet J, Acker
+    MG, Antonakos B, Chen CH, Chen Z, Cooke VG, Dobson JR, Deng Z, Fei F, Firestone
+    B, Fodor M, Fridrich C, Gao H, Grunenfelder D, Hao HX, Jacob J, Ho S, Hsiao K,
+    Kang ZB, Karki R, Kato M, Larrow J, La Bonte LR, Lenoir F, Liu G, Liu S, Majumdar
+    D, Meyer MJ, Palermo M, Perez L, Pu M, Price E, Quinn C, Shakya S, Shultz MD,
+    Slisz J, Venkatesan K, Wang P, Warmuth M, Williams S, Yang G, Yuan J, Zhang JH,
+    Zhu P, Ramsey T, Keen NJ, Sellers WR, Stams T, Fortin PD. Allosteric inhibition
+    of SHP2 phosphatase inhibits cancers driven by receptor tyrosine kinases. Nature.
+    2016;535:148–52.
+  volume: '535'
+  year: '2016'
+- author: IA Klein
+  doi: 10.1126/science.aaz4427
+  first-page: '1386'
+  journal-title: Science
+  unstructured: Klein IA, Boija A, Afeyan LK, Hawken SW, Fan M, Dall’Agnese A, Oksuz
+    O, Henninger JE, Shrinivas K, Sabari BR, Sagi I, Clark VE, Platt JM, Kar M, McCall
+    PM, Zamudio AV, Manteiga JC, Coffey EL, Li CH, Hannett NM, Guo YE, Decker TM,
+    Lee TI, Zhang T, Weng JK, Taatjes DJ, Chakraborty A, Sharp PA, Chang YT, Hyman
+    AA, Gray NS, Young RA. Partitioning of cancer therapeutics in nuclear condensates.
+    Science. 2020;368:1386–92.
+  volume: '368'
+  year: '2020'
+- author: F Zhang
+  doi: 10.1093/nar/gkac1158
+  first-page: '99'
+  journal-title: Nucleic Acids Res
+  unstructured: Zhang F, Biswas M, Massah S, Lee J, Lingadahalli S, Wong S, Wells
+    C, Foo J, Khan N, Morin H, Saxena N, Kung SHY, Sun B, Parra Nuñez AK, Sanchez
+    C, Chan N, Ung L, Altıntaş UB, Bui JM, Wang Y, Fazli L, Oo HZ, Rennie PS, Lack
+    NA, Cherkasov A, Gleave ME, Gsponer J, Lallous N. Dynamic phase separation of
+    the androgen receptor and its coactivators key to regulate gene expression. Nucleic
+    Acids Res. 2023;51:99–116.
+  volume: '51'
+  year: '2023'
+- author: M Oka
+  doi: 10.7554/eLife.09540
+  journal-title: Elife
+  unstructured: 'Oka M, Mura S, Yamada K, Sangel P, Hirata S, Maehara K, Kawakami
+    K, Tachibana T, Ohkawa Y, Kimura H, Yoneda Y. Chromatin-prebound Crm1 recruits
+    Nup98-HoxA9 fusion to induce aberrant expression of Hox cluster genes. Elife.
+    2016;5: e09540.'
+  volume: '5'
+  year: '2016'
+- author: KI Takayama
+  doi: 10.1038/s41467-021-23974-4
+  first-page: '3766'
+  journal-title: Nat Commun
+  unstructured: Takayama KI, Kosaka T, Suzuki T, Hongo H, Oya M, Fujimura T, Suzuki
+    Y, Inoue S. Subtype-specific collaborative transcription factor networks are promoted
+    by OCT4 in the progression of prostate cancer. Nat Commun. 2021;12:3766.
+  volume: '12'
+  year: '2021'
+- author: Z Zhang
+  doi: 10.7554/eLife.07777
+  first-page: e07777
+  journal-title: Elife
+  unstructured: Zhang Z, Boskovic Z, Hussain MM, Hu W, Inouye C, Kim HJ, Abole AK,
+    Doud MK, Lewis TA, Koehler AN, Schreiber SL, Tjian R. Chemical perturbation of
+    an intrinsically disordered region of TFIID distinguishes two modes of transcription
+    initiation. Elife. 2015;4:e07777.
+  volume: '4'
+  year: '2015'
+- author: LP Rangel
+  doi: 10.1074/jbc.RA118.004671
+  first-page: '3670'
+  journal-title: J Biol Chem
+  unstructured: Rangel LP, Ferretti GDS, Costa CL, Andrade S, Carvalho RS, Costa DCF,
+    Silva JL. p53 reactivation with induction of massive apoptosis-1 (PRIMA-1) inhibits
+    amyloid aggregation of mutant p53 in cancer cells. J Biol Chem. 2019;294:3670–82.
+  volume: '294'
+  year: '2019'
+- author: C Wang
+  doi: 10.1016/j.isci.2021.103719
+  first-page: '103719'
+  journal-title: iScience
+  unstructured: Wang C, Lu H, Liu X, Gao X, Tian W, Chen H, Xue Y, Zhou Q. A natural
+    product targets BRD4 to inhibit phase separation and gene transcription. iScience.
+    2022;25:103719.
+  volume: '25'
+  year: '2022'
+- author: WM Babinchak
+  doi: 10.1038/s41467-020-19211-z
+  first-page: '5574'
+  journal-title: Nat Commun
+  unstructured: Babinchak WM, Dumm BK, Venus S, Boyko S, Putnam AA, Jankowsky E, Surewicz
+    WK. Small molecules as potent biphasic modulators of protein liquid-liquid phase
+    separation. Nat Commun. 2020;11:5574.
+  volume: '11'
+  year: '2020'
+- author: J Liu
+  doi: 10.1038/s41467-021-21386-y
+  first-page: '1022'
+  journal-title: Nat Commun
+  unstructured: Liu J, Xie Y, Guo J, Li X, Wang J, Jiang H, Peng Z, Wang J, Wang S,
+    Li Q, Ye L, Zhong Y, Zhang Q, Liu X, Lonard DM, Wang J, O’Malley BW, Liu Z. Targeting
+    NSD2-mediated SRC-3 liquid-liquid phase separation sensitizes bortezomib treatment
+    in multiple myeloma. Nat Commun. 2021;12:1022.
+  volume: '12'
+  year: '2021'
+- author: AS Singatulina
+  doi: 10.1016/j.celrep.2019.04.031
+  first-page: '1809'
+  journal-title: Cell Rep
+  unstructured: Singatulina AS, Hamon L, Sukhanova MV, Desforges B, Joshi V, Bouhss
+    A, Lavrik OI, Pastré D. PARP-1 activation directs FUS to DNA damage sites to form
+    PARG-reversible compartments enriched in damaged DNA. Cell Rep. 2019;27:1809-1821.e1805.
+  volume: '27'
+  year: '2019'
+- author: B Lu
+  doi: 10.1002/advs.202101895
+  journal-title: Adv Sci (Weinh)
+  unstructured: 'Lu B, Zou C, Yang M, He Y, He J, Zhang C, Chen S, Yu J, Liu KY, Cao
+    Q, Zhao W. Pharmacological inhibition of core regulatory circuitry liquid-liquid
+    phase separation suppresses metastasis and chemoresistance in osteosarcoma. Adv
+    Sci (Weinh). 2021;8: e2101895.'
+  volume: '8'
+  year: '2021'
+- author: F Wippich
+  doi: 10.1016/j.cell.2013.01.033
+  first-page: '791'
+  journal-title: Cell
+  unstructured: Wippich F, Bodenmiller B, Trajkovska MG, Wanka S, Aebersold R, Pelkmans
+    L. Dual specificity kinase DYRK3 couples stress granule condensation/dissolution
+    to mTORC1 signaling. Cell. 2013;152:791–805.
+  volume: '152'
+  year: '2013'
+- author: AS Bhagwat
+  doi: 10.1016/j.celrep.2016.03.054
+  first-page: '519'
+  journal-title: Cell Rep
+  unstructured: Bhagwat AS, Roe JS, Mok BYL, Hohmann AF, Shi J, Vakoc CR. BET bromodomain
+    inhibition releases the mediator complex from select cis-regulatory elements.
+    Cell Rep. 2016;15:519–30.
+  volume: '15'
+  year: '2016'
+- author: O Gilan
+  doi: 10.1038/nsmb.3249
+  first-page: '673'
+  journal-title: Nat Struct Mol Biol
+  unstructured: Gilan O, Lam EY, Becher I, Lugo D, Cannizzaro E, Joberty G, Ward A,
+    Wiese M, Fong CY, Ftouni S, Tyler D, Stanley K, MacPherson L, Weng CF, Chan YC,
+    Ghisi M, Smil D, Carpenter C, Brown P, Garton N, Blewitt ME, Bannister AJ, Kouzarides
+    T, Huntly BJ, Johnstone RW, Drewes G, Dawson SJ, Arrowsmith CH, Grandi P, Prinjha
+    RK, Dawson MA. Functional interdependence of BRD4 and DOT1L in MLL leukemia. Nat
+    Struct Mol Biol. 2016;23:673–81.
+  volume: '23'
+  year: '2016'
+- author: KA Nilson
+  doi: 10.1016/j.molcel.2015.06.032
+  first-page: '576'
+  journal-title: Mol Cell
+  unstructured: Nilson KA, Guo J, Turek ME, Brogie JE, Delaney E, Luse DS, Price DH.
+    THZ1 Reveals roles for Cdk7 in Co-transcriptional capping and pausing. Mol Cell.
+    2015;59:576–87.
+  volume: '59'
+  year: '2015'
+- author: T Zhang
+  doi: 10.1038/nchembio.2166
+  first-page: '876'
+  journal-title: Nat Chem Biol
+  unstructured: Zhang T, Kwiatkowski N, Olson CM, Dixon-Clarke SE, Abraham BJ, Greifenberg
+    AK, Ficarro SB, Elkins JM, Liang Y, Hannett NM, Manz T, Hao M, Bartkowiak B, Greenleaf
+    AL, Marto JA, Geyer M, Bullock AN, Young RA, Gray NS. Covalent targeting of remote
+    cysteine residues to develop CDK12 and CDK13 inhibitors. Nat Chem Biol. 2016;12:876–84.
+  volume: '12'
+  year: '2016'
+- author: RJ Wheeler
+  first-page: '307'
+  journal-title: Life Sci
+  unstructured: Wheeler RJ. Therapeutics-how to treat phase separation-associated
+    diseases, Emerg Top. Life Sci. 2020;4:307–18.
+  volume: '4'
+  year: '2020'
+- author: YY Luo
+  doi: 10.1039/D1CC05266G
+  first-page: '13275'
+  journal-title: Chem Commun (Camb)
+  unstructured: Luo YY, Wu JJ, Li YM. Regulation of liquid-liquid phase separation
+    with focus on post-translational modifications. Chem Commun (Camb). 2021;57:13275–87.
+  volume: '57'
+  year: '2021'
+- author: PA Chong
+  doi: 10.1016/j.jmb.2018.06.014
+  first-page: '4650'
+  journal-title: J Mol Biol
+  unstructured: Chong PA, Vernon RM, Forman-Kay JD. RGG/RG Motif regions in RNA binding
+    and phase separation. J Mol Biol. 2018;430:4650–65.
+  volume: '430'
+  year: '2018'
+- author: TP Dao
+  doi: 10.1016/j.molcel.2018.02.004
+  first-page: '965'
+  journal-title: Mol Cell
+  unstructured: Dao TP, Kolaitis RM, Kim HJ, O’Donovan K, Martyniak B, Colicino E,
+    Hehnly H, Taylor JP, Castañeda CA. Ubiquitin modulates liquid-liquid phase separation
+    of UBQLN2 via disruption of multivalent interactions. Mol Cell. 2018;69:965-978.e966.
+  volume: '69'
+  year: '2018'
+- author: H de Thé
+  doi: 10.1016/j.ccell.2017.10.002
+  first-page: '552'
+  journal-title: Cancer Cell
+  unstructured: 'de Thé H, Pandolfi PP, Chen Z. Acute promyelocytic leukemia: a paradigm
+    for oncoprotein-targeted cure. Cancer Cell. 2017;32:552–60.'
+  volume: '32'
+  year: '2017'
+- author: Y Sun
+  doi: 10.1038/s41557-021-00854-4
+  first-page: '274'
+  journal-title: Nat Chem
+  unstructured: Sun Y, Lau SY, Lim ZW, Chang SC, Ghadessy F, Partridge A, Miserez
+    A. Phase-separating peptides for direct cytosolic delivery and redox-activated
+    release of macromolecular therapeutics. Nat Chem. 2022;14:274–83.
+  volume: '14'
+  year: '2022'
+- author: RC Guo
+  doi: 10.1002/anie.202111839
+  first-page: '25128'
+  journal-title: Angew Chem Int Ed Engl
+  unstructured: Guo RC, Zhang XH, Fan PS, Song BL, Li ZX, Duan ZY, Qiao ZY, Wang H.
+    In vivo self-assembly induced cell membrane phase separation for improved peptide
+    drug internalization. Angew Chem Int Ed Engl. 2021;60:25128–34.
+  volume: '60'
+  year: '2021'
+doc_url: https://link.springer.com/content/pdf/10.1186/s13045-023-01522-5.pdf
+doi: 10.1186/s13045-023-01522-5
+files:
+- phase-separatio-zheng-2023.pdf
+issue: '1'
+journal: Journal of Hematology &amp; Oncology
+language: en
+month: 12
+papis_id: c584388742862dc296c6ccd04a90498b
+publisher: Springer Science and Business Media LLC
+ref: Phase_separatio_Zheng_2023
+time-added: 2024-11-18-16:41:09
+title: 'Phase separations in oncogenesis, tumor progressions and metastasis: a glance
+  from hallmarks of cancer'
+type: article
+url: http://dx.doi.org/10.1186/s13045-023-01522-5
+volume: '16'
+year: 2023

@@ -1,0 +1,195 @@
+abstract: <jats:title>Abstract</jats:title><jats:p>Here we demonstrate that the large
+  language model GPT-4 can accurately annotate cell types using marker gene information
+  in single-cell RNA sequencing analysis. When evaluated across hundreds of tissue
+  and cell types, GPT-4 generates cell type annotations exhibiting strong concordance
+  with manual annotations. This capability can considerably reduce the effort and
+  expertise required for cell type annotation. Additionally, we have developed an
+  R software package GPTCelltype for GPT-4’s automated cell type annotation.</jats:p>
+author: Hou, Wenpin and Ji, Zhicheng
+author_list:
+- affiliation: []
+  family: Hou
+  given: Wenpin
+- affiliation: []
+  family: Ji
+  given: Zhicheng
+citations:
+- doi: 10.1101/2023.03.11.532238
+  unstructured: Hou, W. et al. GeneTuring tests GPT models in genomics. Preprint at
+    bioRxiv https://doi.org/10.1101/2023.03.11.532238 (2023).
+- doi: 10.1101/2023.12.31.573796
+  unstructured: Hou, W. et al. GPT-4V exhibits human-like performance in biomedical
+    image classification. Preprint at bioRxiv https://doi.org/10.1101/2023.12.31.573796
+    (2024).
+- author: Y Hao
+  doi: 10.1016/j.cell.2021.04.048
+  first-page: '3573'
+  journal-title: Cell
+  unstructured: Hao, Y. et al. Integrated analysis of multimodal single-cell data.
+    Cell 184, 3573–3587 (2021).
+  volume: '184'
+  year: '2021'
+- author: HuBMAP Consortium.
+  doi: 10.1038/s41586-019-1629-x
+  first-page: '187'
+  journal-title: Nature
+  unstructured: 'HuBMAP Consortium. The human body at cellular resolution: the NIH
+    Human Biomolecular Atlas Program. Nature 574, 187–192 (2019).'
+  volume: '574'
+  year: '2019'
+- author: G Eraslan
+  doi: 10.1126/science.abl4290
+  first-page: eabl4290
+  journal-title: Science
+  unstructured: Eraslan, G. et al. Single-nucleus cross-tissue molecular reference
+    maps toward understanding disease gene function. Science 376, eabl4290 (2022).
+  volume: '376'
+  year: '2022'
+- author: X Han
+  doi: 10.1038/s41586-020-2157-4
+  first-page: '303'
+  journal-title: Nature
+  unstructured: Han, X. et al. Construction of a human cell landscape at single-cell
+    level. Nature 581, 303–309 (2020).
+  volume: '581'
+  year: '2020'
+- author: X Han
+  doi: 10.1016/j.cell.2018.02.001
+  first-page: '1091'
+  journal-title: Cell
+  unstructured: Han, X. et al. Mapping the mouse cell atlas by microwell-seq. Cell
+    172, 1091–1107 (2018).
+  volume: '172'
+  year: '2018'
+- author: The Tabula Sapiens Consortium.
+  doi: 10.1126/science.abl4896
+  first-page: eabl4896
+  journal-title: Science
+  unstructured: 'The Tabula Sapiens Consortium. The Tabula Sapiens: a multiple-organ,
+    single-cell transcriptomic atlas of humans. Science 376, eabl4896 (2022).'
+  volume: '376'
+  year: '2022'
+- author: N Liu
+  doi: 10.1038/s41421-023-00559-7
+  first-page: '55'
+  journal-title: Cell Discov.
+  unstructured: Liu, N. et al. Single-cell landscape of primary central nervous system
+    diffuse large B-cell lymphoma. Cell Discov. 9, 55 (2023).
+  volume: '9'
+  year: '2023'
+- author: H-O Lee
+  doi: 10.1038/s41588-020-0636-z
+  first-page: '594'
+  journal-title: Nat. Genet.
+  unstructured: Lee, H.-O. et al. Lineage-dependent gene expression programs influence
+    the immune landscape of colorectal cancer. Nat. Genet. 52, 594–603 (2020).
+  volume: '52'
+  year: '2020'
+- author: N Kim
+  doi: 10.1038/s41467-020-16164-1
+  journal-title: Nat. Commun.
+  unstructured: Kim, N. et al. Single-cell RNA sequencing demonstrates the molecular
+    and cellular reprogramming of metastatic lung adenocarcinoma. Nat. Commun. 11,
+    2285 (2020).
+  volume: '11'
+  year: '2020'
+- author: D Chen
+  doi: 10.1038/s41467-021-27162-2
+  journal-title: Nat. Commun.
+  unstructured: Chen, D. et al. Single cell atlas for 11 non-model mammals, reptiles
+    and birds. Nat. Commun. 12, 7083 (2021).
+  volume: '12'
+  year: '2021'
+- author: C Hu
+  doi: 10.1093/nar/gkac947
+  first-page: D870
+  journal-title: Nucleic Acids Res.
+  unstructured: 'Hu, C. et al. CellMarker 2.0: an updated database of manually curated
+    cell markers in human/mouse and web tools based on scRNA-seq data. Nucleic Acids
+    Res. 51, D870–D876 (2023).'
+  volume: '51'
+  year: '2023'
+- author: D Aran
+  doi: 10.1038/s41590-018-0276-y
+  first-page: '163'
+  journal-title: Nat. Immunol.
+  unstructured: Aran, D. et al. Reference-based analysis of lung single-cell sequencing
+    reveals a transitional profibrotic macrophage. Nat. Immunol. 20, 163–172 (2019).
+  volume: '20'
+  year: '2019'
+- author: A Ianevski
+  doi: 10.1038/s41467-022-28803-w
+  journal-title: Nat. Commun.
+  unstructured: Ianevski, A. et al. Fully-automated and ultra-fast cell-type identification
+    using specific marker combinations from single-cell transcriptomic data. Nat.
+    Commun. 13, 1246 (2022).
+  volume: '13'
+  year: '2022'
+- author: J Wei
+  first-page: '24824'
+  journal-title: Adv. Neural Inf. Process. Syst.
+  unstructured: Wei, J. et al. Chain-of-thought prompting elicits reasoning in large
+    language models. Adv. Neural Inf. Process. Syst. 35, 24824–24837 (2022).
+  volume: '35'
+  year: '2022'
+- author: FA Wolf
+  doi: 10.1186/s13059-017-1382-0
+  journal-title: Genome Biol.
+  unstructured: 'Wolf, F. A. et al. SCANPY: large-scale single-cell gene expression
+    data analysis. Genome Biol. 19, 15 (2018).'
+  volume: '19'
+  year: '2018'
+- author: JT Leek
+  doi: 10.1093/bioinformatics/bts034
+  first-page: '882'
+  journal-title: Bioinformatics
+  unstructured: Leek, J. T. et al. The sva package for removing batch effects and
+    other unwanted variation in high-throughput experiments. Bioinformatics 28, 882–883
+    (2012).
+  volume: '28'
+  year: '2012'
+- author: NA Mabbott
+  doi: 10.1186/1471-2164-14-632
+  journal-title: BMC Genomics
+  unstructured: 'Mabbott, N. A. et al. An expression atlas of human primary cells:
+    inference of gene function from coexpression networks. BMC Genomics 14, 632 (2013).'
+  volume: '14'
+  year: '2013'
+- author: RG Côté
+  doi: 10.1186/1471-2105-7-97
+  journal-title: BMC Bioinforma.
+  unstructured: Côté, R. G. et al. A new Ontology Lookup Service at EMBL-EBI. BMC
+    Bioinforma. 7, 97 (2006).
+  volume: '7'
+  year: '2006'
+- author: RC Gentleman
+  doi: 10.1186/gb-2004-5-10-r80
+  journal-title: Genome Biol.
+  unstructured: 'Gentleman, R. C. et al. Bioconductor: open software development for
+    computational biology and bioinformatics. Genome Biol. 5, R80 (2004).'
+  volume: '5'
+  year: '2004'
+- doi: 10.5281/zenodo.8317406
+  unstructured: Hou, W. et al. GPTCelltype R software package. Zenodo https://doi.org/10.5281/zenodo.8317406
+    (2023).
+- doi: 10.5281/zenodo.8317410
+  unstructured: Hou, W. et al. Repository of code to reproduce the analysis in this
+    study. Zenodo https://doi.org/10.5281/zenodo.8317410 (2023).
+doc_url: https://www.nature.com/articles/s41592-024-02235-4.pdf
+doi: 10.1038/s41592-024-02235-4
+files:
+- assessing-gpt-4-hou-w-2024.pdf
+issue: '8'
+journal: Nature Methods
+language: en
+month: 8
+pages: 1462--1465
+papis_id: 7d29a56268df72e309d5282bb1170c82
+publisher: Springer Science and Business Media LLC
+ref: Assessing_GPT_4_Hou_W_2024
+time-added: 2024-11-12-14:32:30
+title: Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis
+type: article
+url: http://dx.doi.org/10.1038/s41592-024-02235-4
+volume: '21'
+year: 2024

@@ -1,0 +1,20 @@
+author: Wettenhall, James M and Smyth, Gordon K
+author_list:
+- family: Wettenhall
+  given: James M
+- family: Smyth
+  given: Gordon K
+doi: 10.1093/bioinformatics/bth449
+files: []
+issn: 1367-4803
+issue: '18'
+journal: Bioinformatics (Oxford, England)
+pages: 3705--3706
+papis_id: 39648181b49db1ec341b3e6351332a12
+pmid: '15297296'
+ref: limmaGUI_a_gra_Wetten_2004
+time-added: 2024-11-20-12:07:56
+title: 'limmaGUI: a graphical user interface for linear modeling of microarray data'
+type: article
+volume: '20'
+year: 2004

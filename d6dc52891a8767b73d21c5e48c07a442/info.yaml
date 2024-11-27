@@ -1,0 +1,32 @@
+author: Wang, Haoyu and Shi, Wenjie and Lu, Jing and Liu, Yuan and Zhou, Wei and Yu,
+  Zekun and Qin, Shengying and Fan, Junwei
+author_list:
+- family: Wang
+  given: Haoyu
+- family: Shi
+  given: Wenjie
+- family: Lu
+  given: Jing
+- family: Liu
+  given: Yuan
+- family: Zhou
+  given: Wei
+- family: Yu
+  given: Zekun
+- family: Qin
+  given: Shengying
+- family: Fan
+  given: Junwei
+doi: 10.3390/biom13010141
+files: []
+issn: 2218-273X
+issue: '1'
+journal: Biomolecules
+papis_id: d6dc52891a8767b73d21c5e48c07a442
+pmid: '36671526'
+ref: HCC_RNA_Sequen_Wang_2023
+time-added: 2024-11-26-17:32:55
+title: 'HCC: RNA-Sequencing in Cirrhosis'
+type: article
+volume: '13'
+year: 2023

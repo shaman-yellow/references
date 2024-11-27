@@ -1,0 +1,69 @@
+author: Malta, Tathiane M and Sokolov, Artem and Gentles, Andrew J and Burzykowski,
+  Tomasz and Poisson, Laila and Weinstein, John N and Kamińska, Bożena and Huelsken,
+  Joerg and Omberg, Larsson and Gevaert, Olivier and Colaprico, Antonio and Czerwińska,
+  Patrycja and Mazurek, Sylwia and Mishra, Lopa and Heyn, Holger and Krasnitz, Alex
+  and Godwin, Andrew K and Lazar, Alexander J and Cancer Genome Atlas Research Network,  and
+  Stuart, Joshua M and Hoadley, Katherine A and Laird, Peter W and Noushmehr, Houtan
+  and Wiznerowicz, Maciej
+author_list:
+- family: Malta
+  given: Tathiane M
+- family: Sokolov
+  given: Artem
+- family: Gentles
+  given: Andrew J
+- family: Burzykowski
+  given: Tomasz
+- family: Poisson
+  given: Laila
+- family: Weinstein
+  given: John N
+- family: Kamińska
+  given: Bożena
+- family: Huelsken
+  given: Joerg
+- family: Omberg
+  given: Larsson
+- family: Gevaert
+  given: Olivier
+- family: Colaprico
+  given: Antonio
+- family: Czerwińska
+  given: Patrycja
+- family: Mazurek
+  given: Sylwia
+- family: Mishra
+  given: Lopa
+- family: Heyn
+  given: Holger
+- family: Krasnitz
+  given: Alex
+- family: Godwin
+  given: Andrew K
+- family: Lazar
+  given: Alexander J
+- family: Cancer Genome Atlas Research Network
+- family: Stuart
+  given: Joshua M
+- family: Hoadley
+  given: Katherine A
+- family: Laird
+  given: Peter W
+- family: Noushmehr
+  given: Houtan
+- family: Wiznerowicz
+  given: Maciej
+doi: 10.1016/j.cell.2018.03.034
+files: []
+issn: 0092-8674
+issue: '2'
+journal: Cell
+pages: 338--354.e15
+papis_id: 5de69da005c9d81e41d0b28f569f3b9e
+pmid: '29625051'
+ref: Machine_Learnin_Malta_2018
+time-added: 2024-11-18-16:49:10
+title: Machine Learning Identifies Stemness Features Associated with Oncogenic Dedifferentiation
+type: article
+volume: '173'
+year: 2018

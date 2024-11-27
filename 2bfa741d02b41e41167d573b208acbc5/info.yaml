@@ -1,0 +1,756 @@
+abstract: <jats:p>Glioblastoma multiforme (GBM) is the most common and malignant type
+  of primary brain tumor in adults. Despite important advances in understanding the
+  molecular pathogenesis and biology of this tumor in the past decade, the prognosis
+  for GBM patients remains poor. GBM is characterized by aggressive biological behavior
+  and high degrees of inter-tumor and intra-tumor heterogeneity. Increased understanding
+  of the molecular and cellular heterogeneity of GBM may not only help more accurately
+  define specific subgroups for precise diagnosis but also lay the groundwork for
+  the successful implementation of targeted therapy. Herein, we systematically review
+  the key achievements in the understanding of GBM molecular pathogenesis, mechanisms,
+  and biomarkers in the past decade. We discuss the advances in the molecular pathology
+  of GBM, including genetics, epigenetics, transcriptomics, and signaling pathways.
+  We also review the molecular biomarkers that have potential clinical roles. Finally,
+  new strategies, current challenges, and future directions for discovering new biomarkers
+  and therapeutic targets for GBM will be discussed.</jats:p>
+author: Lan, Zhong and Li, Xin and Zhang, Xiaoqin
+author_list:
+- affiliation:
+  - name: Department of Pathology, School of Medicine, South China University of Technology,
+      Guangzhou 510006, China
+  family: Lan
+  given: Zhong
+- affiliation:
+  - name: Department of Pathology, School of Medicine, South China University of Technology,
+      Guangzhou 510006, China
+  family: Li
+  given: Xin
+- affiliation:
+  - name: Department of Pathology, School of Medicine, South China University of Technology,
+      Guangzhou 510006, China
+  family: Zhang
+  given: Xiaoqin
+citations:
+- article-title: Brain and other central nervous system tumor statistics, 2021
+  author: Miller
+  doi: 10.3322/caac.21693
+  first-page: '381'
+  journal-title: CA Cancer J. Clin.
+  volume: '71'
+  year: '2021'
+- article-title: National Brain Tumour Registry of China (NBTRC) statistical report
+    of primary brain tumours diagnosed in China in years 2019–2020
+  author: Xiao
+  doi: 10.1016/j.lanwpc.2023.100715
+  first-page: '100715'
+  journal-title: Lancet Reg. Health. West. Pac.
+  volume: '34'
+  year: '2023'
+- article-title: 'CBTRUS Statistical Report: Primary Brain and Other Central Nervous
+    System Tumors Diagnosed in the United States in 2016–2020'
+  author: Ostrom
+  doi: 10.1093/neuonc/noad149
+  first-page: iv1
+  journal-title: Neuro-Oncology
+  volume: '25'
+  year: '2023'
+- article-title: 'The 2021 WHO Classification of Tumors of the Central Nervous System:
+    A summary'
+  author: Louis
+  doi: 10.1093/neuonc/noab106
+  first-page: '1231'
+  journal-title: Neuro-Oncology
+  volume: '23'
+  year: '2021'
+- article-title: 'Glioblastoma in adults: A Society for Neuro-Oncology (SNO) and European
+    Society of Neuro-Oncology (EANO) consensus review on current management and future
+    directions'
+  author: Wen
+  doi: 10.1093/neuonc/noaa106
+  first-page: '1073'
+  journal-title: Neuro-Oncology
+  volume: '22'
+  year: '2020'
+- article-title: A Review of Newly Diagnosed Glioblastoma
+  author: Oronsky
+  doi: 10.3389/fonc.2020.574012
+  first-page: '574012'
+  journal-title: Front. Oncol.
+  volume: '10'
+  year: '2021'
+- article-title: 'Management of glioblastoma: State of the art and future directions'
+  author: Tan
+  doi: 10.3322/caac.21613
+  first-page: '299'
+  journal-title: CA Cancer J. Clin.
+  volume: '70'
+  year: '2020'
+- article-title: Challenges to curing primary brain tumours
+  author: Aldape
+  doi: 10.1038/s41571-019-0177-5
+  first-page: '509'
+  journal-title: Nat. Rev. Clin. Oncol.
+  volume: '16'
+  year: '2019'
+- article-title: 'Glioblastoma and Other Primary Brain Malignancies in Adults: A Review'
+  author: Schaff
+  doi: 10.1001/jama.2023.0023
+  first-page: '574'
+  journal-title: JAMA-J. Am. Med. Assoc.
+  volume: '329'
+  year: '2023'
+- article-title: Genetic and molecular epidemiology of adult diffuse glioma
+  author: Molinaro
+  doi: 10.1038/s41582-019-0220-2
+  first-page: '405'
+  journal-title: Nat. Rev. Neurol.
+  volume: '15'
+  year: '2019'
+- doi: 10.3390/ijms23052607
+  unstructured: 'Esemen, Y., Awan, M., Parwez, R., Baig, A., Rahman, S., Masala, I.,
+    Franchini, S., and Giakoumettis, D. (2022). Molecular Pathogenesis of Glioblastoma
+    in Adults and Future Perspectives: A Systematic Review. Int. J. Mol. Sci., 23.'
+- article-title: 'Glioblastoma: Pathology, molecular mechanisms and markers'
+  author: Aldape
+  doi: 10.1007/s00401-015-1432-1
+  first-page: '829'
+  journal-title: Acta Neuropathol.
+  volume: '129'
+  year: '2015'
+- article-title: An update on the molecular biology of glioblastoma, with clinical
+    implications and progress in its treatment
+  author: Verdugo
+  doi: 10.1002/cac2.12361
+  first-page: '1083'
+  journal-title: Cancer Commun.
+  volume: '42'
+  year: '2022'
+- doi: 10.12688/f1000research.11493.1
+  unstructured: 'Liebermana, F. (2017). Glioblastoma update: Molecular biology, diagnosis,
+    treatment, response assessment, and translational clinical trials. F1000Research,
+    6.'
+- article-title: Overview of glioblastoma biological hallmarks and molecular pathology
+  author: Ludwig
+  first-page: '1'
+  journal-title: 'Glioblastoma Resistance to Chemotherapy: Molecular Mechanisms and
+    Innovative Reversal Strategies'
+  volume: Volume 15
+  year: '2021'
+- doi: 10.3390/cancers11040469
+  unstructured: D’Alessio, A., Proietti, G., Sica, G., and Scicchitano, B.M. (2019).
+    Pathological and Molecular Features of Glioblastoma and Its Peritumoral Tissue.
+    Cancers, 11.
+- article-title: Advances in the Knowledge of the Molecular Biology of Glioblastoma
+    and Its Impact in Patient Diagnosis, Stratification, and Treatment
+  author: Medina
+  doi: 10.1002/advs.201902971
+  first-page: '1902971'
+  journal-title: Adv. Sci.
+  volume: '7'
+  year: '2020'
+- article-title: Advances in the molecular genetics of gliomas—Implications for classification
+    and therapy
+  author: Reifenberger
+  doi: 10.1038/nrclinonc.2016.204
+  first-page: '434'
+  journal-title: Nat. Rev. Clin. Oncol.
+  volume: '14'
+  year: '2017'
+- article-title: Molecular targeted therapy of glioblastoma
+  author: Preusser
+  doi: 10.1016/j.ctrv.2019.101896
+  first-page: '101896'
+  journal-title: Cancer Treat. Rev.
+  volume: '80'
+  year: '2019'
+- doi: 10.3389/fmolb.2020.562798
+  unstructured: Zhang, P., Xia, Q., Liu, L.Q., Li, S.W., and Dong, L. (2020). Current
+    Opinion on Molecular Characterization for GBM Classification in Guiding Clinical
+    Diagnosis, Prognosis, and Therapy. Front. Mol. Biosci., 7.
+- unstructured: del Pilar Guillermo Prieto, M., and de La Fuente, M.I. (2021). Precision
+    Molecular Pathology of Glioblastoma, Springer.
+- article-title: 'Glioma targeted therapy: Insight into future of molecular approaches'
+  author: Yang
+  doi: 10.1186/s12943-022-01513-z
+  first-page: '39'
+  journal-title: Mol. Cancer
+  volume: '21'
+  year: '2022'
+- article-title: 'The 2016 World Health Organization Classification of Tumors of the
+    Central Nervous System: A summary'
+  author: Louis
+  doi: 10.1007/s00401-016-1545-1
+  first-page: '803'
+  journal-title: Acta Neuropathol.
+  volume: '131'
+  year: '2016'
+- article-title: Glioblastoma heterogeneity at single cell resolution
+  author: Eisenbarth
+  doi: 10.1038/s41388-023-02738-y
+  first-page: '2155'
+  journal-title: Oncogene
+  volume: '42'
+  year: '2023'
+- article-title: Single-cell multimodal glioma analyses identify epigenetic regulators
+    of cellular plasticity and environmental stress response
+  author: Johnson
+  doi: 10.1038/s41588-021-00926-8
+  first-page: '1456'
+  journal-title: Nat. Genet.
+  volume: '53'
+  year: '2021'
+- article-title: Single-cell landscapes of primary glioblastomas and matched explants
+    and cell lines show variable retention of inter- and intratumor heterogeneity
+  author: LeBlanc
+  doi: 10.1016/j.ccell.2022.02.016
+  first-page: '379'
+  journal-title: Cancer Cell
+  volume: '40'
+  year: '2022'
+- article-title: A single-cell atlas of glioblastoma evolution under therapy reveals
+    cell-intrinsic and cell-extrinsic therapeutic targets
+  author: Wang
+  doi: 10.1038/s43018-022-00475-x
+  first-page: '1534'
+  journal-title: Nat. Cancer
+  volume: '3'
+  year: '2022'
+- article-title: Integrative multi-omics approach to targeted therapy for glioblastoma
+  author: Koh
+  doi: 10.1016/j.phrs.2022.106308
+  first-page: '106308'
+  journal-title: Pharmacol. Res.
+  volume: '182'
+  year: '2022'
+- article-title: 'Integrative Multi-Omics Approaches in Cancer Research: From Biological
+    Networks to Clinical Subtypes'
+  author: Heo
+  doi: 10.14348/molcells.2021.0042
+  first-page: '433'
+  journal-title: Mol. Cells
+  volume: '44'
+  year: '2021'
+- article-title: Spatially resolved multi-omics deciphers bidirectional tumor-host
+    interdependence in glioblastoma
+  author: Ravi
+  doi: 10.1016/j.ccell.2022.05.009
+  first-page: '639'
+  journal-title: Cancer Cell
+  volume: '40'
+  year: '2022'
+- article-title: Three-dimensional culture models to study glioblastoma—Current trends
+    and future perspectives
+  author: Joseph
+  doi: 10.1016/j.coph.2021.08.019
+  first-page: '91'
+  journal-title: Curr. Opin. Pharmacol.
+  volume: '61'
+  year: '2021'
+- article-title: Trends and challenges in modeling glioma using 3D human brain organoids
+  author: Mariappan
+  doi: 10.1038/s41418-020-00679-7
+  first-page: '15'
+  journal-title: Cell Death Differ.
+  volume: '28'
+  year: '2021'
+- article-title: 'Organoid models of glioblastoma: Advances, applications and challenges'
+  author: Zhang
+  first-page: '2242'
+  journal-title: Am. J. Cancer Res.
+  volume: '10'
+  year: '2020'
+- article-title: 'Challenges in glioblastoma research: Focus on the tumor microenvironment'
+  author: Bikfalvi
+  doi: 10.1016/j.trecan.2022.09.005
+  first-page: '9'
+  journal-title: Trends Cancer
+  volume: '9'
+  year: '2023'
+- doi: 10.3390/cells10092257
+  unstructured: Dapash, M., Hou, D., Castro, B., Lee-Chang, C., and Lesniak, M.S.
+    (2021). The Interplay between Glioblastoma and Its Microenvironment. Cells, 10.
+- article-title: 'Tumor microenvironment in glioblastoma: Current and emerging concepts'
+  author: Sharma
+  doi: 10.1093/noajnl/vdad009
+  first-page: vdad009
+  journal-title: Neuro-Oncol. Adv.
+  volume: '5'
+  year: '2023'
+- article-title: 'BRAF V600E, TERT promoter mutations and CDKN2A/B homozygous deletions
+    are frequent in epithelioid glioblastomas: A histological and molecular analysis
+    focusing on intratumoral heterogeneity'
+  author: Nakajima
+  doi: 10.1111/bpa.12572
+  first-page: '663'
+  journal-title: Brain Pathol.
+  volume: '28'
+  year: '2018'
+- article-title: Epigenomic Reprogramming as a Driver of Malignant Glioma
+  author: Phillips
+  doi: 10.1016/j.ccell.2020.08.008
+  first-page: '647'
+  journal-title: Cancer Cell
+  volume: '38'
+  year: '2020'
+- article-title: 'Epigenetic alterations in glioblastomas: Diagnostic, prognostic
+    and therapeutic relevance'
+  author: Montella
+  doi: 10.1002/ijc.34381
+  first-page: '476'
+  journal-title: Int. J. Cancer
+  volume: '153'
+  year: '2023'
+- article-title: 'Epigenetics of glioblastoma multiforme: From molecular mechanisms
+    to therapeutic approaches'
+  author: Uddin
+  doi: 10.1016/j.semcancer.2020.12.015
+  first-page: '100'
+  journal-title: Semin. Cancer Biol.
+  volume: '83'
+  year: '2022'
+- article-title: MGMT gene silencing and benefit from temozolomide in glioblastoma
+  author: Hegi
+  doi: 10.1056/NEJMoa043331
+  first-page: '997'
+  journal-title: N. Engl. J. Med.
+  volume: '352'
+  year: '2005'
+- article-title: 'MGMT promoter methylation status testing to guide therapy for glioblastoma:
+    Refining the approach based on emerging evidence and current challenges'
+  author: Mansouri
+  doi: 10.1093/neuonc/noy132
+  first-page: '167'
+  journal-title: Neuro-Oncology
+  volume: '21'
+  year: '2019'
+- doi: 10.3390/ijms23137148
+  unstructured: Della Monica, R., Cuomo, M., Buonaiuto, M., Costabile, D., Franca,
+    R.A., De Caro, M.D., Catapano, G., Chiariotti, L., and Visconti, R. (2022). MGMT
+    and Whole-Genome DNA Methylation Impacts on Diagnosis, Prognosis and Therapy of
+    Glioblastoma Multiforme. Int. J. Mol. Sci., 23.
+- article-title: Identification of a CpG island methylator phenotype that defines
+    a distinct subgroup of glioma
+  author: Noushmehr
+  doi: 10.1016/j.ccr.2010.03.017
+  first-page: '510'
+  journal-title: Cancer Cell
+  volume: '17'
+  year: '2010'
+- article-title: DNA methylation-based classification of central nervous system tumours
+  author: Capper
+  doi: 10.1038/nature26000
+  first-page: '469'
+  journal-title: Nature
+  volume: '555'
+  year: '2018'
+- article-title: The DNA methylation landscape of glioblastoma disease progression
+    shows extensive heterogeneity in time and space
+  author: Klughammer
+  doi: 10.1038/s41591-018-0156-x
+  first-page: '1611'
+  journal-title: Nat. Med.
+  volume: '24'
+  year: '2018'
+- article-title: Impact of epigenetic reprogramming on antitumor immune responses
+    in glioma
+  author: McClellan
+  doi: 10.1172/JCI163450
+  first-page: e163450
+  journal-title: J. Clin. Investig.
+  volume: '133'
+  year: '2023'
+- article-title: Epigenetic Targeting of Glioblastoma
+  author: Romani
+  doi: 10.3389/fonc.2018.00448
+  first-page: '448'
+  journal-title: Front. Oncol.
+  volume: '8'
+  year: '2018'
+- article-title: Phase II Study of Bevacizumab and Vorinostat for Patients with Recurrent
+    World Health Organization Grade 4 Malignant Glioma
+  author: Ghiaseddin
+  doi: 10.1634/theoncologist.2017-0501
+  first-page: 157-e21
+  journal-title: Oncologist
+  volume: '23'
+  year: '2018'
+- article-title: PRMT5 as a druggable target for glioblastoma therapy
+  author: Welker
+  doi: 10.1093/neuonc/nox206
+  first-page: '753'
+  journal-title: Neuro-Oncology
+  volume: '20'
+  year: '2018'
+- article-title: Molecular subclasses of high-grade glioma predict prognosis, delineate
+    a pattern of disease progression, and resemble stages in neurogenesis
+  author: Phillips
+  doi: 10.1016/j.ccr.2006.02.019
+  first-page: '157'
+  journal-title: Cancer Cell
+  volume: '9'
+  year: '2006'
+- article-title: Integrated Genomic Analysis Identifies Clinically Relevant Subtypes
+    of Glioblastoma Characterized by Abnormalities
+  author: Verhaak
+  doi: 10.1016/j.ccr.2009.12.020
+  first-page: '98'
+  journal-title: Cancer Cell
+  volume: '17'
+  year: '2010'
+- doi: 10.3390/cancers13040761
+  unstructured: 'Becker, A.P., Sells, B.E., Haque, S.J., and Chakravarti, A. (2021).
+    Tumor Heterogeneity in Glioblastomas: From Light Microscopy to Molecular Pathology.
+    Cancers, 13.'
+- article-title: Understanding the glioblastoma immune microenvironment as basis for
+    the development of new immunotherapeutic strategies
+  author: Antunes
+  doi: 10.7554/eLife.52176
+  first-page: e52176
+  journal-title: eLife
+  volume: '9'
+  year: '2020'
+- article-title: 'Glioblastoma Microenvironment: From an Inviolable Defense to a Therapeutic
+    Chance'
+  author: Franceschi
+  doi: 10.3389/fonc.2022.852950
+  first-page: '852950'
+  journal-title: Front. Oncol.
+  volume: '12'
+  year: '2022'
+- article-title: Unravelling glioblastoma heterogeneity by means of single-cell RNA
+    sequencing
+  author: Madurga
+  doi: 10.1016/j.canlet.2021.12.008
+  first-page: '66'
+  journal-title: Cancer Lett.
+  volume: '527'
+  year: '2022'
+- article-title: Single-cell RNA-seq highlights intratumoral heterogeneity in primary
+    glioblastoma
+  author: Patel
+  doi: 10.1126/science.1254257
+  first-page: '1396'
+  journal-title: Science
+  volume: '344'
+  year: '2014'
+- article-title: Single cell-derived clonal analysis of human glioblastoma links functional
+    and genomic heterogeneity
+  author: Meyer
+  doi: 10.1073/pnas.1320611111
+  first-page: '851'
+  journal-title: Proc. Natl. Acad. Sci. USA
+  volume: '112'
+  year: '2015'
+- article-title: Single-Cell RNA-Seq Analysis of Infiltrating Neoplastic Cells at
+    the Migrating Front of Human Glioblastoma
+  author: Darmanis
+  doi: 10.1016/j.celrep.2017.10.030
+  first-page: '1399'
+  journal-title: Cell Rep.
+  volume: '21'
+  year: '2017'
+- article-title: Decoupling genetics, lineages, and microenvironment in IDH-mutant
+    gliomas by single-cell RNA-seq
+  author: Venteicher
+  doi: 10.1126/science.aai8478
+  first-page: eaai8478
+  journal-title: Science
+  volume: '355'
+  year: '2017'
+- article-title: New insights for precision treatment of glioblastoma from analysis
+    of single-cell lncRNA expression
+  author: Meng
+  doi: 10.1007/s00432-021-03584-9
+  first-page: '1881'
+  journal-title: J. Cancer Res. Clin. Oncol.
+  volume: '147'
+  year: '2021'
+- article-title: Single-cell RNA sequencing reveals tumor heterogeneity, microenvironment,
+    and drug-resistance mechanisms of recurrent glioblastoma
+  author: Wu
+  doi: 10.1111/cas.15773
+  first-page: '2609'
+  journal-title: Cancer Sci.
+  volume: '114'
+  year: '2023'
+- article-title: An Integrative Model of Cellular States, Plasticity, and Genetics
+    for Glioblastoma
+  author: Neftel
+  doi: 10.1016/j.cell.2019.06.024
+  first-page: '835'
+  journal-title: Cell
+  volume: '178'
+  year: '2019'
+- article-title: H3-/IDH-wild type pediatric glioblastoma is comprised of molecularly
+    and prognostically distinct subtypes with associated oncogenic drivers
+  author: Korshunov
+  doi: 10.1007/s00401-017-1710-1
+  first-page: '507'
+  journal-title: Acta Neuropathol.
+  volume: '134'
+  year: '2017'
+- article-title: Signaling pathways and therapeutic approaches in glioblastoma multiforme
+    (Review)
+  author: Khabibov
+  doi: 10.3892/ijo.2022.5359
+  first-page: '69'
+  journal-title: Int. J. Oncol.
+  volume: '60'
+  year: '2022'
+- article-title: 'Receptor tyrosine kinase targeting in glioblastoma: Performance,
+    limitations and future approaches'
+  author: Alexandru
+  doi: 10.5114/wo.2020.94726
+  first-page: '55'
+  journal-title: Wspolczesna Onkol.
+  volume: '24'
+  year: '2020'
+- article-title: PI3K/Akt/mTOR signaling pathway and targeted therapy for glioblastoma
+  author: Li
+  doi: 10.18632/oncotarget.7961
+  first-page: '33440'
+  journal-title: Oncotarget
+  volume: '7'
+  year: '2016'
+- article-title: 'From signalling pathways to targeted therapies: Unravelling glioblastoma’s
+    secrets and harnessing two decades of progress'
+  author: Dewdney
+  doi: 10.1038/s41392-023-01637-8
+  first-page: '400'
+  journal-title: Signal Transduct. Target. Ther.
+  volume: '8'
+  year: '2023'
+- doi: 10.3390/ijms22020587
+  unstructured: Oprita, A., Baloi, S.C., Staicu, G.A., Alexandru, O., Tache, D.E.,
+    Danoiu, S., Micu, E.S., and Sevastre, A.S. (2021). Updated Insights on EGFR Signaling
+    Pathways in Glioma. Int. J. Mol. Sci., 22.
+- article-title: 'Receptor tyrosine kinases as druggable targets in glioblastoma:
+    Do signaling pathways matter?'
+  author: Qin
+  doi: 10.1093/noajnl/vdab133
+  first-page: vdab133
+  journal-title: Neuro-Oncol. Adv.
+  volume: '3'
+  year: '2021'
+- article-title: Small molecule tyrosine kinase inhibitors in glioblastoma
+  author: Kim
+  doi: 10.1007/s12272-020-01232-3
+  first-page: '385'
+  journal-title: Arch. Pharm. Res.
+  volume: '43'
+  year: '2020'
+- doi: 10.3390/ijms22041831
+  unstructured: Tilak, M., Holborn, J., New, L.A., Lalonde, J., and Jones, N. (2021).
+    Receptor Tyrosine Kinase Signaling and Targeting in Glioblastoma Multiforme. Int.
+    J. Mol. Sci., 22.
+- doi: 10.3390/cancers10090297
+  unstructured: Zhang, Y., Dube, C., Gibert, M., Cruickshanks, N., Wang, B.M., Coughlan,
+    M., Yang, Y.Z., Setiady, I., Deveau, C., and Saoud, K. (2018). The p53 Pathway
+    in Glioblastoma. Cancers, 10.
+- article-title: Alterations in the RB Pathway With Inactivation of Characterize Glioblastomas
+    With a Primitive Neuronal Component
+  author: Chkheidze
+  doi: 10.1093/jnen/nlab109
+  first-page: '1092'
+  journal-title: J. Neuropathol. Exp. Neurol.
+  volume: '80'
+  year: '2021'
+- article-title: Glioblastomas with primitive neuronal component harbor a distinct
+    methylation and copy-number profile with inactivation of TP53, PTEN, and RB1
+  author: Suwala
+  doi: 10.1007/s00401-021-02302-6
+  first-page: '179'
+  journal-title: Acta Neuropathol.
+  volume: '142'
+  year: '2021'
+- article-title: A Phase 0 Trial of Ribociclib in Recurrent Glioblastoma Patients
+    Incorporating a Tumor Pharmacodynamic- and Pharmacokinetic-Guided Expansion Cohort
+  author: Tien
+  doi: 10.1158/1078-0432.CCR-19-0133
+  first-page: '5777'
+  journal-title: Clin. Cancer Res.
+  volume: '25'
+  year: '2019'
+- article-title: Anti-epidermal growth factor receptor therapy for glioblastoma in
+    adults
+  author: Lee
+  first-page: CD013238
+  journal-title: Cochrane Syst. Rev.
+  volume: '5'
+  year: '2020'
+- doi: 10.3390/ijms241311110
+  unstructured: Rodriguez, S.M.B., Kamel, A., Ciubotaru, G.V., Onose, G., Sevastre,
+    A.S., Sfredel, V., Danoiu, S., Dricu, A., and Tataranu, L.G. (2023). An Overview
+    of EGFR Mechanisms and Their Implications in Targeted Therapies for Glioblastoma.
+    Int. J. Mol. Sci., 24.
+- article-title: Prognostic significance of IDH 1 mutation in patients with glioblastoma
+    multiforme
+  author: Khan
+  first-page: '816'
+  journal-title: J. Pak. Med. Assoc.
+  volume: '67'
+  year: '2017'
+- article-title: 'IDH mutation in glioma: Molecular mechanisms and potential therapeutic
+    targets'
+  author: Han
+  doi: 10.1038/s41416-020-0814-x
+  first-page: '1580'
+  journal-title: Br. J. Cancer
+  volume: '122'
+  year: '2020'
+- article-title: MGMT Status as a Clinical Biomarker in Glioblastoma
+  author: Butler
+  doi: 10.1016/j.trecan.2020.02.010
+  first-page: '380'
+  journal-title: Trends Cancer
+  volume: '6'
+  year: '2020'
+- article-title: IDH1 and IDH2 mutations in gliomas
+  author: Yan
+  doi: 10.1056/NEJMoa0808710
+  first-page: '765'
+  journal-title: N. Engl. J. Med.
+  volume: '360'
+  year: '2009'
+- doi: 10.3390/pharmaceutics15010059
+  unstructured: 'Brar, H.K., Jose, J., Wu, Z.M., and Sharma, M. (2023). Tyrosine Kinase
+    Inhibitors for Glioblastoma Multiforme: Challenges and Opportunities for Drug
+    Delivery. Pharmaceutics, 15.'
+- doi: 10.3390/cancers13225799
+  unstructured: 'Aldaz, P., and Arozarena, I. (2021). Tyrosine Kinase Inhib. Adult
+    Glioblastoma: (Un)Closed Chapter?. Cancers, 13.'
+- article-title: 'Rindopepimut with temozolomide for patients with newly diagnosed,
+    EGFRvIII-expressing glioblastoma (ACT IV): A randomised, double-blind, international
+    phase 3 trial'
+  author: Weller
+  doi: 10.1016/S1470-2045(17)30517-X
+  first-page: '1373'
+  journal-title: Lancet Oncol.
+  volume: '18'
+  year: '2017'
+- article-title: Phase-2 trial of palbociclib in adult patients with recurrent RB1-positive
+    glioblastoma
+  author: Taylor
+  doi: 10.1007/s11060-018-2977-3
+  first-page: '477'
+  journal-title: J. Neuro-Oncol.
+  volume: '140'
+  year: '2018'
+- doi: 10.1200/JCO.2021.39.15_suppl.2014
+  unstructured: 'Lee, E.Q., Trippa, L., Fell, G., Rahman, R., Arrillaga-Romany, I.,
+    Touat, M., Drappatz, J., Welch, M.R., Galanis, E., and Ahluwalia, M.S. (2021).
+    Preliminary results of the abemaciclib arm in the Individualized Screening Trial
+    of Innovative Glioblastoma Therapy (INSIGhT): A phase II platform trial using
+    Bayesian adaptive randomization. J. Clin. Oncol., 39.'
+- article-title: 'Phase II Trial of Palbociclib in Recurrent Retinoblastoma-Positive
+    Anaplastic Oligodendroglioma: A Study from the Spanish Group for Research in Neuro-Oncology
+    (GEINO)'
+  author: Salgado
+  doi: 10.1007/s11523-020-00754-6
+  first-page: '613'
+  journal-title: Target. Oncol.
+  volume: '15'
+  year: '2020'
+- article-title: 'Bevacizumab and temozolomide in patients with first recurrence of
+    WHO grade II and III glioma, without 1p/19q co-deletion (TAVAREC): A randomised
+    controlled phase 2 EORTC trial'
+  author: Klein
+  doi: 10.1016/S1470-2045(18)30362-0
+  first-page: '1170'
+  journal-title: Lancet Oncol.
+  volume: '19'
+  year: '2018'
+- article-title: Lomustine and Bevacizumab in Progressive Glioblastoma
+  author: Wick
+  doi: 10.1056/NEJMoa1707358
+  first-page: '1954'
+  journal-title: N. Engl. J. Med.
+  volume: '377'
+  year: '2017'
+- article-title: Effect of Nivolumab vs Bevacizumab in Patients With Recurrent Glioblastoma
+    The CheckMate 143 Phase 3 Randomized Clinical Trial
+  author: Reardon
+  doi: 10.1001/jamaoncol.2020.1024
+  first-page: '1003'
+  journal-title: JAMA Oncol.
+  volume: '6'
+  year: '2020'
+- article-title: 'A Randomized Phase 3 Study of Nivolumab or Placebo Combined with
+    Radiotherapy Plus Temozolomide in Patients with Newly Diagnosed Glioblastoma with
+    Methylated Mgmt Promoter: Checkmate 548'
+  author: Weller
+  doi: 10.1093/neuonc/noab196.217
+  first-page: '55'
+  journal-title: Neuro-Oncology
+  volume: '23'
+  year: '2021'
+- doi: 10.1200/JCO.2016.34.15_suppl.TPS2079
+  unstructured: 'Sampson, J.H., Omuro, A.M.P., Preusser, M., Lim, M., Butowski, N.A.,
+    Cloughesy, T.F., Strauss, L.C., Latek, R.R., Paliwal, P., and Weller, M. (2016).
+    A randomized, phase 3, open-label study of nivolumab versus temozolomide (TMZ)
+    in combination with radiotherapy (RT) in adult patients (pts) with newly diagnosed,
+    O-6-methylguanine DNA methyltransferase (MGMT)-unmethylated glioblastoma (GBM):
+    CheckMate-498. J. Clin. Oncol., 34.'
+- article-title: Randomized Phase II and Biomarker Study of Pembrolizumab plus Bevacizumab
+    versus Pembrolizumab Alone for Patients with Recurrent Glioblastoma
+  author: Nayak
+  doi: 10.1158/1078-0432.CCR-20-2500
+  first-page: '1048'
+  journal-title: Clin. Cancer Res.
+  volume: '27'
+  year: '2021'
+- article-title: INTELLANCE 2/EORTC 1410 randomized phase II study of Depatux-M alone
+    and with temozolomide vs temozolomide or lomustine in recurrent EGFR amplified
+    glioblastoma
+  author: Eoli
+  doi: 10.1093/neuonc/noz222
+  first-page: '684'
+  journal-title: Neuro-Oncology
+  volume: '22'
+  year: '2020'
+- article-title: 'CAR T-cell therapy for glioblastoma: Recent clinical advances and
+    future challenges'
+  author: Bagley
+  doi: 10.1093/neuonc/noy032
+  first-page: '1429'
+  journal-title: Neuro-Oncology
+  volume: '20'
+  year: '2018'
+- article-title: Current state of immunotherapy for glioblastoma
+  author: Lim
+  doi: 10.1038/s41571-018-0003-5
+  first-page: '422'
+  journal-title: Nat. Rev. Clin. Oncol.
+  volume: '15'
+  year: '2018'
+- article-title: 'Immunotherapy for glioma: Current management and future application'
+  author: Xu
+  doi: 10.1016/j.canlet.2020.02.002
+  first-page: '1'
+  journal-title: Cancer Lett.
+  volume: '476'
+  year: '2020'
+- article-title: Advances in immunotherapy for glioblastoma multiforme
+  author: Mahmoud
+  doi: 10.3389/fimmu.2022.944452
+  first-page: '944452'
+  journal-title: Front. Immunol.
+  volume: '13'
+  year: '2022'
+doc_url: https://www.mdpi.com/1422-0067/25/5/3040/pdf
+doi: 10.3390/ijms25053040
+files:
+- glioblastoma-a-lan-z-2024.pdf
+issue: '5'
+journal: International Journal of Molecular Sciences
+language: en
+month: 3
+pages: '3040'
+papis_id: 2bfa741d02b41e41167d573b208acbc5
+publisher: MDPI AG
+ref: Glioblastoma_A_Lan_Z_2024
+time-added: 2024-11-18-16:36:36
+title: 'Glioblastoma: An Update in Pathology, Molecular Mechanisms and Biomarkers'
+type: article
+url: http://dx.doi.org/10.3390/ijms25053040
+volume: '25'
+year: 2024

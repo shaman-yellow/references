@@ -1,0 +1,156 @@
+abstract: "<jats:title>Abstract</jats:title>\n               <jats:sec>\n                  <jats:title>Summary</jats:title>\n
+  \                 <jats:p>The interaction between tumor and immune system plays
+  a crucial role in both cancer development and treatment response. To facilitate
+  comprehensive investigation of tumor–immune interactions, we have designed a user-friendly
+  web portal TISIDB, which integrated multiple types of data resources in oncoimmunology.
+  First, we manually curated 4176 records from 2530 publications, which reported 988
+  genes related to anti-tumor immunity. Second, genes associated with the resistance
+  or sensitivity of tumor cells to T cell-mediated killing and immunotherapy were
+  identified by analyzing high-throughput screening and genomic profiling data. Third,
+  associations between any gene and immune features, such as lymphocytes, immunomodulators
+  and chemokines, were pre-calculated for 30 TCGA cancer types. In TISIDB, biologists
+  can cross-check a gene of interest about its role in tumor–immune interactions through
+  literature mining and high-throughput data analysis, and generate testable hypotheses
+  and high quality figures for publication.</jats:p>\n               </jats:sec>\n
+  \              <jats:sec>\n                  <jats:title>Availability and implementation</jats:title>\n
+  \                 <jats:p>http://cis.hku.hk/TISIDB</jats:p>\n               </jats:sec>\n
+  \              <jats:sec>\n                  <jats:title>Supplementary information</jats:title>\n
+  \                 <jats:p>Supplementary data are available at Bioinformatics online.</jats:p>\n
+  \              </jats:sec>"
+author: Ru, Beibei and Wong, Ching Ngar and Tong, Yin and Zhong, Jia Yi and Zhong,
+  Sophia Shek Wa and Wu, Wai Chung and Chu, Ka Chi and Wong, Choi Yiu and Lau, Chit
+  Ying and Chen, Ian and Chan, Nam Wai and Zhang, Jiangwen
+author_list:
+- affiliation:
+  - name: School of Biological Sciences, The University of Hong Kong , Hong Kong,
+      China
+  family: Ru
+  given: Beibei
+- affiliation:
+  - name: School of Biological Sciences, The University of Hong Kong , Hong Kong,
+      China
+  family: Wong
+  given: Ching Ngar
+- affiliation:
+  - name: School of Biological Sciences, The University of Hong Kong , Hong Kong,
+      China
+  family: Tong
+  given: Yin
+- affiliation:
+  - name: School of Biological Sciences, The University of Hong Kong , Hong Kong,
+      China
+  family: Zhong
+  given: Jia Yi
+- affiliation:
+  - name: School of Biological Sciences, The University of Hong Kong , Hong Kong,
+      China
+  family: Zhong
+  given: Sophia Shek Wa
+- affiliation:
+  - name: School of Biological Sciences, The University of Hong Kong , Hong Kong,
+      China
+  family: Wu
+  given: Wai Chung
+- affiliation:
+  - name: School of Biological Sciences, The University of Hong Kong , Hong Kong,
+      China
+  family: Chu
+  given: Ka Chi
+- affiliation:
+  - name: School of Biological Sciences, The University of Hong Kong , Hong Kong,
+      China
+  family: Wong
+  given: Choi Yiu
+- affiliation:
+  - name: School of Biological Sciences, The University of Hong Kong , Hong Kong,
+      China
+  family: Lau
+  given: Chit Ying
+- affiliation:
+  - name: School of Biological Sciences, The University of Hong Kong , Hong Kong,
+      China
+  family: Chen
+  given: Ian
+- affiliation:
+  - name: School of Biological Sciences, The University of Hong Kong , Hong Kong,
+      China
+  family: Chan
+  given: Nam Wai
+- affiliation:
+  - name: School of Biological Sciences, The University of Hong Kong , Hong Kong,
+      China
+  family: Zhang
+  given: Jiangwen
+citations:
+- article-title: MYC regulates the antitumor immune response through CD47 and PD-L1
+  author: Casey
+  doi: 10.1126/science.aac9935
+  first-page: '227'
+  journal-title: Science
+  volume: '352'
+  year: '2016'
+- article-title: Genomic correlates of response to immune checkpoint therapies in
+    clear cell renal cell carcinoma
+  author: Miao
+  doi: 10.1126/science.aan5951
+  first-page: '801'
+  journal-title: Science
+  volume: '359'
+  year: '2018'
+- article-title: New insights into cancer immunoediting and its three component phases–elimination,
+    equilibrium and escape
+  author: Mittal
+  doi: 10.1016/j.coi.2014.01.004
+  first-page: '16'
+  journal-title: Curr. Opin. Immunol
+  volume: '27'
+  year: '2014'
+- article-title: A major chromatin regulator determines resistance of tumor cells
+    to T cell-mediated killing
+  author: Pan
+  doi: 10.1126/science.aao1710
+  first-page: '770'
+  journal-title: Science
+  volume: '359'
+  year: '2018'
+- article-title: Cancer immunotherapy using checkpoint blockade
+  author: Ribas
+  doi: 10.1126/science.aar4060
+  first-page: '1350'
+  journal-title: Science
+  volume: '359'
+  year: '2018'
+- article-title: 'Contribution of systemic and somatic factors to clinical response
+    and resistance to PD-L1 blockade in urothelial cancer: an exploratory multi-omic
+    analysis'
+  author: Snyder
+  doi: 10.1371/journal.pmed.1002309
+  first-page: e1002309.
+  journal-title: PLoS Med
+  volume: '14'
+  year: '2017'
+- article-title: Cancer-cell-intrinsic mechanisms shaping the tumor immune landscape
+  author: Wellenstein
+  doi: 10.1016/j.immuni.2018.03.004
+  first-page: '399'
+  journal-title: Immunity
+  volume: '48'
+  year: '2018'
+doc_url: https://academic.oup.com/bioinformatics/article-pdf/35/20/4200/48977307/bioinformatics_35_20_4200.pdf
+doi: 10.1093/bioinformatics/btz210
+files:
+- tisidb-an-inte-ru-be-2019.pdf
+issue: '20'
+journal: Bioinformatics
+language: en
+month: 10
+pages: 4200--4202
+papis_id: 0fa1835a605afd7a8d7fcbdc434a13a4
+publisher: Oxford University Press (OUP)
+ref: TISIDB_an_inte_Ru_Be_2019
+time-added: 2024-11-25-16:22:09
+title: 'TISIDB: an integrated repository portal for tumor–immune system interactions'
+type: article
+url: http://dx.doi.org/10.1093/bioinformatics/btz210
+volume: '35'
+year: 2019

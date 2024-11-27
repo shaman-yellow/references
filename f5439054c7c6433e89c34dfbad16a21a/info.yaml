@@ -1,0 +1,23 @@
+author: Sanges, Remo and Cordero, Francesca and Calogero, Raffaele A
+author_list:
+- family: Sanges
+  given: Remo
+- family: Cordero
+  given: Francesca
+- family: Calogero
+  given: Raffaele A
+doi: 10.1093/bioinformatics/btm469
+files: []
+issn: 1367-4803
+issue: '24'
+journal: Bioinformatics (Oxford, England)
+pages: 3406--3408
+papis_id: f5439054c7c6433e89c34dfbad16a21a
+pmid: '17875544'
+ref: oneChannelGUI_Sanges_2007
+time-added: 2024-11-20-12:14:33
+title: 'oneChannelGUI: a graphical interface to Bioconductor tools, designed for life
+  scientists who are not familiar with R language'
+type: article
+volume: '23'
+year: 2007

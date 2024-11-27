@@ -1,0 +1,74 @@
+author: Huber, Wolfgang and Carey, Vincent J and Gentleman, Robert and Anders, Simon
+  and Carlson, Marc and Carvalho, Benilton S and Bravo, Hector Corrada and Davis,
+  Sean and Gatto, Laurent and Girke, Thomas and Gottardo, Raphael and Hahne, Florian
+  and Hansen, Kasper D and Irizarry, Rafael A and Lawrence, Michael and Love, Michael
+  I and MacDonald, James and Obenchain, Valerie and Oleś, Andrzej K and Pagès, Hervé
+  and Reyes, Alejandro and Shannon, Paul and Smyth, Gordon K and Tenenbaum, Dan and
+  Waldron, Levi and Morgan, Martin
+author_list:
+- family: Huber
+  given: Wolfgang
+- family: Carey
+  given: Vincent J
+- family: Gentleman
+  given: Robert
+- family: Anders
+  given: Simon
+- family: Carlson
+  given: Marc
+- family: Carvalho
+  given: Benilton S
+- family: Bravo
+  given: Hector Corrada
+- family: Davis
+  given: Sean
+- family: Gatto
+  given: Laurent
+- family: Girke
+  given: Thomas
+- family: Gottardo
+  given: Raphael
+- family: Hahne
+  given: Florian
+- family: Hansen
+  given: Kasper D
+- family: Irizarry
+  given: Rafael A
+- family: Lawrence
+  given: Michael
+- family: Love
+  given: Michael I
+- family: MacDonald
+  given: James
+- family: Obenchain
+  given: Valerie
+- family: Oleś
+  given: Andrzej K
+- family: Pagès
+  given: Hervé
+- family: Reyes
+  given: Alejandro
+- family: Shannon
+  given: Paul
+- family: Smyth
+  given: Gordon K
+- family: Tenenbaum
+  given: Dan
+- family: Waldron
+  given: Levi
+- family: Morgan
+  given: Martin
+doi: 10.1038/nmeth.3252
+files: []
+issn: 1548-7091
+issue: '2'
+journal: Nature methods
+pages: 115--121
+papis_id: cfc0573f87812f4a3db185435e9de46f
+pmid: '25633503'
+ref: Orchestrating_h_Huber_2015
+time-added: 2024-11-20-12:16:20
+title: Orchestrating high-throughput genomic analysis with Bioconductor
+type: article
+volume: '12'
+year: 2015

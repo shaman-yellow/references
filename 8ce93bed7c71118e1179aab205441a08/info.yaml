@@ -1,0 +1,45 @@
+author: Lian, Hao and Han, Yi-Peng and Zhang, Yu-Chao and Zhao, Yang and Yan, Shan
+  and Li, Qi-Feng and Wang, Bao-Cheng and Wang, Jia-Jia and Meng, Wei and Yang, Jian
+  and Wang, Qin-Hua and Mao, Wei-Wei and Ma, Jie
+author_list:
+- family: Lian
+  given: Hao
+- family: Han
+  given: Yi-Peng
+- family: Zhang
+  given: Yu-Chao
+- family: Zhao
+  given: Yang
+- family: Yan
+  given: Shan
+- family: Li
+  given: Qi-Feng
+- family: Wang
+  given: Bao-Cheng
+- family: Wang
+  given: Jia-Jia
+- family: Meng
+  given: Wei
+- family: Yang
+  given: Jian
+- family: Wang
+  given: Qin-Hua
+- family: Mao
+  given: Wei-Wei
+- family: Ma
+  given: Jie
+doi: 10.1002/1878-0261.12557
+files: []
+issn: 1574-7891
+issue: '10'
+journal: Molecular oncology
+pages: 2227--2245
+papis_id: 8ce93bed7c71118e1179aab205441a08
+pmid: '31385424'
+ref: Integrative_ana_Lian_2019
+time-added: 2024-11-18-16:53:01
+title: Integrative analysis of gene expression and DNA methylation through one-class
+  logistic regression machine learning identifies stemness features in medulloblastoma
+type: article
+volume: '13'
+year: 2019

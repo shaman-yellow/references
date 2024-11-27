@@ -1,0 +1,21 @@
+author: Futschik, Matthias E and Crompton, Toni
+author_list:
+- family: Futschik
+  given: Matthias E
+- family: Crompton
+  given: Toni
+doi: 10.1093/bioinformatics/bti199
+files: []
+issn: 1367-4803
+issue: '8'
+journal: Bioinformatics (Oxford, England)
+pages: 1724--1726
+papis_id: cafe2deb2563c27d014fbc13cc7a0805
+pmid: '15585527'
+ref: OLIN_optimized_Futsch_2005
+time-added: 2024-11-20-11:59:58
+title: 'OLIN: optimized normalization, visualization and quality testing of two-channel
+  microarray data'
+type: article
+volume: '21'
+year: 2005

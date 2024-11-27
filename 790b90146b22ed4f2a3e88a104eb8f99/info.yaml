@@ -1,0 +1,20 @@
+author: Kumar, Lokesh and E Futschik, Matthias
+author_list:
+- family: Kumar
+  given: Lokesh
+- family: E Futschik
+  given: Matthias
+doi: 10.6026/97320630002005
+files: []
+issn: 0973-2063
+issue: '1'
+journal: Bioinformation
+pages: 5--7
+papis_id: 790b90146b22ed4f2a3e88a104eb8f99
+pmid: '18084642'
+ref: Mfuzz_a_softwa_Kumar_2007
+time-added: 2024-11-20-11:56:46
+title: 'Mfuzz: a software package for soft clustering of microarray data'
+type: article
+volume: '2'
+year: 2007

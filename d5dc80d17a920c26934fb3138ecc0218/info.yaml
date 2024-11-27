@@ -1,0 +1,48 @@
+author: Yoshihara, Kosuke and Shahmoradgoli, Maria and Martínez, Emmanuel and Vegesna,
+  Rahulsimham and Kim, Hoon and Torres-Garcia, Wandaliz and Treviño, Victor and Shen,
+  Hui and Laird, Peter W and Levine, Douglas A and Carter, Scott L and Getz, Gad and
+  Stemke-Hale, Katherine and Mills, Gordon B and Verhaak, Roel G W
+author_list:
+- family: Yoshihara
+  given: Kosuke
+- family: Shahmoradgoli
+  given: Maria
+- family: Martínez
+  given: Emmanuel
+- family: Vegesna
+  given: Rahulsimham
+- family: Kim
+  given: Hoon
+- family: Torres-Garcia
+  given: Wandaliz
+- family: Treviño
+  given: Victor
+- family: Shen
+  given: Hui
+- family: Laird
+  given: Peter W
+- family: Levine
+  given: Douglas A
+- family: Carter
+  given: Scott L
+- family: Getz
+  given: Gad
+- family: Stemke-Hale
+  given: Katherine
+- family: Mills
+  given: Gordon B
+- family: Verhaak
+  given: Roel G W
+doi: 10.1038/ncomms3612
+files: []
+issn: 2041-1723
+journal: Nature communications
+papis_id: d5dc80d17a920c26934fb3138ecc0218
+pmid: '24113773'
+ref: Inferring_tumou_Yoshih_2013
+time-added: 2024-11-25-13:30:07
+title: Inferring tumour purity and stromal and immune cell admixture from expression
+  data
+type: article
+volume: '4'
+year: 2013
