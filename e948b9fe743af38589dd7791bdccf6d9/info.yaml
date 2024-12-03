@@ -1,0 +1,514 @@
+author: Ning, Jingyuan and Fan, Xiaoqing and Sun, Keran and Wang, Xuan and Li, Hongru
+  and Jia, Keqi and Ma, Cuiqing
+author_list:
+- affiliation: []
+  family: Ning
+  given: Jingyuan
+- affiliation: []
+  family: Fan
+  given: Xiaoqing
+- affiliation: []
+  family: Sun
+  given: Keran
+- affiliation: []
+  family: Wang
+  given: Xuan
+- affiliation: []
+  family: Li
+  given: Hongru
+- affiliation: []
+  family: Jia
+  given: Keqi
+- affiliation: []
+  family: Ma
+  given: Cuiqing
+citations:
+- author: Pietro Arina
+  doi: 10.1097/ACO.0000000000000963
+  first-page: '77'
+  journal-title: Current Opinion in Anaesthesiology
+  unstructured: 'Arina, Pietro, and Mervyn Singer. 2021. Pathophysiology of sepsis.
+    Current Opinion in Anaesthesiology 34: 77–84. https://doi.org/10.1097/ACO.0000000000000963.'
+  volume: '34'
+  year: '2021'
+- author: Kevin J Downes
+  doi: 10.1128/JCM.01851-19
+  first-page: e01851
+  journal-title: Journal of Clinical Microbiology
+  unstructured: 'Downes, Kevin J., Julie C. Fitzgerald, and Scott L. Weiss. 2020.
+    Utility of procalcitonin as a biomarker for sepsis in children. Edited by Colleen
+    Suzanne Kraft. Journal of Clinical Microbiology 58: e01851-e1919. https://doi.org/10.1128/JCM.01851-19.'
+  volume: '58'
+  year: '2020'
+- author: Martin Stocker
+  doi: 10.1093/cid/ciaa876
+  first-page: e383
+  journal-title: Clinical Infectious Diseases
+  unstructured: 'Stocker, Martin, Wendy van Herk, Salhab el Helou, Sourabh Dutta,
+    Frank A B A. Schuerman, Rita K. van den Tooren-de, Jantien W. Groot, Wieringa,
+    et al. 2021. C-Reactive protein, procalcitonin, and white blood count to rule
+    out neonatal early-onset sepsis within 36 hours: A secondary analysis of the neonatal
+    procalcitonin intervention study. Clinical Infectious Diseases 73: e383–e390.
+    https://doi.org/10.1093/cid/ciaa876.'
+  volume: '73'
+  year: '2021'
+- unstructured: 'Chakraborty, Rebanta K., and Bracken Burns. 2022. Systemic inflammatory
+    response syndrome. In StatPearls. Treasure Island (FL): StatPearls Publishing.'
+- doi: 10.1001/jamanetworkopen.2019.8686
+  unstructured: 'Yende, Sachin, John A. Kellum, Victor B. Talisa, Octavia M. Peck
+    Palmer, Chung-Chou H. Chang, Michael R. Filbin, Nathan I. Shapiro, et al. 2019.
+    Long-term host immune response trajectories among hospitalized patients with sepsis.
+    JAMA network open 2: e198686. https://doi.org/10.1001/jamanetworkopen.2019.8686.'
+- doi: 10.1097/CCM.0000000000005307
+  unstructured: 'Barichello, Tatiana, Jaqueline S. Generoso, Diogo Dominguini, Emily
+    Córneo, Vijayasree V. Giridharan, Taha A. Sahrapour, Lutiana R. Simões, et al.
+    2021. Postmortem evidence of brain inflammatory markers and injury in septic patients:
+    A systematic review. Critical Care Medicine Publish Ahead of Print. https://doi.org/10.1097/CCM.0000000000005307.'
+- author: Sushil Kumar
+  doi: 10.3109/1040841X.2012.706249
+  first-page: '229'
+  journal-title: Critical Reviews in Microbiology
+  unstructured: 'Kumar, Sushil, Harshad Ingle, Durbaka Vijaya Raghava. Prasad, and
+    Himanshu Kumar. 2013. Recognition of bacterial infection by innate immune sensors.
+    Critical Reviews in Microbiology 39: 229–246. https://doi.org/10.3109/1040841X.2012.706249.'
+  volume: '39'
+  year: '2013'
+- author: Sebastiaan G. B Heckenberg
+  doi: 10.1016/B978-0-7020-4088-7.00093-6
+  first-page: '1361'
+  journal-title: Handbook of Clinical Neurology
+  unstructured: 'Heckenberg, Sebastiaan G. B., Matthijs C. Brouwer, and Diederik van
+    de Beek. 2014. Bacterial meningitis. Handbook of Clinical Neurology 121: 1361–1375.
+    https://doi.org/10.1016/B978-0-7020-4088-7.00093-6.'
+  volume: '121'
+  year: '2014'
+- author: Barry B Mook-Kanamori
+  doi: 10.1128/CMR.00008-11
+  first-page: '557'
+  journal-title: Clinical Microbiology Reviews
+  unstructured: 'Mook-Kanamori, Barry B., Madelijn Geldhoff, Tom van der Poll, and
+    Diederik van de Beek. 2011. Pathogenesis and pathophysiology of pneumococcal meningitis.
+    Clinical Microbiology Reviews 24: 557–591. https://doi.org/10.1128/CMR.00008-11.'
+  volume: '24'
+  year: '2011'
+- author: Johann Sellner
+  doi: 10.1016/S0072-9752(09)96001-8
+  first-page: '1'
+  journal-title: Handbook of Clinical Neurology
+  unstructured: 'Sellner, Johann, Martin G. Täuber, and Stephen L. Leib. 2010. Pathogenesis
+    and pathophysiology of bacterial CNS infections. Handbook of Clinical Neurology
+    96: 1–16. https://doi.org/10.1016/S0072-9752(09)96001-8.'
+  volume: '96'
+  year: '2010'
+- doi: 10.1126/science.1183021
+  unstructured: 'Iwasaki, Akiko, and Ruslan Medzhitov. 2010. Regulation of adaptive
+    immunity by the innate immune system. Science (New York, N.Y.) 327: 291–295. https://doi.org/10.1126/science.1183021.'
+- doi: 10.1371/journal.pone.0104741
+  unstructured: 'Kataoka, Hiroshi, Hajime Kono, Zubin Patel, Yoshitaka Kimura, and
+    Kenneth L. Rock. 2014. Evaluation of the contribution of multiple DAMPs and DAMP
+    receptors in cell death-induced sterile inflammatory responses. PloS One 9: e104741.
+    https://doi.org/10.1371/journal.pone.0104741.'
+- author: Kristina A Kigerl
+  doi: 10.1016/j.expneurol.2014.01.001
+  first-page: '5'
+  journal-title: Experimental Neurology
+  unstructured: 'Kigerl, Kristina A., Juan Pablo, W. de Rivero Vaccari, Dalton Dietrich,
+    Phillip G. Popovich, and Robert W. Keane. 2014. Pattern recognition receptors
+    and central nervous system repair. Experimental Neurology 258: 5–16. https://doi.org/10.1016/j.expneurol.2014.01.001.'
+  volume: '258'
+  year: '2014'
+- author: Willem Joost Wiersinga
+  doi: 10.4161/viru.25436
+  first-page: '36'
+  journal-title: Virulence
+  unstructured: 'Wiersinga, Willem Joost, Stije J. Leopold, Duncan R. Cranendonk,
+    and Tom van der Poll. 2014. Host innate immune responses to sepsis. Virulence
+    5: 36–44. https://doi.org/10.4161/viru.25436.'
+  volume: '5'
+  year: '2014'
+- doi: 10.1590/1516-4446-2020-0987
+  unstructured: 'Generoso, Jaqueline S., Vijayasree V. Giridharan, Juneyoung Lee,
+    Danielle Macedo, and Tatiana Barichello. 2021. The role of the microbiota-gut-brain
+    axis in neuropsychiatric disorders. Revista Brasileira De Psiquiatria (Sao Paulo,
+    Brazil: 1999) 43: 293–305. https://doi.org/10.1590/1516-4446-2020-0987.'
+- author: Tatiana Barichello
+  doi: 10.1007/s12035-018-1048-2
+  first-page: '186'
+  journal-title: Molecular Neurobiology
+  unstructured: 'Barichello, Tatiana, Pavani Sayana, Vijayasree V. Giridharan, Anithachristy
+    S. Arumanayagam, Boomadevi Narendran, Amanda Della Giustina, Fabricia Petronilho,
+    João. Quevedo, and Felipe Dal-Pizzol. 2019. Long-term cognitive outcomes after
+    sepsis: A translational systematic review. Molecular Neurobiology 56: 186–251.
+    https://doi.org/10.1007/s12035-018-1048-2.'
+  volume: '56'
+  year: '2019'
+- author: Ilya Korsunsky
+  doi: 10.1038/s41592-019-0619-0
+  first-page: '1289'
+  journal-title: Nature Methods
+  unstructured: 'Korsunsky, Ilya, Nghia Millard, Jean Fan, Kamil Slowikowski, Fan
+    Zhang, Kevin Wei, Yuriy Baglaenko, Michael Brenner, Po-ru Loh, and Soumya Raychaudhuri.
+    2019. Fast, sensitive and accurate integration of single-cell data with Harmony.
+    Nature Methods 16: 1289–1296. https://doi.org/10.1038/s41592-019-0619-0.'
+  volume: '16'
+  year: '2019'
+- author: Duanchen Sun
+  doi: 10.1038/s41587-021-01091-3
+  first-page: '527'
+  journal-title: Nature Biotechnology
+  unstructured: 'Sun, Duanchen, Xiangnan Guan, Amy E. Moran, Wu. Ling-Yun, David Z.
+    Qian, Pepper Schedin, Mu-Shui. Dai, et al. 2022. Identifying phenotype-associated
+    subpopulations by integrating bulk and single-cell sequencing data. Nature Biotechnology
+    40: 527–538. https://doi.org/10.1038/s41587-021-01091-3.'
+  volume: '40'
+  year: '2022'
+- author: Suoqin Jin
+  doi: 10.1038/s41467-021-21246-9
+  first-page: '1088'
+  journal-title: Nature Communications
+  unstructured: 'Jin, Suoqin, Christian F. Guerrero-Juarez, Lihua Zhang, Ivan Chang,
+    Raul Ramos, Chen-Hsiang. Kuan, Peggy Myung, Maksim V. Plikus, and Qing Nie. 2021.
+    Inference and analysis of cell-cell communication using Cell Chat. Nature Communications
+    12: 1088. https://doi.org/10.1038/s41467-021-21246-9.'
+  volume: '12'
+  year: '2021'
+- author: Yingcheng Wu
+  doi: 10.1158/2159-8290.CD-21-0316
+  first-page: '134'
+  journal-title: Cancer Discovery
+  unstructured: 'Wu, Yingcheng, Shuaixi Yang, Jiaqiang Ma, Zechuan Chen, Guohe Song,
+    Dongning Rao, Yifei Cheng, et al. 2022. Spatiotemporal immune landscape of colorectal
+    cancer liver metastasis at single-cell level. Cancer Discovery 12: 134–153. https://doi.org/10.1158/2159-8290.CD-21-0316.'
+  volume: '12'
+  year: '2022'
+- doi: 10.18637/jss.v033.i01
+  unstructured: Friedman, Jerome, Trevor Hastie, and Robert Tibshirani. 2010. Regularization
+    paths for generalized linear models via coordinate descent. Journal of Statistical
+    Software 33. https://doi.org/10.18637/jss.v033.i01.
+- author: Xavier Robin
+  doi: 10.1186/1471-2105-12-77
+  first-page: '77'
+  journal-title: BMC Bioinformatics
+  unstructured: 'Robin, Xavier, Natacha Turck, Alexandre Hainard, Natalia Tiberti,
+    Frédérique. Lisacek, Jean-Charles. Sanchez, and Markus Müller. 2011. pROC: An
+    open-source package for R and S+ to analyze and compare ROC curves. BMC Bioinformatics
+    12: 77. https://doi.org/10.1186/1471-2105-12-77.'
+  volume: '12'
+  year: '2011'
+- author: Noriaki Sato
+  doi: 10.1093/bioinformatics/btac175
+  first-page: '2959'
+  journal-title: Edited by Zhiyong Lu. Bioinformatics
+  unstructured: 'Sato, Noriaki, Yoshinori Tamada, Yu. Guangchuang, and Yasushi Okuno.
+    2022. CBNplot : Bayesian network plots for enrichment analysis. Edited by Zhiyong
+    Lu. Bioinformatics 38: 2959–2960. https://doi.org/10.1093/bioinformatics/btac175.'
+  volume: '38'
+  year: '2022'
+- author: Mervyn Singer
+  doi: 10.1001/jama.2016.0287
+  first-page: '801'
+  journal-title: JAMA
+  unstructured: 'Singer, Mervyn, Clifford S. Deutschman, Christopher Warren Seymour,
+    Manu Shankar-Hari, Djillali Annane, Michael Bauer, Rinaldo Bellomo, et al. 2016.
+    The third international consensus definitions for sepsis and septic shock (sepsis-3).
+    JAMA 315: 801. https://doi.org/10.1001/jama.2016.0287.'
+  volume: '315'
+  year: '2016'
+- author: Miguel Reyes
+  doi: 10.1038/s41591-020-0752-4
+  first-page: '333'
+  journal-title: Nature Medicine
+  unstructured: 'Reyes, Miguel, Michael R. Filbin, Roby P. Bhattacharyya, Kianna Billman,
+    Thomas Eisenhaure, Deborah T. Hung, Bruce D. Levy, et al. 2020. An immune-cell
+    signature of bacterial sepsis. Nature Medicine 26: 333–340. https://doi.org/10.1038/s41591-020-0752-4.'
+  volume: '26'
+  year: '2020'
+- author: Matthew D Young
+  doi: 10.1126/science.aat1699
+  first-page: '594'
+  journal-title: Science
+  unstructured: 'Young, Matthew D., Thomas J. Mitchell, Felipe A. Vieira, Maxine G.
+    B. Braga, Benjamin J. Tran, John R. Stewart, Grace Collord Ferdinand, et al. 2018.
+    Single-cell transcriptomes from human kidneys reveal the cellular identity of
+    renal tumors. Science 361: 594–599. https://doi.org/10.1126/science.aat1699.'
+  volume: '361'
+  year: '2018'
+- author: Bo Wang
+  doi: 10.1038/nmeth.4207
+  first-page: '414'
+  journal-title: Nature Methods
+  unstructured: 'Wang, Bo., Junjie Zhu, Emma Pierson, Daniele Ramazzotti, and Serafim
+    Batzoglou. 2017. Visualization and analysis of single-cell RNA-seq data by kernel-based
+    similarity learning. Nature Methods 14: 414–416. https://doi.org/10.1038/nmeth.4207.'
+  volume: '14'
+  year: '2017'
+- author: Debajyoti Sinha
+  doi: 10.1093/nar/gky007
+  first-page: e36
+  journal-title: Nucleic Acids Research
+  unstructured: 'Sinha, Debajyoti, Akhilesh Kumar, Himanshu Kumar, Sanghamitra Bandyopadhyay,
+    and Debarka Sengupta. 2018. dropClust: Efficient clustering of ultra-large scRNA-seq
+    data. Nucleic Acids Research 46: e36–e36. https://doi.org/10.1093/nar/gky007.'
+  volume: '46'
+  year: '2018'
+- doi: 10.1126/science.aah4573
+  unstructured: 'Villani, Alexandra-Chloé, Rahul Satija, Gary Reynolds, Siranush Sarkizova,
+    Karthik Shekhar, James Fletcher, Morgane Griesbeck, et al. 2017. Single-cell RNA-seq
+    reveals new types of human blood dendritic cells, monocytes, and progenitors.
+    Science 356: eaah4573. https://doi.org/10.1126/science.aah4573.'
+- author: Mauro Perretti
+  doi: 10.1038/nri2470
+  first-page: '62'
+  journal-title: Nature Reviews Immunology
+  unstructured: 'Perretti, Mauro, and Fulvio D’Acquisto. 2009. Annexin A1 and glucocorticoids
+    as effectors of the resolution of inflammation. Nature Reviews Immunology 9: 62–70.
+    https://doi.org/10.1038/nri2470.'
+  volume: '9'
+  year: '2009'
+- author: Traci L Ness
+  doi: 10.4049/jimmunol.173.11.6938
+  first-page: '6938'
+  journal-title: The Journal of Immunology
+  unstructured: 'Ness, Traci L., Kristin J. Carpenter, Jillian L. Ewing, Craig J.
+    Gerard, Cory M. Hogaboam, and Steven L. Kunkel. 2004. CCR1 and CC chemokine ligand
+    5 interactions exacerbate innate immune responses during sepsis. The Journal of
+    Immunology 173: 6938–6948. https://doi.org/10.4049/jimmunol.173.11.6938.'
+  volume: '173'
+  year: '2004'
+- doi: 10.1152/ajpgi.00420.2006
+  unstructured: 'He, Min, Richard Horuk, Shabbir M. Moochhala, and Madhav Bhatia.
+    2007. Treatment with BX471, a CC chemokine receptor 1 antagonist, attenuates systemic
+    inflammatory response during sepsis. American Journal of Physiology-Gastrointestinal
+    and Liver Physiology 292: G1173–G1180. https://doi.org/10.1152/ajpgi.00420.2006.'
+- author: Margaret M Parker
+  doi: 10.1097/00003246-198710000-00006
+  first-page: '923'
+  journal-title: Critical Care Medicine
+  unstructured: 'Parker, Margaret M., James H. Shelhamer, Charles Natanson, David
+    W. Alling, and Joseph E. Parrillo. 1987. Serial cardiovascular variables in survivors
+    and nonsurvivors of human septic shock: Heart rate as an early predictor of prognosis.
+    Critical Care Medicine 15: 923–929. https://doi.org/10.1097/00003246-198710000-00006.'
+  volume: '15'
+  year: '1987'
+- doi: 10.1186/s40560-021-00553-9
+  unstructured: 'Kuo, Ming-Jen, Ruey-Hsing Chou, Ya-Wen Lu, Jiun-Yu Guo, Yi-Lin Tsai,
+    Cheng-Hsueh Wu, Po-Hsun Huang, and Shing-Jong Lin. 2021. Premorbid β1-selective
+    (but not non-selective) β-blocker exposure reduces intensive care unit mortality
+    among septic patients. Journal of Intensive Care 9: 40. https://doi.org/10.1186/s40560-021-00553-9.'
+- author: Tatiana Barichello
+  doi: 10.1186/s13054-021-03862-5
+  first-page: '14'
+  journal-title: Critical Care (London, England)
+  unstructured: 'Barichello, Tatiana, Jaqueline S. Generoso, Mervyn Singer, and Felipe
+    Dal-Pizzol. 2022. Biomarkers for sepsis: More than just fever and leukocytosis-a
+    narrative review. Critical Care (London, England) 26: 14. https://doi.org/10.1186/s13054-021-03862-5.'
+  volume: '26'
+  year: '2022'
+- doi: 10.1097/SHK.0000000000001619
+  unstructured: 'Fu, Guang, Meihong Deng, Matthew D. Neal, Timothy R. Billiar, and
+    Melanie J. Scott. 2021. Platelet–monocyte aggregates: Understanding mechanisms
+    and functions in sepsis. Shock 55: 156–166. https://doi.org/10.1097/SHK.0000000000001619.'
+- author: Sebastian Vogel
+  doi: 10.1172/JCI81660
+  first-page: '4638'
+  journal-title: The Journal of Clinical Investigation
+  unstructured: 'Vogel, Sebastian, Rebecca Bodenstein, Qiwei Chen, Susanne Feil, Robert
+    Feil, Johannes Rheinlaender, Tilman E. Schäffer, et al. 2015. Platelet-derived
+    HMGB1 is a critical mediator of thrombosis. The Journal of Clinical Investigation
+    125: 4638–4654. https://doi.org/10.1172/JCI81660.'
+  volume: '125'
+  year: '2015'
+- author: Sebastian Vogel
+  doi: 10.1016/j.bbrc.2016.07.078
+  first-page: '143'
+  journal-title: Biochemical and Biophysical Research Communications
+  unstructured: 'Vogel, Sebastian, Dominik Rath, Oliver Borst, Andreas Mack, Patricia
+    Loughran, Michael T. Lotze, Matthew D. Neal, Timothy R. Billiar, and Meinrad Gawaz.
+    2016. Platelet-derived high-mobility group box 1 promotes recruitment and suppresses
+    apoptosis of monocytes. Biochemical and Biophysical Research Communications 478:
+    143–148. https://doi.org/10.1016/j.bbrc.2016.07.078.'
+  volume: '478'
+  year: '2016'
+- author: Hui Zhou
+  doi: 10.1182/bloodadvances.2017011817
+  first-page: '638'
+  journal-title: Blood Advances
+  unstructured: 'Zhou, Hui, Meihong Deng, Yingjie Liu, Chenxuan Yang, Rosemary Hoffman,
+    Jingjiao Zhou, Patricia A. Loughran, Melanie J. Scott, Matthew D. Neal, and Timothy
+    R. Billiar. 2018. Platelet HMGB1 is required for efficient bacterial clearance
+    in intra-abdominal bacterial sepsis in mice. Blood Advances 2: 638–648. https://doi.org/10.1182/bloodadvances.2017011817.'
+  volume: '2'
+  year: '2018'
+- author: Craig N Morrell
+  doi: 10.1182/blood-2013-11-462432
+  first-page: '2759'
+  journal-title: Blood
+  unstructured: 'Morrell, Craig N., Angela A. Aggrey, Lesley M. Chapman, and Kristina
+    L. Modjeski. 2014. Emerging roles for platelets as immune and inflammatory cells.
+    Blood 123: 2759–2767. https://doi.org/10.1182/blood-2013-11-462432.'
+  volume: '123'
+  year: '2014'
+- author: Julia Barbara Kral
+  doi: 10.1159/000444807
+  first-page: '78'
+  journal-title: 'Transfusion Medicine and Hemotherapy: Offizielles Organ Der Deutschen
+    Gesellschaft Fur Transfusionsmedizin Und Immunhamatologie'
+  unstructured: 'Kral, Julia Barbara, Waltraud Cornelia Schrottmaier, Manuel Salzmann,
+    and Alice Assinger. 2016. Platelet Interaction with innate immune cells. Transfusion
+    Medicine and Hemotherapy: Offizielles Organ Der Deutschen Gesellschaft Fur Transfusionsmedizin
+    Und Immunhamatologie 43: 78–88. https://doi.org/10.1159/000444807.'
+  volume: '43'
+  year: '2016'
+- author: John W Semple
+  doi: 10.1038/nri2956
+  first-page: '264'
+  journal-title: Nature Reviews. Immunology
+  unstructured: 'Semple, John W., Joseph E. Italiano, and John Freedman. 2011. Platelets
+    and the immune continuum. Nature Reviews. Immunology 11: 264–274. https://doi.org/10.1038/nri2956.'
+  volume: '11'
+  year: '2011'
+- author: Andrew S Weyrich
+  doi: 10.1016/j.it.2004.07.003
+  first-page: '489'
+  journal-title: Trends in Immunology
+  unstructured: 'Weyrich, Andrew S., and Guy A. Zimmerman. 2004. Platelets: Signaling
+    cells in the immune continuum. Trends in Immunology 25: 489–495. https://doi.org/10.1016/j.it.2004.07.003.'
+  volume: '25'
+  year: '2004'
+- author: Goasguen, Jean E., John M. Bennett, Barbara J. Bain, Teresa Vallespi, Richard
+    Brunning, Ghulam J. Mufti, and International Working Group on Morphology of Myelodysplastic
+    Syndrome
+  doi: 10.3324/haematol.2008.005421
+  first-page: '994'
+  journal-title: Haematologica
+  unstructured: 'Goasguen, Jean E., John M. Bennett, Barbara J. Bain, Teresa Vallespi,
+    Richard Brunning, Ghulam J. Mufti, and International Working Group on Morphology
+    of Myelodysplastic Syndrome. 2009. Morphological evaluation of monocytes and their
+    precursors. Haematologica 94: 994–997. https://doi.org/10.3324/haematol.2008.005421.'
+  volume: '94'
+  year: '2009'
+- author: Katharina Bomans
+  doi: 10.3389/fimmu.2018.02685
+  first-page: '2685'
+  journal-title: Frontiers in Immunology
+  unstructured: 'Bomans, Katharina, Judith Schenz, Isabella Sztwiertnia, Dominik Schaack,
+    Markus Alexander Weigand, and Florian Uhle. 2018. Sepsis induces a long-lasting
+    state of trained immunity in bone marrow monocytes. Frontiers in Immunology 9:
+    2685. https://doi.org/10.3389/fimmu.2018.02685.'
+  volume: '9'
+  year: '2018'
+- doi: 10.1016/j.cca.2018.03.015
+  unstructured: 'Shen, Tian, Xingjian Cao, Junwei Shi, Yu Yu, Yihua Zhu, and Delin
+    Gu. 2018. The morphological changes of monocytes in peripheral blood as a potential
+    indicator for predicting active pulmonary tuberculosis. Clinica Chimica Acta;
+    International Journal of Clinical Chemistry 481: 189–192. https://doi.org/10.1016/j.cca.2018.03.015.'
+- author: Chao Shi
+  doi: 10.1038/nri3070
+  first-page: '762'
+  journal-title: Nature Reviews. Immunology
+  unstructured: 'Shi, Chao, and Eric G. Pamer. 2011. Monocyte recruitment during infection
+    and inflammation. Nature Reviews. Immunology 11: 762–774. https://doi.org/10.1038/nri3070.'
+  volume: '11'
+  year: '2011'
+- author: G Fingerle
+  doi: 10.1182/blood.V82.10.3170.3170
+  first-page: '3170'
+  journal-title: Blood
+  unstructured: 'Fingerle, G., A. Pforte, B. Passlick, M. Blumenstein, M. Ströbel,
+    and H.W. Ziegler-Heitbrock. 1993. The novel subset of CD14+/CD16+ blood monocytes
+    is expanded in sepsis patients. Blood 82: 3170–3176.'
+  volume: '82'
+  year: '1993'
+- author: Kok Loon Wong
+  doi: 10.1007/s12026-012-8297-3
+  first-page: '41'
+  journal-title: Immunologic Research
+  unstructured: 'Wong, Kok Loon, Wei Hseun Yeap, June Jing Yi. Tai, Siew Min Ong,
+    Truong Minh Dang, and Siew Cheng Wong. 2012. The three human monocyte subsets:
+    Implications for health and disease. Immunologic Research 53: 41–57. https://doi.org/10.1007/s12026-012-8297-3.'
+  volume: '53'
+  year: '2012'
+- author: Jean Piero Margaria
+  doi: 10.3390/biomedicines10040756
+  first-page: '756'
+  journal-title: Biomedicines
+  unstructured: 'Margaria, Jean Piero, Lucia Moretta, Jose Carlos Alves-Filho, and
+    Emilio Hirsch. 2022. PI3K Signaling in mechanisms and treatments of pulmonary
+    fibrosis following sepsis and acute lung injury. Biomedicines 10: 756. https://doi.org/10.3390/biomedicines10040756.'
+  volume: '10'
+  year: '2022'
+- author: Peng Qiu
+  doi: 10.1007/s10753-018-0890-8
+  first-page: '6'
+  journal-title: Inflammation
+  unstructured: 'Qiu, Peng, Yang Liu, and Jin Zhang. 2019. Review: The role and mechanisms
+    of macrophage autophagy in sepsis. Inflammation 42: 6–19. https://doi.org/10.1007/s10753-018-0890-8.'
+  volume: '42'
+  year: '2019'
+- author: CT Esmon
+  doi: 10.1055/s-0037-1616200
+  first-page: '51'
+  journal-title: Thrombosis and Haemostasis
+  unstructured: 'Esmon, C.T. 2001. Role of coagulation inhibitors in inflammation.
+    Thrombosis and Haemostasis 86: 51–56.'
+  volume: '86'
+  year: '2001'
+- author: Asli Aykac
+  doi: 10.1007/s12031-020-01518-7
+  first-page: '1120'
+  journal-title: Journal of Molecular Neuroscience
+  unstructured: 'Aykac, Asli, Ahmet Özer Şehirli, and M. Zafer Gören. 2020. Evaluation
+    of the effect of prazosin treatment on α-2c adrenoceptor and apoptosis protein
+    levels in the predator scent-induced rat model of post-traumatic stress disorder.
+    Journal of Molecular Neuroscience 70: 1120–1129. https://doi.org/10.1007/s12031-020-01518-7.'
+  volume: '70'
+  year: '2020'
+- author: Gareth L Ackland
+  doi: 10.1097/CCM.0b013e3181c03dfa
+  first-page: '388'
+  journal-title: Critical Care Medicine
+  unstructured: 'Ackland, Gareth L., Song T. Yao, Alain Rudiger, Alex Dyson, Ray Stidwill,
+    Dmitry Poputnikov, Mervyn Singer, and Alexander V. Gourine. 2010. Cardioprotection,
+    attenuated systemic inflammation, and survival benefit of beta1-adrenoceptor blockade
+    in severe sepsis in rats. Critical Care Medicine 38: 388–394. https://doi.org/10.1097/CCM.0b013e3181c03dfa.'
+  volume: '38'
+  year: '2010'
+- author: Paolo Calzavacca
+  doi: 10.1186/s13054-014-0610-1
+  first-page: '610'
+  journal-title: Critical Care (London, England)
+  unstructured: 'Calzavacca, Paolo, Yugeesh R. Lankadeva, Simon R. Bailey, Michael
+    Bailey, Rinaldo Bellomo, and Clive N. May. 2014. Effects of selective β1-adrenoceptor
+    blockade on cardiovascular and renal function and circulating cytokines in ovine
+    hyperdynamic sepsis. Critical Care (London, England) 18: 610. https://doi.org/10.1186/s13054-014-0610-1.'
+  volume: '18'
+  year: '2014'
+- author: Alexandre Bedet
+  doi: 10.1097/ALN.0000000000003045
+  first-page: '321'
+  journal-title: Anesthesiology
+  unstructured: 'Bedet, Alexandre, Guillaume Voiriot, Julien Ternacle, Elisabeth Marcos,
+    Serge Adnot, Geneviève Derumeaux, and Armand Mekontso Dessap. 2020. Heart rate
+    control during experimental sepsis in mice: Comparison of ivabradine and β-blockers.
+    Anesthesiology 132: 321–329. https://doi.org/10.1097/ALN.0000000000003045.'
+  volume: '132'
+  year: '2020'
+doc_url: https://link.springer.com/content/pdf/10.1007/s10753-023-01803-8.pdf
+doi: 10.1007/s10753-023-01803-8
+files:
+- single-cell-seq-ning-2023.html
+issue: '4'
+journal: Inflammation
+language: en
+month: 8
+pages: 1236--1254
+papis_id: e948b9fe743af38589dd7791bdccf6d9
+publisher: Springer Science and Business Media LLC
+ref: Single_cell_Seq_Ning_2023
+time-added: 2024-12-03-16:22:06
+title: 'Single-cell Sequence Analysis Combined with Multiple Machine Learning to Identify
+  Markers in Sepsis Patients: LILRA5'
+type: article
+url: http://dx.doi.org/10.1007/s10753-023-01803-8
+volume: '46'
+year: 2023
