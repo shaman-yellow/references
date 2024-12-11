@@ -1,0 +1,29 @@
+author: Zhang, Yang and Li, Jinwei and Chen, Lihua and Liang, Rui and Liu, Quan and
+  Wang, Zhiyi
+author_list:
+- family: Zhang
+  given: Yang
+- family: Li
+  given: Jinwei
+- family: Chen
+  given: Lihua
+- family: Liang
+  given: Rui
+- family: Liu
+  given: Quan
+- family: Wang
+  given: Zhiyi
+doi: 10.1038/s41598-023-41017-4
+files: []
+issn: 2045-2322
+issue: '1'
+journal: Scientific reports
+papis_id: f24f0dfb5d3290dcc9a011b295fd1435
+pmid: '37684281'
+ref: Identification_Zhang_2023
+time-added: 2024-12-11-17:38:06
+title: Identification of co-diagnostic effect genes for aortic dissection and metabolic
+  syndrome by multiple machine learning algorithms
+type: article
+volume: '13'
+year: 2023
