@@ -1,0 +1,44 @@
+author: Liu, Hongwei and Zhang, Wei and Zhang, Yihao and Adegboro, Abraham Ayodeji
+  and Fasoranti, Deborah Oluwatosin and Dai, Luohuan and Pan, Zhouyang and Liu, Hongyi
+  and Xiong, Yi and Li, Wang and Peng, Kang and Wanggou, Siyi and Li, Xuejun
+author_list:
+- family: Liu
+  given: Hongwei
+- family: Zhang
+  given: Wei
+- family: Zhang
+  given: Yihao
+- family: Adegboro
+  given: Abraham Ayodeji
+- family: Fasoranti
+  given: Deborah Oluwatosin
+- family: Dai
+  given: Luohuan
+- family: Pan
+  given: Zhouyang
+- family: Liu
+  given: Hongyi
+- family: Xiong
+  given: Yi
+- family: Li
+  given: Wang
+- family: Peng
+  given: Kang
+- family: Wanggou
+  given: Siyi
+- family: Li
+  given: Xuejun
+doi: 10.1016/j.csbj.2024.06.035
+files: []
+issn: 2001-0370
+journal: Computational and structural biotechnology journal
+pages: 2798--2810
+papis_id: dde64a91e21eb68bfb38af2ba76dadde
+pmid: '39055398'
+ref: MimeAFlexiblLiuH2024
+time-added: 2024-12-15-08:18:36
+title: 'Mime: A flexible machine-learning framework to construct and visualize models
+  for clinical characteristics prediction and feature selection'
+type: article
+volume: '23'
+year: 2024
