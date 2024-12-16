@@ -1,0 +1,29 @@
+author: Liao, Tianbao and Su, Tingting and Lu, Yang and Huang, Lina and Wei, Wei-Yuan
+  and Feng, Lu-Huai
+author_list:
+- family: Liao
+  given: Tianbao
+- family: Su
+  given: Tingting
+- family: Lu
+  given: Yang
+- family: Huang
+  given: Lina
+- family: Wei
+  given: Wei-Yuan
+- family: Feng
+  given: Lu-Huai
+doi: 10.1038/s41598-024-77988-1
+files: []
+issn: 2045-2322
+issue: '1'
+journal: Scientific reports
+papis_id: d10ce56cdd754a36558d146ecdf7e07a
+pmid: '39506090'
+ref: RandomSurvivalLiao2024
+time-added: 2024-12-15-09:02:41
+title: Random survival forest algorithm for risk stratification and survival prediction
+  in gastric neuroendocrine neoplasms
+type: article
+volume: '14'
+year: 2024

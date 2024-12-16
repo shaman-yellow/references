@@ -1,0 +1,68 @@
+author: Deist, Timo M and Dankers, Frank J W M and Valdes, Gilmer and Wijsman, Robin
+  and Hsu, I-Chow and Oberije, Cary and Lustberg, Tim and van Soest, Johan and Hoebers,
+  Frank and Jochems, Arthur and El Naqa, Issam and Wee, Leonard and Morin, Olivier
+  and Raleigh, David R and Bots, Wouter and Kaanders, Johannes H and Belderbos, José
+  and Kwint, Margriet and Solberg, Timothy and Monshouwer, René and Bussink, Johan
+  and Dekker, Andre and Lambin, Philippe
+author_list:
+- family: Deist
+  given: Timo M
+- family: Dankers
+  given: Frank J W M
+- family: Valdes
+  given: Gilmer
+- family: Wijsman
+  given: Robin
+- family: Hsu
+  given: I-Chow
+- family: Oberije
+  given: Cary
+- family: Lustberg
+  given: Tim
+- family: van Soest
+  given: Johan
+- family: Hoebers
+  given: Frank
+- family: Jochems
+  given: Arthur
+- family: El Naqa
+  given: Issam
+- family: Wee
+  given: Leonard
+- family: Morin
+  given: Olivier
+- family: Raleigh
+  given: David R
+- family: Bots
+  given: Wouter
+- family: Kaanders
+  given: Johannes H
+- family: Belderbos
+  given: José
+- family: Kwint
+  given: Margriet
+- family: Solberg
+  given: Timothy
+- family: Monshouwer
+  given: René
+- family: Bussink
+  given: Johan
+- family: Dekker
+  given: Andre
+- family: Lambin
+  given: Philippe
+doi: 10.1002/mp.12967
+files: []
+issn: 0094-2405
+issue: '7'
+journal: Medical physics
+pages: 3449--3459
+papis_id: 98365bcf8a0c0d067193c3d8c12ec7bc
+pmid: '29763967'
+ref: MachineLearninDeist2018
+time-added: 2024-12-15-09:01:34
+title: 'Machine learning algorithms for outcome prediction in (chemo)radiotherapy:
+  An empirical comparison of classifiers'
+type: article
+volume: '45'
+year: 2018

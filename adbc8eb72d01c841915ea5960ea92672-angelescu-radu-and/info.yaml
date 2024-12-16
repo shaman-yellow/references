@@ -1,0 +1,18 @@
+author: Angelescu, Radu and Dobrescu, Radu
+author_list:
+- family: Angelescu
+  given: Radu
+- family: Dobrescu
+  given: Radu
+doi: 10.1016/j.cmpb.2021.106418
+files: []
+issn: 0169-2607
+journal: Computer methods and programs in biomedicine
+papis_id: 5714c977557f5872885c455102c19c9e
+pmid: '34555591'
+ref: MidgetDetectinAngele2021
+time-added: 2024-12-15-08:53:46
+title: MIDGET:Detecting differential gene expression on microarray data
+type: article
+volume: '211'
+year: 2021

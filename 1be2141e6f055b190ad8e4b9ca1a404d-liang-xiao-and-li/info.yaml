@@ -1,0 +1,33 @@
+author: Liang, Xiao and Li, Fuyi and Chen, Jinxiang and Li, Junlong and Wu, Hao and
+  Li, Shuqin and Song, Jiangning and Liu, Quanzhong
+author_list:
+- family: Liang
+  given: Xiao
+- family: Li
+  given: Fuyi
+- family: Chen
+  given: Jinxiang
+- family: Li
+  given: Junlong
+- family: Wu
+  given: Hao
+- family: Li
+  given: Shuqin
+- family: Song
+  given: Jiangning
+- family: Liu
+  given: Quanzhong
+doi: 10.1093/bib/bbaa312
+files: []
+issn: 1467-5463
+issue: '4'
+journal: Briefings in bioinformatics
+papis_id: 0ad05dd873f49b6ff7334ff24a99d3eb
+pmid: '33316035'
+ref: LargeScaleComLiang2021
+time-added: 2024-12-15-08:50:48
+title: Large-scale comparative review and assessment of computational methods for
+  anti-cancer peptide identification
+type: article
+volume: '22'
+year: 2021

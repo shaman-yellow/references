@@ -1,0 +1,24 @@
+author: Aromolaran, Olufemi and Aromolaran, Damilare and Isewon, Itunuoluwa and Oyelade,
+  Jelili
+author_list:
+- family: Aromolaran
+  given: Olufemi
+- family: Aromolaran
+  given: Damilare
+- family: Isewon
+  given: Itunuoluwa
+- family: Oyelade
+  given: Jelili
+doi: 10.1093/bib/bbab128
+files: []
+issn: 1467-5463
+issue: '5'
+journal: Briefings in bioinformatics
+papis_id: b0416d82b2fc052bf2cf35c23456f105
+pmid: '33842944'
+ref: MachineLearninAromol2021
+time-added: 2024-12-15-08:52:30
+title: 'Machine learning approach to gene essentiality prediction: a review'
+type: article
+volume: '22'
+year: 2021
