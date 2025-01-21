@@ -1,0 +1,30 @@
+author: Das, Jutan and Kumar, Baibhav and Saha, Bibek and Jaiswal, Sarika and Iquebal,
+  Mir Asif and Angadi, U B and Kumar, Dinesh
+author_list:
+- family: Das
+  given: Jutan
+- family: Kumar
+  given: Baibhav
+- family: Saha
+  given: Bibek
+- family: Jaiswal
+  given: Sarika
+- family: Iquebal
+  given: Mir Asif
+- family: Angadi
+  given: U B
+- family: Kumar
+  given: Dinesh
+doi: 10.3389/fgene.2023.1239434
+files: []
+issn: 1664-8021
+journal: Frontiers in genetics
+papis_id: bfff30aa7f51fa9abc65f819160ada07
+pmid: '38090151'
+ref: Genome_wide_ide_Das_J_2023
+time-added: 2025-01-21-15:52:03
+title: Genome-wide identification and characterization of tissue specific long non-coding
+  RNAs and circular RNAs in common carp (<i>Cyprinus carpio</i> L.)
+type: article
+volume: '14'
+year: 2023
