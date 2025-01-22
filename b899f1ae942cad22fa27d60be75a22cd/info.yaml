@@ -1,0 +1,39 @@
+author: Bulik-Sullivan, Brendan K and Loh, Po-Ru and Finucane, Hilary K and Ripke,
+  Stephan and Yang, Jian and Schizophrenia Working Group of the Psychiatric Genomics
+  Consortium,  and Patterson, Nick and Daly, Mark J and Price, Alkes L and Neale,
+  Benjamin M
+author_list:
+- family: Bulik-Sullivan
+  given: Brendan K
+- family: Loh
+  given: Po-Ru
+- family: Finucane
+  given: Hilary K
+- family: Ripke
+  given: Stephan
+- family: Yang
+  given: Jian
+- family: Schizophrenia Working Group of the Psychiatric Genomics Consortium
+- family: Patterson
+  given: Nick
+- family: Daly
+  given: Mark J
+- family: Price
+  given: Alkes L
+- family: Neale
+  given: Benjamin M
+doi: 10.1038/ng.3211
+files: []
+issn: 1061-4036
+issue: '3'
+journal: Nature genetics
+pages: 291--295
+papis_id: b899f1ae942cad22fa27d60be75a22cd
+pmid: '25642630'
+ref: LD_Score_regres_Bulik_2015
+time-added: 2025-01-22-16:34:30
+title: LD Score regression distinguishes confounding from polygenicity in genome-wide
+  association studies
+type: article
+volume: '47'
+year: 2015
