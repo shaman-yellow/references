@@ -1,0 +1,47 @@
+author: Zhao, Hongying and Yin, Xiangzhe and Xu, Haotian and Liu, Kailai and Liu,
+  Wangyang and Wang, Lixia and Zhang, Caiyu and Bo, Lin and Lan, Xicheng and Lin,
+  Shihua and Feng, Ke and Ning, Shangwei and Zhang, Yunpeng and Wang, Li
+author_list:
+- family: Zhao
+  given: Hongying
+- family: Yin
+  given: Xiangzhe
+- family: Xu
+  given: Haotian
+- family: Liu
+  given: Kailai
+- family: Liu
+  given: Wangyang
+- family: Wang
+  given: Lixia
+- family: Zhang
+  given: Caiyu
+- family: Bo
+  given: Lin
+- family: Lan
+  given: Xicheng
+- family: Lin
+  given: Shihua
+- family: Feng
+  given: Ke
+- family: Ning
+  given: Shangwei
+- family: Zhang
+  given: Yunpeng
+- family: Wang
+  given: Li
+doi: 10.1093/nar/gkac984
+files: []
+issn: 0305-1048
+issue: D1
+journal: Nucleic acids research
+pages: D199--D207
+papis_id: e44171fac14c4eea0bdad9e6a9fe06b8
+pmid: '36321659'
+ref: LncTarD_2_0_an_Zhao_2023
+time-added: 2025-02-10-17:09:48
+title: 'LncTarD 2.0: an updated comprehensive database for experimentally-supported
+  functional lncRNA-target regulations in human diseases'
+type: article
+volume: '51'
+year: 2023
