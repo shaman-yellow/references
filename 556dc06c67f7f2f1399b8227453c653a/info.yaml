@@ -1,0 +1,53 @@
+author: Zhang, Xinxin and Lan, Yujia and Xu, Jinyuan and Quan, Fei and Zhao, Erjie
+  and Deng, Chunyu and Luo, Tao and Xu, Liwen and Liao, Gaoming and Yan, Min and Ping,
+  Yanyan and Li, Feng and Shi, Aiai and Bai, Jing and Zhao, Tingting and Li, Xia and
+  Xiao, Yun
+author_list:
+- family: Zhang
+  given: Xinxin
+- family: Lan
+  given: Yujia
+- family: Xu
+  given: Jinyuan
+- family: Quan
+  given: Fei
+- family: Zhao
+  given: Erjie
+- family: Deng
+  given: Chunyu
+- family: Luo
+  given: Tao
+- family: Xu
+  given: Liwen
+- family: Liao
+  given: Gaoming
+- family: Yan
+  given: Min
+- family: Ping
+  given: Yanyan
+- family: Li
+  given: Feng
+- family: Shi
+  given: Aiai
+- family: Bai
+  given: Jing
+- family: Zhao
+  given: Tingting
+- family: Li
+  given: Xia
+- family: Xiao
+  given: Yun
+doi: 10.1093/nar/gky900
+files: []
+issn: 0305-1048
+issue: D1
+journal: Nucleic acids research
+pages: D721--D728
+papis_id: 556dc06c67f7f2f1399b8227453c653a
+pmid: '30289549'
+ref: CellMarker_a_m_Zhang_2019
+time-added: 2025-03-05-16:38:30
+title: 'CellMarker: a manually curated resource of cell markers in human and mouse'
+type: article
+volume: '47'
+year: 2019
