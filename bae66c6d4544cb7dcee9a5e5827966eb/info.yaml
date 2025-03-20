@@ -1,0 +1,35 @@
+author: You, Kaiqiang and Huang, Qi and Yu, Chunyu and Shen, Boyan and Sevilla, Cristoffer
+  and Shi, Minglei and Hermjakob, Henning and Chen, Yang and Li, Tingting
+author_list:
+- family: You
+  given: Kaiqiang
+- family: Huang
+  given: Qi
+- family: Yu
+  given: Chunyu
+- family: Shen
+  given: Boyan
+- family: Sevilla
+  given: Cristoffer
+- family: Shi
+  given: Minglei
+- family: Hermjakob
+  given: Henning
+- family: Chen
+  given: Yang
+- family: Li
+  given: Tingting
+doi: 10.1093/nar/gkz847
+files: []
+issn: 0305-1048
+issue: D1
+journal: Nucleic acids research
+pages: D354--D359
+papis_id: bae66c6d4544cb7dcee9a5e5827966eb
+pmid: '31584089'
+ref: PhaSepDB_a_dat_You_K_2020
+time-added: 2025-03-20-10:59:04
+title: 'PhaSepDB: a database of liquid-liquid phase separation related proteins'
+type: article
+volume: '48'
+year: 2020
