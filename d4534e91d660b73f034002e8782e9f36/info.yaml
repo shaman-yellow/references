@@ -1,0 +1,32 @@
+author: Zhang, Qiong and Liu, Wei and Zhang, Hong-Mei and Xie, Gui-Yan and Miao, Ya-Ru
+  and Xia, Mengxuan and Guo, An-Yuan
+author_list:
+- family: Zhang
+  given: Qiong
+- family: Liu
+  given: Wei
+- family: Zhang
+  given: Hong-Mei
+- family: Xie
+  given: Gui-Yan
+- family: Miao
+  given: Ya-Ru
+- family: Xia
+  given: Mengxuan
+- family: Guo
+  given: An-Yuan
+doi: 10.1016/j.gpb.2019.09.006
+files: []
+issn: 1672-0229
+issue: '2'
+journal: Genomics, proteomics & bioinformatics
+pages: 120--128
+papis_id: d4534e91d660b73f034002e8782e9f36
+pmid: '32858223'
+ref: hTFtarget_A_Co_Zhang_2020
+time-added: 2025-03-25-17:29:04
+title: 'hTFtarget: A Comprehensive Database for Regulations of Human Transcription
+  Factors and Their Targets'
+type: article
+volume: '18'
+year: 2020
