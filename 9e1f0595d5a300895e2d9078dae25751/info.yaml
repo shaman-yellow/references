@@ -1,0 +1,47 @@
+author: Aibar, Sara and González-Blas, Carmen Bravo and Moerman, Thomas and Huynh-Thu,
+  Vân Anh and Imrichova, Hana and Hulselmans, Gert and Rambow, Florian and Marine,
+  Jean-Christophe and Geurts, Pierre and Aerts, Jan and van den Oord, Joost and Atak,
+  Zeynep Kalender and Wouters, Jasper and Aerts, Stein
+author_list:
+- family: Aibar
+  given: Sara
+- family: González-Blas
+  given: Carmen Bravo
+- family: Moerman
+  given: Thomas
+- family: Huynh-Thu
+  given: Vân Anh
+- family: Imrichova
+  given: Hana
+- family: Hulselmans
+  given: Gert
+- family: Rambow
+  given: Florian
+- family: Marine
+  given: Jean-Christophe
+- family: Geurts
+  given: Pierre
+- family: Aerts
+  given: Jan
+- family: van den Oord
+  given: Joost
+- family: Atak
+  given: Zeynep Kalender
+- family: Wouters
+  given: Jasper
+- family: Aerts
+  given: Stein
+doi: 10.1038/nmeth.4463
+files: []
+issn: 1548-7091
+issue: '11'
+journal: Nature methods
+pages: 1083--1086
+papis_id: 9e1f0595d5a300895e2d9078dae25751
+pmid: '28991892'
+ref: SCENIC_single_Aibar_2017
+time-added: 2025-04-16-10:22:23
+title: 'SCENIC: single-cell regulatory network inference and clustering'
+type: article
+volume: '14'
+year: 2017
