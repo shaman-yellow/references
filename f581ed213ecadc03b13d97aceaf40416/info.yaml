@@ -1,0 +1,30 @@
+author: Huang, Lichuang and Shan, Qiyuan and Lyu, Qiang and Zhang, Shuosheng and Wang,
+  Lu and Cao, Gang
+author_list:
+- family: Huang
+  given: Lichuang
+- family: Shan
+  given: Qiyuan
+- family: Lyu
+  given: Qiang
+- family: Zhang
+  given: Shuosheng
+- family: Wang
+  given: Lu
+- family: Cao
+  given: Gang
+doi: 10.1021/acs.analchem.3c01072
+files: []
+issn: 0003-2700
+issue: '26'
+journal: Analytical chemistry
+pages: 9940--9948
+papis_id: f581ed213ecadc03b13d97aceaf40416
+pmid: '37314081'
+ref: MCnebula_Criti_Huang_2023
+time-added: 2025-04-17-16:56:47
+title: 'MCnebula: Critical Chemical Classes for the Classification and Boost Identification
+  by Visualization for Untargeted LC-MS/MS Data Analysis'
+type: article
+volume: '95'
+year: 2023
