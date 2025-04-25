@@ -1,0 +1,53 @@
+author: Zeng, Dongqiang and Fang, Yiran and Qiu, Wenjun and Luo, Peng and Wang, Shixiang
+  and Shen, Rongfang and Gu, Wenchao and Huang, Xiatong and Mao, Qianqian and Wang,
+  Gaofeng and Lai, Yonghong and Rong, Guangda and Xu, Xi and Shi, Min and Wu, Zuqiang
+  and Yu, Guangchuang and Liao, Wangjun
+author_list:
+- family: Zeng
+  given: Dongqiang
+- family: Fang
+  given: Yiran
+- family: Qiu
+  given: Wenjun
+- family: Luo
+  given: Peng
+- family: Wang
+  given: Shixiang
+- family: Shen
+  given: Rongfang
+- family: Gu
+  given: Wenchao
+- family: Huang
+  given: Xiatong
+- family: Mao
+  given: Qianqian
+- family: Wang
+  given: Gaofeng
+- family: Lai
+  given: Yonghong
+- family: Rong
+  given: Guangda
+- family: Xu
+  given: Xi
+- family: Shi
+  given: Min
+- family: Wu
+  given: Zuqiang
+- family: Yu
+  given: Guangchuang
+- family: Liao
+  given: Wangjun
+doi: 10.1016/j.crmeth.2024.100910
+files: []
+issn: 2667-2375
+issue: '12'
+journal: Cell reports methods
+papis_id: 545f3afab62c869591890a0d3ee85b7b
+pmid: '39626665'
+ref: Enhancing_immun_Zeng_2024
+time-added: 2025-04-25-16:51:05
+title: Enhancing immuno-oncology investigations through multidimensional decoding
+  of tumor microenvironment with IOBR 2.0
+type: article
+volume: '4'
+year: 2024
