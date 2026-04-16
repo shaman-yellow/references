@@ -1,0 +1,35 @@
+author: Osorio, Daniel and Zhong, Yan and Li, Guanxun and Xu, Qian and Yang, Yongjian
+  and Tian, Yanan and Chapkin, Robert S and Huang, Jianhua Z and Cai, James J
+author_list:
+- family: Osorio
+  given: Daniel
+- family: Zhong
+  given: Yan
+- family: Li
+  given: Guanxun
+- family: Xu
+  given: Qian
+- family: Yang
+  given: Yongjian
+- family: Tian
+  given: Yanan
+- family: Chapkin
+  given: Robert S
+- family: Huang
+  given: Jianhua Z
+- family: Cai
+  given: James J
+doi: 10.1016/j.patter.2022.100434
+files: []
+issn: 2666-3899
+issue: '3'
+journal: Patterns (New York, N.Y.)
+papis_id: 6446a37da6921ad89a25639d27d84918
+pmid: '35510185'
+ref: scTenifoldKnk_Osorio_2022
+time-added: 2026-03-27-21:44:31
+title: 'scTenifoldKnk: An efficient virtual knockout tool for gene function predictions
+  via single-cell gene regulatory network perturbation'
+type: article
+volume: '3'
+year: 2022

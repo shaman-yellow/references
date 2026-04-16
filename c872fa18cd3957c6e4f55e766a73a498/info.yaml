@@ -1,0 +1,33 @@
+author: Hadipour, Hamid and Li, Yan Yi and Sun, Yan and Deng, Chutong and Lac, Leann
+  and Davis, Rebecca and Cardona, Silvia T and Hu, Pingzhao
+author_list:
+- family: Hadipour
+  given: Hamid
+- family: Li
+  given: Yan Yi
+- family: Sun
+  given: Yan
+- family: Deng
+  given: Chutong
+- family: Lac
+  given: Leann
+- family: Davis
+  given: Rebecca
+- family: Cardona
+  given: Silvia T
+- family: Hu
+  given: Pingzhao
+doi: 10.1038/s41467-025-57536-9
+files: []
+issn: 2041-1723
+issue: '1'
+journal: Nature communications
+papis_id: c872fa18cd3957c6e4f55e766a73a498
+pmid: '40102386'
+ref: GraphBAN_An_in_Hadipo_2025
+time-added: 2026-03-27-21:45:18
+title: 'GraphBAN: An inductive graph-based approach for enhanced prediction of compound-protein
+  interactions'
+type: article
+volume: '16'
+year: 2025

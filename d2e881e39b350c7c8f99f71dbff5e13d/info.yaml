@@ -1,0 +1,21 @@
+author: Love, Michael I and Huber, Wolfgang and Anders, Simon
+author_list:
+- family: Love
+  given: Michael I
+- family: Huber
+  given: Wolfgang
+- family: Anders
+  given: Simon
+doi: 10.1186/s13059-014-0550-8
+files: []
+issn: 1474-7596
+issue: '12'
+journal: Genome biology
+papis_id: d2e881e39b350c7c8f99f71dbff5e13d
+pmid: '25516281'
+ref: Moderated_estim_Love_2014
+time-added: 2026-03-05-21:26:18
+title: Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2
+type: article
+volume: '15'
+year: 2014

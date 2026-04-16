@@ -1,0 +1,123 @@
+author: Abramson, Josh and Adler, Jonas and Dunger, Jack and Evans, Richard and Green,
+  Tim and Pritzel, Alexander and Ronneberger, Olaf and Willmore, Lindsay and Ballard,
+  Andrew J and Bambrick, Joshua and Bodenstein, Sebastian W and Evans, David A and
+  Hung, Chia-Chun and O'Neill, Michael and Reiman, David and Tunyasuvunakool, Kathryn
+  and Wu, Zachary and Žemgulytė, Akvilė and Arvaniti, Eirini and Beattie, Charles
+  and Bertolli, Ottavia and Bridgland, Alex and Cherepanov, Alexey and Congreve, Miles
+  and Cowen-Rivers, Alexander I and Cowie, Andrew and Figurnov, Michael and Fuchs,
+  Fabian B and Gladman, Hannah and Jain, Rishub and Khan, Yousuf A and Low, Caroline
+  M R and Perlin, Kuba and Potapenko, Anna and Savy, Pascal and Singh, Sukhdeep and
+  Stecula, Adrian and Thillaisundaram, Ashok and Tong, Catherine and Yakneen, Sergei
+  and Zhong, Ellen D and Zielinski, Michal and Žídek, Augustin and Bapst, Victor and
+  Kohli, Pushmeet and Jaderberg, Max and Hassabis, Demis and Jumper, John M
+author_list:
+- family: Abramson
+  given: Josh
+- family: Adler
+  given: Jonas
+- family: Dunger
+  given: Jack
+- family: Evans
+  given: Richard
+- family: Green
+  given: Tim
+- family: Pritzel
+  given: Alexander
+- family: Ronneberger
+  given: Olaf
+- family: Willmore
+  given: Lindsay
+- family: Ballard
+  given: Andrew J
+- family: Bambrick
+  given: Joshua
+- family: Bodenstein
+  given: Sebastian W
+- family: Evans
+  given: David A
+- family: Hung
+  given: Chia-Chun
+- family: O'Neill
+  given: Michael
+- family: Reiman
+  given: David
+- family: Tunyasuvunakool
+  given: Kathryn
+- family: Wu
+  given: Zachary
+- family: Žemgulytė
+  given: Akvilė
+- family: Arvaniti
+  given: Eirini
+- family: Beattie
+  given: Charles
+- family: Bertolli
+  given: Ottavia
+- family: Bridgland
+  given: Alex
+- family: Cherepanov
+  given: Alexey
+- family: Congreve
+  given: Miles
+- family: Cowen-Rivers
+  given: Alexander I
+- family: Cowie
+  given: Andrew
+- family: Figurnov
+  given: Michael
+- family: Fuchs
+  given: Fabian B
+- family: Gladman
+  given: Hannah
+- family: Jain
+  given: Rishub
+- family: Khan
+  given: Yousuf A
+- family: Low
+  given: Caroline M R
+- family: Perlin
+  given: Kuba
+- family: Potapenko
+  given: Anna
+- family: Savy
+  given: Pascal
+- family: Singh
+  given: Sukhdeep
+- family: Stecula
+  given: Adrian
+- family: Thillaisundaram
+  given: Ashok
+- family: Tong
+  given: Catherine
+- family: Yakneen
+  given: Sergei
+- family: Zhong
+  given: Ellen D
+- family: Zielinski
+  given: Michal
+- family: Žídek
+  given: Augustin
+- family: Bapst
+  given: Victor
+- family: Kohli
+  given: Pushmeet
+- family: Jaderberg
+  given: Max
+- family: Hassabis
+  given: Demis
+- family: Jumper
+  given: John M
+doi: 10.1038/s41586-024-07487-w
+files: []
+issn: 0028-0836
+issue: '8016'
+journal: Nature
+pages: 493--500
+papis_id: 84f1494307679c38721e357fbfaab447
+pmid: '38718835'
+ref: Accurate_struct_Abrams_2024
+time-added: 2026-03-17-15:01:46
+title: Accurate structure prediction of biomolecular interactions with AlphaFold 3
+type: article
+volume: '630'
+year: 2024
